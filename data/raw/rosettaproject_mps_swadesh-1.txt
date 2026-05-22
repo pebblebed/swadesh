@@ -1,0 +1,238 @@
+all: tigidali
+all: tigidali
+arm: nogo
+arm: nogo
+ashes: kele
+ashes: kɛlɛ
+bark: ni wali
+bark: ni wali
+belly: tabi
+belly: tabi
+big: moni
+big: moni
+bird: ba
+bird: ba
+bite: gau kelibo
+bite: ga͂u͂ kɛlibo
+black: sizi
+black: sizi
+blood: kanimi
+blood: kanimi
+bone: dili
+bone: dili
+breast: ami
+breast: ami
+burn: dabo
+burn: dabo
+claw: dani
+claw: dani
+cloud: po
+cloud: po͂
+cold: kerau
+cold: kɛrau
+come: az-
+come: azibo
+die: izibo
+die: izibo
+dog: yowi
+dog: yowi
+drink: a͂i͂ tubo
+drink: ai tubo
+dry: wali
+dry: wali
+ear: oro
+ear: oro
+earth: to
+earth: tɔ͂
+eat: tubo
+eat: tubo
+egg: ba ge
+egg: ba ge
+eye: gedu
+eye: gedu
+fat (n.): ili
+fat (n.): ili
+feather: ba nisi
+feather: ba nizi
+fire: sia
+fire: sia
+fish: sugu
+fish: su͂gu͂
+fly (v.): bola pabo
+fly (v.): bola pabo
+full: paga
+full: pa͂ga͂
+give: mabo
+give: mabo
+good: dwagiai
+good: dwagiai
+green: ku
+green: ku͂
+hair: tobudu nizi
+hair: tobudu nizi
+head: tobudu
+head: tobudu
+hear: orobo
+hear: orobo
+heart: hobulu ge
+heart: hobulu ge
+he/she: a͂ga͂
+he/she: a͂ga͂
+he/she: ãgã
+he/she: ãgã/ãgãĩ
+horn: keli
+horn: kɛli
+house: be
+I: ena
+I: ena
+I: ena/eno
+I: ɛna ~ ɛno
+in: tomo
+kill: elabo
+kill: ɛlabo
+knee: bogoli
+knee: bogoli
+know: konebo
+know: konebo
+leaf: yabe
+leaf: yabe
+leg: saga
+leg: sa͂ga͂
+lie: pilibo
+lie: pilibo
+liver: homu
+liver: homu
+long: bobobagi
+long: bobobagi
+louse: nou
+louse: no͂u͂
+man: bidi
+man: bidi
+many: kizu
+many: kizu
+meat: mi
+meat: mi
+moon: podua
+moon: podua
+mountain: bururu
+mountain: bururu
+mouth: gani
+mouth: gani
+name: nogi
+name: nogi
+neck: dogoni
+neck: dogoni
+new: kezi
+new: kɛzi
+night: be huli
+night: be huli
+nose: guni
+not: meni
+not: mɛni
+one: deleli
+one: dɛlɛli
+one: me....me
+other: me
+person: bidi
+person: bidi
+rain: turubage
+rain: turubagi
+red: mama
+red: mama
+road: tu
+road: tu͂
+root: pedali
+root: pɛdali
+round: bobo gelazi
+round: bobo gɛlazi
+sand: kemi to
+sand: kɛmi tɔ͂
+say: wabo
+say: wabo
+seed: ge
+seed: ge
+see: subo
+see: su(-bo)
+sit: dulolubo
+sit: dulolubo
+skin: tigiwali
+skin: tigi(-wali)
+sleep: pibo
+sleep: pibo
+small: dwaizanu
+small: dwaizanu
+smoke: hano
+smoke: hano
+split: pedao
+stand: dolalubo
+stand: dolaubo
+star: ho
+star: ho͂
+stone: mazigi
+stone: mazigi
+sun: giliga
+sun: giliga
+swim: nogo a͂i͂ togobo
+swim: nogo oi togobo
+tail: danu
+tail: danu
+that: te
+that: u
+that: u
+there: a
+they: augwa
+they: augwa
+they: augwadi
+they: augwa-di/augwa-di-go
+this: e
+this: e
+thou: dagi
+thou: duga
+thou: naga
+thou: naga
+thou: nagi
+thou: na-gi/na-go
+three: será
+three: si dededi
+tomorrow: do
+tongue: hamiya
+tongue: hamiya
+tooth: keli
+tooth: kɛli
+tree: ni
+tree: ni
+two: si
+two: si
+two: ti
+walk: bilibo
+walk: bilibo
+walk: -padi
+warm: pozoro
+warm: pozoro
+water: ãĩ
+water: a͂i͂ ~ we͂
+water: wẽ
+we: da/da-go
+we: dena
+we: dena
+weep: geda wabo
+weep: yei
+we (incl.): da
+we (incl.): da
+we two: da si/da si-go
+what: magi
+what: magi
+white: telela
+white: tɛlɛla
+who: de
+who: de(-we)
+woman: sou
+woman: we
+woman: we
+wood: ni
+yellow: sewa
+yellow: sɛ͂wa͂
+yesterday: do
+you: dagi/dagi-go
+you: duga
+you two: dagi si/dagi si-go

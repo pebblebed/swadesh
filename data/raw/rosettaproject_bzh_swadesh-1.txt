@@ -1,0 +1,183 @@
+all: pin
+and: lob
+animal: sag̣
+ashes: βəweβ
+back: dəmi
+bad: nipaya
+bark: (ḳəle)naβi
+because: in
+belly: aɣ̣ε aɣ̣ε ḳəβus
+bird: soḳ
+bite: raŋ̥a
+black: βərīk
+blood: niḳoḳ
+blow: βε
+bone: səḳε
+breast: rur
+breathe: ayo rasap
+burn: ɣa
+child: ɣ̣ur mayen
+cloud: bəɣob
+cold: nikul
+come: yam
+correct: nirɔp
+count: teβin
+cut: raɣ̣
+die: dīḳ
+dig: leβ
+dirty: ni ŋɔɣək
+dog: anɔ
+drink: num
+dry: kəlɔḳ
+dull: nəβu  ma
+dust: kəbus
+ear: rəŋa
+earth: dob
+empty: ayomedɘḳ
+eye: mala g̣aɣ̣is
+fall: aʔ-dappoʔ
+far: adiŋənε
+father: ama
+fat (n.): zəzi
+fear: ɣɔnəŋəsεn
+few: təka
+fingernail: vuku (lime)
+fire: ηəŋwaγ̣
+fish: gel
+five: nəmadəβaɣi
+float: ɣɔk bεl βaβunε
+flower: səsik
+flow: βār
+fly (v.): ßɛ̅ŋ
+fog: bəɣob
+foot: βaya
+forest: βos
+four: lubəlū
+frog: drķ
+fruit: anon
+full: pup
+give: βo ßu
+good: niβəsa
+grass: paɣ̣up
+green: ni məwis
+guts: aɣ̣ε βərīk
+guts: aɣ̣ε βərīk
+hair: yu βīs
+hand: nəma
+head: yu
+hear: ŋ̣o
+heart: nugu aⁿpi
+heavy: maɣin
+he: yi
+hit:   sis
+horn: βis
+how: nəbε tэna
+husband: rəɣa
+ice: [aεs]
+if: bε
+in: loḳ
+I: sa
+kill: sis mədīḳ
+knee: lus
+know: rakni
+lake: ŋ̣aɣε
+large: bɔp
+laugh: nɔp
+leaf: ris
+left: ḳεz
+leg: βaɣa
+lie: ɣεp
+live: mala tum
+liver: atε
+long: adiŋ
+louse: ponəŋ
+man: maluɣ̣
+many: ŋ̣aɣ̣i
+meat: rəɣos
+moon: kʷeβ
+mother: ata
+mountain: kədu
+mouth: aβi
+name: arε
+narrow: dus
+near: dus βu
+neck: kʷa
+new: mэwis
+night: buk
+nose: nəru
+old:  mugəŋ
+one: ti
+person: məɣ̣ɔ
+play: βoŋ̣ kətod
+pull: dadī
+push: rot
+rain: ɣ̣̣ob
+red: ḳoḳ
+right: βəsa
+river: bεl
+road: aɣata
+root: g̣əg̣a
+rope: aɣis
+rotten: məŋεḳ
+round: aɣ̣εḳəḳuŋ̣
+rub: rī
+salt: mamirəŋ
+sand: raɣer
+say: nεr
+sea: lō
+sea: lō
+seed: g̣aɣ̣is
+sew: dure
+sharp: nəβu
+short: dus
+sing: βoŋ raro
+sit: nədo
+skin: naβi
+sky: yag̣ək
+sleep: ɣep
+small: maɣen
+smell: pamu
+smoke: aru
+smooth: galεp
+snake: ñεl
+some: la
+spit: pəsuβ
+split: ɣ̣eḳ
+stab: gəlu
+stand: nare
+star: bətuɣ̣əŋ
+stick: atoɣəŋ
+suck: səsuβin
+sun: ñεg
+tail: ɣus
+they: sir
+thick: aɣ̣εɣoɣ̣
+thin: aɣεnəβis
+think: kʷaβo
+thou: ɣ̣oŋ̣
+thou: yam
+three: Iɔ̄-
+throw: tε
+tie: zō
+tongue: daɣen
+tree: ḳale
+turn: kэyoβəǰin
+two: lū
+vomit: mutəḳ
+warm: ni ḳərus
+wet: niruk
+what: βa
+when: naŋerək
+which: re
+white: βэrō
+who: re
+why: in βa
+wide: bɔp
+wife: βənɛ
+wind: ayɔ̄-ŋ
+wing: banis
+woman: aβεy
+worm: g̣inək
+wrong: su nirɔp rε
+year: ta
+yellow: ni saŋsaŋ

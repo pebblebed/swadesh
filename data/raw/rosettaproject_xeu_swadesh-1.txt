@@ -1,0 +1,437 @@
+all: oaria
+all: oaria
+all: oaria
+all: oaria
+arm: mei
+arm: mei
+arm: méi
+arm: méi
+ashes: a-ehe
+ashes: a-ehe
+ashes: ahe
+ashes: ahe
+bark: kora iilu
+bark: kora lilu
+bark: kora maeapula
+bark: kora maeapula
+belly: morupe
+belly: morupe
+belly: morupe
+belly: morupe
+big: laleʔa
+big: laleá
+big: laleha
+big: laleha
+bird: amoila
+bird: amoila
+bird: aßoilo
+bird: avoilo
+bite: muloßa
+bite: muloßa
+bite: mulova
+bite: mulovo
+black: aipo
+black: aipo
+black: maea uru
+black: maea uru
+blood: apu
+blood: apu
+blood: opu
+blood: opu
+bone: ikiʔi
+bone: ikií
+bone: uki
+bone: uki
+breast: amaʔe
+breast: amaé
+breast: mame
+breast: mame
+burn: a hokoßoße
+burn: a hokoßoße
+burn: a hokovove
+burn: a hokovove
+claw: emi haro
+claw: loʔa haro
+claw: meʔi haro
+claw: mei haro
+claw: meí haro
+claw: more haro
+cloud: mea uru
+cloud: mea uru
+cloud: mea-uru
+cloud: mea-uru
+cold: mehere
+cold: mehere
+cold: mehere
+cold: mehere
+come: eko
+come: eko
+come: eko/heka
+come: eko/heke
+come: heka
+come: heke
+dark: muru
+day: meahailaila
+day: meahailaila
+day: meahailaila
+day: meahailaila
+die: opoia
+die: opoia
+die: opoia
+die: opoia
+dog: aße
+dog: ave
+dog: ave
+dog: ave
+drink: maʔa leʔe
+drink: maá leé
+drink: ma leßaha
+drink: ma levaha
+dry: koro
+dry: koro
+dry: korokoia
+dry: korokoia
+ear: moko
+ear: moko
+ear: moko
+ear: moko
+earth: mea
+earth: mea
+earth: mea
+earth: mea
+eat: le\e
+eat: leʔe
+eat: leßaha
+eat: levaha
+egg: aboilo  haʔe
+egg: amoila hae
+egg: amoila hae
+egg: avoilo haá
+eye: oßohae
+eye: oßohae
+eye: ovohae
+eye: ovohae
+fat (n.): kepare
+fat (n.): kepare
+fat (n.): kepare
+fat (n.): kepare
+feather: amoila koro
+feather: amoila koro
+feather: aßoilo koro
+feather: avoilo koro
+fire: a
+fire: a
+fire: kere
+fire: kere
+fish: ekaka
+fish: ekaka
+fish: elaʔau
+fish: elaáu
+fly (v.): iußoße
+fly (v.): iuvove
+fly (v.): ßißila
+fly (v.): vivila
+full: ape loko lai
+full: ape loko lai
+full: loka elai
+full: loka elai
+girl: mori
+girl: mori
+girl: mori
+girl: mori
+give: eiora
+give: elora
+give: iora
+give: iora
+good: ßeßeke
+good: ßeßeke
+good: veveke
+good: veveke
+green: kairu
+green: kairu
+green: maea kairu
+green: maea kairu
+hair: harokoro
+hair: harokoro
+hair: haro koro
+hair: haro koro
+head: haro
+head: haro
+head: haro
+head: haro
+hear: iapa
+hear: iapa
+hear: iapa
+hear: iapa
+heart: hißa
+heart: hiva
+heart: lauka hae
+heart: lauka hae
+horn: kea
+horn: kea
+horn: kea
+horn: kea
+I: ira
+I: ora
+I: ora
+I: ora
+kill: heʔe
+kill: heé
+kill: hila
+kill: hila
+knee: loa ari
+knee: loa ari
+knee: more ari
+knee: more ari
+know: ore loia
+know: ore loia
+know: ore loiʔe
+know: ore loié
+leaf: korakoro
+leaf: korakoro
+leaf: korakoro
+leaf: korakoro
+leg: loa
+leg: loa
+leg: more
+leg: more
+lie: uaßai
+lie: uavai
+lie: ußa
+lie: uva
+liver: iki
+liver: iki
+liver: iki
+liver: iki
+long: heiei
+long: heieʔi
+long: hepi
+long: hepi
+louse: karukaru
+louse: karukaru
+louse: karula
+louse: karula
+man: hilaßila
+man: hilavila
+man: ßilaia
+man: vilaia
+many: oaria
+many: oaria
+many: oarielei
+many: oarielei
+meat: mahala
+meat: mahala
+meat: mohora
+meat: mohora
+moon: papara
+moon: papare
+moon: popare
+moon: popare
+mountain: kela
+mountain: kela
+mountain: kela
+mountain: kela
+mouth: ape
+mouth: ape
+mouth: ape
+mouth: ape
+name: lare
+name: lare
+name: lare
+name: lare
+neck: elapa
+neck: elapa
+neck: loka
+neck: loka
+new: eleke
+new: eleke
+new: ereke
+new: ereke
+night: oroma
+night: oroma
+night: oroßo
+night: orovo
+nose: overa
+nose: ulolo
+not: ka
+not: ka
+not: kaʔo
+not: kaó
+one: lohoreokore
+one: lohoreokore
+one: loriakori
+one: loriakori
+person: hoela
+person: hoela
+person: hoela
+person: hoela
+rain: lahi
+rain: lahi
+rain: lahi
+rain: lahi
+rat: airi
+rat: airi
+rat: airi
+rat: airi
+red: keßare
+red: kevare
+red: maea keßare
+red: maea kevare
+road: hoi
+road: hoi
+road: okilaleʔa
+road: okilaleá
+root: elele
+root: elele
+root: kora elele
+root: kora elele
+round: helori
+round: helori
+round: helori
+round: helori
+sand: mea kekele
+sand: mea kekele
+sand: mea kekelea
+sand: mea kekelea
+sand: miri
+sand: miri holo
+sand: miri holo
+sand: miri hoʔoro
+sand: miri hoóro
+say: oharo aia
+say: oharo aia
+say: oharo oia
+say: oharo oia
+seed: kora mere
+seed: kora mere
+seed: kora mere
+seed: kore mere
+see: oßohae eaßa
+see: oßohae eaßoi
+see: ovohae eava
+see: ovohae eavoi
+sit: hoiaßa
+sit: hoiava
+sit: hoioßa
+sit: hoiova
+skin: maea iːlu
+skin: maea lilu
+skin: maea pura
+skin: maea puru
+sleep: muku uaßa
+sleep: muku uava
+sleep: omuku ußa
+sleep: omuku uva
+small: ehaelakore
+small: ehaelakore
+small: keikaikore
+small: keikaikore
+smoke: a-kokela
+smoke: a-kokela
+smoke: ekakela
+smoke: ekakela
+stand: urou
+stand: urou
+stand: urou
+stand: urou
+star: koʔou
+star: koóu
+star: kou
+star: kou
+stone: ohora
+stone: ohora
+stone: ohore
+stone: ohore
+sun: homare
+sun: homare
+sun: hoßare
+sun: hovare
+swim: ma hara
+swim: ma hara
+swim: ma miʔihouou
+swim: ma miíhouou
+tail: eive
+tail: eive
+tail: euá
+tail: euʔe
+that: loleʔa
+that: loleá
+that: oma
+that: oma
+this: moleʔa
+this: moleá
+this: ohore
+this: ohore
+thou: a
+thou: a
+thou: e\e
+thou: eʔe
+tomorrow: opoa hoßare
+tomorrow: opoa hovare
+tomorrow: opo haßare
+tomorrow: opo havare
+tongue: eru
+tongue: eru
+tongue: hailu
+tongue: hailu
+tooth: kao
+tooth: kao
+tooth: kao
+tooth: kao
+tree: kora
+tree: kora
+tree: kora
+tree: kora
+two: lahoaha
+two: lahoaha
+two: lahoaha
+two: lahoaha
+walk: loa iußoßu
+walk: loa iuvovu
+walk: more meaßaha
+walk: more meavaha
+wallaby: haioru
+wallaby: haioru
+wallaby: hoioru
+wallaby: hoioru
+warm: ahea
+warm: ahea
+warm: aheʔa
+warm: aheá
+water: ma
+water: ma
+water: ma
+water: ma
+we (incl.): elaßeiːa
+we (incl.): elaveila
+we (incl.): eleʔila
+we (incl.): eleíla
+what: leaá
+what: leʔe
+what: leʔe
+what: leé
+white: maea houhu
+white: maea houhu
+white: ohu
+white: ohu
+who: hoila
+who: hoila
+who: leia
+who: leia
+wing: moko
+woman: ußa
+woman: ußa
+woman: uva
+woman: uva
+yellow: kairu
+yellow: kairu
+yellow: maea kairu
+yellow: maea kairu
+yes: e
+yes: e
+yes: eʔa
+yes: eá
+yesterday: haila halea
+yesterday: haila halea
+yesterday: hoila haßare
+yesterday: hoila havare

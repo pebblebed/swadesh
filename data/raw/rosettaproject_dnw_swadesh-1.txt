@@ -1,0 +1,876 @@
+all: apikumalak
+all: ɛwɛro
+all: tapot-tokon
+all: tigitongon
+all: tigitongon
+arm: (in)obak
+arrow: maie
+arrow: malɛ
+ashes: kaniŋgɛn
+ashes: wun
+ashes: wun
+ashes: wun
+ashes: wun awi
+ashes: wun awi
+back: anggunuwak
+back: aŋgunuwak
+bad: anini ambik
+bad: anini ambik
+bad: maluk
+bad: maluk
+bark: akalëo
+bark: akapotlo
+bark: o akapolo
+belly: aanagum
+belly: anaralɛ
+belly: aːn-okʊm
+belly: anokʊm
+belly: aːnugum
+belly: hanaralɛ
+belly: n-anokum
+big: ɛŋgɔkalɔ
+big: gwok
+big: ŋgʌk
+big: (ng)gok
+big: ŋgok
+big: nggwok
+big: ŋgwok
+bird: teve
+bird: tewe
+bird: tewe
+bird: tewe
+bird: tewe
+bird: towe
+bird: towe
+bird: towe
+bird: tsʌwɛ
+bite: eyak mbangge
+bite: eyak mbaŋge
+bite: eyak mbaŋge
+bite: laraŋgwe
+black: mili
+black: mili
+black: muli
+black: muli
+blood: amiya
+blood: amiya
+blood: amiya
+blood: ɛnamiya
+blood: inamuya
+blood: mep
+blood: mep
+blood: muya
+blood: muya
+blow: kani puge
+blow: kani puge
+bone: awe
+bone: n-owakano
+bone: owak
+bone: owak
+bone: owak
+bone: owakano
+boy: wolɔrɛ
+branch: mi\ndik
+branch: miʔndik
+breast: elak
+breast: elak
+breast: elak
+breast: elak
+breast: namaruwak
+breast: n-elak
+breathe: ambe agabuk wungge
+breathe: ambe agabuk wuŋge
+breathe: amuŋgut
+burn: (negi)kany
+calf: kabudu
+cassowary: ndiimbu
+cheek: hondaralɛm
+child: bulɔrɛ
+child: enege
+child: enege
+child: wawa
+claw: egapit
+cloud: ametakkot
+cloud: ametakkot
+cloud: ametaːkkot
+cloud: ndugwi
+cloud: ndugwi
+cold: čʌɣʌɪ
+cold: togwi
+cold: togwi
+cold: tokwi
+cold: tokwi
+cold: tokwi
+come: amok
+come: amok
+come: amok
+come: amok!
+come: omok
+come: omok
+come: omok!
+come: wa-
+come: wa-
+come: wɔrɛ
+correct: gɛmɛ
+correct: gimɛyo
+count: eengi lunggungge
+count: eːŋgi luŋguŋge
+count: liːŋgiːŋwe
+cut: warogo mambege
+dark: honkia
+daughter: apʰʊt
+daughter: napuluk
+day: liingge
+day: liːŋge
+die: kagi
+die: kanggerak
+die: kaŋgerak
+die: kaŋgwe
+dig: kabungge
+dig: kabuŋge
+dirty: mili
+dirty: mili
+dog: gevo
+dog: gewo
+dog: gewo
+dog: gewo
+dog: nggewo
+dog: ŋgewo
+dog: ŋgewɔ
+drink: yi nengge
+drink: yi neŋge
+dry: bʊk
+dry: buk
+dry: (m)buk
+dry: wolonak
+dry: wolonak
+dust: liirubu
+dust: liːrubu
+ear: aru
+ear: aruk
+ear: aruk
+ear: atuk
+ear: atuk
+ear: hinaruk
+ear: n-atuk
+earth: gwen
+earth: gwen
+earth: gwen
+earth: gwen
+earth: gwen
+earth: nggween
+earth: ŋgweːn
+earth: potom
+eat: na-
+eat: namen
+eat: namen
+eat: namen
+eat: namen!
+eat: ne-
+eat: ne-
+eat: nen-
+eat: nengge
+eat: neŋge
+eat: nɛŋgɛyɛ
+eat: noŋgowe
+eat: norak
+egg: ako
+egg: eko
+egg: eko
+egg: (tewe-)gen
+egg: tewe-gen
+elbow: yungguk
+elbow: yuŋguk
+emu: diːmbu
+emu: igue
+emu: ndiːmbu
+eye: enegen
+eye: enegen
+eye: eneken
+eye: eneken
+eye: hɛnegɛn
+eye: negen
+eye: negen
+eye: negen
+eye: nɛnegɛn əmbɛli
+eye: n-en-eken
+face: inorɔbak
+fall: yigeːbu waŋge
+fall: yigeebu wangge
+far: nda-nda
+far: nda-nda
+far: nda-nda
+far: ondaːnda
+father: ogoba
+father: ogoba
+father: oroba
+fat (n.): amok
+fat (n.): amok
+fat (n.): amok
+fear: agabiti
+fear: agabiti
+fear: nakawarate
+feather: tewe-ti
+feather: tewe-ti
+feather: towe eti
+few: mbereluk
+few: mbereluk
+finger: enggabit
+finger: eŋgabit
+finger: inɛŋgi
+finger: iyɔgɔbiːt
+finger: kirin
+fingernail: ɛnɛgabiːt
+fingernail: enegen
+fingernail: enegen
+finger: titiyi
+fire: ɪdu
+fire: endo
+fire: endo
+fire: endo
+fire: i(n)du
+fire: kanɪ
+fire: kane
+fire: kani
+fire: kani
+fire: kani
+fish: ikan
+fish: ikan
+fish: maalebonok
+five: linggitogon
+five: liŋgtogon
+flow: yi wuke
+flow: yi wuke
+fly (n.): ti\nebon
+fly (n.): tiʔnebon
+fly (n.): tinɛbon
+fly (v.): pʊtnʊk
+fly (v.): putnuk
+fly (v.): wiganinuk naga
+fly (v.): wiganinuk naga
+fly (v.): wikaːnɪnuk naka
+fog: o apit
+fog: o apit
+foot: ayok
+foot: iyok
+foot: iyok okʊt
+foot: n-iyok okut
+foot: niyok ungut
+forehead: niːŋgawak
+forest: eyo ngga me
+forest: eyo ŋga me
+forest: iŋgamɛ
+four: imbere mbere
+four: imbere mbere
+fruit: anggen
+fruit: aŋgen
+full: abe ketoko
+full: iyagabit
+full: iyagabit
+girl: kaliga
+girl: kulara
+give: wogoru
+give: woguru
+give: wɔkiriyɔ
+give: wokotiak
+give: wokotiak
+give: wɔ-nɪtʊ
+give: wot-nitu!
+give: wot-nɪtʊ
+good: op
+good: op
+good: op
+good: op
+good: op
+grass: mboori
+grass: mboːri
+green: kɪ
+green: muli
+green: nggere\ngga
+green: ŋgereʔŋga
+hair: amoori
+hair: amoːri
+hair: eeruwak
+hair: eri
+hair: eri
+hair: eri
+hair: ɛri
+hair: eːruwak
+hair: hɛnɛruwak
+hair: n-eeti
+hair: neti
+hand: anibir
+hand: eenggi
+hand: eːgi
+hand: eːgi
+hand: eːŋgi
+hand: hɛŋgerut
+hand: n-eegi
+head: aneb
+head: aneb
+head: aneb
+head: anobak
+head: anobak
+head: anopak
+head: anupak
+head: hɛnɛnɛbak
+head: n-anupak
+hear: aruk konengge
+hear: aruk koneŋge
+hear: natuk konegi
+hear: natuk konugi
+hear: n-atuk konygi
+heart: iniki
+heart: iniki
+heart: inikki
+heart: niniki
+heart: n-initti
+heart: ɪnɪtti
+heavy: aninggin
+heavy: aniŋgin
+here: ya
+here: yimɛ
+he/she: aryi
+he/she: aryi
+he/she: at
+he/she: at
+he/she: at
+hit: buke
+hit: wake
+hit: wake
+hold: pigagaŋge
+house: ɔ
+house: ome
+house: ome
+husband: enayo
+husband: ogonggelo
+husband: ogoŋgelo
+husband: op
+I: a
+I: an
+I: an
+I: an
+I: an
+I: an
+I: an
+I: an
+I: an
+in: iniki me
+kangaroo: woya
+kill: waru
+kill: waru
+kill: watʊ
+kill: wato
+kill: watu!
+knee: n-edopakun
+know: eenu
+know: eːnʊ
+know: eːnu
+know: eːnu
+know: n-eenu
+know: nɛnu
+know: nɛnu
+lake: yi yenggenak
+lake: yi yeŋgenak
+laugh: hɛndɛ
+laugh: kaŋgwe
+leaf: enga
+leaf: e(ng)ga
+leaf: eŋga
+leaf: ngga
+leaf: ŋga
+left: kwaarenggam
+left: kwaːre ŋgam
+leg: iyok
+leg: iyok
+leg: koaro
+leg: oabelan
+leg: owak
+leg: owak
+lie: wenʌɣɛ
+lie: win-atu!
+lie: windik wonage
+lie: windik wonage
+lightning: o yabok
+lightning: o yabok
+lip: abe
+lip: abe
+lip: ambɛ
+live: eenik
+live: eːnik
+liver: n-atemokun
+liver: ogogun
+liver: ogogun
+long: elualu
+long: mor
+long: mor
+long: nggorek
+long: ŋgorek
+louse: abeː
+louse: abee
+louse: bigiːt
+louse: bigiːt
+louse: n-api
+louse: n-aßɪ
+louse: pɪ
+louse: pɪ
+louse: pe
+man: aap
+man: ap
+man: ap
+man: ap
+man: ap
+man: aːp
+man: aːp
+man: enayo
+man: op
+many: apit
+many: apit
+many: yuk
+meat: agaːgum
+meat: ʊno
+meat: uno
+moon: tor
+moon: tut
+moon: tut
+moon: tut
+moon: yambu
+morning: kuop
+mosquito: lamengga\nggan
+mosquito: lameŋgaʔŋgan
+mother: agalo
+mother: agalo
+mother: kuya
+mountain: potom
+mountain: pʊːtom
+mountain: purom
+mountain: puːrom
+mountain: puurom
+mountain: wie
+mouth: abe
+mouth: abe
+mouth: ambe
+mouth: ambe
+mouth: ambe
+mouth: ambɛ
+mouth: n-abe
+name: edeka
+name: edeka
+name: ɛndaɣɛ
+name: endage
+name: endage
+name: e(n)daka
+name: endara
+name: etaxe
+name: etaxe
+name: kumiːnɛndarɛ
+nape: iniːŋganok
+narrow: yagapit
+narrow: yagapit
+navel: ambok
+navel: namuŋ
+near: inar
+near: korok
+near: korok
+neck: eganok
+neck: egaːnok
+neck: enggaanok
+neck: eŋgaːnok
+neck: n-eganok
+new: enawoluk
+new: (ng)get
+new: ngget mendek
+new: ŋget mendek
+night: hɔkiabara
+night: hɔkibara
+night: honkia
+night: kiipma
+night: kipme
+night: kipme
+night: o yumak
+night: o yumak
+nose: n-akapak
+nose: ogobak
+not: lɛgɔ
+not: lek
+not: lek
+not: lek
+not: lek
+not: lɛk
+old: maan medek
+old: maŋgu
+old: maːn medek
+one: abʊ
+one: abi
+one: abit
+one: abɪt-et
+one: ambe
+one: ambe
+one: ambit
+one: ambit
+one: ambuet
+one: ambuilit
+person: aakkuni
+person: aap
+person: aːkkʊmɪ
+person: aːkkʊnɪ
+person: ap
+person: aːp
+person: aːp
+play: wulogwe nggilik kunggwe
+play: wulogwe ŋgilik kuŋgwe
+pull: iniki ale\ nggen mbake
+pull: iniki aleʔ ŋgen mbake
+push: panggonggwi
+push: paŋgoŋgwi
+rain: mayʊ
+rain: mayo
+rain: mayu
+rain: mayu
+rain: mayu
+rain: mayu
+rat: ambeya
+rat: ambeya
+red: daːmbu
+red: laambu
+red: laːmbu
+red: muya
+right: abenggam
+right: abe ŋgam
+river: yi naga
+river: yi naga
+road: to
+road: to
+road: tu
+road: tu
+road: tuŋgok
+road: tuwan
+road: tuwan
+root: omagen
+root: omagen
+rope: ligi
+rope: ligi
+rotten: pili
+rotten: pili
+round: pʊlegen
+round: pulu-gen
+rub: uli nggungge
+rub: uli ŋguŋge
+salt: mayu
+salt: mayu
+salt: mayu
+salt: moyu
+sand: bini
+sand: bini
+sand: bini
+sand: mbini
+sand: mbini
+sand: ǯiː
+say: ɛnɔnɛ
+say: kone yʊ
+say: kone yu!
+say: wonɛ
+say: wone mbangge
+say: wone mbaŋge
+say: y-
+say: yʊ-
+scratch: gibinuo
+scratch: nggibiinge
+scratch: ŋgibiːŋge
+sea: yenggenak
+sea: yi nggwok
+sea: yi ŋgwok yeŋgenak
+seed: anggen
+seed: aŋgen
+seed: aŋgɛn
+seed: awɪ
+seed: awɪ
+seed: awi
+see: kekekun ket
+see: kenaken na-ket!
+see: keneken na-ket
+see: nikɛr
+see: pɛkɛro
+see: pek ka-
+see: pek ka-
+see: pekkage
+see: pekkage
+sharp: eerakambik
+sharp: eːrakambik
+short: kuwagaluk
+short: kuwagaluk
+sing: dawowariak
+sing: ndawi wake
+sing: ndawi wake
+sit: kwenado
+sit: kwi\nage
+sit: kwiʔnage
+sit: kwit-natu!
+sit: kwitnɛro
+skin: agabelo
+skin: agabelo
+skin: akalëo
+skin: akapotlo
+skin: (in)arabolok
+skin: n-akatlo
+sky: bɔrut
+sky: mbogut
+sky: mbogut
+sleep: nogo yege
+sleep: nogo yege
+sleep: noko y-
+sleep: noko y-
+sleep: noko yu!
+sleep: nɔrɔ(yudak)
+small: buːlʊk
+small: buluk
+small: buluk
+small: buluk
+small: mbuːluk
+small: mbuuluk
+smell: owari
+smoke: kaluk
+smoke: kaluk
+smoke: kaluk
+smoke: ka-luk
+smoke: totle
+smoke: totle
+snake: waalo
+snake: waːlo
+son: apʰʊt
+son: wulore
+spit: awoori pege
+spit: kondok
+spit: toŋgok
+spit: wɔdi
+split: nggaganak
+split: ŋgaganak
+stand: men-atʊ
+stand: men-atu!
+stand: mi\nage
+stand: mɪʔ-natʊ
+star: lalikutakan
+star: laluguragan
+star: laluguragan
+stick: kuwa
+stone: yʊkʊm
+stone: yogum
+stone: yugʊm
+stone: yugum
+stone: yugum
+stone: yukum
+stone: yukum
+stone: yukum
+stone: yukum
+straight: mot-mot
+straight: mot-mot
+suck: nik nengge
+suck: nik neŋge
+sun: mo
+sun: mo
+sun: mo
+sun: mɔ
+sun: oːnegen
+sun: o-neken
+sun: oonegen
+sun: yawo
+sun: yawo
+swell: piirik
+swim: gʊme wato
+swim: gʊːʔmo wato
+swim: gume watu!
+swim: ŋgume wake
+tail: aɣɛ
+tail: aga
+tail: aga
+tail: ake
+tail: ake
+tail: ake
+tail: barak
+take: pigagangge
+take: yɔkor kumakwe
+that: etti
+that: etti
+that: iti
+that: ɪtʊ
+that: tɪ
+that: ti
+that: ti
+there: ariːte
+there: rute
+they: it
+they: it
+they: it
+they: kaduk
+they: kaduk
+thick: ŋgwok
+thigh: nambulok
+thin: pe\ler
+thin: peʔler
+this: yi
+this: yi
+this: yi
+this: ži
+thorn: alok
+thorn: alok
+thou: kaːn
+thou: kar
+thou: kat
+thou: kat
+thou: kat
+thou: kat
+thou: kat
+thou: kat
+thou: kat
+thou: kʰat
+thou: kereŋga
+thou: kit
+three: kenagan
+three: kenagan
+three: kɛnaran
+throw: yugum nambuke
+throw: yugum nambuke
+thunder: onggurubu
+thunder: oŋgurubu
+tie: keelemake
+tie: keːlemaːke
+tie: kelemakwe
+today: yorondak
+tomorrow: kɔlu
+tongue: amela
+tongue: amela
+tongue: enamili
+tongue: ɑmili
+tongue: n-amili
+tooth: eik
+tooth: ɛniyak
+tooth: eyak
+tooth: eyak
+tooth: eyak ~ ik
+tooth: ik
+tooth: ɪk
+tooth: ɪk
+tooth: n-aik
+tooth: neak
+tooth: neik
+tooth: n-ik
+tree: eyo
+tree: eyo
+tree: eyo
+tree: eyo
+tree: eyo
+tree: eyo
+turn: yendok-wandok
+turn: yendok-yendok
+two: bere
+two: bere
+two: bere
+two: bilɛ
+two: mbere
+two: mbere
+two: mbɛrɛ
+two: (m)bete
+vagina: eget
+vomit: peyak wuke
+walk: enak
+walk: enak
+walk: enak!
+walk: enak!
+walk: nage
+walk: nage
+walk: nage
+walk: nage
+walk: nak
+walk: nak
+walk: norɛ
+walk: nuo
+warm: aganggen
+warm: agaŋgen
+warm: akagen
+warm: akagen
+warm: akagen
+wash: ko¾ke lambunogo keːle maːke
+wash: kooke
+wash: kooke lambunogo keele maake
+wash: nggume wake
+water: i
+water: mio
+water: mio
+water: nio
+water: nio
+water: niɔ
+water: niyo
+water: niyo
+water: yi
+water: yi
+water: yi
+water: ži
+weep: lɛyorɛ
+weep: li yege
+weep: li yege
+we (excl.): nit
+we (excl.): niːt
+we (incl.): nit
+we (incl.): niːt
+we: nit
+we: nit
+we: nit
+we: nit
+we: nit
+wet: miin
+wet: miːn
+what: nanɛ
+what: nano
+what: nano
+what: nanɔ
+what: nano-mede
+what: nano-mede
+what: nano-o
+when: mɑdenom
+where: gemɛ
+where: gimɛyo
+white: laambu
+white: laːbu
+white: laːmbu
+white: mola
+white: mola
+who: kɛtao
+who: ta
+who: ta
+who: ta
+who: ta
+who: ta
+wide: ŋgwok
+wife: akwe
+wife: akwe
+wind: wiya
+wind: wiya
+wing: eeruwak
+wing: eːruwak
+wipe: koːke
+woman: aned
+woman: kome
+woman: korome
+woman: kwe
+woman: kwe
+woman: kwe
+woman: kwe
+woman: kwe
+woman: kwe
+woman: kʰwɛ
+wood: dɔlu
+wood: eyo
+wood: eyo
+wood: eyo
+wood: kua
+wood: kuwa
+wood: o
+wood: teno(yi)
+wood: yawi
+worm: puːron
+yellow: laambu
+yellow: laːmbu
+yellow: mola
+yes: harit
+yesterday: kɔbiːt
+you: kit

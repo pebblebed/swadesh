@@ -1,0 +1,987 @@
+all: ara-duru-da
+all: ɑrduru-dʌ
+all: ɑrduru-dʌ
+and: bedig
+and: ol bɛdig
+and: ol bɛdig
+and: ol bɛdig
+ankle: oːn-toːguːr-dʌ
+ankle: oːn-toːguːr-dʌ
+ankle: togur-da
+arm: gud-da
+arm: iː-gud-dʌ
+arm: iː-gud-dʌ
+arm: iti togo
+arm: kaapa-da
+arm: taago-da
+arrow: ɛlʌ-dʌ
+arrow: ɛlʌ-dʌ
+arrow: ɛlʌ lɑkʌ lupʌ-dʌ
+arrow: ɛlʌ lɑkʌ lupʌ-dʌ
+arrow: rɑtʌ-dʌ
+arrow: rɑtʌ-dʌ
+arrow: tɔlbod-dʌ
+arrow: tɔlbod-dʌ
+ashes: ig-buːg-dʌ
+ashes: ig-buːg-dʌ
+ashes: ig-bug-da
+ashes: iːtɛriː-dʌ
+ashes: iːtɛriː-dʌ
+ashes: iteri-da
+ashes: pich-da
+ashes: pich-lig-uya-da
+ashes: piːc-l\ig-uːyʌ-dʌ
+at: kato
+at: -l-at
+at: -l-en
+back: guːdur-dʌ
+back: guːdur-dʌ
+back: gudur-da
+back: ɑr-gorɒb-dʌ
+bad: ɟɑbʌg-dʌ
+bad: ɟɑbʌg-dʌ
+bad: chaaru
+bad: jabag-da
+bark: ot-aich-da
+bark: ɒt-ʌiɟ-dʌ
+bark: ɒt-ʌiɟ-dʌ
+belly: ɑb-ɟodɒ-dʌ
+belly: ɑb-ɟodɒ-dʌ
+belly: jodo-da
+belly: jodo-da
+belly: ɟodɒ-dʌ
+big: bodia
+big: chanag-da
+big: cʌnʌg-dʌ
+big: cʌnʌg-dʌ
+big: doːgʌ
+big: doːgʌ
+big: doga-da
+big: pata-
+bird: chula-da
+bird: culʌ-dʌ
+bird: culʌ-dʌ
+bite: chapi-
+bite: cɑpiː-kɛ
+bite: cɑpiː-kɛ
+bite: gɑnŋʌ-
+bite: kuːrumæ-
+bitter: erepaich-da
+bitter: eːrepɑic-dʌ
+bitter: eːrepɑic-dʌ
+black: putungaij-da
+black: putuŋɑiɟ-dʌ
+black: putuŋɑiɟ-dʌ
+blood: tɛi-dʌ
+blood: tɛi-dʌ
+blood: tei-da
+blood: tɛi-lɑ ɑr-wɛɟeri-
+blood: tɛ l\ɑrdoɑ tiː kɛ
+blow: iː topɑk kɛ
+blow: iː topɑk kɛ
+blow: i-topuk-
+bone: ta-da
+bone: tɑ-dʌ
+bone: tɑ-dʌ
+boy: ab-liga-da
+boy: aka-kadaka-da
+boy: ɑb liːgʌ-dʌ
+boy: ɑb liːgʌ-dʌ
+boy: ɑkʌ-kɑdʌkʌ
+boy: ɑkʌ-kɑdʌkʌ
+branch: chati-da
+branch: cʌti-dʌ
+branch: cʌti-dʌ
+branch: guːd-dʌ
+branch: guːd-dʌ
+branch: gud-da
+branch: putu l-ot jodama
+branch: putu l\ot ɟodʌmʌ
+branch: putu l\ot ɟodʌmʌ
+breast: iː-kɑm-dʌ
+breast: iː-kɑm-dʌ
+breast: kam-da
+breast: kam-loko-pet-da
+breast: kɑm-l-oːkɒ-poːt-dʌ
+breathe: aka elet ke
+breathe: auna-da
+breathe: chaiat-
+breathe: cɑiʌt-
+breathe: cɑiʌt-
+breathe: ɑkʌ ɛlet kɛ
+breathe: ɑkʌ ɛlet kɛ
+breathe: ɔːnʌ-dʌ
+brother: ardoa tire
+brother: ɑr-doːɑ-ti-dʌ
+brother: ɑr-doːɑ-ti-dʌ
+burn: joi ke
+burn: ɑkʌ-t\ɑ-ker-
+burn: ɟoi kɛ
+burn: pugat-
+burn: puːgʌt-
+butterfly: pamila-da
+butterfly: pɑmilʌ-dʌ
+butterfly: pɑmilʌ-dʌ
+calf: ab-chal-ta-da
+calf: ab-chalta dama-da
+calf: ab-ta-da
+calf: ɑb-cɑltæ-dʌmʌ-dʌ
+calf: ɑb-cɑltæ-dʌmʌ-dʌ
+calf: ɑb-tɑ-dʌ
+calf: mʌ tɑ-dʌ
+calf: mʌtɑ-dʌ
+calf: mʌtɑ-dʌ
+cheek: ab-da
+cheek: iːg-ɑb-dʌ
+cheek: iːg-ɑb-dʌ
+chest: kuk-dʌ
+chest: kuk-dʌ
+chest: (ot-)kuk-da
+child: ab-liga-da
+child: ba-da
+child: bɑ-dʌ
+child: bɑ-dʌ
+child: ɑb-dɛrɛ-kʌ-dʌ
+child: ɑb-liːgʌ-dʌ
+child: ɑb-liːgʌ-dʌ
+chin: aka-ada(l)-da
+chin: ɑkʌ-ɑdʌ-dʌ
+chin: ɑkʌ-ɑdʌ-dʌ
+claw: on-kauro-da
+claw: pag-da
+claw: pɑg-dʌ
+claw: pɑg-dʌ
+cloud: towia-da
+cloud: toːwiːʌ-dʌ
+cloud: toːwiːʌ-dʌ
+cold: choki-
+cold: cokiː-dʌ
+cold: cokiː-dʌ
+cold: gurba-da
+come: kaich!
+come: kʌič-kɛ
+come: kʌič-kɛ
+come: ɒn-
+come: ɒn-
+come: on-
+correct: beːr-ŋʌ-dʌ
+count: ar-lap-
+count: ɑr-lɑp-kɛ
+count: ɑr-lɑp-kɛ
+crocodile: birigi-ta-da
+crocodile: kara-duku-da
+crocodile: kɑrʌ-duku-dʌ
+crocodile: kɑrʌ-duku-dʌ
+cut: ab col kɛ
+cut: ab col kɛ
+cut: ʌb dut kɛ
+cut: chaul-
+cut: chaul-
+cut: chaul-
+cut: kobæt-
+cut: kop-
+cut: kop-
+cut: rɛu kɛ
+cut: ɑr-kop-kɛ
+cut: ɑr-kop-kɛ
+cut: ɟɑrʌli-
+cut: ɟɑrʌli-
+cut: yiti-
+dance: koi (ke)
+dark: er lik putai
+dark: ɛr lik putʌi
+dark: ɛr lik putʌi
+dark: guːrug-dʌ
+dark: guːrug-dʌ
+dark: gurug-da
+daughter: ba-da
+daughter: bɑ-dʌ
+daughter: bɑ-dʌ
+day: arla-da
+day: bodɒ-len
+day: bodo-da
+day: bodo-la-lauri-nga-da
+day: bodo-len
+day: er-le-dawia-da
+day: ɑrlʌ-dʌ
+die: okɒ-liː-ŋɑ kɛ
+die: okɒ-liː-ŋɑ kɛ
+die: okɒ liː-rɛ
+die: oko li-
+die: werali-
+dig: banga-
+dig: bɑŋ kɛ
+dig: bɑŋ kɛ
+dig: buguk
+dig: bugu ke
+dig: bugu kɛ
+dig: eːr-koːp-
+dig: eːr-koːp-
+dig: er kop-
+dirty: lada-nga-da
+dirty: lɑdʌ-ŋʌ-dʌ
+dirty: lɑdʌ-ŋʌ-dʌ
+dog: biːbiː-dʌ
+dog: biːbiː-dʌ
+dog: bibi-da
+drink: welij (ke)
+drink: wɛliɟ-kɛ
+drink: wɛliɟ-kɛ
+dry: a er-re
+dry: ɑ ɛr-rɛ
+dust: eːr-l-oːt-buːbut-dʌ
+dust: eːr-l-oːt-buːbut-dʌ
+dust: er-l\ot-bubut-da
+ear: ik-poː-kɒ-dʌ
+ear: ik-poː-kɒ-dʌ
+ear: ik-poko-da
+ear: puku-l-aar-dereka-da
+earth: gara-da
+earth: gara-da
+earth: gʌrʌ-dʌ
+earth: gʌrʌ-dʌ
+earth: lab-da
+earth: lada-da
+earth: mun-da
+earth: yatara-da
+eat: aka toai-
+eat: mɛk-
+eat: mɛk-
+eat: mek/aka-wet-
+eat: nyaunti-
+eat: welij-
+egg: ar-maalo-da
+egg: molo-da
+egg: ɑr-mɔːlɒ-dʌ
+egg: ɑr-mɔːlɒ-dʌ
+egg: tɛlem-dʌ
+elbow: kaapa-l-ar-naichama
+elbow: kɔːpʌ-l-ɑr-nɑicʌmʌ
+elbow: kɔːpʌ-l-ɑr-nɑicʌmʌ
+excrement: bo-da
+eye: i-dal-da
+eye: iː-dɑl-lot-ɑiɟ-dʌ
+eye: iː-dʌl-l\ot-piːc-dʌ
+eye: i(k)-
+eye: iːk-dɑl-dʌ
+eye: iːk-puːɲuːr-dʌ
+face: ig mugu-dʌ
+face: ig-mugu-da
+face: i-ta-da
+face: iː-tɑ-dʌ
+fall: pa-
+fall: pɑ-kɛ
+far: ɛ-l-ɑr-pɑlʌ-dʌ
+far: en-l-ar-pala-da
+father: maio-la
+father: mɑi-ɒ-lʌ
+fat (n.): alachir-da
+fat (n.): ana-da
+fat (n.): ɟiːri-dʌ
+fat (n.): ɑlʌciːr-dʌ
+fat (n.): luːbu-dʌ
+fat (n.): lubu-da
+fat (n.): pata-da
+fear: ad-lat-
+fear: ɑd lʌt kɛ
+fear: ɑrʌ-lɑt-dʌ
+feather: a chata
+feather: ɑ cɑtɑ
+feather: piːc-dʌ
+feather: pich-da
+few: ketia-da
+few: kɛtiʌ-dʌ
+fight: ɑd-leː-
+fight: ɑrʌtʌŋ mok kɛ
+finger: ilam-da
+finger: iːlʌm-dʌ
+finger: kaaro-da
+finger: kauro-da
+finger: kɔːrɒ-dʌ
+fingernail: baado-da
+fingernail: bodo-da
+fingernail: oːn-bodɒ-dʌ
+finger: ɒn bodɒ-dʌ
+finger: on-bodo-da
+finger: oːŋ-kutur-dʌ
+fire: bera-da
+fire: bɛrʌ-dʌ
+fire: chapa-da
+fire: cɑpʌ-ʌ
+fire: ig bɛlʌ-dʌ
+fire: wudama-da
+fire: wuːdʌmʌ-dʌ
+fish: yat-da
+fish: yɑt-dʌ
+five: ar-duru
+five: ɑr-duːru
+float: oːdʌt-
+flow: char-
+flow: cɑr-
+flower: kaal-da
+flower: kɔːl-dʌ
+flower: köl-da
+flow: ɑr-oːlɒ
+flow: ɑr wɛɟeri kɛ
+fly (n.): bumila-da
+fly (n.): bumilʌ-dʌ
+fly (n.): nyipa(-da)
+fly (v.): ig-aichata-
+fly (v.): ig-ɑicʌtʌɑ-kɛ
+fog: pulia-da
+fog: puːliʌ-dʌ
+foot: ɛlmʌ-dʌ
+foot: on-elma-da
+foot: oːn-pɑg-dʌ
+foot: pag-da
+foot: tʌr-kuːduːl-dʌ
+forehead: iːg-muːguː-dʌ
+forehead: mugu-da
+forehead: temar-da
+forest: chaitan
+forest: erem(a)-da
+forest: eːrem-dʌ
+four: eː-iːɟi-pægi
+four: e-iji-pagi
+fruit: ceːtʌ-dʌ
+fruit: cɛtʌ-dʌ
+fruit: cɛtʌ-dʌ
+fruit: cheta-da
+fruit: rokɒmʌ-dʌ
+fruit: rokoma-da
+full: aka-ela-
+full: aut-tepi-
+full: ɑkʌ-eːlʌ
+full: ot tɛpiŋakɛ
+full: teːpeː-reː
+full: tepe-re
+girl: ab-jadijog-da
+girl: ar-yongi-da
+girl: ɑb-yɑdiɟoːg-dʌ
+girl: ɑr yoŋi-dʌ
+give: a-
+give: ena-
+give: ɛn-ɑ-kɛ
+good: beringa-da
+good: bɛriŋʌ-dʌ
+grass: yukala-da
+grass: yukʌle-dʌ
+green: elepait-da
+green: eːleːpɑit-dʌ
+green: tela-da
+green: tɛlʌ-dʌ
+guts: jodo-da
+guts: ɟoːdɒ-dʌ
+hair: piːc-dʌ
+hair: pich-da
+hand: elma-da
+hand: elmʌ-dʌ
+hand: mɔːtri-ŋʌ-dʌ
+hand: ɒnto-dʌ
+hand: on-kaaro-da
+hand: oːt-kɔːrɒ-dʌ
+head: ar-mun-da
+head: cheta-da
+head: ot-
+head: oːt-cetʌ-dʌ
+head: ot-cheta-da
+hear: i-dai
+hear: iː dʌi kɛ
+hear: iː dʌi-ŋʌ kɛ
+hear: ɑiʌn-dʌ
+heart: auna-da
+heart: kuk-t-ar-bana-da
+heart: ɔːnʌ-dʌ
+heart: ɔːt-kuːt-tɑ-bʌnʌ-dʌ
+heavy: inma-da
+heavy: iːnmʌ-dʌ
+heel: tar-kudul-da
+here: ka go i-da
+here: karin-da
+here: ka wai
+here: kɑrin-dʌ
+he/she: \-
+he/she: da-/a-/oda- (ø
+he/she: iːʌ-dʌ
+he/she: iːʌ-dʌ
+he/she: iːʌ-dʌ
+he/she: iːʌ-dʌ
+he/she: l-
+he/she: l-
+he/she: ol
+he/she: oːl-lʌ
+he/she: ol-la
+he/she: ol(-la)
+he/she: olʌ olʌ
+he/she: poss.
+he/she: verbal)
+hit: ad-le-
+hit: ara-tong mok-
+hit: paidli-
+hit: parek-
+hit: parek-
+hit: parek-
+hit: pedi-
+hit: pere
+hit: pere kɛ
+hit: taii-
+hit: tuchurpi-
+hit: tulra-
+hold: eni-
+hold: ɛni-
+hold: ɛni-
+hold: mautri-
+hold: puchu-
+hold: puːcuː-
+hole: (aka-)jag-da
+hole: bang-da
+hole: ɑkʌ ɟɑg-dʌ
+horn: ig-pilicha
+horn: ot wulu ta-da
+horn: ɒt wɒlu tɑ-dʌ
+house: bud-dʌ
+house: bud-da
+house: chang-da
+how: ba-kichika-da
+how: (bʌ-)biːciː kʌ-dʌ
+how: bichika-da
+how: kichaka-cha-da
+how: kichi ka-da
+how: pichi-kacha
+how: pichi-kacha
+how: ten tun
+hunt: dɛlɛ kɛ
+hunt: ɟɛt kɛ
+hunt: loːbi-
+husband: ab-bula-da
+husband: ab-ik-yate-da
+husband: ɑb-bulʌ-dʌ
+I: d-
+I: d-
+I: dia-da
+I: diːʌ-dʌ
+I: do
+I: doːl
+I: dol-lʌ
+I: dol-la
+if: ɑrik
+in: jaglum
+in: kok tar-len
+in: -len
+in: -l-en
+jaw: ekib-da
+jaw: ɑkʌ-ɛkiːp-dʌ
+kill: ʌb yɛdŋaʌ kɛ
+kill: oiyo-oːkɒ-liː-
+kill: oyo-oko-li-
+knee: ab-lo-da
+knee: ʌb-lo-dʌ
+know: dai(-ke)
+know: gad ke
+know: gɑd kɛ
+know: ig-nauli-
+know: ig-nɔːli-
+lake: ig-bang-da
+lake: ig bɑŋ-dʌ
+laugh: yengek-
+laugh: yɛŋeːk-
+laugh: yengi ke
+leaf: cɛki-dʌ
+leaf: cheki-da
+leaf: i-tɒŋ-dʌ
+leaf: i-tong-da
+left: kauri-da
+left: koriː-dʌ
+leg: ar-chag-da
+leg: ɑr-cɑg-dʌ
+lie: aka-chalai-
+lie: ara-balagi-
+lie: auto-rogi-
+lie: ɑt bɑlɑgiː kɛ
+lightning: beinga-da
+lightning: bɛiŋɑ-dʌ
+lip: ɔːkɔː-pɛ-dʌ
+lip: (oko-)pe-da
+live: budu-
+live: ig-ati-
+live: ig-ɑtiː kɛ
+liver: muːg-dʌ
+liver: mug-da
+long: ɑb lʌpʌnʌ-dʌ
+long: lapana-da
+long: lɑpʌnʌ-dʌ
+louse: cʌŋtɑtʌ-dʌ
+louse: kiːla-dʌ
+louse: kila-da
+louse: peta-da
+louse: peːtʌ-dʌ
+man: ab-bula-da
+man: auta
+man: ɑb-buːlʌ-dʌ
+man: ɑ bulʌ
+man: bula-da
+man: nickname prefixed to male babys)
+man: ɔːtʌ
+man: ota (ø
+many: ar-duru-da
+many: doga
+many: ot peggi
+many: ɑr-duːru-dʌ
+many: ɒt peggiː
+meat: dama-da
+meat: dama-da
+meat: dɑmʌ-dʌ
+meat: dɑmʌ-dʌ
+moon: ogar-da
+moon: oːgʌr-dʌ
+morning: bodo lar kag ke
+morning: lilti-nga
+morning: tar-wainga-da
+morning: tɑr-wɑiŋʌ-dʌ
+morning: wa-nga-da
+morning: wʌ-ŋʌ-dʌ
+mosquito: tɛil-dʌ
+mosquito: teil-da
+mother: ab-eti-nga-da
+mother: ɑb-eːti-ŋʌ-dʌ
+mother: chana-da
+mother: cɑnɒ-dʌ
+mountain: baaroin-da
+mountain: borɒin-dʌ
+mountain: bɒrɒin-dʌ
+mouth: (aka-)bang-da
+mouth: ɑkʌ-bɑŋ-dʌ
+mouth: laia-da
+name: ar-taik-nga-da
+name: ot tieŋ-dʌ
+name: teng-da
+nape: baarot-da
+nape: bɔːroːt-dʌ
+narrow: er ketia-da
+narrow: ɛr kɛtiʌ-dʌ
+narrow: kinab-da
+narrow: kinʌb-dʌ
+navel: ɑb-ɛr-dʌ
+navel: er-da
+near: lagia-da
+near: lʌgiːʌ-dʌ
+neck: longo ta-da
+neck: oːt-loŋo-tʌ-dʌ
+new: ab-jangi-da
+new: ab-raji-da
+new: ɑb ɟʌŋiː-dʌ
+new: ɑb-rɑɟi-dʌ
+new: gɒiː
+new: goi-da
+night: dila-da
+night: diːlʌ-dʌ
+night: e-l\ar-diya-da
+night: gurug chao-da
+night: guːrug-dʌ
+night: gurug-da
+night: tar-diya
+night: tɑr diːyʌ
+nose: chaaronga-da
+nose: chaaronga-l-ar-jag-da
+nose: cɔːrɒŋʌ-l-ɑr-ɟɑg-dʌ
+nose: lanta-da
+not: tɑlik yɑbɑ
+not: ya-ba-da
+not: yɑbʌ-dʌ
+old: ar tam
+old: ɑb-ɟʌŋi-dʌ
+old: chauroga-da
+old: cɔːrɒgʌ-dʌ
+old: jangi-da
+old: ɑr-tɑm
+one: ot lɑ-dʌ
+one: ubatul
+one: uːbʌtuːl
+other: auko-tauro-buya-da
+other: ɔːkɒ-tɔːrɒ-buːyʌ-dʌ
+person: darlag-da
+person: dɑrlʌg
+play: ij-aj-
+play: iː-ɟɑɟ-kɛ
+pull: daukra-
+pull: dokrʌ-ŋʌ-dʌ
+push: ig-udauti-
+push: ig-uːdɑoti-
+rain: yum-dʌ
+rain: yum-da
+rain: yum-lɑ-pɑ-kɛ
+rat: iːt-dʌ
+rat: it-da
+rat: rogo tatma-da
+rat: rogo- tatma-da
+rat: rogɒ tɑtmʌ-dʌ
+rat: rogɒ tɑtmʌ-dʌ
+red: cɛrʌmʌ-dʌ
+red: cherama-da
+right: bi-da
+right: biːdʌ-dʌ
+ripe: munukel
+ripe: rɒic rɛ
+ripe: roicha-da
+ripe: roich-re
+ripe: tail-re
+ripe: tela
+ripe: tɑil-rɛ
+river: ɟig-bɑ-dʌ
+river: ɟig-dʌ
+river: jig ba-da
+river: jig-da
+road: log-dʌ
+road: log-da
+road: tinga-da
+road: tiŋʌ-dʌ
+root: ar-chag-da
+root: ɑr-cɑg-dʌ
+rope: bɛtmɒ-dʌ
+rope: betmo-da
+rotten: chauru-re
+rotten: cɔru-rɛ
+round: ar kor-da
+round: ot-bana-da
+round: oːt-bʌnʌ-dʌ
+round: ot-lingriya-da
+round: oːt-lːnŋriyʌ-dʌ
+round: ɑr kor-dʌ
+rub: ɟiːt kɛ
+rub: jit ke
+rub: luraicha-
+rub: luːrɑicɑ-
+salt: rata-da
+salt: rɑtʌ-dʌ
+sand: bauroga-da
+sand: kewa
+sand: tara-da
+sand: tara-t-auko-pe-da
+sand: tɑrʌ-dʌ
+say: iɟi-yɑb-
+say: yab-
+say: yɑb-
+scratch: ig-ngali-
+scratch: ngautowa-
+scratch: ŋɔːtɒwʌ-
+scratch: ot pɔr-kɛ
+sea: gora-da
+sea: juru-da
+sea: kale
+sea: paiotong-da
+sea: pɑtʌrʌ-dʌ
+sea: rata-da
+sea: tauko-kewa-da
+sea: ɟuːru-dʌ
+see: badigre
+see: badi (ke)
+seed: ban-da
+seed: bɑn-dʌ
+seed: i-dal-da
+seed: iː-dʌl-bʌ
+see: ig-badi-
+see: ig-badig-
+see: ig-bɑdiːg-
+see: ig-bɑdig-
+see: mina ucha!
+sew: morŋʌ-kɛ
+sew: ɟɑt-
+sew: tɛpi-
+sharp: ig-rɛnɛmʌ-dʌ
+sharp: ig-renima-da
+short: jodama-da
+short: ot ɟodʌmʌ-dʌ
+shoulder: ɑb-pɔdik-mʌ-dʌ
+shoulder: paadikma-da
+shoulder: taago-da
+shoulder: togar-da
+shoulder: tɔːgɒ-dʌ
+sing: ramit-da
+sing: ramit toiyu-
+sing: rɑmit-toiyu-kɛ
+sister: ar-doati-da
+sister: ɑr-doːæti-dʌ
+sit: aka-doi-
+sit: ɑkɑ-doiː-
+skin: doic-
+skin: ed (da)
+skin: ej (da)
+skin: ot-aich-da
+skin: oːt-ɑic-dʌ
+sky: mauro-da
+sky: mɔrɒ-dʌ
+sleep: arla-ke
+sleep: barmi-
+sleep: bɑrmi-
+sleep: mami-
+sleep: mɑmiː-
+small: ketia
+small: kɛtiːɑ-dʌ
+smell: ɟɑbʌ-dʌ
+smell: chuinj
+smell: jaba-da
+smell: nuruch-
+smell: ɑo-dʌ
+smell: ot-ɑo-ɟɑbʌg-dʌ
+smell: tum-
+smoke: aka marin-da
+smoke: boag(-da)
+smoke: bubut(-da)
+smoke: maala-da
+smoke: mɔːlʌ-dʌ
+smooth: lingiriya-da
+smooth: liŋiriyʌ-dʌ
+smooth: pulao-
+snake: ber
+snake: jobo-da
+snake: laraba-da
+snake: ɟoːbɒ-dʌ
+snake: wara
+son: ba-da
+son: bɑ-dʌ
+sour: ig-maka(nga)-da
+sour: ig mɑkʌ-dʌ
+spit: odʌg-
+spit: tɛlɛpo-dʌ
+spit: telepo-da
+spit: tubal-
+spit: tubal-da
+spit: tuːbʌl-dʌ
+split: akan tarala
+split: ɑkʌn-tɑrʌlʌ
+split: okɒ kʌdʌ bɑliŋʌ kɛ
+split: oko kada balinga ke
+squeeze: petemi-
+squeeze: pɛtɛmiː-
+stab: ab dut ke
+stab: jarali-
+stand: kapi-(ke)
+stand: kɑpi-
+star: chato-da
+star: cɑtɒ-dʌ
+stick: putu-da
+stone: bauroga-da
+stone: taili-da
+stone: tɑiliː-dʌ
+straight: luyutma-da
+straight: naugo-
+straight: tekke yɑbʌdo
+straight: yuːyuːtmʌ-dʌ
+suck: ig-nɔ-
+suck: kɑm wɛli-i- kɛ
+suck: wɛliɟ-
+suck: welij-
+sun: boːdo-dʌ
+sun: bodo-da
+sweet: ana-da
+sweet: ɑɟʌ-dʌ
+swell: buːtuk-
+swim: piːt-
+swim: pit-
+tail: ar-pisam
+tail: picæm-dʌ
+tail: picham-da
+take: eːmi-
+take: eni-
+take: eni ke
+take: tap-
+take: tɑp-
+that: ka
+that: kato-da
+that: kɑtɒ
+that: kɑto-dʌ
+there: katin
+there: kato-da
+there: kɑtɒ-dʌ
+there: nyantik
+there: nya-tek
+they: \-
+they: eda-/oda-
+they: eː-tʌt
+they: ia-da
+they: l-
+they: ɒlɒi-cik
+they: oloi-chik
+thick: gaurodma-da
+thick: gɔː-rɒdmʌ-dʌ
+thick: tulawa-da
+thick: tulɑwʌ-dʌ
+thigh: ab-paicha-da
+thigh: ɑb-poicʌ-dʌ
+thin: ig redeba-da
+thin: ig rɛdɛbʌ-dʌ
+think: er-gad-
+think: ɛr gɑd kɛ
+thin: kinab-da
+think: luːʌ-
+think: lua-
+thin: mainya-da
+thin: mʌiɲʌ-dʌ
+this: ka-da
+this: kɑ-dʌ
+this: kɑ-dʌ
+thorn: chukul-da
+thorn: cukul-dʌ
+thorn: i-tata-da
+thorn: iːtɑtʌ-dʌ
+thou: ng-
+thou: ŋ-
+thou: ŋ-
+thou: ŋeː-tʌt
+thou: ngia-da
+thou: ŋiʌ-dʌ
+thou: ŋolɒi-cik
+thou: ŋol-lʌ
+thou: ngol-la
+thou: ngo-/nga-/ngauna-
+three: ed-ar-ubai
+three: -eːd-ɑr-uːbɑi
+throat: aarma-da
+throat: ɑkɑ-ɔːrmʌ-dʌ
+throw: depi-
+throw: dɛpi-
+thunder: gaurawa-
+thunder: gorowa ke
+thunder: puːluːgʌ-lɑ gɔːrʌwɑ kɛ
+tie: auko-rauni-
+tie: chau-
+tie: rauni-
+tie: roni-
+today: ka goi-da
+today: kɑgoːi
+tomorrow: wai-nga-len
+tomorrow: wʌi-ŋʌ-len
+tongue: aka-etal-da
+tongue: ɑkɑ-ɛtʌl-dʌ
+tongue: puluch-
+tooth: i tug-da
+tooth: ɑkʌ-tog-dʌ
+tooth: piːlicʌ-dʌ
+tooth: toːg-dʌ
+tooth: tog-da
+tree: aka-tang-da
+tree: ɑkɑ-tɑŋ-dʌ
+turn: iːɟiː-geːɑli
+turn: iji-geali-
+turn: otɒ kʌidliː kɛ
+turn: oto-kaidli-
+two: ik-paur-da
+two: ik-pɔːr-dʌ
+unripe: chimiti-da
+unripe: ciːmiːtiː-dʌ
+unripe: putungaij-da
+unripe: puːtuːŋɑiɟ-dʌ
+unripe: teripa-da
+unripe: tɛripʌ-dʌ
+vagina: kerel-da
+vagina: ɑr-kɛrel-dʌ
+vomit: ɑd-we
+walk: ad lab-da
+walk: ɑd wɛtiː kɛ
+walk: jud-
+walk: kɑɟ-
+walk: katik-
+walk: kɑtik-kɛ
+walk: mɒcɒ kɛ
+walk: mocho-
+walk: nɑɒ-
+walk: nao-(ke)
+walk: ɒn kɛ
+walk: on-
+walk: ɟud kɛ
+warm: uya-da
+warm: uːyʌ-dʌ
+warm: uyʌ-dʌ
+wash: ab-chat-
+wash: ɑb-cɑt-
+wash: luːdgʌ-
+wash: ludga-
+wash: ludga-
+water: bea
+water: cuːlŋʌ-dʌ
+water: gumul
+water: ina-da
+water: iːnʌ-dʌ
+water: ɑkʌ-cɑr-dʌ
+water: rata
+water: rogodi
+we: amet
+weep: bteːkik-
+weep: tegik ke
+weep: teki-
+weep: tekik-
+weep: tiː-dʌ
+weep: ti-da
+weep: ulʌp kɛ
+we: m-
+we: makat
+we: mebet
+we: meta (da)
+we: meta-t
+we: meː-tʌt
+we: mɒlɒicik
+we: mɒlɒi-cik
+we: moicho-/meda-/moda- (ø
+we: moloichik
+we: moto-t. moiot
+we: poss.
+wet: ot-ina-da
+wet: oːt-iːnʌ-dʌ
+we: verbal)
+what: mi-chiba
+what: mici-bɑ
+when: bichika
+when: biːciːkɑ
+when: ten
+when: teːn
+where: tein
+where: tɛin
+where: tekari-cha
+where: tekɑri-cɑ
+where: tincɑ
+where: tin-cha
+white: olowia-da
+white: oːlɒwiʌ-dʌ
+white: uluya-da
+who: mi-ja
+who: mi-jo-la
+who: miːɟo-lɑ
+wide: ɟɛɟ ka kɛ
+wide: peketoː-dʌ
+wife: ab-pail-da
+wife: ɑb-pʌil-dʌ
+wind: wul-nga-da
+wind: wul-ŋʌ-dʌ
+wing: ig-aichata-da
+wing: ig-ɑicʌtɑ
+wipe: iːɟi-rɑr
+wipe: tɔŋʌ kɛ
+with: paichalen
+with: pʌicʌlen
+woman: ab-pail-da
+woman: ɑb-pʌil-dʌ
+woman: kata
+woman: kɑte
+woman: ɑ pʌil-dʌ
+wood: chapa-da
+wood: lʌkʌ
+wood: putu-dʌ
+wood: putu-dʌ
+wood: putu-da
+worm: wiːlidim-dʌ
+wrist: taugo-da
+yellow: terawa-da
+yellow: teːrʌwʌ-dʌ
+yesterday: ar-lu
+yes: uba-da
+yes: wai
+you: ang
+you: eta (da)
+you: etat
+you: ng-
+you: ngat
+you: ng-at-ubaba
+you: nget
+you: ng-oicho-/nged(a)-/ngoda-
+you: ng-(ol-)(ar-)duru
+you: ng-ol(-oichik)

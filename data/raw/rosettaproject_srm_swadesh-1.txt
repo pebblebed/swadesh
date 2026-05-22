@@ -1,0 +1,112 @@
+all: túu
+ashes: síndja
+bark: kákísa
+belly: baíka (arch.)
+belly: bêè
+big: bígi
+big: gaán
+bird: fou
+bite: nján
+black: baáka
+blood: akóni
+blood: buúu
+blood: gadjabia
+blood: nòngô
+blood: sangá
+bone: bónu
+breast: bóbi
+burn: tjumá
+cloud: líba(hoos)
+cloud: wóluku
+cold: kôtò
+come: kó
+die: dêdè
+dog: dágu
+drink: bebé
+drink: diíngi
+dry: dèê
+ear: jési
+earth: dóti
+eat: kòmê
+eat: nján
+egg: (w)óbo
+eye: (w)ójo
+fat (n.): fátu
+feather: puúma
+fire: fája
+fire: vèvê
+fish: físi
+fly (v.): buá
+foot: fútu
+full: fúu
+give: dá
+good: búnu
+green: giín ∼ guún
+hair: wiwíi ∼ uwíi
+hand: máu
+head: (h)édi
+hear: jéi
+heart: (h)áti
+horn: tutú
+I: mi
+kill: kíi
+knee: kiní
+know: sábi (cf. sá \can\)
+leaf: wiwíi ∼ uwíi
+lie: kándi
+liver: lêbèn
+long: lánga
+louse: lósu
+louse: piójo
+man: (w)ómi
+many: hí(l)a
+meat: gbamba
+meat: mbéti
+moon: liba
+mountain: kúnunu ∼ kúuun
+mouth: búka
+name: nê
+neck: gangáa
+new: njú-njú
+night: ndéti
+nose: núsu
+not: ná ∼ á
+one: wán
+person: sòmbè ∼ sèmbè
+rain: tjúba
+red: bè (cf. guunsi \purple, wine-red\)
+road: pási
+root: lútu
+round: lóntu (logo)
+sand: sándu
+say: fan
+seed: síi
+see: sí
+sit: sindó
+skin: sinkí(n)i
+sleep: duumí
+small: pikí
+smoke: súmúku
+stand: taámpu
+stand: tán-a-pê
+star: teéa
+stone: sitónu
+sun: sónu
+swim: sún
+tail: lábu
+that: díde
+this: dísi
+thou: ju ∼ i
+tongue: tôngò
+tooth: tánda
+tree: páu
+two: tú
+walk: wáka
+warm: kéndi
+water: wáta
+we: u
+white: wéti
+who: ambê ∼ ámmè
+woman: mujêè
+yellow: donú
+yellow: fòkò

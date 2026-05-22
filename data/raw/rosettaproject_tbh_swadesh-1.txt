@@ -1,0 +1,127 @@
+ashes: nugu
+bad: ga(r)naŋ
+belly: bin̪d̪i
+big: gayan
+bird: buɟan
+black: ŋənda
+blood: ŋawu
+boy: banda
+breast: ŋumiɲaŋ
+brother: ɟaɟa(ŋ)
+child: buray
+child: guɟaːga
+child: waraɲ
+dog: mirigaŋ
+ear: guri
+eye: mabura
+father: baba(ŋ)
+fear: ɟa(ː)ndəna
+finger: maramal
+fire: gaɲi
+fish: d̪aɲ
+flower: gamba
+flower: gungura(w)
+foot: d̪ana
+forest: manda
+girl: miga
+good: naguŋ
+hair: ɟirar
+hand: maramal
+head: wəlaːr ~ wəlaːnuŋ
+here: ɲiɲ
+he/she: -n̪(d̪)uŋ
+he/she: -ŋila
+house: ŋura
+husband: d̪alin(mara)
+I: -d̪an
+I: -ɟin
+I: -ŋay
+I: ŋayagaŋ
+I: ŋayagaŋga
+kangaroo: buru
+knee: ŋumu(ŋ)
+lip: wiliŋ
+many: ganagəraːn
+man: yuwiɲ
+meat: man(d)iɟaŋ
+meat: ŋali
+moon: ɟaɟuŋ
+moon: gəlaː
+mother: miŋa
+mountain: naɟənuga
+mouth: gami
+mouth: wiliŋ
+nape: garun
+neck: ŋaniŋ
+old: baŋga(w)iŋ
+one: mid̪aŋ
+person: yuwiɲ
+rain: bana
+rat: bugla(ŋ)
+river: d̪əragaŋ
+river: d̪əragaŋ
+sand: wiɟud wiɟud
+sea: gad̪u
+sea: ŋaruwan
+smoke: gaːndi
+snake: gari
+stone: gərabaŋ
+sun: wuri
+sweet: guwiɟ
+sweet: ɟil(ə)num
+that: n̪am(u)
+that: n̪ariya
+there: n̪aw
+they: -ba ~ -n̪a ~ -wa
+they: -d̪anaŋ
+they: -d̪anaŋ
+they two: -bulaŋ ~ -wulaŋ
+they two: -bulanu ~ -wulanu
+they two: -mbula ~ -wula
+thigh: d̪ara
+this: n̪ay(a)
+thou: -ɲ
+thou: ɲindigaŋ
+thou: ɲindigaŋga
+thou: ɲirgaŋ
+thou: ɲirgaŋga
+thou: -n̪ur
+thou: -n̪uraŋ
+thou: -n̪uruŋ
+tongue: d̪alaɲ
+tooth: yira
+tree: gundu
+two: bula(r)
+vagina: gala
+wallaby: baraːl
+wallaby: waru
+water: ŋaɟuŋ
+we (excl.): -ɲiliŋ
+we (excl.): ɲunuliŋ
+we (excl.): ɲunuliŋga
+we (incl.): -ɲaŋ
+we (incl.): -ɲanuŋ ~ ɲinuŋ
+we (incl.): -ɲinaŋ
+we (incl.): ɲulgaŋ
+we (incl.): ɲulgaŋga
+we two (excl.): -ŋalin
+we two (excl.): -ŋalin
+we two (excl.): -ŋaliŋ
+we two (excl.): ŋuŋguliŋ
+we two (excl.): ŋunguliŋga
+we two (incl.): -ŋal
+we two (incl.): ŋalagaŋga
+we two (incl.): -ŋalaŋ
+we two (incl.): ŋalgaŋ
+what: miŋgaŋ
+who: ŋanaŋ
+wind: gurgama
+woman: miga
+wood: ganbi
+wood: gundu
+worm: ɟiliga(ŋ)
+you two: bilgaŋ
+you two: bilgaŋga
+you two: -bulaŋ ~ -wulaŋ
+you two: -bulaŋ ~ -wulaŋ
+you two: -mbul ~ -wul

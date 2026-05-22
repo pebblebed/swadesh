@@ -1,0 +1,301 @@
+all: hanomu
+all: hanɔmu
+arm: atowe
+arm: atòwe
+arm: atɔwe
+ashes: owekome
+ashes: òwekòmò
+ashes: ɔwekɔmɔ
+ashes: unɛkamɛ
+back: (mala)go
+back: malakò
+back: malakɔ
+bark: i͂ sia
+bark: i͂ siya
+bark: ĩ si(y)a
+bark: siga
+belly: napò
+belly: napɔ
+big: hiti
+big: hiti
+bird: tiye
+bird: ti(y)e
+bite: ten-a
+bite: ten-a
+black: dige
+black: di-ge
+black: kwigine
+blood: sòwò
+blood: sɔwɔ
+bone: kò
+bone: kɔ
+bone: kɔ
+breast: be
+breast: bu
+breast: bu
+breast: bu
+brother: aiya
+brother: a͂ya͂
+burn: di
+burn: ne dim-enu
+burn: ne dim-enu
+cassowary: òba
+claw: dage
+claw: dage
+cloud: uwe
+cloud: uwe
+cold: suwiga
+cold: suwiga
+come: ha-danò
+come: ha-danɔ
+die: po
+die: po(-la)
+dog: ti
+dog: ti
+dog: ti\i
+drink: de-nu
+drink: de-nu
+dry: kiya-ga
+dry: kiya-ga
+ear: mogamɛ
+ear: mògò
+ear: mɔgɔ
+ear: mowo
+earth: to
+earth: tò
+earth: tɔ
+eat: da
+eat: de-go
+eat: de-nu
+eat: de-nu
+egg: mò\ò
+egg: mɔʔɔ
+elbow: amu
+emu: ɔba
+eye: ginamo
+eye: kere-mo
+eye: kinemò
+eye: kinemɔ
+father: de
+father: de
+fat (n.): sa:
+fat (n.): saː
+feather: tige ouse
+feather: tige ouse
+fingernail: dagɛ
+fire: da
+fire: ne
+fire: nè
+fire: nɛ
+fish: mulu
+fish: mune
+fish: mune
+fly (v.): kada
+fly (v.): ka-da
+fly (v.): ka-de
+foot: tamakere
+forehead: debetere
+full: kokobo
+full: tòwate
+full: tɔwate
+give: de-nu
+give: de-nu
+good: edi(y)a-ge
+good: ediya-ge
+green: mòma-gane
+green: mɔma-gane
+hair: osɛ
+hair: ouse
+hair: ouse
+head: keba
+head: kiba
+head: kiba
+hear: go-dara
+heart: pene
+heart: pe͂ne͂
+hear: wodalaò
+hear: wɔdalaɔ
+he/she: yɔ
+hole: damɛ
+house: a:
+I: no͂
+I: nõ
+I: nɔ͂
+kill: male yenu
+kill: male yenu
+knee: agumu
+knee: oumu
+knee: oumu
+knee: owgumu
+know: dara
+know: nòdalòyò
+know: nɔdalɔyɔ
+leaf: i͂ use
+leaf: ĩ use
+leaf: osɛ
+leg: tamakali
+leg: tamakali
+leg: tele
+lie: ä:-o
+lie: e-nò
+lie: e-nɔ
+long: sige
+long: sige
+louse: kiba \o
+louse: kiba ʔɔ
+louse: ɔ
+man: kobo
+man: kobo
+many: hitiyum
+many: hitiyum
+meat: seyi
+meat: seyi
+moon: abe
+moon: abi
+moon: abi
+moon: abi
+mother: aba
+mother: ama
+mother: ama
+mother: ama
+mountain: gisò
+mountain: gisɔ
+mouth: padame
+mouth: padame
+mouth: padamɛ
+mouth: padane
+name: hi
+name: hi
+name: hi
+neck: kugumu
+neck: tulu
+neck: tulu
+new: koa͂rɛ͂
+new: kɔnɛ
+new: kwane
+new: kwane
+night: hwiga
+night: hwi͂-ga
+night: hwĩ-ga
+nose: kine
+not: amale
+not: amale
+one: aso
+one: òtesò
+one: ɔtesɔ
+person: kobo
+person: kobo
+rain: ɔmɔɛ
+rain: ume
+rain: ume
+red: tau-ge
+red: tau-ge
+road: òtigi
+road: ɔtigi
+road: utigi
+root: i͂ debere
+root: ĩ debere
+sand: deni
+sand: deni
+sand: dərina
+say: gwao
+say: sa ade
+say: sa ade
+say: sa ode
+say: sa ode
+see: de-dò
+see: de-dɔ
+seed: i͂ mu͂
+seed: ĩ mu(nh)
+shoulder: isene
+shoulder: isene
+shoulder: mage
+sister: pe
+sit: ene-nò
+sit: ene-nɔ
+skin: siga
+skin: siga
+skin: siya
+skin: si(y)a
+sleep: kiɔ͂-
+sleep: kiyò e-nò
+sleep: kiyɔ-enɔ
+small: kobo kiti
+small: kɔbɔkiti
+smoke: ne ògwe
+smoke: ne ɔgwe
+smoke: ogɛ
+spit: teregɛ
+stand: he-nò
+stand: he-nɔ
+star: peteme
+star: peteme
+star: pɛtɛmɛ
+stone: iyebo
+stone: i(y)ebò
+straight: dugenɛ
+sun: ge͂nɛ͂
+sun: gïle
+sun: gine
+sun: gine
+swim: ume \i-da
+swim: ume ʔi-da
+tail: hwetò
+tail: hwetɔ
+tail: nakule
+that: ò
+that: ɔ
+thigh: mere-
+this: e
+this: e
+this: yome
+thou: gi
+thou: go
+thou: gò
+thou: gɔ
+tie: ina
+tongue: tä:
+tongue: te
+tongue: tɛ
+tongue: tɛ
+tooth: male
+tooth: male
+tooth: mare
+tooth: marɛ
+tooth: pere
+tooth: pɛrɛ
+tree: i͂
+tree: ĩ
+two: (di)yabò
+two: diyabɔ
+walk: kòdu
+walk: kɔdu
+warm: tee-ga
+warm: teː-ga
+warm: tegɛga
+water: mɔa
+water: obasi
+water: omɛ
+water: ule
+water: ume
+water: ume
+we (incl.): nigi
+we (incl.): nigi
+we: ni
+we: nigi
+what: naganewo
+what: naganewo
+white: gò-gene
+white: gɔ-gene
+white: kwaowe
+who: kòbò nòkòbu
+who: kɔbɔ nɔkɔbu
+wind: nasi
+wing: akò
+wing: akɔ
+wing: ditere
+woman: weye
+woman: wigi
+woman: wigi
+yellow: kòsa-gane
+yellow: kɔsa-gane

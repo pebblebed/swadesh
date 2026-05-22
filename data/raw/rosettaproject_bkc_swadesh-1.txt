@@ -1,0 +1,328 @@
+all: kɔpɛ
+all: pɛ
+and: sì
+and: tɛ
+animal: sɔ
+ankle: békè˗no˗bo
+ankle: ŋgbɔ˗ndíka
+arm: bɛ˗(bo)
+arrow: mbánǯi
+ashes: mbe
+back: pɛ˗
+bad: sítí
+bark: kpe˗
+bark: kukpe
+because: à wa
+belly: bu˗(bo)
+belly: mbù˗(bo)
+big: ŋgbe
+bird: nu
+bite: na nyomò
+bite: na tamìnà
+bitter: sòso
+black: bibi
+blood: nǯɛ
+blow: na ʔuù
+bone: békè˗
+boy: mókɔ́sɛ̀
+branch: bɛ˗lo
+breast: kà
+breast: là˗kà˗
+breathe: mòpɔ̀pò
+breathe: na wɔ̀
+brother: ŋgbébá
+brother: tàdi˗
+burn: na dɛ
+burn: na sɛkɛ̀
+calf: sɔ˗bikɔ˗
+cheek: lìmbùtù
+chest: to˗bo
+child: là
+chin: báŋá
+claw: kukpe
+cloud: sáŋú
+cold: ǯiyò
+come: na dɔ
+correct: sìkìndi
+count: na taŋà
+cut: na konɔ̀
+dark: pítìmà
+daughter: lɛ̀˗wɔ́sɛ̀
+daughter: sia
+day: bìtì
+day: làkpe
+die: ʔá kpì
+die: kò
+die: na kpì
+dig: na lu
+dig: na ǯe
+dirty: lɔ̀kɔ̀
+dirty: mbìndò
+dog: bóló
+drink: na nǯo
+dry: kálákálá
+dust: màɓùtù
+dust: mbùtù
+earth: tóló
+ear: ǯɛ̀˗
+eat: na ǯo
+egg: pa˗
+egg: pàpala
+elbow: mu˗bɛ˗
+eye: là
+eye: nǯinǯa
+face: là˗(bo)
+fall: na tee
+far: gɔ̀lɔ̀
+far: kàkò
+father: bàba
+father: daà
+father: nyùa
+fat (n.): mítà
+fear: gò
+fear: na kpɛ
+feather: su˗
+few: dàdi
+few: ɗíì
+few: mbɛɛ̀
+fight: na lu
+finger: lɛ́ɛ̀˗kpabo
+finger: lɛ́ɛ̀˗no˗bo
+fingernail: kukpe kpa˗
+finger: na kpɔ
+finger: nyíì˗lɛ́ɛ̀˗kpa˗bo
+fire: wà
+fish: si
+five: puè
+float: na nɔɔ̀
+flower: nǯi˗kpa
+flow: na kpɛ̀
+fly (n.): ŋì
+fly (v.): na wuù
+fog: nyɛ
+fog: sáŋú
+foot: múnaŋa~múlanya˗mu˗no˗bo
+foot: no˗
+foot: nòno
+forehead: lìbànǯò˗
+forest: bele
+forest: lo
+four: bàna
+fruit: lékà
+full: na buà
+full: na sì
+full: sísì
+girl: lɛ˗sia
+give: na tɔ
+good: ǯóko
+grass: wúlú
+green: bìbi
+guts: nǯa˗bo
+guts: nǯa˗sɔ
+hair: su˗
+hair: sùsu
+hair: ǯɛ˗sùsu
+hand: bàkutu
+hand: kpa˗
+head: nǯò˗
+head: nǯonǯò
+hear: na ǯɛ̀
+heart: temɛ
+heavy: tí˗
+heavy: tìtílí
+here: nɛ̀
+he/she: a ŋɛ́
+he/she: ŋɛ́
+hit: na bgɔ
+hole: yuko
+horn: dì
+horn: dìdì
+house: nda
+how: mbì yɛkè
+how: pe
+hunt: na geè sɔ
+husband: kɔ˗
+I: a lè
+ice: tɛmɛ̀li
+if: pe
+I: lè
+in: ˗a
+I: ŋaà
+jaw: békè nà ɓáŋá˗bò
+kill: na moò
+knee: nǯòŋgbe˗
+know: na nyì
+lake: mbuya
+laugh: na mùǯɔ
+leaf: kpa˗
+left: kɛndɛ
+leg: bikɔ˗
+lie: ʔé go
+lie: gɔ̀ɛ
+lightning: kaki
+lip: kòto˗mo
+live: na boò
+liver: ŋgɛ́ndɛ̀˗
+long: ŋé˗
+long: ŋèŋélé
+long: ye
+louse: mòɓoli
+louse: mòkènǯò
+louse: sílì
+man: bo
+man: mɔ́kɔ́
+man: mɔ̀kɔ́kɔ́
+many: búà
+many: dàdì
+meat: sɔ
+meat: sɔ˗
+meat: sɔsɔ
+moon: pɛ
+mother: nyá˗
+mountain: keŋa
+mountain: keŋa
+mouth: mò˗bo
+name: ʔe˗
+nape: pɛ ŋɔ̀˗bo
+narrow: ɓekeke
+navel: mònyà˗
+near: mbɔli
+neck: ŋgɔ̀˗
+new: na tɔ̀to
+new: ˗wanǯɔ
+night: pítìmà
+nose: yukona ɓàŋà˗bo
+not: ɓode
+not: de
+not: ode
+one: kpóde
+other: nɔɔ̀
+person: bo
+play: na mɛɛ̀ sɔ̀lɔ
+pull: na gbiɛ̀
+push: na ʔità
+push: na tutà
+rain: ma
+rain: name
+rat: bílì
+rat: kpóò
+red: nyɛ́nɛ̀
+right: na mɔ̀mɔ́kɔ́
+river: bàlè
+road: kpàǯe
+root: sìèsie
+rope: ku
+rotten: ɓòlu
+rotten: ʔèɓòlu
+round: kilikili
+rub: na bandaɑ
+rub: na kukù
+rub: na likì
+salt: tò
+sand: kɛnǯɛ
+say: na kpɔ
+say: na ŋgomà
+say: na ŋomà
+scratch: na kpakà
+seed: là
+see: na mu
+sew: na sò bɔ̀ŋɔ
+sharp: sɛ́˗
+sharp: sɛ̀sɛ́lɛ́
+short: ŋgbu
+shoulder: màɓɛ̀kɛ̀
+sing: na be
+sister: nyúá˗lè
+sit: na kitì
+sit: na titì
+skin: kòto
+skin: kòto
+sky: lìbolò
+sleep: na là
+small: déké
+small: ɗíì
+small: tɛ́ɛ̀
+smoke: ŋuà
+smooth: lèkèlèkè
+snake: kpóló
+snow: tɛmɛ̀li
+son: la. lɛ̀
+sour: nbɛŋgbɛŋgbɛ
+spit: na kɔtù bà
+spit: ŋúsɔ́
+split: na soo
+squeeze: na mekè
+stand: na wòsolo
+star: ŋgɛ́lɛ́mù
+stone: tìmi
+straight: wákà(mà)
+suck: na nǯunǯà
+sun: bàkɔ̀
+sweet: pòkì
+swell: na bimbà
+swim: na gbɔ ŋo
+tail: sɔ˗mu
+take: na ʔi
+take: na ǯa
+that: yékɔ̀
+that: yiɛ̀
+there: ɓo
+there: kɔ̀
+there: mo
+they: a ŋó
+thick: pìpa
+thigh: ku˗
+think: na tɔɔ̀
+thin: lɛlɛ
+this: yɛ́kɛ̀
+this: yɛ́kɛ̀ɔ
+thou: ŋamò
+three: batà
+throat: ŋɔ̀
+throw: na kpiì
+thunder: kaki
+tie: na teè
+today: a làkpe kɛ̀
+tomorrow: du kpe
+tongue: mi˗
+tooth: tɛ˗
+tree: lo
+turn: na pò
+two: bide
+vagina: le˗woósɛ̀
+vagina: ndà˗lé˗ɛ̀
+vagina: ndà˗le wósɛ̀
+vagina: ndà˗le˗wósɛ̀
+vagina: sɔ́sɔ
+vomit: na ǯiè
+walk: nago
+walk: na kpɛ̀
+walk: na nɔɔ̀
+walk: nɔlɔ̀
+warm: bèlaà
+warm: ɓoɓoɓo
+wash: na ǯekè
+water: ŋgo
+we: a ŋa
+weep: kùgba
+weep: ŋo˗là
+wet: sì
+what: nye
+when: à
+where: kà
+white: ɓúɓà
+who: là
+wide: ŋgbeŋgbe
+wife: wáyi
+wife: wɔ˗mò
+wind: lìwɛ̀wɛ̀
+wing: mbúndà
+wipe: na doò
+with: tɛ
+woman: wósɛ̀
+woman: wòwolo
+wood: lɛ̀˗lo
+wood: wà
+worm: póló
+yellow: ʔepùe
+yesterday: ŋili

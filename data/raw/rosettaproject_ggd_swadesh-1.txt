@@ -1,0 +1,95 @@
+animal: miɲ
+bird: miɲuŋkəl
+blood: yirmpər
+brother: paməkaɟ
+burn: kiɟa
+child: yeləwur
+dog: kurək
+eye: yel
+fall: kəta
+father: paməpul
+fear: karpi
+give: yok
+hand: maɹ̣ak
+here: kil
+here: kiːn̪
+here: t̪il
+he/she: -l
+he/she: -nt
+he/she: waːntək
+he/she: yil
+he/she: yilin̪il
+hit: piliː
+I: -aŋ
+I: ŋawəɲ
+I: ŋiyaːntək
+I: ŋuwal
+I: -u
+laugh: yeyak
+man: pam
+meat: miɲ
+mother: paməŋin̪il
+not: yaɹ̣ak
+person: pam
+red: yirmpərirmpər
+sit: n̪a
+sleep: kaŋət
+that: kul
+that: kuːn̪
+that: t̪ul
+that: t̪uːn̪
+there: kul
+there: kuːn̪
+there: t̪ul
+there: t̪uːn̪
+they: -t̪in
+they: t̪in
+they: t̪inintək
+they: t̪inp
+they two: pil
+they two: -pil
+they two: pilintək
+this: kil
+this: kiːn̪
+this: t̪il
+thou: naːntək
+thou: -r
+thou: -t
+thou: yira
+thou: yirinka
+thou: yirint(ək)
+thou: yirmp
+thou: yirmp
+thou: yit(al)
+thou: yitiɲ
+tongue: ŋiɲɟil
+two: tampukar
+walk: kulnki
+wallaby: purkəntaɲɟ
+water: kaməŋand
+weep: yel-əwom
+we (excl.): ŋaɲin
+we (excl.): ŋaɲinintək
+we (excl.): ŋiɲən
+we (incl.): ŋan
+we (incl.): ŋin
+we (incl.): -ŋin
+we two (excl.): ŋaɲilintək
+we two (excl.): ŋaɲin
+we two (excl.): -ŋiɲ
+we two (excl.): ŋiɲ
+we two (incl.): ŋal
+we two (incl.): ŋalin̪
+we two (incl.): ŋalintək
+we two (incl.): -ŋil
+we two (incl.): ŋila
+what: ŋaɲ
+when: ŋan̪t̪iŋint(a)
+where: ŋat̪ək
+who: ŋana
+you two: -wil
+you two: wilintək
+you two: winp
+you two: yil
+you two: yuwəl
+you two: yuwilintək

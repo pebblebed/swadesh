@@ -1,0 +1,218 @@
+all: siahuela
+all: siahuela
+arm: mai
+arm: mai
+ashes: ahurae
+ashes: ahurae
+bark: kora uru
+bark: kora uru
+belly: ére
+belly: ére
+big: (mila)riapo
+big: milariapo/piroriapo
+bird: ori
+bird: ori
+bite: mulamori
+bite: mulamori
+black: maea uruka
+black: maea uruke
+blood: opu
+blood: opu
+bone: uki
+bone: uki
+breast: amae
+breast: amae
+burn: a hai
+burn: a hai
+claw: mai haro
+claw: mai haro
+claw: mora haro
+cloud: mea oro
+cloud: mea oro
+cold: hoholia
+cold: hoholia
+come: heke
+come: heke
+day: meahilaea
+day: meahilaea
+die: opi
+die: opi
+dog: aße
+dog: ave
+drink: ma lera
+drink: ma lera
+dry: koroka
+dry: koroka
+ear: oßoko
+ear: ovoko
+earth: mea
+earth: mea
+eat: lera
+eat: lera
+egg: ori hae
+egg: ori hae
+eye: ohae
+eye: ohae
+fat (n.): meaße
+fat (n.): meave
+feather: ori koro
+feather: ori koro
+fire: a
+fire: a
+fish: ekaka
+fish: ekaka
+fly (v.): ßißila
+fly (v.): vivila
+full: ape furira
+full: ape φurira
+girl: mori
+girl: mori
+give: iara
+give: iara
+good: lapoari
+good: lapoari
+green: maea keiruka
+green: maea keiruka
+hair: haro koro
+hair: haro koro
+head: haro
+head: haro
+hear: iapa
+hear: iapa
+heart: haupe
+heart: haupe
+horn: kea
+horn: kea
+I: ora
+I: ora
+kill: hai
+kill: hai
+knee: mora ari
+knee: mora ari
+know: ore lei
+know: ore lei
+leaf: korakoro
+leaf: korakoro
+leg: mora
+leg: mora
+lie: uaßa
+lie: uava
+liver: iki
+liver: iki
+long: haiapo
+long: haiapo
+louse: karula
+louse: karula
+man: ßilala
+man: vilaia
+many: siahuela
+many: siahuela
+meat: maea-hari
+meat: maea-hari
+moon: kapare
+moon: kapare
+mountain: raepa
+mountain: raepa
+mouth: ape
+mouth: ape
+name: lare
+name: lare
+neck: karaße
+neck: karave
+new: áre
+new: áre
+night: eloa
+night: eloa
+nose: paku
+not: kari
+not: kari
+not: le
+not: le
+one: haipori
+one: haipori
+person: haela
+person: haela
+rain: lai
+rain: lai
+rat: airi
+rat: airi
+red: maea oßoka
+red: maea ovoka
+road: okiharo
+road: okiharo
+root: makere
+root: makere
+round: maea helori
+round: maea helori
+sand: mea kekere
+sand: mea kekere
+sand: miri hororo
+sand: miri hororo
+say: oharo maea
+say: oharo maea
+seed: kora mere
+seed: kora mere
+see: ohae eaßa
+see: ohae eave
+sit: aßa
+sit: ava
+skin: maea uru
+skin: maea uru
+sleep: ißuku uaßa
+sleep: ivuku uava
+small: ekako
+small: ekako
+smoke: oßokohela
+smoke: ovokohela
+stand: uroi
+stand: uroi
+star: kou
+star: kou
+stone: haße
+stone: have
+sun: hare
+sun: hare
+swim: ma ßeßeße
+swim: ma veveve
+tail: auwe
+tail: auwe
+that: lahea
+that: lahea
+this: mahea
+this: mahea
+thou: a
+thou: a
+tomorrow: opoa hare
+tomorrow: opoa hare
+tongue: halela
+tongue: halela
+tooth: kao
+tooth: kao
+tree: kora
+tree: kora
+two: helaukai
+two: helaukai
+walk: mora mea
+walk: mora mea
+wallaby: haiaru
+wallaby: haiaru
+warm: ahea
+warm: ahea
+water: ma
+water: ma
+we (incl.): eleiloila
+we (incl.): eleiloila
+what: le
+what: le
+white: maea helaka
+white: maea helaka
+who: leia
+who: leia
+woman: ußa
+woman: uva
+yellow: maea keiruka
+yellow: maea keiruka
+yes: ehe
+yes: ehe
+yesterday: hailele hare
+yesterday: hailele hare

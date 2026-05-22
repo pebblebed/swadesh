@@ -1,0 +1,347 @@
+all: amibato\o umi
+all: amibatoʔo umi
+all: batomi
+all: bedele
+arm: kata
+arm: pipini
+arm: posi\i
+arm: posiʔi
+ashes: gutale
+ashes: mowimúi
+ashes: mowimuí
+ashes: panehe
+ashes: sopiti
+bark: aipele
+bark: aːó
+bark: a:ó
+bark: i\a
+belly: diro
+belly: uti
+belly: uti
+big: bede
+big: bede
+big: golioliwo
+bird: buwa
+bird: eveha
+bird: eveha
+bird: eweha
+bite: motabe
+bite: walama
+black: boteho
+black: ome ome to
+black: ome ome to
+blood: daheghe
+blood: karimo
+blood: rahage
+blood: rahage
+bone: efale
+bone: efole
+bone: efole
+bone: pip/ni
+breast: bitu
+breast: dolo
+breast: dolo
+breast: imini
+brother: name
+burn: bigoi
+burn: ladeha
+cassowary: henia
+chest: bita
+child: aniwe
+claw: ti\emi
+cloud: aleta
+cloud: diadiálai
+cloud: diadiálai
+cloud: ofuto
+cold: domóge
+cold: domóge
+come: be\o vamoro
+come: beʔo vamoro
+come: (be-)owamo
+crocodile: pakia
+die: detakamame
+die: detakamame
+die: etu\aha
+die: mo\aha
+dog: gaho
+dog: gaho
+dog: gahola
+drink: bedemo
+drink: bedemo
+drink: moleme
+dry: bibirehale
+dry: bibirehale
+dry: etaupata
+dry: patea
+ear: karoni
+ear: ometo
+ear: omɛto
+earth: boti
+earth: bóti
+earth: bóti
+eat: danimo
+eat: lozo ~ lolo
+eat: lozo/lolo
+eat: moze
+egg: futu
+egg: putu
+egg: utu
+egg: φutu
+elbow: ukiaki
+eye: kuhiru
+eye: ufilo
+eye: ufiro
+eye: ufiro
+face: dimata
+father: abire
+fat (n.): bede níofi
+fat (n.): bede ni ófi
+fat (n.): gadi/gomi
+feather: beiruai
+feather: eweha ewewe
+finger: amidorowia
+finger: wakumu
+fire: taeli
+fire: taʲi
+fire: taili
+fire: tairi
+fish: eːbi
+fish: e(:)bi (\eme)
+fish: kewi
+five: tuporo
+flower: demomoko
+fly (n.): kiwi
+fly (v.): modo(\ile)
+foot: hoi
+four: mosokoto
+full: etahewato
+full: mahewate
+give: nomonai
+good: dalo
+good: dalo(le)
+green: awosï\i-wogo
+hair: ewewe
+hair: geau eveve
+hair: geau eveve
+hair: iwiwi
+hand: akiboboko
+head: geo
+head: geɔ
+head: gia
+head: gia
+hear: bewo
+hear: bewo
+hear: mauwe
+heart: bita
+heart: bita
+heart: sosolo/mu\i
+he/she: go
+he/she: go/eye/be
+house: dagio
+I: bita
+I: kononia
+I: no
+I: no
+kill: laghamoile
+kill: mowa\e
+knee: omu u
+knee: omu\u
+knee: omuʔu
+know: fodavugi
+leaf: buale
+leaf: debahai
+leaf: (de-)bahai
+leaf: dereri
+leg: boho
+leg: boho
+leg: dedi-kaba
+leg: idiri
+lie: (oi)telo
+lip: itaubo
+liver: ivo
+liver: iwa
+long: goliolive
+long: goliolive
+long: golioliwo
+louse: kari
+louse: oali
+louse: oali
+louse: wali(eme)
+man: ama
+man: ama
+man: ami
+many: bede
+many: bede(le)
+meat: ailu
+meat: airu
+meat: airu
+moon: bubei
+moon: bubei
+moon: bubei
+moon: siwo
+mosquito: noniti
+mother: inawe
+mountain: hema
+mountain: ?ifia hakapu
+mountain: ifia hakapu
+mountain: kakabu
+mouth: behe
+mouth: moghoto
+name: digo
+name: dogo
+name: dogɔ
+nape: tumu\u
+navel: dukumu
+neck: bapo\ole
+neck: bapoʔole
+neck: hokori
+new: giala
+night: di\a
+night: dika
+night: dió
+night: díɔ
+nose: dehi
+nose: dehi
+not: biale
+one: dagemu
+one: dagomolo
+one: dagomolo
+one: lagei
+rain: daleho
+rain: goi-oi
+rain: goloí
+rain: gozoi
+rain: gozoi ~ golói
+rat: gerepo
+red: bitivoko
+red: biti-voko
+red: biti-wogo
+river: era
+road: idi
+road: idi
+road: idi
+root: kiti
+root: me\ele
+root: méele
+root: me éle
+root: upoli
+round: putoia
+sand: gipoi
+sand: gipɔi
+sand: giri
+sand: momoki
+sand: so ovoi
+sand: sopuli
+say: beaitame
+say: beitamo
+say: beitamo
+see: be\ai to
+see: beʔai to
+seed: bomode
+seed: demomo\o
+seed: demomoʔo
+see: ma\anote
+see: mo\ote
+shoulder: belo
+shoulder: bero
+sister: name
+sit: bebaleho
+sit: (be-)bale(ho)
+sit: momie
+skin: ai pele
+skin: ai pele
+skin: aipele/gigi
+skin: kipor
+sky: nggos
+sleep: betelo
+sleep: (be-)telo
+sleep: moteia
+small: gois\e
+small: goisiʔe
+smoke: kahuri
+smoke: ofuto
+smoke: oputo
+smoke: oφuto
+snake: beke
+stand: be\a uri ropo
+stand: beʔa uri ropo
+stand: uilo(-wo)
+star: bobe
+star: bobe
+star: so
+stone: amahe
+stone: amahe
+stone: kewahe
+sun: bubei
+sun: naumu
+sun: sei
+sun: seií
+sun: seií
+sun: seki
+swim: eégeó
+swim: eégeó
+tail: gogoamu
+tail: wahe
+that: etie
+they: dau
+they: do
+they: do/eti
+they two: ami ukiai
+this: ape wovavo
+this: ape wovavo
+this: eti
+this: wobo
+thou: do
+thou: go
+thou: go
+thou: nowani
+three: mahigagi
+three: taidage
+throat: ho\o
+tongue: koda
+tongue: oda
+tongue: oda
+tooth: behe
+tooth: behe
+tooth: beheiti
+tree: dagio
+tree: de
+tree: te
+tree: te
+two: mahi
+two: ukia(i) (moro)
+two: ukia moro
+walk: oba
+walk: owa (molo)
+warm: papato
+warm: papato
+water: agi
+water: muru
+water: sa\aghi
+water: žagi
+we (incl.): ni
+we (incl.): ni(go)
+we: ni
+we two (incl.): ?kiai
+we two: kiai
+we two: nigo
+what: a\ailo
+what: a\oiro
+what: aʔoiro
+white: abu-ogo
+who: vetaiíro
+who: vetaiíro
+who: woteiro
+wife: pekawiamiu
+wind: hubato
+woman: ifa
+woman: ifa
+woman: kihiau
+yellow: etavoto
+yellow: eta-voto
+yellow: eta-wogo
+you: dau
+you: do/eti
+you two: dau kiai
+you two: ukiai
+you two: ?ukiai

@@ -1,0 +1,334 @@
+all: apaimene
+all: apaimene
+arm: he riki
+arm: he riki
+arm: se
+arm: see
+arm: sii
+ashes: ato-boti
+ashes: atoputi
+ashes: atoputi
+bark: hevi
+bark: hevi
+belly: di
+belly: dumuhau
+belly: yo
+belly: yo
+big: gwobi
+big: gwɔbi
+bird: ka
+bird: ka
+bite: teketo
+bite: teketo
+black: hukuri
+black: hukuri
+blood: hokore
+blood: hokore
+blood: hokore
+bone: rapo
+bone: rapo
+bone: trapo
+boy: magoraheni
+branch: i-rui
+breast: ho
+breast: hɔ
+breast: hu
+burn: yakarato
+burn: yakarato
+butterfly: boi-boi
+butterfly: poi-poi
+child: pore
+claw: kohemu
+claw: kohe͂mu
+cloud: uru paruho
+cloud: uru paruho
+cold: hahau
+cold: hahau
+come: umui
+come: yato
+come: yato
+crocodile: emo
+die: kahekapo
+die: kahekapo
+dog: ka
+dog: ka
+dog: ka
+dog: kaka
+drink: obora
+drink: u nato
+drink: u nato
+dry: hene
+dry: hene
+ear: ku pate
+ear: ku pate
+ear: kupati
+ear: qopati
+earth: hapu
+earth: hapu
+earth: hapu
+earth: sapo
+eat: kai
+eat: nato
+eat: nato
+eat: n-o/n-onoa/n-omo/n-omo/n-ado/n-emo
+egg: kai
+egg: re
+egg: re
+elbow: hemarkau
+eye: hihi-ti
+eye: i:
+eye: ihita
+eye: ihita
+face: hihi-rapu
+father: aba
+fat (n.): wopi
+fat (n.): wopi
+feather: ka
+feather: ka pate
+feather: mahaaribata
+finger: emurabu
+finger: ketuhi
+fire: ebani
+fire: i
+fire: i
+fire: ibani
+fish: namo
+fish: namu
+fish: namu
+fish: namu
+fish: namu
+five: hemu
+fly (n.): kugu
+fly (n.): morapo
+fly (v.): pona uto
+fly (v.): pona uto
+foot: da
+foot: terami
+forest: binite
+four: tuhi
+full: orope
+full: orope
+girl: buhe
+give: tato
+give: tato
+give: terema
+good: kahau
+good: kahau
+good: namo
+good: nato
+green: kepa
+green: kepa
+hair: au-badi
+hair: pate
+hair: pate
+hair: pati
+hand: see
+hand: sii
+head: wotu
+head: wotu rapo
+head: wotu rapo
+heart: kamau
+heart: kamau
+hear: woito
+hear: woito
+he/she: ane
+he/she: ane
+he/she: -omo
+hit: te-umu
+horn: kepare
+horn: kepare
+house: mi
+house: vi
+I: emo
+I: ene
+I: ene
+I: -o
+kill: rato
+kill: rato
+kill: wotu
+knee: lemoko
+knee: lemoko
+know: ranemepo
+know: ranemopi
+leaf: i pate
+leaf: i pate
+leaf: iwui
+leaf: kiwa
+leg: re riki
+leg: re riki
+leg: rumu
+lie: hita
+lie: pekete
+lie: pekete/hita
+lip: o-abau
+liver: upi
+liver: upi
+long: hau
+long: hau
+louse: kuro
+louse: kuro
+louse: kuro
+man: makori
+man: taunama
+man: uguheni
+man: uki
+man: uki
+many: tane hari
+many: tane hari
+meat: mehamu
+meat: mehamu
+moon: dari
+moon: pari
+moon: pari
+mosquito: nonuku
+mother: woi
+mountain: akapu
+mountain: akapu
+mountain: puhuwoi
+mouth: o
+mouth: o
+mouth: u
+mouth: uti
+name: paina
+name: paina
+navel: duma
+neck: hipu riki
+neck: hipu riki
+neck: ibu-rigi
+new: woinu
+new: woinu
+night: riho
+night: riho
+night: uru-homo
+nose: iu-rapi
+nose: yu
+nose: yu rapo
+not: miimo
+not: miːmo
+one: leiabai
+one: riabai
+one: ṛiabai
+rain: kapo
+rain: kapo
+rain: kapu
+red: hokore
+red: hokore
+river: emamu
+river: u-tui
+road: te
+road: tei
+road: te͂i͂
+root: arui
+root: i rui
+root: i rui
+rope: kar
+rope: kobiar
+sand: kigini
+sand: wio
+sand: wio
+say: keto
+say: keto
+see: atiramora
+seed: maro
+seed: maro
+see: wahito
+see: wahito
+shoulder: iaburabu
+sit: maru moto
+sit: maru moto
+skin: evi-tau
+skin: heitau
+skin: hei-tau
+skin: sèvi-tau
+sky: nòro
+sleep: hitato
+sleep: hitato
+sleep: kaida
+small: matu
+small: matu
+smoke: i ahinu
+smoke: i ahinu
+smoke: iehino
+snake: kapo
+spit: kohapi
+stand: raito
+stand: raito
+star: huri
+star: pari hipi
+star: pari hipi
+stone: akapu
+stone: akapu
+sun: eho
+sun: eho
+sun: nara
+sun: uru
+swim: uhine
+swim: uhine
+tail: tura
+tail: tura
+that: oko
+that: oko
+they: ame
+they: ame
+they: -emo
+they two: ati
+they two: ati
+this: ale
+this: ale
+thou: eke
+thou: eke
+thou: igia
+thou: ikipo
+thou: ikipo
+thou: kame
+thou: -onoa
+three: siri
+tongue: oho
+tongue: ɔhɔ
+tongue: uhu
+tooth: magu
+tooth: maku
+tooth: maku
+tree: i
+tree: i
+tree: i
+tree: ii
+two: tai
+two: tai
+two: tai
+walk: utu
+walk: ve
+walk: ve
+wallaby: hawari
+warm: epo
+warm: epo
+water: nana
+water: u
+water: u
+water: u
+water: u
+we (incl.): name
+we (incl.): nati
+we: na-me
+we: -omo
+we two (incl.): nati
+we two: na-ti
+what: kopa
+what: kopa
+white: paruho
+white: paruho
+who: maː
+who: maa
+wife: enawo
+wind: marari
+woman: paimato
+woman: wo
+woman: wo
+woman: wohoni
+woman: wor
+yellow: yeya
+yellow: yeya
+you: -ado
+you: ka-me
+you two: kati
+you two: ka-ti

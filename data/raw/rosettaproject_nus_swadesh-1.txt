@@ -1,0 +1,299 @@
+all: kendial
+all: kɛndial
+and: kene
+animal: ley
+ashes: ngeth
+ashes: pʰokʰ
+back: jok
+bad: jiaak
+bark: kʰʊm
+bark: kom/ guey
+because: ke hoo
+belly: bap/ bap duor ka
+belly: ǯɪc
+big: mɪːdiːtʰ
+big: mi diit
+bird: dit
+bird: ditʰ
+bite: kac
+bite: kʰɛo
+black: ˗čarr
+black: mi car
+blood: riem
+blood: rriyɛm
+blow: piny
+bone: cʊaː
+bone: coa
+breast: kaw
+breast: thin
+breathe: yiee
+burn: wang
+burn: wa̰ŋ
+child: gat
+claw: rriʊp
+cloud: pʷa̰rr
+cloud: puaar/ wuon
+cold: kʰɔč˗kʰoč
+cold: koc/thonythony
+come: ber
+come: bɪrr
+correct: cunge/
+count: kuen
+cut: nguok
+day: cang
+die: lia
+die: liyah
+dig: tet
+dirty: niet
+dog: jiok
+dog: ǯiukʰ
+drink: math
+drink: matθ
+dry: koot/mi koot
+dry: kʰʊːtʰ
+dull: mi puolpuol
+dust: tur
+ear: jith
+earth: wicmuon/piny
+ear: ǯitʰθ
+eat: čam
+eat: mieth
+egg: tuong
+egg: tʰuɔŋ
+eye: wang
+eye: wɛŋ
+fall: pean
+far: nan
+father: guan
+father: qurr
+fat (n.): cuath/thiol
+fat (n.): tθiol
+fear: dual
+feather: juat
+few: titot/tidakdaak
+fight: kor
+fingernail: riop yietka
+fire: mac
+fire: mač
+fish: rec
+fish: rrɛč
+five: dhiech
+float: thoar/ mithaar
+flower: gaak/ gaak jiath
+flow: lony
+fly (n.): luaŋ
+fly (v.): par/mi par ke nhial
+fog: rur
+foot: pat ciok
+foot: pʰɛtʰčioʷʰɛ
+forest: rup
+four: nguaan
+freeze: liet/mi ci liit ke koc
+fruit: dojiaath
+full: thiaang/mi ci thiaang
+give: muoc/thop
+give: tθopʰ
+good: gʷaʔɛ
+good: gooy
+grass: juaac
+grass: ǯwaːč
+green: toc /mi toc
+guts: jiaac
+hair: niyɛ̰m
+hand: tet
+hand: tʰɪtʰ
+head: wɪč
+head: wic
+hear: lieng
+hear: lɪːngɛ
+heart: loc
+heart: lɔːč
+heavy: thiekthiek
+he: jen wut
+here: guame
+hit: piem
+hold: rom
+horn: tʊŋ
+horn: tung
+how: hidi
+hunt: kak
+husband: cou
+if: mi
+I: han
+I: hɛn
+in: rey
+kill: nak
+kill: nɛkʰ
+knee: muol
+knee: nɛč
+know: mɔːlʲ
+know: ngac
+lake: bar
+laugh: tok
+leaf: jith jiath
+leaf: ǯɪtθ˗
+left: cam
+leg: ciok
+lie: kac
+liver: čʷɛn
+liver: cuany
+live: tek
+long: bar
+long: berr˗bɛrr
+louse: nyaːkʰ
+man: rrɛn
+man: wut
+many: ti nguan
+many: tʰɪŋ˗wan
+meat: ring
+meat: rrɪŋ
+moon: pay
+moon: pʰaːy
+mother: man
+mountain: pam midiit
+mountain: pʰɛm
+mouth: thok
+mouth: tθɔːkʰ
+name: ciot
+name: čuʷʰ
+narrow: mi ciwciu
+near: thiak
+neck: ŋʷɔːk
+neck: nguak
+new: mi paytuook
+new: miːpaːyǯɛkʰ
+night: waar
+night: wæ̰ːrr
+nose: wum
+not: cie jen
+old: doang
+one: kel
+one: kʰɛl
+other: dodien
+other: mi˗dodiːyɛn
+person: raan
+play: ngar
+pull: thot/ yoac
+push: hook
+rain: nhiaal
+rain: niyaːl
+red: lual
+red: ˗lwal
+right: cuec
+river: kir / yier
+road: duop
+road: duʔpʰ
+root: mei˗
+root: mie jiath/ciok jiath
+rope: rok
+rotten: nguoth
+round: gulgul
+rub: mony/ cuoth
+salt: kate
+sand: lʲɛtʰ
+sand: liet
+say: lare
+say: larre
+scratch: jony
+sea: bar
+seed: kʷai
+seed: kuee
+see: nen/ guec
+see: nɛːni
+sew: koc
+sharp: mothmoth
+short: ciekciek
+sing: ket
+sit: nyuur
+sit: ɲuːri
+skin: guop
+skin: kɛl
+sky: nhial
+sleep: nien
+sleep: niyɛn
+small: mi tot
+small: ˗tʰɔtʰ
+smell: nguany
+smoke: tol
+smoke: tʰol
+smooth: puothpuoth
+snake: thol
+snake: tθɔl
+some: thande/thandien
+spit: nguol
+split: daak
+squeeze: nhiec
+stab: yieth
+stand: čʊŋni
+stand: cuong
+star: kuel/ cier
+star: kwɛl
+stick: keet
+stone: dolpaam
+stone: pʰɛm
+straight: cungcung
+suck: lueth
+sun: cang
+sun: čɛŋ
+swell: nguac
+swim: ket
+swim: kʰɪtʰ
+tail: jual
+tail: ǯuɛl
+that: mimi
+there: guamo
+they: ken
+thick: thiak/ deel
+thin: cieu
+thin: čiw˗čiw
+think: car
+this: meme
+this: nɪmɪh
+thou: yɛn
+thou: yien/ jin
+thou: ǯɪːn
+three: dʲekʰ
+three: diok
+throw: yor/ yori je
+tie: yien
+tongue: lep
+tongue: l̥ɛph
+tooth: l̥e
+tooth: leykel lec reu
+tree: jiath
+tree: ǯiatθ
+turn: riat/luoc/ ce loc
+two: reu
+two: rrɛu
+vomit: ngok
+walk: jal
+walk: wirr
+warm: mor mor
+warm: mɔr˗mɔr
+wash: lak
+water: pʰiː
+water: pi /piu
+we: kʰɔn
+we: kon/ko
+wet: hoac/mi hoac
+wet: waːč
+what: ɛŋuh
+what: ngu
+when: ney
+where: ni /winith
+white: boor/mi boor
+white: ˗bɔrr
+who: ɛŋah
+who: nga
+wide: hephep
+wife: ciek mi cikueen
+wind: jiom
+wing: gok/ kot
+wipe: puoc/yieny
+with: ke
+woman: čɛkʰ
+woman: ciek
+worm: naar muon
+year: ruoon
+yellow: yian/ mi yian
+you: jin

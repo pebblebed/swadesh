@@ -1,0 +1,833 @@
+animal: min̪a
+ankle: aŋgu
+ankle: aŋguːla
+ankle: yurgu
+arm: winda
+arm: winda
+arm: winda
+ashes: aɲɟuː [aŋgaːlamba-ibun̪d̪in̪u]
+ashes: aɲɟul [aŋgaːlamba-ibun̪d̪in̪u]
+ashes: aɲɟul [aŋgaːlamba-ibun̪d̪in̪u]
+back: uðumbuɲ
+back: uðumbuɲ
+back: wunduɲ
+back: wunduɲ
+back: wunduɲ
+back: wunduɲ
+bad: uybu
+bad: uybu
+bad: wuybu [ambuɟaga]
+bark: aguɲ
+bark: aguɲ
+bark: aguɲ
+belly: liba-wuybu
+belly: ludbi [aßiða]
+belly: ludbi [aßiða]
+belly: ludbi [aßiða]
+big: amaɲma [aɲindi]
+big: aßugun
+big: aßugun
+bird: arga
+bird: arga
+bird: min̪a
+bite: wad̪a [abyaŋa]
+bite: wad̪a [abyaŋa]
+bite: wad̪a [abyaŋa]
+black: manara
+black: manara
+black: unma [an̪d̪u]
+black: unma [an̪d̪u]
+black: unma [an̪d̪u]
+blood: luguɲ
+blood: uɟuɲ [ibilili]
+blow: labu
+blow: ußan̪aŋa [aɲindi]
+blow: ußan̪aŋa [aɲindi]
+blow: ußan̪aŋa [aɲindi]
+bone: abuða [igyalid̪a]
+bone: abuða [igyalid̪a]
+bone: abuða [igyalid̪a]
+boy: aɲɟalan̪d̪inu [iɲɟiːnigi]
+branch: winda
+branch: winda
+branch: winda
+breast: awuɟa
+breast: uɲuŋu [aßudya]
+breast: uɲuŋu [aßudya]
+breast: uɲuŋu [aßudya]
+breathe: an̪a
+breathe: an̪a
+breathe: an̪a
+brother: ubuŋga
+brother: ubuŋga
+brother: ubuŋga
+burn: wa [amayan̪aŋa]
+burn: wa [amayan̪aŋa]
+burn: wa [amayan̪aŋa]
+burn: wan̪d̪i [amaya]
+butterfly: ad̪awuɲ
+butterfly: uniːna
+calf: aybal [wuɲan̪u]
+calf: muduɲ
+calf: muduɲ
+calf: muduɲ
+calf: n̪ugal-aybal
+calf: ugaː-aybaː
+cheek: ula
+cheek: ula
+cheek: wula [adban]
+chest: aɣanabuða [walɣaɹ̣a]
+child: agimbada [aɲɟaði]
+child: alɣuːmala
+child: muba
+child: muba
+child: muba
+child: uðaygi
+chin: aɲa
+chin: aɲa
+chin: aɲa
+cloud: aɟaː
+cloud: aɟal
+cloud: aɟal
+cold: aɟanba
+cold: uɟangama
+cold: ugyan̪d̪uɲ [ɹ̣ißuɲ]
+cold: ußan̪u
+come: ana
+come: ana
+come: ana
+come: anma
+come: anma
+crocodile: igambara [adbaliŋan̪u]
+crocodile: iganba
+crocodile: iganba
+cut: ibaːda
+cut: ibaːda
+cut: ude
+cut: ude
+cut: ude
+cut: ude [ilɣaŋa]
+dark: manma
+dark: yubul
+daughter: umuɲu
+daughter: umuɲu
+daughter: umuɲu
+day: wuŋayamba
+day: wuŋayba
+day: wuŋayba
+die: alɣa [ayiði]
+die: alɣa [ayiði]
+die: alɣa [ayiði]
+die: ɹ̣ud̪u [ayaðin]
+die: yud̪u
+die: yud̪u
+dig: aŋa [aɣumba]
+dig: aŋa [aɣumba]
+dig: aŋa [aɣumba]
+dig: aßa
+dig: aßa
+dig: ibande
+dirty: manara
+dirty: manara
+dirty: unma
+dirty: unma
+dirty: unma
+dog: udaɣa [uɲawibuði]
+dog: udaɣa [uɲawibuði]
+dog: udaɣa [uɲawibuði]
+drink: uŋya
+drink: uŋye
+drink: uŋye [ambaŋa]
+dry: ɹ̣aɟuɲ [wiɟi]
+dry: yaɟuɲ
+dry: yaɟuɲ
+dust: ani-unuŋguː
+dust: nani-muba [awaɹ̣a]
+ear: aɟawi
+ear: aɟawi
+ear: aɟawi
+ear: iwuɲ
+earth: ani
+earth: ani
+earth: nani [awaɹ̣a]
+ear: uguɟi [animan̪u]
+eat: uŋya
+eat: uŋye
+eat: uŋye [ambaŋa]
+egg: aɟin
+egg: uŋgeːni [wunba]
+egg: wanawa
+egg: wuɹ̣in
+egg: wuyunba
+egg: yagyuru
+elbow: yudu [ilɣan̪u]
+elbow: yudu [ilɣan̪u]
+elbow: yudu [ilɣan̪u]
+emu: urguː
+emu: urgul
+emu: wuɣan̪u [aniɟaga]
+eye: aŋwaː
+eye: aŋwaː-aɲan
+eye: aŋwaː-ad̪an
+eye: anŋal
+eye: anŋal-ad̪an
+eye: iban̪-ad̪an
+eye: iban̪ [animan̪u]
+face: yabi
+face: yabi
+face: yabi
+fall: alɣa [ayiði]
+fall: alɣa [ayiði]
+fall: alɣa [ayiði]
+far: wan̪u
+far: wan̪u
+father: ißaða
+father: ißaða
+father: ißuɲ
+fat (n.): ubunman̪u
+feather: adaßa
+feather: adaßa
+feather: adaßa
+feather: iɟuɲ
+feather: iɟuɲ
+finger: mada-aliːɲi
+finger: mada-ugyama
+finger: mada-uɟuma
+finger: mada-uɟuma
+fingernail: mada-imun̪d̪al
+fingernail: mada-yad̪aː
+fingernail: mada-yad̪al
+fingernail: yad̪aː
+fingernail: yad̪al
+fire: an̪d̪ara
+fire: an̪d̪ara
+fire: an̪d̪ara
+fire: midi-midi
+fire: uma [aŋgaːlamba]
+fire: uma [aŋgaːlamba]
+fire: uma [aŋgaːlamba]
+fire: uma-lalan
+fish: in̪a-aɲiː
+float: wamba [wuːɹ̣ama]
+float: wamba [wuːɹ̣ama]
+float: wamba [wuːɹ̣ama]
+flower: idaɣa
+fly (n.): ama [aŋguma]
+fly (n.): ama [aŋguma]
+fly (n.): ama [aŋguma]
+fly (n.): uybuɲ [umbad̪uguði]
+fly (n.): uybuɲ [umbad̪uguði]
+fly (n.): uybuɲ [umbad̪uguði]
+fly (v.): ißaːma
+fog: adayan
+fog: id̪ayu
+fog: uyuyu
+foot: n̪ugal [anayan̪u]
+foot: n̪ugal-liba
+foot: n̪ugal-wud̪u
+foot: ugaː
+foot: ugal
+foot: ugal-ud̪u
+foot: ugal-yabwan
+foot: ugaː-ud̪u
+foot: ugaː-yiba
+forehead: yabi [uɟuŋgumu]
+forehead: yabi [uɟuŋgumu]
+forehead: yabi [uɟuŋgumu]
+fruit: ayi-abun
+fruit: ayi-abun
+fruit: mayi-wabun
+full: n̪aŋga-alɣa
+full: wamban
+full: wamban
+full: wamban
+girl: amad̪inu
+girl: amad̪inu
+girl: umayban̪u
+girl: umayban̪u
+give: u [igunduŋa]
+give: u [igunduŋa]
+give: u [igunduŋa]
+good: igama
+good: igama
+good: iganma [ugadaŋan̪u]
+grass: aɲan
+grass: aɲan
+grass: iðamu [udbumu]
+guts: aßiða
+guts: aßiða
+guts: lagun
+hair: ambin̪ambi [ubaŋuba]
+hair: ambin̪ambi [ubaŋuba]
+hair: ubaŋuba
+hand: mada [ambaban̪u]
+hand: mada [ambaban̪u]
+hand: mada [ambaban̪u]
+hand: mada-igama
+hand: mada-uðuru
+hand: mada-yiba
+head: abun
+head: abun
+head: wabun [wudbagan̪u]
+hear: ami
+hear: ami
+hear: ami
+hear: ami [alaðiŋa]
+hear: ami [alaðiŋa]
+hear: ami [alaðiŋa]
+hear: igyami
+hear: igyami
+heart: anduði
+heart: anduːn
+heart: anduːn
+heavy: aɣadibu
+heavy: aɣadibu
+heavy: uŋgun
+heavy: uŋgun [malguɲ]
+here: ura
+here: ura
+here: ura
+he/she: ulu(ßa)
+he/she: ulu(ßa)
+he/she: ulu(ßa)
+he/she: uŋumu
+he/she: uŋumu
+he/she: uŋumu
+he/she: un̪u(ßa)
+he/she: un̪u(ßa)
+he/she: un̪u(ßa)
+hit: aru [ubaɲɟaŋa]
+hit: aru [ubaɲɟaŋa]
+hit: aru [ubaɲɟaŋa]
+hit: lanbi
+hold: ayba
+hold: ayba
+hold: ayba
+hole: aðaː
+hole: aðal
+hole: aðal [mayin̪d̪in̪ugaːli]
+house: awuɟi
+house: awuɟi [ugamu]
+house: yud̪a
+house: yud̪a
+hunt: aðaŋa
+hunt: iðiniŋa
+hunt: iyuŋa
+husband: anbaŋu
+husband: anbaŋu
+husband: anbaŋu
+I: an̪i(ßa)
+I: an̪i(ßa)
+I: an̪i(ßa)
+I: at̪umu
+I: at̪umu
+I: at̪umu
+I: ayu(ßa)
+I: ayu(ßa)
+I: ayu(ßa)
+jaw: wula
+kangaroo: agurbu [uɟuŋgumu]
+kangaroo: agurbu [uɟuŋgumu]
+kangaroo: agurbu [uɟuŋgumu]
+kangaroo: ibamu
+kangaroo: imaɟaga
+kangaroo: imaɟaga
+kangaroo: imaɟaga  [ayambara]
+kill: umbi
+kill: umbi
+kill: yumbi
+knee: wuŋgu [ubaya]
+knee: wuŋgu [ubaya]
+knee: wuŋgu [ubaya]
+lake: ibi-muduɲ
+lake: wabila
+lake: yadi-muduɲ
+lake: yadi-muduɲ
+laugh: aŋgaːri [iɲari]
+laugh: aŋgaːri [iɲari]
+laugh: aŋgaːri [iɲari]
+leaf: yamba [maːlu]
+leaf: yamba [maːlu]
+leaf: yamba [maːlu]
+left: ɹ̣aguði
+left: winda-muba
+lie: una [uɣuma]
+lie: una [uɣuma]
+lie: una [uɣuma]
+lightning: ɹ̣iban
+lightning: un̪d̪uymu-mada
+lightning: un̪d̪uymu-mada
+lip: aŋga-inbiri
+lip: n̪aŋga-inbiri [aɲura]
+live: ina
+live: ina
+live: ina
+liver: liba
+liver: yiba
+liver: yiba
+long: ilßal
+long: ilßalaguɲ
+long: ɹ̣uɣuði
+long: ɹ̣uɣuði [ɹ̣udunbiði]
+louse: agu
+louse: agu
+louse: agu
+louse: agu
+louse: agu
+louse: agu
+louse: digad̪a
+louse: ußi
+man: ama [umaŋan̪u]
+man: ama [umaŋan̪u]
+man: ama [umaŋan̪u]
+man: ambaːmu
+man: ambaːmu
+man: ambaːmu
+many: ilßan
+many: ilßan
+many: in̪ɟandu
+many: magyaːna
+meat: ayama
+meat: ayama
+meat: min̪a [ußilamu]
+moon: agyaːna
+moon: agyaːna-abuða
+moon: agyan-aɣadibu
+moon: agyan [ɹ̣iwiyal]
+moon: agyan [ɹ̣iwiyal]
+mosquito: iwan
+mosquito: iwan
+mosquito: iwan
+mother: uŋuɲu
+mother: uŋuɲu
+mother: uŋuɲu
+mountain: ɹ̣andal
+mountain: yandaː
+mountain: yandal
+mouth: aŋga
+mouth: aŋga
+mouth: aɲura
+mouth: n̪aŋga [aɲura]
+name: aɲiː
+name: aŋyal
+name: aßil
+nape: wugan [in̪aŋgwin̪u]
+nape: wugan [in̪aŋgwin̪u]
+nape: wugan [in̪aŋgwin̪u]
+navel: uɣara [wabila]
+navel: uɣara [wabila]
+navel: uɣara [wabila]
+new: anbaɲɟa
+new: anbaɲɟamuguði [unuŋunmuguði]
+new: muguði
+new: udaðumu
+night: unmaɣuwa
+night: unmaːwa
+night: unmaːwa
+not: aɹ̣ama
+not: aɹ̣ama
+not: aɹ̣ama
+not: uwunu
+not: uwunu
+not: uwunu
+old: amalidaði
+old: wudbu [ayaːmu]
+old: wudbu [ayaːmu]
+old: wudbu [ayaːmu]
+old: wudbuma
+old: wudbuma
+old: wudbuma
+one: ibima
+one: ibima
+one: n̪ibima [inuŋgu]
+other: uɲa
+other: uɲin̪a
+other: uɲin̪a
+other: wan̪u
+person: ama
+person: ama
+person: ama
+play: ißagya
+play: ißagya
+play: ißaligya
+pull: awawa
+pull: ulßaraŋa
+pull: ulßaraŋa
+push: wubin̪aŋa [ad̪ußuðu]
+push: wubin̪aŋa [ad̪ußuðu]
+push: wubin̪aŋa [ad̪ußuðu]
+rain: ibi
+rain: ibi
+rain: ibi
+rat: aɟara
+rat: aɟaragi
+rat: aɟaragi
+rat: aɟara [uɣunda]
+rat: maŋgaði
+rat: waɟara
+rat: waɟara
+rat: waɟara
+rat: waɟara
+red: luguguɲn
+red: udiɲ
+right: inimiði
+right: winda-uɟuma
+river: adaßa [anbin̪u]
+river: adaßa [anbin̪u]
+river: adaßa [anbin̪u]
+river: yadi
+river: yadi
+river: yadi
+river: yadi
+river: yadi
+river: yadi
+road: ulumu
+road: ulumu
+road: ulumu [aɲaːra]
+root: aga
+root: ayaŋgi
+root: id̪in
+root: id̪iːna
+root: id̪iːna
+root: irimbi
+rope: adaː
+rope: adal
+rope: adal
+rope: muɹ̣i
+rope: muɹ̣i
+rotten: ɣad̪a
+rotten: ad̪a
+rotten: ad̪a
+rotten: ad̪uði [ußuŋußu]
+rotten: umundi
+rub: muybaŋa
+rub: uyuru
+rub: uyuru
+sand: ani
+sand: ani
+sand: nani
+sand: wuɹ̣unbi
+say: igya [ulan̪d̪ima]
+say: igya [ulan̪d̪ima]
+say: igya [ulan̪d̪ima]
+scratch: umbuːri
+scratch: un̪d̪iðaŋa
+scratch: ußi
+sea: ayun
+sea: ayun
+sea: ayun
+sea: ayun
+sea: n̪alun
+sea: n̪alun
+see: agyi
+see: agyi
+see: agyi
+see: agyi [unmaŋa]
+see: agyi [unmaŋa]
+see: agyi [unmaŋa]
+seed: ayi-abun
+seed: ayi-abun
+seed: mayi-wabun
+sew: wan̪d̪a
+sharp: id̪an
+sharp: uraɲambu
+short: aŋgud̪u
+short: aŋgud̪u
+short: aŋgud̪u
+short: maŋga [muyan]
+short: maŋga [muyan]
+shoulder: aɣaː
+shoulder: aɣal
+shoulder: aɣal [id̪alɣa]
+sister: id̪amu
+sister: ubandin
+sister: ubandin
+sister: ubandin
+sit: ina [aðuma]
+sit: ina [aðuma]
+sit: ina [aðuma]
+skin: aguɲ [muɲɟaɣa]
+skin: aguɲ [muɲɟaɣa]
+skin: aguɲ [muɲɟaɣa]
+sky: aɟaː
+sky: aɟal
+sky: aɟal
+sleep: iɹ̣i
+sleep: iyi
+sleep: una [uɣuma]
+sleep: una [uɣuma]
+sleep: una [uɣuma]
+small: agimbada  [aɲɟaði]
+small: agimbada [aɲɟaði]
+small: alßamu
+small: uðaygi
+smell: mid̪a
+smell: mid̪a
+smell: mid̪a
+smoke: ugyul
+smoke: unuŋguː
+smoke: uɹ̣ul
+smooth: idußaŋga
+smooth: muybaɲ
+smooth: waliːɲ
+smooth: waliːɲ
+snake: ida [wayinmu]
+snake: ida [wayinmu]
+snake: ida [wayinmu]
+son: umuɲu
+son: umuɲu
+son: umuɲu
+sour: aɣa [wuluyma]
+spit: manu-ugiri
+spit: manu-ugiri
+spit: manu-ugiri
+spit: muɲa
+spit: muɲa [lan̪un]
+spit: ugiri
+spit: ulgin
+split: abaɹ̣aŋga
+split: aßanda
+split: ibalaga
+squeeze: anubu
+stand: aɲa [ɹ̣umbuma]
+stand: aɲa [ɹ̣umbuma]
+stand: aɲa [ɹ̣umbuma]
+stand: ugaman̪aŋa
+star: unbi
+star: unbi [windamwindama]
+star: uŋguːŋgu
+stone: ayban̪ [ad̪ambaɲ]
+stone: ayban̪ [ad̪ambaɲ]
+stone: ayban̪ [ad̪ambaɲ]
+straight: aɲanuma
+straight: luduyma
+straight: uɲɟuma
+suck: wuɲe
+sun: wuŋa [man̪d̪awibuði]
+sun: wuŋa [man̪d̪awibuði]
+sun: wuŋa [man̪d̪awibuði]
+sweet: aɲɟin
+sweet: aɲɟin
+sweet: mudunman̪u
+sweet: waɲɟa
+swell: wambaya
+swell: wambaya
+swim: ibiɲi
+swim: ibiɲi [ud̪aya]
+swim: unma
+swim: unma
+swim: unma
+tail: inbaː
+tail: inbal
+tail: inbal
+tail: wubuː
+tail: wubul
+tail: wubul
+take: an̪d̪aßa [imin̪aŋa]
+take: an̪d̪aßa [imin̪aŋa]
+take: an̪d̪ayba
+take: an̪d̪ayba
+that: alu
+that: alu
+that: alu
+there: alu
+there: alu
+there: alu
+they two: ulaːmu
+they two: ulaːmu
+they two: ulaːn̪a
+they two: ulaːn̪a
+they two: ulaŋamu
+they two: ula(ŋa)n̪a
+they two: ula(ßa)
+they two: ula(ßa)
+they two: ula(ßa)
+they: ulaːmu
+they: ulaːmu
+they: ulaːn̪a
+they: ulaːn̪a
+they: ulaŋamu
+they: ula(ŋa)n̪a
+they: ula(ßa)
+they: ula(ßa)
+they: ula(ßa)
+thick: uðuru
+thick: udyal
+thigh: id̪iːna [agambaði]
+thigh: id̪iːna [agambaði]
+thigh: id̪in [agambaði]
+thin: wiːŋan
+thin: wiːŋan
+this: ura
+this: ura
+this: ura
+thorn: idußa
+thorn: iɟid̪i
+thou: andu(ßa)
+thou: andu(ßa)
+thou: andu(ßa)
+thou: aŋgumu
+thou: aŋgumu
+thou: aŋgumu
+thou: ibaːmu
+thou: ibaːmu
+thou: ibaːn̪a
+thou: ibaːn̪a
+thou: ibaːn̪a
+thou: ibu(la)
+thou: ibu(la)
+thou: ibu(la)
+thou: ibuŋamu
+thou: in̪a(ßa)
+thou: in̪a(ßa)
+thou: in̪a(ßa)
+three: wuɟuma
+three: wuɟuma
+three: wuɟuma
+throat: manu [mayan̪d̪in̪u]
+throat: manu [mayan̪d̪in̪u]
+throat: manu [mayan̪d̪in̪u]
+throw: ɹ̣a [lalaɲaŋa]
+throw: wadaŋa
+throw: ya
+thunder: un̪d̪umu [maßun]
+thunder: un̪d̪uymu
+thunder: un̪d̪uymu
+tie: ad̪a [abyaŋa]
+tie: ad̪a [abyaŋa]
+tie: ad̪a [abyaŋa]
+tomorrow: ɹ̣ubuŋunma [uman̪d̪an]
+tomorrow: uguman̪d̪an
+tomorrow: uguman̪d̪an
+tomorrow: uguman̪d̪an
+tongue: ibun̪u
+tongue: lalan [ibundin̪u]
+tongue: yalan
+tongue: yalan
+tooth: ambu
+tooth: ambu
+tooth: ŋambu [wuliða]
+tree: yugu [aßiðala]
+tree: yugu [aßiðala]
+tree: yugu [aßiðala]
+two: uðima
+two: uðima
+two: uðyama
+vagina: agun
+vagina: agun
+vagina: in̪en
+vomit: alaɲi
+vomit: wun̪d̪a [mali]
+walk: ana [imi]
+walk: ana [imi]
+walk: ana [imi]
+walk: anma
+walk: anma
+walk: wili
+walk: wili
+walk: wili
+warm: umaði
+wash: ibiɲaŋa
+wash: walaːɣi
+wash: walaːŋgi
+wash: wiya
+wash: wiye
+water: ibi-aɟana
+water: ibi [ayad̪aga]
+water: ibi [ayad̪aga]
+water: ibi [ayad̪aga]
+weep: idbaː
+weep: idbal
+weep: idbal
+weep: ɹ̣uŋga [ɹ̣ad̪urima]
+weep: yuŋga
+weep: yuŋga
+we (excl.): ambːamu
+we (excl.): ambːamu
+we (excl.): ambaːn̪a
+we (excl.): ambaːn̪a
+we (excl.): ambu(la)
+we (excl.): ambu(la)
+we (excl.): ambu(la)
+we (excl.): ambuŋamu
+we (excl.): ambu(ŋa)n̪a
+we (incl.): anaːmu
+we (incl.): anaːmu
+we (incl.): anaːn̪a
+we (incl.): anaːn̪a
+we (incl.): anaŋamu
+we (incl.): ana(ŋa)n̪a
+we (incl.): ana(ßa)
+we (incl.): ana(ßa)
+we (incl.): ana(ßa)
+wet: ugyan̪d̪uɲ
+wet: uɟuri
+wet: wibaði
+we two (excl.): ambːamu
+we two (excl.): ambːamu
+we two (excl.): ambaːn̪a
+we two (excl.): ambaːn̪a
+we two (excl.): ambu(la)
+we two (excl.): ambu(la)
+we two (excl.): ambu(la)
+we two (excl.): ambuŋamu
+we two (excl.): ambu(ŋa)n̪a
+we two (incl.): aliːmu
+we two (incl.): aliːmu
+we two (incl.): aliːn̪a
+we two (incl.): aliːn̪a
+we two (incl.): aliŋamu
+we two (incl.): ali(ŋa)n̪a
+we two (incl.): ali(ßa)
+we two (incl.): ali(ßa)
+we two (incl.): ali(ßa)
+what: aːni
+what: aːni
+what: aːni
+when: andaðiŋa
+where: andu-
+where: andu-
+where: andu-
+white: ɹ̣ubal [ayaːmu]
+white: yubaː
+white: yubwal
+who: aːri
+who: aːri
+who: aːri
+wife: undaːmu [ayambara]
+wife: undaːmu [ayambara]
+wife: undaːmu [ayambara]
+wind: alßa [umbambin̪u]
+wind: alßa [umbambin̪u]
+wind: alßa [umbambin̪u]
+wing: winda-uybuyumu
+woman: undaːmu [ayambara]
+woman: undaːmu [ayambara]
+woman: undaːmu [ayambara]
+woman: undawu
+wood: yugu
+wood: yugu
+wood: yugu
+wood: yugu
+wood: yugu
+wood: yugu
+woomera: uɟanbi
+woomera: uɟanbi
+woomera: uɟanbi
+worm: alßa
+worm: mud̪uɲ
+worm: mud̪uɲ
+worm: wunŋul
+yesterday: aɲɟaɣaßuma
+yesterday: unmagya(ma)
+yesterday: unmagya(ma)
+yesterday: unmagya(ma) [uŋgußuɣuma]
+you two: ibaːmu
+you two: ibaːmu
+you two: ibaːn̪a
+you two: ibaːn̪a
+you two: ibaːn̪a
+you two: ibu(la)
+you two: ibu(la)
+you two: ibu(la)
+you two: ibuŋamu

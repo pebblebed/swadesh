@@ -1,0 +1,120 @@
+all: alle, alles
+and: un
+animal: Gedier
+ashes: Esch
+at: am, an, bei, uff
+back: hinner, Buckel, Rick
+bad: schlimm
+bark: baffze
+because: deweil
+belly: Bauch
+big: gross
+bird: Voggel
+bite: beisse
+black: schwatz
+blood: Blut
+blow: blose
+bone: Gnoche
+breast: Bruscht
+breathe: atme
+burn: brenne
+child: Kind
+cloud: Wolk
+cold: kalt
+come: kumme
+correct: richdich
+count: zaehle
+cut: schneide
+day: Daag
+die: abschtaerwe
+dig: graawe
+dirty: schmutzich
+dog: Hund
+drink: saufe
+dry: daerre
+dull: schtump
+dust: Schtaab
+ear: Ohr
+earth: Erd
+eat: esse, fresse
+egg: Oi
+eye: Aag
+fall: schtaerze, falle, dropsle
+far: weit
+father: Vadder
+fat (n.): Fett
+fear: Bang
+feather: Fedder
+few: paar
+fight: aafechde
+fingernail: Fingernaggel
+fire: Feier
+fish: Fisch
+five: fimf
+float: schwewe
+flower: Blumm
+flow: fliesse
+fly (v.): fliege
+fog: Newwel
+foot: Fuus
+forest: Wald
+four: vier
+freeze: friere
+fruit: Frucht
+full: voll
+give: gewwe
+good: gut
+green: grie, grien
+hair: Haar
+hand: Hand
+head: Kopp
+hear: heere
+heart: Hatz
+horn: Hann
+I: ich
+kill: dodmache, umbringe
+knee: Gnie
+know: wisse
+leaf: Blatt
+lie: liege
+liver: Lewwer
+long: lang
+louse: Laus
+man: Mann
+many: viel, mannich
+meat: Fleesch
+moon: Muund
+mountain: Baerrick
+mouth: Maul
+name: Naame
+neck: Hals
+new: nei, frisch
+night: Nacht
+nose: Reicher, Naas
+not: net, kee
+one: ee
+person: Mensch
+rain: Regge
+red: rot
+road: Weg, Faahrweg
+root: Watzel
+round: rund
+sand: Sand
+say: saage
+seed: Saame, Kaern
+see: sehne
+sit: hocke, sitze
+skin: Haut, Belz
+sleep: schlofe
+small: klee, glee
+smoke: Rauch, Schmok
+stand: schteh
+star: Schtann
+stone: Schtee
+sun: Sunn
+swim: schwimme
+tail: Schwanz
+that: des, sell
+thou: du
+tree: Baam
+two: zwee

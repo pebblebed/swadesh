@@ -1,0 +1,261 @@
+all: asaga(ʔi)
+arm: fuyati
+arm: roiferisati
+arrow: mageʔe
+arrow: mage(ʔi)
+ashes: la(hi)
+back: megesa(ʔa)
+bad: foipa
+bad: noɣavehe
+bad: sivi
+bark: akaluya(ʔa)
+belly: ipati
+belly: mupa(ʔa)
+big: fela
+big: napa
+big: sipi
+big: sipi
+bird: nama
+bird: nama
+bite: (no)heni(ve)
+black: nupa(ʔna)
+black: nupaʔna
+blood: golaha(ʔa)
+blood: korahi
+bone: felisa(ʔa)
+bone: ferisaʔa
+boy: pana(ʔi)
+boy: panaʔi ɣasoɣasi
+breast: amiha(ʔa)
+breast: amihati
+brother: go(ʔafu)
+brother: noɣonifo
+brother: novonaʔni
+burn: (no)la(ve)
+calf: lakisa
+chest: loʔvisa
+child: inapu(hi)
+chin: ima(ʔa)
+claw: koʔna(ʔa)
+cloud: sopo(hi)
+cold: ketipa (noive)
+cold: yasi (nohive)
+come: (no)a(ve)
+come: ovo
+day: ute(hi)
+die: firiʔei
+die: (no)fili(ve)
+dog: kala
+dog: kəra
+drink: (no)na(ve)
+drink: nuɣabi novo
+dry: lo(ʔehive)
+ear: ekesa(ʔa)
+ear: rekesa
+earth: me(ʔi)
+earth: meʔi
+eat: (no)na(ve)
+eat: utu novo
+egg: mu(ʔa)
+elbow: (ya) kupa(ʔa)
+emu: giyedifa
+emu: kiyaʔnefa
+eye: bu(ʔa)
+eye: rumuʔ
+fall: ho (no)ka(ve)
+father: afo(ʔafu)
+father: afoʔnifo
+fat (n.): giliva(ʔa)
+fat (n.): sinuhati
+feather: oka(ʔa)
+finger: napa(ʔa)
+finger: yaha(ʔa)
+fire: logo
+fire: roʔgo
+fish: fayaʔ
+fly (v.): heloto (no)vi(ve)
+foot: gigusa(ʔa)
+foot: riusati
+forehead: kokovisa(ʔa)
+forehead: roɣovisati
+forest: yafaruga
+full: vai to(ʔehive)
+girl: pa(ʔi)
+girl: paʔi ɣasoɣasi
+give: (noni)m(ive)
+good: ba
+good: hetofa
+good: hetofana
+good: matiuto
+green: ago(ʔna)
+green: kifiya(ʔna)
+hair: oka(ʔa)
+hair: okate
+hand: reʔahiʔ
+hand: yaha(ʔa)
+head: lataha(ʔa)
+head: natai
+hear: hereʔo
+hear: (no)keheli(be)
+heart: lutumopa(ʔa)
+heavy: keta (huʔevihe)
+he/she: a(g)i
+he/she: a(i)
+he/she: -i
+hit: (no)ha(ve)
+horn: komu(ʔa)
+house: nohi
+house: no(hi)
+I: nani
+I: na(ni)
+I: -u
+kill: ho(no filive)
+knee: lapusa(ʔa)
+knee: loupati
+know: (no)keheli(ve)
+laugh: giya (nohive)
+leaf: haya (ʔa)
+leaf: yafa ahaia
+leg: gigusa(ʔa)
+lie: (no)ka(ve)
+lip: ramaɣa
+liver: luhaya(ʔa)
+long: yatama
+louse: nama
+man: bo
+man: vo
+many: babu
+many: sama(hi)
+meat: meme(ʔa)
+moon: ikahi
+moon: ika(hi)
+morning: ete(hi)
+mother: gitoʔnifo
+mother: ito(ʔafu)
+mountain: gosa
+mountain: kosa
+mountain: vohupo
+mouth: vaga(ʔa)
+name: gi(ʔa)
+name: nigiʔni
+nape: inupati
+neck: giʔnupa(ʔa)
+new: kosava
+new: yuhufa
+night: folugu(ʔi)
+not: me-
+not: oʔe
+old: litana(ʔi)
+old: oyafa
+old: tafa
+one: mone
+person: vona(ʔi)
+rain: ko(ʔi)
+rain: koʔi
+rat: kafa
+red: safa(ʔna)
+red: zafaʔna
+road: kapo
+road: kapo
+root: lufusa(ʔa)
+rope: menehi
+round: tumo(ʔna)
+sand: kehe(ʔi)
+say: kanori
+say: (no)li(ve)
+seed: viha(ʔa)
+see: (no)ga(ve)
+see: vugoʔo
+short: hupa mone
+short: uʔpasiso
+shoulder: yake(ʔna)
+sing: navariru
+sister: ato(ʔafu)
+sister: netariʔnifo
+sit: luga (no)fi(ve)
+sit: (meto no(mina(ve)
+sit: metorohi
+skin: gufa(ʔa)
+sky: okurumaʔi
+sleep: (no)ka(ve)
+small: kitiliʔasi
+small: lagaso
+small: neɣasoaɣaso
+smoke: (lo)kiya
+snake: osifa(ʔi)
+spit: kuhu (noive)
+stand: ho (no)ti(ve)
+stand: hotiʔe
+star: sonofi(ʔi)
+star: sonofiʔi
+stone: efahi
+stone: efahi
+sun: yege
+sun: ǯege
+swim: (nagami no)ka(ve)
+tail: kasa(ʔa)
+take: kuvidahoʔo
+take: ritovivo
+that: ana
+that: ya
+they: -a
+they: en(ali)
+they: roevo
+they two: -a\i
+they two: et(ali)
+they two: etari
+thigh: ruti
+this: ma
+this: yaʔma
+thou: -an
+thou: kai
+thou: ka(i)
+thou: len(ali)
+thou: reraru
+three: loe yagi mone yagi
+throat: rumahati
+tomorrow: yago
+tongue: kenetufa(ʔa)
+tongue: teretufati
+tooth: ramaɣairo-oti
+tooth: yogo(ʔa)
+tree: yafa
+tree: yafa
+two: loe
+walk: buvo
+walk: hololu (nolive)
+walk: hororutovi
+walk: (no)mala(ve)
+wallaby: esa
+warm: mukoho (nolive)
+water: nagami(ʔi)
+weep: ivinohu
+we: la(li)
+we: rarigi
+wet: kefa (iʔehive)
+we two (incl.): leʔ(ali)
+we two (incl.): reari
+we two: -u\i
+we: -un
+what: hena
+when: hena kanagu
+when: hiya kanagu
+where: hiya(ga)
+white: gizopana
+white: kigopa
+white: koholina
+who: kiyafu
+wind: yasi
+wing: kekona(ʔa)
+woman: aʔi
+woman: aʔi
+wood: osa(hi)
+wood: yatavana
+yellow: satu(na)
+yes: o
+yes: oʔyo
+yesterday: yago
+you: -a
+you two: -a\i
+you two: let(ali)
+you two: retari

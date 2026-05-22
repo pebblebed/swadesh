@@ -1,0 +1,404 @@
+all: kone tʌrφuau
+all: konï tërufuau
+all: tera papuru
+all: tera puapuru
+arm: se
+arm: se
+arm: sɛmarʌ
+arm: semarë
+ashes: kabia
+ashes: kumëtone
+ashes: kumʌtone
+ashes: kumu
+ashes: kumu/kabia
+bark: ikoro
+bark: i koro
+bark: i koro
+bark: i-koro
+belly: kamburu
+belly: kamburu
+belly: kan
+belly: kan
+big: makʌbu
+big: makëbu
+big: makubʷʌo
+big: makubwëo
+bird: kae
+bird: kae
+bird: kaie
+bird: kaiɛ
+bite: kasafobu
+bite: kasafobu
+bite: kasɔ poau
+bite: kaso poáu
+black: kasio
+black: kasio
+black: kësic
+black: kʌsic
+blood: kai
+blood: kai
+blood: kai
+blood: kai
+bone: hap
+bone: hap
+bone: havo
+bone: havo
+breast: sho/so
+breast: so
+breast: so͂
+breast: šo ~ §o
+burn: aya ane soptabo
+burn: aya ane soptabo
+burn: hari:tëmau
+burn: hariːtʌmau
+claw: kai haimabos
+claw: kai haimabos
+claw: simabosa
+claw: simabosa
+cloud: mo
+cloud: mo/orumu
+cloud: noramo
+cloud: noramo
+cloud: oromu
+cold: ina kiviti tamau
+cold: ina kiviti tamau
+cold: kume
+cold: kume
+come: ero
+come: ero
+come: ya uwe
+come: ya uwe
+die: kasikəsənawau
+die: kasikïsïnawau
+die: kasiksnawau
+die: kasiksnawau
+dog: kas
+dog: kas
+dog: kasə
+dog: kasï
+drink: ayanobo
+drink: aya nobo
+drink: munë Tëmanu
+drink: munʌ tʌmanu
+dry: kirawau
+dry: kirawau
+dry: ku
+dry: ku
+ear: kovi
+ear: kovi
+ear: kupi
+ear: kupi
+earth: rofu
+earth: rofu
+earth: sabo
+earth: sabo
+eat: nʌʷe
+eat: nëuwe
+eat: nokun
+eat: nouwe
+eat: nouwe/nokun
+egg: tëme
+egg: tëom
+egg: tʌmɛ
+egg: tʌom
+eye: si(tom)
+eye: si(tom)
+eye: si-toumu
+eye: sitɔumu
+fat (n.): koho
+fat (n.): sam
+fat (n.): sam
+fat (n.): sam
+feather: kai boro
+feather: kai boro
+feather: kai boro
+feather: kai boro
+fire: kom
+fire: kom
+fire: kumu
+fire: kumu
+fish: mai
+fish: mai
+fish: mai
+fish: ma͂i͂
+fly (v.): aya bokenobo
+fly (v.): aya bokenobo
+fly (v.): periko kotëmau
+fly (v.): pɛriko kɔtʌmau
+full: barabu
+full: barabu
+full: tesikinəwau
+full: tesikinïwau
+give: ɛna oruwe
+give: iauroae
+give: iauroe
+give: iyapoe
+give: iyapoe/ena oruw
+good: daro
+good: daro
+good: raro
+good: raro
+green: ire
+green: ire
+green: kasiabari
+green: kasiabari
+hair: maboru
+hair: ma-boru
+hair: maporo
+hair: ma-poro
+head: map
+head: mapʰ
+head: maßo
+head: mavo
+hear: anekobo
+hear: anekobo
+hear: mɛnə kotamau
+hear: menï kotamau
+heart: kamu
+heart: kamu
+heart: këmuu
+heart: kʌmuː
+horn: kisika
+horn: kisika
+horn: siska
+horn: siska
+I: ina
+I: ina
+I: ina ~ inara
+I: ina/inara
+kill: aya tekenabo
+kill: aya tekenabo
+kill: teki tëmau
+kill: tɛki tʌmau
+knee: magu
+knee: magu
+knee: maku
+knee: maku
+know: aya kanebo
+know: aya kanebo
+know: kaniau
+know: kaniau
+leaf: iboro
+leaf: i-boro
+leaf: i boru
+leaf: i boru
+leg: hae
+leg: hae
+leg: ha͂i habo
+leg: hai habo
+lie: bisue
+lie: bisue
+lie: iya bisuwe
+lie: iya bisuwe
+liver: dore
+liver: doro
+liver: ihai͂ɛ
+liver: ihais
+long: samakuvu
+long: samakuvu
+long: so
+long: so
+louse: kurom
+louse: kurom
+louse: kuromə
+louse: kuromï
+man: wane
+man: wane
+man: wɔnami
+man: wɔne
+man: wone/wonami
+many: mombaiyou
+many: mombaiyou
+many: nabanau kariaimu
+many: nabanau kariaimu
+meat: mis
+meat: misi
+meat: misi
+meat: tauwʌ
+meat: tauwë/mis
+moon: wasiba
+moon: wasiba
+moon: wasibëngë
+moon: wasibia
+moon: wasibʌŋʌ ~ wasibiba
+mountain: ka´ngkëro kïm
+mountain: kaːŋkʌro kəm
+mountain: sawa
+mountain: sa wa
+mouth: ko
+mouth: kʰo
+mouth: komera
+mouth: komerë
+name: nanini
+name: nanini
+name: nenene
+name: nɛnɛne
+neck: bogëhau
+neck: bogʌhau
+neck: tom͂
+neck: tomo
+new: mem
+new: mem
+new: wasia konau
+new: wasi͂ konau
+night: kafun
+night: kafun
+night: këpo:n(u)
+night: kʌφoːn(u)
+nose: bop
+nose: bovo
+one: sëkane
+one: sëkane
+one: sʌkanɛ
+one: sʌkanɛ
+person: wani
+person: wani
+person: wëne
+person: wʌne
+rain: kap
+rain: kap
+rain: kore
+rain: kore
+red: kum
+red: kum
+red: kumo ~ kum
+red: kumo/kum
+road: dike
+road: dikɛ
+road: rei
+road: rei
+root: ihai
+root: ihai
+root: ihe
+root: ihe
+round: kombiran
+round: kombiran
+round: kombirau
+round: kombirau
+sand: kiki
+sand: kiki
+sand: ram
+sand: ram
+say: ankenabo
+say: ankenabo
+say: iyau tamau
+say: iyau tamau
+see: boma towe
+see: boma towe
+seed: i haie
+seed: i haiɛ
+seed: kunwe
+seed: kunwe
+sit: karimau
+sit: karne
+sit: karne
+sit: karue
+sit: karue karimau
+skin: kʷaru
+skin: kora
+skin: kora
+skin: kwaru
+sleep: aya bisubo
+sleep: aya bisubo
+sleep: bisi tëmau
+sleep: bisi tʌmau
+small: kosɛ mɛau
+small: kɔsimɛ
+small: kosime/kose ma
+small: kumfat same
+small: kumfat same
+smoke: kumsi͂
+smoke: kumu shini
+smoke: kumu šini
+smoke: suku
+smoke: suku kumsi
+stand: habisiwe
+stand: habisiwe
+stand: hamau habisiyae
+stand: hanau habisiyae
+star: nabpo
+star: nabpo
+star: si͂gwin
+star: sigwín
+stone: kam
+stone: kam
+stone: kamə
+stone: kamï
+sun: iyos
+sun: iyos
+sun: yosə ~ yosu
+sun: yosï/yosu
+swim: aya mutafuobo
+swim: aya mutafuobo
+swim: mu tafutamáu
+swim: mu taφutaːmau
+tail: kao
+tail: kao
+tail: ku
+tail: ku
+that: abo
+that: a͂bo
+that: (asia)enau
+that: ɛnau
+this: (emu)eni
+this: ɛnaʷ
+this: enau
+this: eni
+thou: iya
+thou: iya
+thou: iya ~ iyari
+thou: iya/iyari
+tongue: kumen
+tongue: kumen
+tongue: kumen
+tongue: kumɛn
+tooth: kaiyo
+tooth: ka͂i͂ yo
+tooth: kai yo
+tooth: ka͂i͂yɔ͂
+tree: i
+tree: i
+tree: i
+tree: ʔi
+two: hae
+two: hae
+two: haie
+two: ha͂iɛ
+walk: iya uwe
+walk: iya uwe
+walk: iya-uwe
+walk: iyaʷwe
+warm: ep
+warm: epʰ
+warm: eve
+warm: eve ketamau
+warm: ketamau
+water: mu
+water: mu
+water: mu
+water: mu͂
+we (incl.): awah
+we (incl.): nanʌ
+we (incl.): nane
+we (incl.): nane
+we (incl.): nanë/awah
+what: kombaie
+what: kombaiɛ
+what: kubae
+what: kubae
+white: sabiai
+white: saibiai
+white: saßia
+white: savia
+who: iya maie
+who: iya maiɛ
+who: mae
+who: mae
+woman: bese
+woman: bɛse
+woman: besi
+woman: besi
+yellow: ariyan
+yellow: ariyan
+yellow: yeya
+yellow: yɛya

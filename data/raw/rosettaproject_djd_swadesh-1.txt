@@ -1,0 +1,131 @@
+belly: buru
+belly: magala
+belly: magala
+blood: garŋan
+blood: guŋulu
+blood: wuriɲun
+blow: bu
+bone: bunu
+bone: guyuwan
+bone: guyuwan
+bone: guyuwan
+child: ɟalik
+child: ɟalik
+eye: ɟuwad
+eye: ɟuwud
+eye: ɟuwud
+eye: yibiɟ-yibiɟ
+eye: yibiɟ-yibiɟ
+fire: guyug
+fire: guyug
+fire: guyug
+flower: yulaŋ
+flower: yuru
+fly (n.): gunäma
+fly (n.): gunäma
+fly (n.): nämbul
+grass: waṇḍa
+grass: waṇḍa
+head: gulaga
+head: guɹ̣uɲuŋ
+head: kulaka
+head: ɟumburu
+he/she: ɟi
+he/she: ka
+he/she: nuwu
+he/she: -wina
+he/she: -wina
+hit: -ma-
+hit: -ma-
+hunt: laḷabaŋ
+hunt: laḷabaŋ
+I: -gina
+I: -gina
+I: ŋa
+I: ŋarku
+I: ŋayug
+kangaroo: yaŋara
+kangaroo: yaŋara
+kangaroo: yaŋara
+kill: -ma-
+kill: -ma-
+laugh: kambaɟa
+laugh: kambaɟa
+man: ɟumbul
+man: ɟumbul
+man: ɟumbul
+moon: ɟägilin
+moon: baɹ̣aŋan
+moon: baraŋan
+mouth: ɟära
+mouth: ɟära
+mouth: ɟära
+navel: naɟururu
+navel: naɟururu
+not: guraɲ
+rope: munuŋku
+rope: munuŋku
+sister: babiɲ
+sister: babiɲ
+smoke: ɟuːlan̪
+smoke: ɟuwulan̪
+smoke: ɟuwulan̪
+spit: ŋuɟul
+spit: ŋuɟulb
+sun: waŋgu
+sun: wulŋan
+sun: wulŋan
+they: -adgina
+they: -aydgina
+they: bur
+they: burak
+they: buri
+they two: -adgina
+they two: -aydgina
+they two: buɲ
+they two: buɲak
+they two: buriɲi
+thou: -adgina
+thou: -aydgina
+thou: -gina
+thou: -gina
+thou: guri
+thou: kur
+thou: kurak
+thou: na
+thou: nami
+thou: ŋuŋku
+tongue: ɟalan
+tongue: ɟalan̪
+tongue: ɟalan̪
+water: gogo
+water: gogo
+water: gogo
+we (excl.): -adgina
+we (excl.): -aydgina
+we (excl.): yir
+we (excl.): yirak
+we (excl.): yiri
+we (incl.): -adgina
+we (incl.): -aydgina
+we (incl.): yur
+we (incl.): yurak
+we (incl.): yuri
+we two (excl.): -adgina
+we two (excl.): -aydgina
+we two (excl.): yiɲ
+we two (excl.): yiɲak
+we two (excl.): yiriɲi
+we two (incl.): -adgina
+we two (incl.): -aydgina
+we two (incl.): mind
+we two (incl.): mindak
+we two (incl.): mindi
+woman: malɛyi
+woman: ŋaruŋ
+woman: ŋaruŋ
+you two: -adgina
+you two: -aydgina
+you two: guriɲi
+you two: kuɲ
+you two: kuɲak

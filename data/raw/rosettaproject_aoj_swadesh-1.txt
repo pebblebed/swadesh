@@ -1,0 +1,3 @@
+fire: fantom
+stone: otam
+tree: lawangk

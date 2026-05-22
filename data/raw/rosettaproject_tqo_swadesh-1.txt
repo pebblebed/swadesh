@@ -1,0 +1,1776 @@
+all: falakeilive
+all: foromai
+all: foromai
+all: foromai
+all: nauapu
+all: φalakeiliße
+all: φoromai
+all: φoromai
+and: ae
+and: aea
+and: aea aeaßa
+ankle: morahau
+ankle: mora hau
+arm: mai
+arm: mai
+arm: mai
+arm: mai
+arm: mai
+arm: mai
+arm: mai
+arm: mai
+arm: mai
+arrow: farisa
+arrow: farisa
+arrow: φarisa
+arrow: φarita
+ashes: afucae
+ashes: afulae
+ashes: afutae
+ashes: a-koera
+ashes: a-koera
+ashes: a-koera
+ashes: aφučae
+ashes: aφulae
+ashes: aφutae
+back: avasa
+back: kɔo
+back: kɔu
+back: φisi
+bad: ekaihu
+bad: ekapo
+bad: ekapu
+bad: kaho
+bad: maealolo
+bad: malolo
+bad: maroro
+bark: ruru
+bark: tola ruru
+bark: tola ruru
+bark: tola ruru
+bark: tola ruru
+bark: tola ruru
+bark: tola ruru
+because: ipi...
+because: ipi... eaßia
+because: ipi... eaßia
+belly: edenerou
+belly: ele
+belly: ere
+belly: ere
+belly: ére
+belly: ére
+belly: ére
+belly: ére
+belly: ére
+belly: ére
+belly: erehorou
+belly: eri horou
+belly: kakaita
+belly: kakaita
+big: karuloßu
+big: karulovu/karulovu-kaka
+big: karuravu
+big: luvaia
+big: metameta
+big: oaharo
+big: oaharo/oaharo-fafa
+big: roßaea
+big: rovaea
+big: rovaea/metameta
+bird: ori
+bird: ori
+bird: ori
+bird: ori
+bird: ori
+bird: ori
+bird: ori
+bird: ori
+bird: ori (mehe)
+bite: laria
+bite: muloßi
+bite: mulovi
+bite: pitovai
+bite: pučoßi
+bite: pucovi
+bite: putavai
+bite: putoßai
+bite: putovai
+bite: tauputava
+bitter: eakere
+bitter: eokere
+black: maea haihiri
+black: maea haihiri
+black: maea uru
+black: maea uru
+black: maiahahiri
+black: mea uru
+black: mea uru
+black: meuru
+black: moi haihiri
+black: moi haihiri
+black: reu\uru
+blood: oßo
+blood: oßo
+blood: oßo
+blood: ovo
+blood: ovo
+blood: ovo
+blood: ovo
+blood: ovo
+blood: ovu
+blow: mea sa toai
+blow: mea toa
+blow: mea toai
+bone: (maea-)uti
+bone: maea uti
+bone: uti
+bone: uti
+bone: uti
+bone: uti
+bone: uti
+bone: uti
+bone: uti
+boy: atute
+boy: milofu
+boy: siare
+boy: tuke
+branch: lakai
+branch: lakai
+branch: rakai
+breast: haifae
+breast: ko
+breast: ko
+breast: kɔ
+breast: kɔ
+breast: kɔ
+breast: ko\o
+breast: ko(u)
+breast: ko(u)
+breathe: aritoßai
+breathe: biruru
+breathe: haiiru mehe eroria
+breathe: oririoßai
+breathe: φoφoai
+brother: marehari
+brother: murehari
+brother: paua
+brother: paua
+brother: warua
+burn: a sara
+burn: a sara
+burn: a sauai
+burn: a sauai
+burn: a sopusa
+burn: a sopusa
+burn: asukia
+butterfly: fifi
+butterfly: kaokao
+butterfly: kaokao
+butterfly: kikivore
+butterfly: pipi
+butterfly: pipi
+butterfly: pipi
+butterfly: pipi
+butterfly: pipi
+butterfly: φiφi
+calf: molo fare
+calf: mora-fai
+cheek: ɔseφase
+chest: haifae
+chest: haiposa
+chest: kararapa
+child: atuče
+child: atule
+child: ature
+child: atute
+child: mere beseka
+child: tute
+chin: huale
+chin: uale
+chin: wʰari
+claw: mai haro
+claw: mai haro
+claw: mai haro
+claw: mai haro
+claw: mai haro
+claw: mai haro
+claw: misa ase
+claw: misa kapera
+claw: mora haro
+claw: mora haro
+claw: mora haro
+claw: muraharo
+cloud: beuru
+cloud: mea
+cloud: mea-a
+cloud: mea-e
+cloud: mea-e
+cloud: mea-e
+cloud: mea-e
+cloud: mea-e
+cloud: me-uru
+cloud: veasea
+cold: bebebekoko
+cold: hahivita
+cold: masesere
+cold: masesere
+cold: mekoko
+cold: memesere
+cold: memesere
+cold: ßeßekoko
+cold: vevekoko
+cold: vevesere
+come: iti
+come: iti
+come: iti
+come: iti/koti
+come: iti/koti
+come: iti/kwoti
+come: iti/tuoti
+come: koatiria
+come: koti
+come: koti
+come: kotiria
+come: kwoti
+correct: haukwa
+correct: haura
+correct: haura
+count: mai amukwa
+count: mai mula
+count: mai muti
+crocodile: čape
+crocodile: iafe
+crocodile: isapea
+crocodile: laφe
+crocodile: safe
+crocodile: sapea
+crocodile: sapea
+crocodile: saφe
+cut: ereraia
+cut: sarapai
+cut: sarapai
+cut: sarapaia
+cut: serapa
+cut: suča
+cut: suča
+cut: sukai
+cut: sukai
+cut: sukai
+cut: sukai
+dark: faitabura
+dark: muru
+dark: muru
+dark: muru
+dark: muru
+dark: muru
+dark: muru
+dark: murumuru
+dark: murumuru
+dark: murumuru
+dark: murumuru
+dark: murumuru
+daughter: (m)boreseka
+daughter: mori
+daughter: mori
+daughter: mori
+day: meafaica
+day: meafautu
+day: meafautu
+day: meaφaiča
+day: meaφautu
+day: meaφautu
+day: ovava
+day: ovava
+day: ovava
+day: sare
+day: sare
+day: sare
+day: sare
+day: sare rorivua
+day: sari
+day: sarisukopa
+die: apai
+die: api
+die: api
+die: maisoi
+die: oápi
+die: opai
+die: opai
+die: opai
+die: opai
+die: opái
+die: opi
+die: opi
+die: opia
+die: opia
+die: suru
+dig: aviopai
+dig: aviope
+dig: beaisia
+dig: biopaia
+dig: isa
+dig: isa
+dig: isai
+dig: isai
+dig: isai
+dig: isei
+dig: sirisiri
+dig: ßiopai
+dig: viopai
+dirty: basirisiri
+dirty: sirisiri
+dirty: sirisiri
+dirty: sirisiri
+dog: a(m)be
+dog: aße
+dog: aße
+dog: aße
+dog: ave
+dog: ave
+dog: ave
+dog: ave
+dog: avi
+dog: avi
+drink: lapura
+drink: laria
+drink: laria
+drink: laurai
+drink: ma lala
+drink: ma lala
+drink: ma lari
+drink: ma lari
+drink: ma lauai
+drink: ma lauai
+drink: ma raria
+dry: arara
+dry: arara
+dry: arara
+dry: arara
+dry: haha
+dry: orara
+dry: orara
+dust: haßu
+dust: mea haßu
+dust: mea oro
+dust: mea ße haßu
+ear: aßala
+ear: aßa-uta
+ear: avala
+ear: ava-uta
+ear: ava-uta
+ear: avautu
+ear: kirori
+ear: kirori
+ear: kirori
+ear: kirori
+ear: ovaraukia
+earth: avuavu
+earth: avuavu
+earth: folo
+earth: mea
+earth: mea
+earth: mea
+earth: mea
+earth: mea
+earth: mea
+earth: mea
+earth: mea
+earth: mea
+earth: mea
+earth: mearoßaeka
+earth: mearoßaeka
+earth: mearoßaeka
+earth: oti
+earth: rurua
+earth: tetere
+earth: tetere
+eat: lala
+eat: lala
+eat: lapura
+eat: lari
+eat: lari
+eat: laria
+eat: laria
+eat: lauai
+eat: lauai
+eat: laurai
+eat: raria
+eat: ukupai
+egg: fae\e
+egg: fare
+egg: haukafare
+egg: ori fae
+egg: ori fae
+egg: (ori) fare
+egg: (ori) fare
+egg: ori φare
+egg: ori φare
+egg: suru fare
+elbow: mai-hau
+elbow: maikiri
+elbow: maikiri
+elbow: mai-kiri
+elbow: mai-kiri
+emu: uißa
+emu: uiva
+eye: ofae
+eye: ofae
+eye: ofae
+eye: ofae
+eye: ofare
+eye: opai ~ ofai
+eye: opute
+eye: oputebehi
+eye: oputebehi
+eye: oßopute
+eye: ovofare
+eye: oφae
+eye: oφae
+eye: oφae ße mehe
+eye: oφare
+face: alaha
+face: omopa
+face: omopa
+face: soso
+face: soso
+face: soso
+fall: mičoi
+fall: miloi
+fall: pitoi
+fall: putoi
+far: adsavori
+far: aeara
+far: ala
+far: ara
+far: ara
+far: ara
+far: safari
+father: oa
+father: oa
+father: oa
+father: oa
+father: oa
+father: oa
+father: oa
+fat (n.): sapare
+fat (n.): tapare
+fat (n.): tapare
+fat (n.): tapare
+fat (n.): tapare
+fat (n.): tapare
+fat (n.): tapare
+fat (n.): tapare
+fat (n.): tapare
+fat (n.): tapare
+fat (n.): tapare
+fear: sia
+fear: sioloi
+fear: tore
+fear: tore
+fear: tore
+fear: tore
+fear: tore
+fear: tore
+feather: behe
+feather: ori meha
+feather: ori meha
+feather: (ori) mehe
+feather: ori mehe
+feather: ori mehe
+feather: ori mehe
+feather: ori tolo
+feather: ori tolo
+feather: ori tolo
+feather: ori tolo
+feather: ori tolo
+feather: ori tolo
+feather: oroitoro
+few: liheri liheri
+few: φaraφarapo
+few: φareapo-φareapo
+fight: sosori
+fight: sosori ara
+fight: sosori auai
+fight: sosori opua
+finger: mai-eveveka
+finger: mai-lakoka
+finger: mai-lakoka
+finger: mai lou
+finger: mai rakeke
+finger: mai toari
+finger: mora aru
+finger: mora eveveka
+finger: mora keka
+fingernail: mai-aro
+fingernail: (mai) haro
+fire: a
+fire: a
+fire: a
+fire: a
+fire: a
+fire: a
+fire: a eroe
+fire: ahari
+fire: ahari
+fire: a-hari
+fire: auːri
+fire: ha-hari
+fire: ha-hari
+fish: ekaka
+fish: ekaka
+fish: ekaka
+fish: ekaka
+fish: ekaka
+fish: ekoka
+fish: taßa
+fish: tava
+fish: tava
+five: oroka
+float: aßoea
+float: moea
+float: moea
+flower: eve
+flower: fai
+flower: mauai
+flower: popore
+flower: popore
+flower: tola pupuri
+flower: tola pupuri
+flower: tola pupuri
+flow: tarareai
+flow: taratara
+flow: tarereai
+fly (n.): elopea
+fly (n.): oropea
+fly (n.): oropea
+fly (n.): oropea
+fly (n.): oropea
+fly (v.): ekekaiai
+fly (v.): fufukai
+fly (v.): fufukai
+fly (v.): fufukwai
+fly (v.): furufuruka
+fly (v.): itoi
+fly (v.): φuruφuruka
+fly (v.): φuφukai
+fly (v.): φuφukwai
+fog: ma-haßu
+fog: ma hußu
+fog: mahuvu
+fog: ma-oro
+fog: ma-oro
+foot: molakiri
+foot: molakou
+foot: mora
+foot: mora
+foot: mora
+foot: mora
+foot: mo(u)ra
+forehead: halihali
+forehead: harihari
+forehead: harihari
+forehead: harihari
+forehead: harihari
+forehead: patira
+forest: furukuta
+forest: kasoiri
+forest: φuruka
+forest: φurukwa
+four: orakaraka
+four: orakarake
+four: oralerale
+four: oroka oroka
+fruit: fae\e
+fruit: fare
+fruit: fare
+fruit: fare
+fruit: fare
+fruit: tola φae
+fruit: tola φare
+fruit: tola φare
+full: ape furica
+full: ape φuriča
+full: soauai
+full: soauai
+full: soauai
+full: sopua
+full: sopua
+girl: bori
+girl: mari
+girl: mori
+girl: mori
+girl: mori
+girl: mori
+girl: mori
+girl: mori
+girl: mori
+give: aviarai
+give: aviarai
+give: biaraia
+give: miarai
+give: miarai
+give: miarai
+give: miarai
+give: oßilai
+give: ovilai
+good: ivaleva
+good: laleva
+good: lareßa
+good: lareßa
+good: lareva
+good: lareva
+good: meta
+good: meta
+good: metahua
+good: metapapa
+grass: kaßuru
+grass: kaßuru
+grass: kaßuru
+grass: kavuru
+green: bepo pori
+green: maea popori
+green: maea popori
+green: mea popori
+green: mea popori
+green: moi opopori
+green: moi opopori
+guts: eherou
+guts: eholou
+guts: ere-holou
+guts: ere horou
+guts: horou
+guts: kakaita
+guts: kakaita
+hair: ete sari
+hair: haro tue
+hair: haro tue
+hair: (haro) tui
+hair: haro tui
+hair: (haro) tupe
+hair: haro tupe
+hair: lupu
+hair: maea mehe
+hair: maea sari
+hair: tui
+hair: tui
+hair: tui
+hair: φe sari
+hand: mai
+hand: mai
+hand: mai
+hand: mai
+hand: mai
+hand: mai
+hand: mei(-ere)
+hand: morakou
+head: arofave
+head: haro
+head: haro
+head: haro-fave
+head: haro-fave
+head: haro-fave
+head: harofavi
+head: harokuku
+head: haro-kuku
+head: haropuru
+head: haroφaße
+head: haroφaße
+hear: aßapai
+hear: avapai
+hear: avapai
+hear: mapai
+hear: mapai
+hear: mapai
+hear: moapai
+hear: m(o)apai
+hear: ovapaia
+heart: hai
+heart: hai\i
+heart: lakakare
+heart: lakakare
+heart: lakakare
+heart: lakakare
+heart: lakakare
+heart: lakakare
+heavy: pasau
+heavy: pasou
+heavy: pasou
+here: malaßea
+here: mehe
+here: mɔßoa
+here: mɔßoa
+here: movo avaia
+he/she: are
+he/she: are
+he/she: areo
+he/she: are-o
+he/she: areßa
+he/she: areve
+he/she: areve
+he/she: areveu areatareha
+hit: (apa) toia
+hit: toa
+hit: toai
+hit: toai
+hold: aßai
+hold: oßai
+hold: oßai
+hole: ße
+hole: ura
+hole: uta
+hole: uta
+horn: kea
+horn: kea
+horn: kea
+horn: kea
+horn: kea
+house: eravo
+house: ußi
+house: uvi
+house: uvi
+house: uvi
+house: uvi
+house: uvi
+how: iota
+how: lafeare
+how: leaʔ
+how: leaisoka
+how: leati
+how: leaφere
+how: leφeare
+hunt: taboraraitia
+hunt: tapara loi
+hunt: tapora
+hunt: tapora loi
+hunt: tapora loi
+husband: miča
+husband: ßila
+husband: ßita
+husband: ua
+husband: vita
+I: alave
+I: ara
+I: ara
+I: ara
+I: ara
+I: ara(-o)
+I: arao alao
+I: araßa
+I: arava
+I: arave
+if: -ča
+if: ...oria
+if: ...ualeia
+jaw: huale
+jaw: huari
+jaw: uale
+kangaroo: pisoro
+kangaroo: pisoru
+kill: paea
+kill: paea
+kill: paea
+kill: paeai
+kill: paeai
+kill: paeai
+kill: paea(i)
+kill: paeaia
+kill: paiai
+kill: saßai
+kill: saßai
+kill: saßati
+kill: savai
+kill: savai
+kill: savati
+kill: toa apaia
+knee: arihau
+knee: arihau
+knee: arihau
+knee: arihau
+knee: arihau
+knee: arihau
+knee: ari horu
+knee: arikoka
+know: ore
+know: ore
+know: ore loi
+know: ore loi
+know: ore loi
+know: ore loi
+know: ore (loi)
+know: ore (loi)
+lake: siloi
+lake: siloi
+lake: sitoi
+laugh: area
+laugh: area
+laugh: area ara
+laugh: area auai
+laugh: area opua
+leaf: orore
+leaf: roro
+leaf: roro
+leaf: tolotolo
+leaf: tolotolo
+leaf: tolotolo
+leaf: tolotolo
+leaf: tolotolo
+leaf: toltolo
+leaf: toro
+leaf: toro
+left: aba
+left: mai aßa itai
+left: mai aßa itai
+left: mai aßa itai
+left: maiava
+leg: mola
+leg: mora
+leg: mora
+leg: mora
+leg: mora
+leg: mora
+leg: mora
+leg: mora
+lie: auiavai
+lie: iaßa
+lie: iava
+lie: iavai
+lie: iavai/iroropai
+lie: iroropai
+lie: laßai
+lie: uia
+lie: uia/uovia
+lightning: keßaro
+lip: ape poe
+lip: ape poe
+lip: ape ruru
+lip: ape-ruru
+lip: taipi
+live: makuri
+live: makuri
+live: makuri
+live: pavai
+live: pavai
+live: pave
+liver: hai
+liver: hai
+liver: hai
+liver: hai
+liver: hai
+liver: hai
+liver: haie
+liver: haie
+liver: hai\i
+long: sabori
+long: saieka
+long: saieka
+long: saßori
+long: saßori
+long: saßori
+long: savori
+long: savori
+long: sovori
+louse: ape
+louse: dia
+louse: lia
+louse: lia
+louse: lia
+louse: lia
+louse: saruca
+louse: saruča
+louse: sarula
+louse: sarula
+louse: saruta
+louse: saruta
+louse: titiri
+man: heaßila
+man: heaßita
+man: heavila
+man: heavita
+man: i\sava
+man: kaisava
+man: kaisava
+man: kaisava
+man: kaisɔßa
+man: karu
+man: karu
+man: ßičoiča
+man: ßita
+man: torea
+man: vicoica
+man: vita
+man: vita
+many: lauapu
+many: rauapo
+many: rauapo
+many: rauapo
+many: rauapo
+many: rauapo
+many: sißiri
+many: sißiri
+many: siviri
+many: siviri
+meat: maea
+meat: osa
+meat: osa
+meat: osa
+meat: osa
+meat: salaßa
+meat: salaßa
+meat: salava
+meat: salava
+meat: salava
+meat: sarɔßa
+meat: sarɔßa
+meat: sarova
+meat: sorova
+moon: papare
+moon: papare
+moon: papare
+moon: papare
+moon: papare
+moon: papare
+moon: papare
+moon: papare
+moon: papari
+morning: miori
+mosquito: falea
+mosquito: falea
+mosquito: farea
+mosquito: ifali
+mosquito: iφalea
+mother: koka
+mother: lou
+mother: lou
+mother: lou
+mother: lou
+mother: lou
+mother: lou
+mother: lou
+mountain: arari
+mountain: laepa
+mountain: laepa
+mountain: laepa
+mountain: laepa
+mountain: laepa
+mountain: raepa
+mountain: raepa
+mountain: raepa
+mountain: raepa
+mountain: raepa
+mountain: raepa
+mountain: raepa
+mouth: ape
+mouth: ape
+mouth: ape
+mouth: ape
+mouth: ape
+mouth: ape
+mouth: ape
+mouth: ape
+mouth: aputa
+name: lare
+name: lare
+name: lare
+name: lare
+name: lare
+name: lare
+name: rare
+name: rare
+name: rare
+narrow: koko
+narrow: koko
+narrow: koko
+narrow: tero
+narrow: tero
+narrow: tero
+navel: ela-lave
+navel: ele-lalave
+navel: ele-lalave
+navel: ere rave
+navel: rarave
+near: haekao
+near: haekao
+near: hoe
+near: hoekao
+near: hoi
+neck: kavarehau
+neck: kavari-fai
+neck: kavari hau
+neck: kɔßɔre
+neck: kɔßɔre
+neck: kɔßɔre
+neck: kovore
+neck: kovore
+neck: kovore
+new: are
+new: áre
+new: áre
+new: áre
+new: áre
+new: áre
+new: áre
+night: faica
+night: faiča
+night: fai\ia
+night: faila
+night: faita
+night: faita
+night: faita
+night: faitaburu
+night: faita vulu
+night: mefautu
+night: φaita
+night: φaita
+nose: evera
+nose: evera
+nose: evera
+nose: evera(pe)
+not: haroka
+not: haroka
+not: ießi
+not: ievi
+not: ievi
+not: kao
+not: kao
+not: kau
+not: kau
+not: kau
+not: leßei
+not: leßi
+not: levei
+old: eßera
+old: evira etou
+old: omopa
+old: omopa
+one: falaheka
+one: farakeka
+one: farakeka
+one: fareapo
+one: liheriapo
+one: liheriapo
+one: φarakeka
+one: φareapo
+other: haria
+other: haria
+other: lahia
+person: karu
+person: karu
+person: karu
+person: karu
+person: karu
+person: karu
+person: karu
+person: karu
+play: hai ara
+play: haßɔu loi
+play: havaroi
+play: tola loi
+pull: aruaßa
+pull: aruaßi
+pull: aruavaia
+pull: arußai
+push: sučaßutea
+push: sukaßuteai
+push: sukaßuteai
+rain: lai
+rain: lai
+rain: lai
+rain: lai
+rain: lai
+rain: lai
+rain: lai
+rain: nai
+rain: rai
+rain: rorou
+rat: aili
+rat: aire
+rat: aire
+rat: aire
+rat: airi
+rat: airi
+rat: airi
+rat: airi
+rat: airi
+rat: airi
+rat: airi
+red: bebohari
+red: (maea) mo-hari
+red: maea mohari
+red: mea oßohari
+red: (mea) ovo-hari
+red: mo-hare
+red: mohari
+red: moi oßohori
+red: moi ovohori
+red: ovo-hare
+right: mai toare
+right: mai tore
+right: mai tore
+right: toare
+right: toare
+ripe: bea
+ripe: mea
+river: mai
+river: mai
+river: mai
+river: mai
+river: mai
+river: mai
+river: mai
+river: mai
+river: maiː
+river: mai-poi
+road: ati haro
+road: otiharo
+road: otiharo
+road: otiharo
+road: otiharo
+road: otiharo
+road: otiharo
+road: otiharo
+road: otiharo
+root: lakele
+root: lakelea
+root: lakerea
+root: lakerea
+root: likere
+root: likere
+root: likilea
+root: likilea
+rope: ela
+rope: ela
+rope: ela
+rope: ela
+rope: ela
+rope: era ruruopi
+rope: favera
+rope: horou
+rope: horou
+rope: horou
+rope: horou
+rope: horou
+rope: orou
+rotten: purukwa
+rotten: purula
+rotten: purula
+rotten: puruta
+round: maea koauka
+round: maea kouaka
+round: mea eloritu
+round: mea eloritu
+round: mea kou
+round: mea kou
+round: mekui
+rub: roroai
+rub: roroai
+rub: roroapai
+salt: kaikara
+salt: kaikara
+salt: kaikara
+salt: mahea
+salt: makaikara
+salt: makaikara
+salt: makaikara
+salt: soare
+sand: (mea) tetere
+sand: mea tetere
+sand: mea tetere
+sand: mea tetere
+sand: mea tetere
+sand: mea tetere
+sand: miri
+sand: miri
+sand: miri
+sand: miri
+sand: miri (folo)
+sand: miri (folo)
+sand: miri φolo
+sand: miri φolo
+sand: miri φolo
+sand: miti folo
+say: o apua
+say: o apua
+say: oara
+say: o ara
+say: o auai
+say: o-auai
+say: o meai
+say: o meai
+say: omeaia
+say: omoi
+say: omoi
+say: omoi
+say: omoi
+say: omoi
+say: ovearoro
+scratch: kaia
+scratch: karičai
+scratch: karikiai
+scratch: karira
+scratch: karitai
+scratch: karitai
+sea: makaikara
+sea: makaikara
+sea: makaikara
+sea: ma-kaikara
+sea: ma-kaikara
+sea: ma-kaikara
+sea: makai kara
+sea: saea
+seed: fare
+seed: (tola) mere
+seed: (tola) mere
+seed: tola mere
+seed: tola mere
+seed: tola mere
+seed: tola mere
+see: eovaia
+see: ofaeavai
+see: ofae-avai
+see: ofae-eavie
+see: ofae eovi
+see: ofae eovi
+see: ofai eavai
+see: ovofare-eavie
+see: oφae eaßai
+see: oφae eoßi
+see: oφae eoßi
+sew: roroia
+sew: totola
+sew: totola
+sew: totorai
+sharp: mare
+sharp: mare
+sharp: mare
+short: halua
+short: halußa
+short: harua
+short: harua
+short: harua
+shoulder: solohou
+shoulder: soro
+shoulder: soroho
+shoulder: soroho uti
+sing: φerai
+sister: maraheari
+sister: marehari
+sister: paua
+sister: uaroa
+sister: uaroa
+sit: aßai
+sit: aßai
+sit: aßai
+sit: auavai
+sit: au-avai
+sit: avai
+sit: avai
+sit: avai
+sit: avaia
+skin: (maea) ruru
+skin: maea ruru
+skin: maea ruru
+skin: maea ruru
+skin: maea ruru
+skin: maea ruru
+skin: ruru
+skin: ruru
+skin: ruru
+skin: veatoro
+sky: kauri
+sky: kauri
+sky: kauri
+sky: kauri
+sky: kauri
+sky: kauri
+sky: kauri
+sky: laepa
+sleep: iavai
+sleep: ißutu iaßa
+sleep: ißutu laßai
+sleep: ißutu loi
+sleep: ivutu
+sleep: ivutu (iava)
+sleep: ivutu iavai
+sleep: ivutu loi
+sleep: vutuiavai
+small: ehare
+small: ekari
+small: ekari/kaekaehehela
+small: jeai
+small: kaekae
+small: keai(a)/titititi
+small: seieka
+small: seika
+small: seika/kaekae
+small: seka
+small: titititi
+smell: bu
+smell: mu
+smoke: aikaera
+smoke: aikaera
+smoke: aikaiera
+smoke: aika(i)era
+smoke: aika(i)era
+smoke: aikaina
+smoke: aikoela
+smoke: aikohela
+smoke: aikohela
+smoke: a oro
+smooth: peore
+smooth: ßeßete
+smooth: ßeßete
+smooth: ßeßete
+snake: ikaroa
+snake: ikaroa
+snake: ikaroa
+snake: ikaroa
+snake: ikaroa
+snake: ikaroa
+snake: karoa
+snake: okaroa
+son: atuče
+son: atule
+son: atute
+son: tuti
+sour: eokere
+sour: peloro
+spit: ahuru
+spit: apea
+spit: apea-toai
+spit: peiasoeia
+spit: pekoro
+split: haea
+split: haeai
+split: haeai
+split: karara
+split: kararai
+split: kararai
+squeeze: φaihohɔrai
+squeeze: φaihohɔroa
+squeeze: φaihohɔroai
+stand: coi
+stand: fuoi
+stand: itoi
+stand: urai
+stand: urou
+star: koru
+star: koru
+star: koru
+star: koru
+star: koru
+star: koru
+star: koru
+star: koru
+star: koru
+stone: fave
+stone: fave
+stone: fave
+stone: fave
+stone: fave
+stone: fave
+stone: φaße
+stone: φaße
+stone: φaße
+straight: haukwa
+straight: haura
+straight: haura
+straight: haura
+straight: risi risi
+suck: petoaßa
+suck: ukopai
+suck: φoφosa
+sun: sare
+sun: sare
+sun: sare
+sun: sare
+sun: sare
+sun: sare
+sun: sare
+sun: sare
+sun: sare
+sweet: meoi ma
+sweet: tapare
+sweet: tapare
+sweet: tapare
+swell: popota
+swell: φeφesi
+swell: φeφesi
+swim: arißeai
+swim: arißeai
+swim: arißi
+swim: ariveai
+swim: ariveai
+swim: ariveia
+swim: arivi
+swim: riveai
+tail: aru
+tail: ue
+tail: ue
+tail: uke
+tail: uke
+tail: uke
+tail: uke
+tail: uke
+take: aßai
+take: oßai
+take: oßai
+take: ovitereia
+take: torea
+take: torea
+that: itai
+that: la
+that: la
+that: lea
+that: lea
+that: lea
+that: lea
+that: lealea
+that: lealea
+that: neha
+that: reha
+that: reha
+that: reha
+that: reha
+there: itaivori
+there: lalomea
+there: lɔßoa
+there: lɔßoa
+there: seo
+they: areo
+they: eleve
+they: ere
+they: ere
+they: ereo
+they: ere-o
+they: ereßa
+they: eveo
+they two: auka
+they two: auka
+they two: ereuka
+they two: ereuka
+they two: ereuka
+thick: kafearu
+thick: kafeharu
+thick: kaφearu
+thick: kaφearu
+thick: kaφiheru
+thick: papu
+thigh: maute
+thigh: mauti
+thigh: mauti
+thigh: ukae
+thin: kapesa
+thin: kapesa
+think: haičioti
+think: haikaeai
+think: haikaeai
+think: haikaeai
+think: haikweai
+thin: pakeke
+thin: sesera
+thin: sesera
+thin: sesera
+thin: seseroro
+thin: seseroro
+thin: seseroro
+thin: seseroro
+thin: seseroro
+this: ma
+this: ma
+this: maha
+this: mea
+this: mea
+this: mealea
+this: mealea
+this: mea meha
+this: mea ~ meha
+this: meha
+this: meha
+thorn: mafekeke
+thorn: tola marekeke
+thou: a
+thou: a
+thou: a
+thou: ao
+thou: a(-o)
+thou: a\o aleha
+thou: aßa
+thou: ava
+thou: ave
+thou: avi
+thou: e
+thou: e
+thou: eo
+thou: eo
+thou: eßa
+thou: eve
+thou: eve
+three: oroiso
+three: oroisoria
+three: oroisoria
+three: oroisoria
+three: roisorio
+throat: havarehau
+throat: kavori hau
+throat: kɔßɔre-ipi
+throw: toapai
+throw: toapaia
+throw: toapaia
+throw: topai
+throw: φaßeai
+thunder: bea tutura\aua
+thunder: sisorea
+tie: feraukeia
+tie: feraukeia
+tie: saepai
+tie: saepai
+tie: saepai
+tie: satati
+tie: φelaukeai
+today: faitara
+today: melu
+tomorrow: bebere
+tomorrow: bevere
+tomorrow: opulu sare
+tomorrow: opulu sare
+tomorrow: ßeßere sare
+tomorrow: ßeßere sare
+tomorrow: vevere sare
+tomorrow: vevere sare
+tongue: lauri
+tongue: tepa
+tongue: uri
+tongue: uri
+tongue: uri
+tongue: uri
+tongue: uri
+tongue: uri
+tongue: uri
+tongue: uri\lauri
+tooth: ita kea
+tooth: kea
+tooth: kea
+tooth: kea
+tooth: tao
+tooth: tao
+tooth: tao
+tooth: tao
+tooth: tao
+tooth: tao
+tooth: tao
+tooth: tao
+tooth: tau
+tree: tola
+tree: tola
+tree: tola
+tree: tola
+tree: tola
+tree: tola
+tree: tola
+tree: tora
+tree: tora
+turn: herori
+turn: kaiai
+turn: kerori
+two: orakoria
+two: orakoria
+two: orakoria
+two: orakoria
+two: orakoria
+two: orale
+two: orale
+two: oraokaria
+vagina: ete
+vomit: muː
+vomit: musiavai
+vomit: mu sisioßi
+vomit: mu suka sisɔßai
+vomit: mu teiaea
+walk: aria
+walk: isai
+walk: (m)burari
+walk: mora ara
+walk: mora ara
+walk: mora terai
+walk: mora terai
+walk: mora terai
+walk: mora terai
+walk: soea
+walk: terai
+walk: terai
+walk: tereia
+walk: tereia
+wallaby: faitoru
+wallaby: ficolu
+wallaby: pisoru
+wallaby: pisoru
+wallaby: pisoru
+wallaby: φaitoru
+wallaby: φičolu
+warm: hahea
+warm: hahea
+warm: hahea
+warm: hahea
+warm: hahea
+warm: hahea
+warm: ha(he)hea
+warm: hai hibia
+warm: haihihia
+warm: hai hihia
+warm: hehea
+warm: hehea
+warm: hehea
+warm: vevesere
+wash: mauča
+wash: maukai
+wash: maukai
+wash: ukeia
+water: ma
+water: ma
+water: ma
+water: ma
+water: ma
+water: ma-fuso
+water: ma(-puso)
+water: ma(-puso)
+water: (m)ba
+we: ela-o
+weep: fi
+weep: fiaria
+weep: fiaua
+weep: fiauai
+weep: fiawai
+weep: fieupua
+weep: oßororo
+weep: φiː auai
+we: erave erita
+we (excl.): ela
+we (excl.): ela
+we (excl.): elaßa
+we (excl.): erao ereita
+we (excl.): ero
+we (excl.): erove
+we (incl.): ereiča
+we (incl.): ereita
+we (incl.): ereita
+we (incl.): erieca
+we (incl.): hia
+we (incl.): iauoa
+we (incl.): iauoa
+we (incl.): leao
+we (incl.): rauapo
+wet: maroi
+wet: surusuru
+wet: surusuru
+wet: surusuru
+we two: elaka
+we two (incl.): elaka
+we two (incl.): elaka
+we two (incl.): iraka
+what: deva
+what: larießu
+what: larievu
+what: lea
+what: leaʔ
+what: lekoru
+what: lekoru
+what: rarerekoru
+when: leasau
+when: leasauka
+when: leasauka
+where: iotao
+where: leaßoa
+where: lelao
+where: lemoa
+white: basea
+white: maea sea
+white: maea sea
+white: mea sea
+white: mea sea
+white: moi sea
+white: moi sea
+white: nesea
+who: aia
+who: aia
+who: leica
+who: leiča
+who: leisa
+who: leisa
+who: neisa
+who: reisa
+wide: pisasa
+wide: pisasa
+wide: pulasa
+wife: ua
+wife: ua
+wife: ua
+wife: ua
+wife: ußa
+wind: beafariava
+wind: mea
+wind: mea
+wind: mea
+wind: miruru
+wing: aßako
+wing: avako
+wing: maho
+wing: maho
+wing: maho
+wing: maho
+wing: mako
+wipe: roroai
+wipe: roroai
+wipe: roroapi
+woman: ɔßu
+woman: ua
+woman: ua
+woman: ua
+woman: ua
+woman: ua
+woman: ua
+woman: ußa
+woman: uva
+wood: kaika
+wood: kaika
+wood: kaika
+wood: susu
+wood: tola
+wood: tola
+wood: uti
+worm: mea seseßa
+worm: mea seseße
+worm: mea seseße
+year: biabia
+year: sičoro
+year: sisoro
+year: sisoro
+yellow: koavi
+yellow: maea koaßi
+yellow: maea koavi
+yellow: mea opori
+yellow: mea opori
+yellow: moi koaßai
+yellow: moi koavai
+yes: a
+yes: a
+yes: a
+yes: a
+yes: a
+yes: a
+yes: a
+yes: leha
+yesterday: area
+yesterday: area aiča sare
+yesterday: area aica sare
+yesterday: area sare
+yesterday: area sare
+yesterday: area sare
+yesterday: area sare
+yesterday: veveri
+you: e-o
+you two: auka
+you two: auka
+you two: euka
+you two: euka
+you two: euka

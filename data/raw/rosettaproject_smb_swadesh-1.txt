@@ -1,0 +1,103 @@
+all: yu\nakata
+arm: aata
+ashes: kwaankïpta
+bark: (i)kïlaaka
+belly: sïmwelïka
+big: aankïta
+big: mpwatïnyï
+bird: ntaqatï
+bite: tïka aanta\maaya
+black: ntïngampïnyï
+blood: mïnjaaka
+bone: yakinta
+breast: aamïnta
+burn: wiya anaandapyï
+claw: parampwaaka
+cloud: sili\wa
+cold: luku\njï
+come: alaqaampaantapyï
+die: na-mqal-maayï
+dog: njïlïka
+drink: anaantapyï
+dry: yaalkïrya
+ear: kaantïja
+earth: kwaaka
+eat: a-n-aantapyï
+egg: pantapta
+eye: sïmta
+fat (n.): mïnyara
+feather: pïvïya
+fire: ntïka
+fish: ntawïmanka
+fly (v.): aavlaka
+fly (v.): aavla\maayï
+full: maampaku\nyï
+give: any-aamp-antapyï
+good: kïrorya
+green: mpanaangwaryïnjï
+hair: mindata
+head: minta
+hear: ku\nïmaayï
+heart: nkulasïla
+horn: sïwaanta
+I: nïvï
+kill: aa-ramas-imaayi
+knee: sïntïka
+know: kunta nïna\nïmaayï
+leaf: (i)kïwïla
+leg: sïwla
+lie: k-wa-sa
+liver: kaala
+long: kïmika
+louse: ila
+man: kwala
+many: mpwatanyaanka
+many: nïnu\nïmaayï
+meat: munkupata
+moon: lampaaka
+mountain: munkunta
+mouth: maaputa
+name: yavata
+neck: mparïka
+new: aaya
+night: sïlaati
+nose: sïmputa
+not: ma- -y/maayï
+one: pïrï\mïna
+person: a\mwa
+rain: mbïruka
+red: wayaaka
+road: puta
+root: ipulïka
+round: gankamïnte
+sand: weika
+say: aan-ta-maayï
+seed: ikïlï
+see: kwon-aantapyï
+sit: na-mwaal-ya
+skin: kïlaaka
+sleep: saa kwasa
+small: maalïka\nya
+smoke: njïta
+stand: aantaapya
+star: sïlyïnta
+stone: sïla
+sun: kwïnja/nilya
+swim: lampïnyaalmolaayï
+tail: sïwïya
+that: aqaasa
+this: aqaa
+thou: sika
+tongue: kwaav/ï/ï
+tooth: maanka
+tree: ika
+two: pïvïraalna
+walk: kaanta aavla\maaya
+warm: ntïka
+water: wanya/aalya
+we (incl.): netona
+what: mpa\nyï
+white: wiya\njï
+who: ala-(\mwaalnti)
+woman: aampala
+yellow: sïwa\njï

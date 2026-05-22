@@ -1,0 +1,258 @@
+all: alle
+all: alles
+and: und
+and: und
+animal: Tier
+animal: Tier, das
+ashes: Asche
+ashes: Asche, die
+at: an
+at: bei
+back: Rücken
+back: Rücken, zurück
+bad: böse, schlecht
+bad: schlecht
+bark: bellen
+bark: Rinde
+because: weil
+because: weil
+belly: Bauch
+belly: Bauchnabel, der
+big: groß
+big: groß
+bird: Vogel
+bird: Vogel, der
+bite: beißen
+bite: beißen
+black: schwarz
+black: schwarz
+blood: Blut
+blood: Blut, das
+blow: blasen
+blow: pusten
+bone: Knochen
+bone: Knochen, der
+breast: Brust, die
+breast: chathi
+breast: weibliche Brust
+breathe: atmen
+breathe: atmen
+burn: brennen
+burn: brennen
+child: Kind
+child: Kind, das
+cloud: Wolke
+cloud: Wolke, die
+cold: kalt
+cold: kalt
+come: kommen
+come: kommen
+correct: korrekt
+correct: richtig
+count: zählen
+count: zählen
+cut: schneiden
+cut: schneiden,  Schnitt, der
+day: Tag
+day: Tag, der
+die: sterben
+die: sterben
+dig: graben
+dig: graben
+dirty: schmutzig
+dirty: schmutzig
+dog: Hund
+dog: Hund, der
+drink: trinken
+drink: trinken
+dry: trocken
+dry: trocken
+dust: Staub
+dust: Staub, der
+ear: Ohr
+ear: Ohr, das
+earth: Erde
+earth: Erde, die
+eat: essen
+eat: eßen
+egg: Ei
+egg: Ei, das
+eye: Auge
+eye: Auge, das
+fall: fallen
+fall: fallen, Herbst
+far: weit
+far: weit
+father: Vater
+father: Vater, der
+fat (n.): Fett
+fat (n.): Fett, das
+fear: Furcht, die, fürchten
+fear: fürchten
+feather: Feder
+feather: Feder, die
+few: wenige
+fight: kämpfen
+fingernail: Fingernagel
+fingernail: Nagel
+fire: Feuer
+fish: Fisch
+five: fünf
+float: treiben
+flower: Blume
+flow: fließen
+fly (v.): fliegen
+fog: Nebel
+foot: Fuß
+forest: Wald
+four: vier
+freeze: frieren
+fruit: Frucht
+fruit: Obst
+full: voll
+give: geben
+good: gut
+grass: Gras
+green: grün
+guts: Eingeweide
+hair: Haare
+hand: Hand
+head: Kopf
+hear: hören
+heart: Herz
+heavy: schwer
+he: er
+here: hier
+hit: schlagen
+hold: halten
+horn: Horn
+how: wie
+hunt: jagen
+husband: Mann
+ice: Eis
+if: wenn
+I: ich
+in: in
+kill: töten
+knee: Knie
+know: wißen
+lake: See
+laugh: lachen
+leaf: Blatt
+left: links
+leg: Bein
+lie: liegen
+live: leben
+liver: Leber
+long: lang
+louse: Laus
+man: Mann
+many: viele
+meat: Fleisch
+moon: Mond
+mother: Mutter
+mountain: Berg
+mouth: Mund
+name: Name
+nape: Nacken
+narrow: schmal
+near: nah
+neck: Hals
+new: neu
+night: Nacht
+nose: Nase
+not: nicht
+old: alt
+one: eins
+other: andere
+person: Mensch
+play: spielen
+pull: ziehen
+push: schieben
+rain: Regen
+red: rot
+right: rechts
+river: Fluß
+road: Weg
+root: Wurzel
+rope: Seil
+rotten: verrottet
+round: rund
+rub: reiben
+salt: Salz
+sand: Sand
+say: sagen
+scratch: kratzen
+sea: See
+seed: Samen
+see: sehen
+sew: nähen
+sharp: scharf
+short: kurz
+sing: singen
+sit: sitzen
+skin: Haut
+sky: Himmel
+sleep: schlafen
+small: klein
+smell: riechen
+smoke: Rauch
+smooth: glatt
+snake: Schlange
+snow: Schnee
+some: ein paar
+spit: spucken
+split: spalten
+squeeze: quetschen
+stab: stechen
+stand: stehen
+star: Stern
+stick: Stock
+stone: Stein
+straight: gerade
+suck: saugen
+sun: Sonne
+swell: schwellen
+swim: schwimmen
+tail: Schwanz
+that: jener
+there: da
+they: sie
+thick: dick
+thin: dünn
+think: denken
+this: dieser
+thou: du
+three: drei
+throw: werfen
+tie: binden
+tongue: Zunge
+tooth: Zahn
+tree: Baum
+turn: drehen
+two: zwei
+vomit: sich übergeben
+walk: gehen
+warm: heiß
+wash: waschen
+water: Wasser
+water: Waßer
+wet: nass
+we: wir
+what: was?
+when: wann
+where: wo
+white: weiß
+who: wer?
+wide: breit
+wife: Frau
+wind: Wind
+wing: Flügel
+wipe: wischen
+with: mit
+woman: Frau
+woman: Weib
+worm: Wurm
+year: Jahr
+yellow: gelb
+you: ihr

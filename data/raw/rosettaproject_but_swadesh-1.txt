@@ -1,0 +1,162 @@
+all: ɛndɛm
+arrow: yiṛ
+bad: waningiaʔ
+bark: (nɛm)t̪ʰok
+belly: kʰaʔ
+big: imbɛl
+bird: nɪn
+bite: wulan
+black: kʷatvine
+blood: yawarr
+bone: niŋgɛt̪
+boy: nam worr
+breast: nom
+brother: nat̪ ko
+burn: teṛna
+child: worr
+chin: kumansɛn
+cloud: narro
+cold: kolobapʰ
+come: kʰet̪ena
+crocodile: ʷunai
+day: nɛbɛn pʰurrɛŋgɛm
+die: wean
+dog: wunapʰ
+drink: (wi) noraŋ
+dry: oraŋgat̪ kɪne
+ear: hakɪt̪
+earth: t̪ʰunauḷ
+eat: -rat̪
+egg: no
+elbow: kʷambɪn
+emu: maŋgaʔ
+eye: yal
+fall: akʷinete
+father: kʷiya
+fat (n.): hambai
+feather: nʲkwe
+finger: arr-ininde-ŋan
+fire: yi
+fish: karra
+five: arrat purɨre
+fly (v.): kɛt̪ewon
+foot: rrop
+forehead: haŋgarra
+four: ibipʰ
+full: peʲ si
+girl: ulaŋan
+give: ya͂ma͂p i͂ni͂s
+good: kanum
+hair: yɛrr
+hand: harr
+head: paʲrr
+heavy: men
+he/she: n-
+he/she: ne
+he/she: ni
+he/she: ni
+he/she: w-
+he/she: wi
+he/she: wi
+hit: kaṛnap
+house: pʰat̪
+I: k-
+I: na
+I: na
+I: na͂
+kill: kaṛḷnan wean
+knee: kʰosɪpa
+know: nutʰa kotʰoʔ
+leaf: mʊnagit̪
+lie: pʰɛnet̪e
+lip: komogat̪
+long: ileŋam
+louse: pʰit
+man: urra
+meat: kʰaŋgorr
+moon: kʰaṛo
+morning: ŋapɪnɪm
+mosquito: kɪlɛmbe
+mother: uma
+mountain: pʰapʰ
+name: nop
+new: akana
+night: nuŋgɛrɛp
+not: bio
+old: akap nam
+old: akap nan
+old: urran
+one: yakatɛle
+rain: kɪnam
+rat: mandeke
+red: motʰvɪne
+river: wi
+road: kʰat̪
+round: muvene
+sand: sɪnaʲ
+say: wemar kundendan
+sea: hok
+seed: (nɛm)worr
+see: nelɛnɛn
+short: kafʊtʰ
+shoulder: tenaxɛt
+sister: nat̪ ko
+sit: tʰurrenede
+skin: uŋaɣɛt
+sleep: nimɛp nan
+small: iwewit̪
+smoke: yupʰ
+spit: kʷulnowo
+stand: amini
+star: kʷa
+stone: hambap
+sun: nɛmbɛn
+swim: kɛte wonatnɪl
+that: kaʲ̪e
+they: mi(-yip)
+they: m-/s-
+they: nuŋgele
+they two: mi(-ye)
+they two: mi(ye)
+they two: m-/s-
+they two: yipɛnɪm
+this: ŋɛt̪ʰe
+thou: no͂ʔ
+thou: nu
+thou: nu
+thou: nuʔ
+thou: nu(yip)
+thou: y-/kw-
+three: ipʰutkana
+throat: t̪ʰaʔ
+tomorrow: yambat̪ʰ
+tongue: mileʲ
+tooth: hopʰ
+tree: nɛm
+two: ipɛnɛm
+walk: namnil
+wallaby: kaminč
+warm: unamgɛp
+water: wi
+we (excl.): numbeʔ
+we: na(yip)
+we: na(yip)
+we: p-
+wet: wivene
+we two: b-
+we two (excl.): naŋkemipʰ
+we two (incl.): na(we)
+we two: na(-we)
+white: ambaʲgene
+wing: rran
+woman: ŋan
+wood: kʰut̪a
+yellow: ambogene
+yesterday: nuŋgoreʔ
+yes: weʲ
+you: nu(-yip)
+you two: neŋkemipʰ
+you two: nu(-wi)
+you two: nu(wi)
+you two: w-
+you: w-

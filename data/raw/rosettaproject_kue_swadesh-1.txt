@@ -1,0 +1,884 @@
+all: munda
+all: munda
+all: pala pala
+all: pra pra
+and: kaukl
+and: kaukñ
+arm: oŋo
+arm: oŋoie
+arrow: kimbiri
+arrow: ye
+arrow: yere
+arrow: yere
+arrow: yere(-kimbre)
+ashes: iŋum
+ashes: iŋum
+ashes: yegum
+ashes: yegum
+ashes: yunggum
+ashes: yuŋgum
+back: mogo
+back: mogo-na
+back: mogo-na
+back: moku
+back: moku
+back: mumbie
+bad: kinde
+bad: kinde
+bad: kinde
+bad: kinde
+bad: kinde
+bad: kindi
+bark: endi ganggi
+bark: endi gaŋgi
+belly: debilomgo
+belly: dembiglko
+belly: deno
+belly: deno
+belly: goŋau-mo
+big: kande
+big: kande
+big: kande
+big: kande
+big: kande
+big: kande
+big: ponde
+big: pondo
+bird: koa
+bird: kua
+bird: kua
+bird: kua
+bird: kua
+bird: kua
+bird: kua
+bird: nima
+bite: kal-
+bite: kale-
+bite: sunggua
+bite: suŋgua
+black: kama
+black: kama
+black: kama
+black: kama
+black: kama
+black: ka:ma
+black: kaːma
+blood: bolomai
+blood: boromai
+blood: boromai
+blood: boromai
+blood: borɔmai
+blood: borumai
+blood: mayam
+blood: mayam
+blow: pundusunggua
+blow: pundusuŋgua
+bone: yambiro
+bone: yambiro
+bone: yombei
+bone: yombugl
+bone: yombugl
+bone: yombuglo
+bone: yombura
+bone: yombu-ra
+bone: yómbu-ra
+boy: gage
+boy: gale
+boy: kumugl
+boy: kumukl
+boy: kumukñ
+boy: kumuluː
+branch: indowe
+branch: yoŋagle
+breast: ame-
+breast: amena
+breast: amu
+breast: amu-na
+breast: amu-na
+breast: amu-na
+breast: amuno
+breast: amu-no
+brother: ánggera
+brother: aŋgera
+brother: anggira
+brother: aŋgira
+brother: anggra
+brother: aŋigle
+brother: aŋile
+burn: do-
+burn: donu-
+burn: gaklh.kwa
+burn: gakñkwa
+burn: gaxka
+burn: gaxka
+butterfly: kuime kaime
+butterfly: kuime kaime
+butterfly: kuime kaime
+butterfly: kume kaime
+butterfly: kwimekaime
+butterfly: kwimekaime
+calf: kagl paragle yombuglo
+calf: kale palatie yombei
+cassowary: ni:me
+cheek: pauna
+cheek: pauna
+child: yagn gage
+child: yagn gage
+claw: winagle
+claw: winagñe
+cloud: kamen koa
+cloud: kamen koa
+cloud: kamkua
+cloud: kamkua
+cold: bi
+cold: bi
+cold: ir
+cold: ir
+cold: iri nggoxkwa
+cold: iri ŋgoxkwa
+come: onggua
+come: oŋgua
+come: u-
+come: uŋua
+come: uono-
+cut: bo-
+cut: bo-xka
+cut: keglu
+cut: kegñu
+dance: aiken
+dark: mim
+dark: mim
+daughter: ambuglo
+daughter: ombuei
+day: andesuŋgua
+day: ene
+day: eŋe
+day: engge
+day: eŋge
+die: goklh.kua
+die: gol-
+die: golu-
+die: goñkua
+dirty: bi
+dirty: bi
+dog: a
+dog: agi
+dog: agl
+dog: agl
+dog: agl
+dog: aklh
+dog: akñ
+dog: al
+dog: atn
+drink: neunggua
+drink: neuŋgua
+drink: nigl neiŋga
+drink: nigl neingga (ø
+drink: nigl no-
+drink: nu nono-
+dry: gigle nalu-
+dry: gile nendu-
+dry: kugandunggua
+dry: kuganduŋgua
+ear: kina
+ear: kinabe
+ear: kina-na
+ear: kina-na
+ear: kina-(na)
+ear: kunano
+ear: kuna-no
+earth: magan
+earth: magan
+earth: magan
+earth: magan
+earth: magan
+earth: magan
+earth: makan
+earth: moglombo
+earth: mokumbo
+eat: nei-
+eat: neinga
+eat: nei-ngga
+eat: neunggua
+eat: neuŋgua
+eat: no-
+eat: nono-
+egg: (koa) muglo
+egg: muglo
+egg: mugño
+egg: (nima) muglo
+egg: nuglo
+emu: nime
+emu: nime
+emu: nime
+emu: niːme
+eye: gumutino
+eye: gumutino
+eye: onggomutna
+eye: oŋgomutna
+eye: oŋolome
+eye: oŋomit-na
+eye: oŋomuglo
+face: gimai
+face: guma
+face: gumana
+face: gúmana
+far: elige
+far: elke
+father: nem
+father: nem
+father: nina
+father: nina
+father: nino
+father: nino
+fat (n.): vamm
+fat (n.): wam
+fat (n.): wam
+fat (n.): wam
+fat (n.): wam
+fear: kandin golu-
+fear: kondukl.nggokl
+fear: kondukñŋgokñ
+fear: kundugl gol-
+fear: kundugl pirika
+fear: kundugl pirika
+fear: kundux pirika
+feather: iŋgo
+feather: ingo
+feather: (koa) iŋo
+feather: (nima) enie
+finger: Monggo
+finger: moŋgo
+fingernail: gire
+fingernail: gire
+finger: oŋoie moŋo
+finger: oŋo moŋo
+fire: baugl
+fire: dongga
+fire: doŋga
+fire: ende
+fire: ende ndonggwa
+fire: ende ndoŋgwa
+fire: indi
+fire: iŋumule
+fire: iŋumulu
+fish: bagle
+fish: bagñe
+fish: buglo bagle
+fish: buglo bagle
+flower: kuie
+flower: kuie
+flower: tara kuie
+flower: tara kuie
+fly (n.): diun
+fly (n.): diune
+fly (n.): diune
+fly (n.): goŋgomba
+fly (n.): indi
+fly (v.): endonggua
+fly (v.): endoŋgua
+foot: kagl
+foot: kagl beye
+foot: kagl sura
+foot: kale
+foot: kale bei
+foot: kalie
+foot: kalie suo
+foot: katino
+foot: kati-no
+foot: kat-na
+foot: kat-na
+forehead: bile mambe
+forehead: bire mambuglo
+forest: endile
+forest: endile
+forest: indopan
+four: suo suo
+four: suo wa suo
+four: tue wa tuwa
+fruit: amukñ
+fruit: monggo
+fruit: moŋgo
+fruit: moŋo
+fruit: moŋo
+full: kausunggua
+full: kausuŋgua
+full: kaw
+full: kaw
+girl: ambai
+girl: ambai
+girl: ambai
+girl: ambai
+girl: amunga
+give: teingga
+give: teiŋga
+give: teunggua
+give: teuŋgua
+give: to-
+give: tono-
+good: wagai
+good: wagai
+good: wagai
+good: wagai
+good: wagai
+good: wagai
+grass: kugl
+grass: kukl
+grass: kukñ
+grass: kulu
+green: kama
+green: kama
+green: molunandeŋua
+green: morunduŋwa
+green: murundu
+green: murundu
+guts: de kaie
+guts: dem kane
+guts: dena
+guts: dena
+hair: (bile) enie
+hair: (bire) iŋo
+hair: inggu-no
+hair: iŋguno
+hair: yungo
+hair: yun.go
+hair: yuŋo
+hand: onggo-na
+hand: oŋgo-na
+hand: onggu-no
+hand: oŋguno
+hand: oŋo
+hand: oŋoie
+hand: oŋu-na
+head: bile
+head: bire
+head: biti-no
+head: bit-na
+head: bit-na
+head: bit-na
+head: bɪtɪno
+hear: pilu-
+hear: pirika
+hear: piríka
+hear: pru-
+hear: pru-kua
+hear: purukua
+hear: purukua
+heart: kilu moŋo
+heart: kilu po mol-
+heart: munduno
+heart: munduno
+heart: siŋe po molu-
+heavy: yobugñare
+here: edla
+here: mala
+here: mala
+he/she: ye
+he/she: ye
+he/she: ye
+he/she: ye
+he/she: yewe
+he/she: yile
+hit: bol-
+hit: bolu-
+hit: sunggua
+hit: suŋgua
+hole: maugl
+hole: maukl
+hole: maukñ
+hole: mogu
+house: inggukl
+house: iŋgukñ
+house: iŋu
+house: iŋu
+house: iŋu
+house: yungu
+house: yun.gu
+husband: kiye
+husband: wie
+husband: wiye
+husband: wiye
+husband: wuie
+I: na
+I: na
+I: na
+I: na
+I: na
+in: bangge
+kangaroo: kambu bagime
+kangaroo: noga balime
+kill: singgokl.kua
+kill: sɪŋgokñkua
+knee: gogino
+knee: gogi-no
+knee: kagl golko
+knee: kale golumge
+know: na piríka
+know: pilu-
+know: pirika
+know: pru-
+know: purukua
+know: purukua
+laugh: gaugl eru-
+laugh: owe denu-
+leaf: yage
+leaf: yaundo
+leaf: yaundo
+leaf: yaundo
+leaf: yaundo
+leaf: yaundo
+leaf: yowe
+leg: kagl
+leg: kale
+leg: kalie
+leg: kati
+leg: kati
+leg: kat-na
+lie: paiingga
+lie: pai\iŋga
+lie: ukl paiunggua
+lie: ukñ paiuŋgua
+lightning: kamen tai
+lightning: kamu ta
+live: koro moxka
+live: koro moxka
+live: mol-
+live: molu-
+liver: goŋau-mo
+liver: mundu kama
+liver: munduo kama
+liver: munggo
+liver: muŋgo
+long: kande
+long: kande
+long: ol.lh.to
+long: olto
+long: olto
+long: olto
+long: olto
+long: olto
+long: olundo
+louse: niman
+louse: niman
+louse: níman
+louse: nime
+louse: numan
+louse: numan
+louse: tolendi
+louse: tolssi
+man: yagl
+man: yagl
+man: yagl
+man: yagl
+man: yagl
+man: yakl
+man: yakñ
+many: mere
+many: mere
+man: yomba
+man: yomba
+meat: mie
+meat: mie
+meat: mie
+meat: minde
+meat: miya
+meat: miya
+moon: ba
+moon: ba
+moon: ba
+moon: ba
+moon: ba
+moon: mba
+morning: taŋenma mogl
+morning: taŋenma mol
+morning: tanggima kana
+morning: taŋgima kana
+mosquito: oruglo
+mosquito: orulo
+mother: mam
+mother: mam
+mother: mam
+mother: mana
+mother: mana
+mountain: (magan) muglo
+mountain: magan mugño
+mountain: muglo
+mountain: mulo
+mouth: dilai
+mouth: dira
+mouth: dira-na
+mouth: dira-na
+mouth: dira-ne
+mouth: dirano
+mouth: dira-no
+name: kaŋgin
+name: kanggi-n(a)
+name: kaŋgi-na
+name: kaŋi-ne
+near: mambi
+near: manggigle
+near: maŋgitòe
+near: maŋigl
+neck: nuguno
+neck: nugu-no
+new: erime
+new: erime
+new: kolo
+new: koro
+night: ande benggwa
+night: ande beŋgwa
+night: anduweri
+night: anduweri
+night: endeweri
+night: endeweri
+night: mim denu-
+night: mim eru-
+nose: guma(-no)
+not: taman
+not: tman
+old: kindagl
+old: kindagl
+old: kindagl
+old: kindakl
+old: kindale
+old: mambuno
+old: mambuno
+one: sildao
+one: suara
+one: suara
+one: suara
+one: ta
+one: tsuara
+person: tege
+person: tege
+person: yomba
+person: yomba
+rain: kamen sunggwa
+rain: kamen suŋgwa
+rain: kamen suŋua
+rain: kamun
+rain: kamun
+rat: dua
+rat: dua
+rat: dua
+rat: dua
+rat: dua
+rat: inau
+rat: inau
+red: bale
+red: bogl
+red: gogl
+red: gogl
+red: gogl
+red: gogl
+red: gokl
+red: gokñ
+road: konbo
+road: konmbo
+road: konobo
+road: konumbo
+road: kon(um)bo
+road: kon(um)bo
+root: dombe
+root: duglo
+root: duglo
+root: dugl(u)o
+root: dugñuo
+rope: ka:n
+rope: kaːn
+rope: kun
+rope: kun
+rope: yaga
+rope: yerewam
+rope: yiruane
+round: memgo
+round: memgo
+round: menggu
+round: meŋgu
+salt: kowo
+salt: mundi
+sand: ogupu
+sand: ogupu
+say: dinu-
+say: dinu-
+say: du-
+say: du-
+say: kandi
+say: kandi
+say: kate-unggua
+say: kateuŋgua
+say: ndi-ngga
+say: ndi-ŋga
+seed: amukl
+seed: moŋo
+seed: moŋo
+seed: munggo
+seed: muŋgo
+see: kan-
+see: kan-ingga
+see: kaniŋga
+see: kanu-
+see: kanu-
+see: kanunggua
+see: kanuŋgua
+sharp: mugo no-
+sharp: mulo nono-
+short: sumbuie
+short: suŋunagl
+sister: ambara
+sister: ámbara
+sister: ambauglo
+sister: ambaulo
+sister: ambirino
+sister: ambiri-no
+sit: amendingga
+sit: amendiŋga
+sit: mokl.kua
+sit: mokñkua
+skin: gaŋe
+skin: ganggi-no
+skin: gaŋgino
+skin: gaŋie
+skin: nanggie
+skin: naŋgie
+skin: naŋie
+sky: kamen
+sky: kamen
+sky: kamu
+sky: kamun
+sleep: uglh paiunggua
+sleep: ugñ paiuŋgua
+small: kembele
+small: kembera
+small: kembera
+small: kembere
+small: kembere
+small: kembre
+small: kemgere
+small: uru
+small: uru
+smell: kumbuno
+smell: kumuno
+smoke: ende inge
+smoke: (ende) ingge
+smoke: iŋge
+smoke: iŋu dinbi
+smoke: iŋu dinenbi
+smooth: windan denu-
+smooth: windan du-
+snake: togi
+snake: togoi
+snake: togoi
+snake: tog(o)i
+snake: toki
+snake: tomoi
+snow: aragl moŋo
+snow: aral moŋo
+snow: ninbugl
+snow: numbulu
+son: gaŋe
+son: wam
+spit: nu su-
+spit: su sunu-
+split: ekiri
+split: ekiri
+stand: andiklh.kua
+stand: andikñkua
+stand: andixka
+star: ku:gl
+star: kuːgl
+star: kuːgl
+star: kuːgl kuri
+star: kukl
+star: kukñ
+star: kulu
+star: kulu kole
+stone: kobuglo
+stone: kombuglo
+stone: kombuglo
+stone: kombuglo
+stone: kombuglo
+stone: kombugño
+stone: kombulo
+stone: kombulo
+stone: komubulu
+stone: komubulu
+straight: dimende
+straight: dimendi
+sun: ande
+sun: ande
+sun: ande
+sun: ande
+sun: ande
+sun: ande
+sun: ande-sunggua
+swim: atineonggua
+swim: atineoŋgua
+tail: yagle
+tail: yagle
+tail: yagñe
+tail: yande
+take: inu-
+take: iu-
+that: i
+that: inda
+that: inda
+there: igl
+there: iro
+there: suglo
+there: sugño
+they two: ye
+they two: ye čuo
+they: ye
+they: ye
+they: ye
+thick: ponde
+thick: pondo
+thigh: bigie
+thigh: bimie
+this: i
+this: i
+this: i
+this: i
+this: i
+thou: ene
+thou: ene
+thou: ene
+thou: ene
+thou: ene
+thou: ene
+thou: ni
+three: suata
+three: suo ta
+three: tsuo ta
+three: tue wa tawa
+throat: nuŋu-na
+thunder: kamen guru
+thunder: kamu gulu
+today: ereme
+today: erime
+today: erime
+today: erime
+today: kendi
+tomorrow: barma
+tomorrow: taŋenma
+tomorrow: taŋenma
+tomorrow: tonggima
+tomorrow: toŋgima
+tongue: dilambe
+tongue: dirambena
+tongue: dirámbe-na
+tongue: dirambie
+tongue: dirambino
+tongue: dirambi-no
+tooth: siŋe
+tooth: singgu-no
+tooth: siŋguno
+tooth: siŋie
+tooth: tsiŋga-na
+tooth: tsinggi-na
+tree: ende
+tree: ende
+tree: ende
+tree: endi
+tree: endi
+tree: endi
+tree: inde
+turn: wage denu-
+turn: wagu-
+two: suo
+two: suo
+two: suo
+two: tsuo
+two: tue
+vagina: sumbuno
+vagina: sumbuno
+walk: kombounggua
+walk: konbouŋgua
+walk: onggua
+walk: oŋgua
+walk: po
+walk: po
+walk: po!
+walk: wani-ngga
+wallaby: kambu
+wallaby: kambu
+warm: piraglendi
+warm: piragñendi
+wash: nikl pani
+wash: nikñ pani
+water: nigl
+water: nigl
+water: nigl
+water: nigl
+water: nikl
+water: nikñ
+water: nu
+weep: agleindingga
+weep: agleindiŋga
+weep: kai eru-
+weep: kaierukua
+weep: kaierukua
+weep: kimbi denu-
+weep: on.gumuglo nuglo
+weep: ongumuglo nuglo
+we: no
+we: no
+we: no
+we: nono
+we: nono
+wet: kutunggua
+wet: kutuŋgua
+we two (incl.): no
+we two (incl.): no čuo
+what: nali
+what: siragl
+what: sirakl
+what: sirakñ
+what: tsiragl
+what: tsirágl
+when: aunake
+when: aunake
+where: aglo
+white: kiruo
+white: kiruo
+white: kruo
+white: kruwo
+white: kruwo
+white: kuluo
+who: indaowa
+who: ira
+who: ira
+who: ira
+who: ira
+wife: embena
+wife: embena
+wife: embie
+wife: embie
+wind: goli
+wind: ire
+wind: iri
+wind: iri
+woman: ambai
+woman: ambai
+woman: ambu
+woman: ambu
+woman: ambu
+woman: ambu
+woman: ambu
+woman: ambu
+wood: buglo
+wood: buluman
+wood: edi
+yellow: dindunggua
+yellow: dinduŋgua
+yellow: kilen
+yellow: kilien
+yes: oʔo
+yes: oʔo
+yesterday: ediwe
+yesterday: elemandi
+yesterday: endere
+yesterday: endewende
+you two: ene
+you two: ene čuo

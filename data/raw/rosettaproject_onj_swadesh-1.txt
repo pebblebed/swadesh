@@ -1,0 +1,67 @@
+arm: yata
+arm: yata
+bird: ekwetu
+bird: ekwetu
+dog: kuke
+dog: kuke
+ear: ikara
+ear: ikara
+eye: yama
+eye: yama
+face: yama
+face: yama
+father: batu
+father: batu
+fire: oma
+fire: oma
+fish: ijana
+fish: iyana
+fish: iyana
+five: yanisiwi
+foot: ama
+foot: ama
+four: lɔmi
+four: rome
+hand: gurepu
+hand: yani
+he/she: me
+he/she: me
+he/she: me
+house: go
+house: gò
+I: na
+I: na
+leg: afeta
+leg: afeta
+man: yote
+man: yote (jorteg)
+moon: doke
+moon: doke
+mother: aiyo
+mother: aiyò (ayor)
+one: kema
+rain: to\va (towa)
+rain: toʔva ~ towa
+road: eta
+road: eta
+stone: domo
+stone: domò
+sun: la (ya)
+sun: la (ya)
+they: ma (tagai)
+they: ma(tagai)
+thou: ga
+thou: ga
+thou: ya
+three: towa
+tooth: nosarika
+tooth: nosarika
+two: ameg
+water: saru
+water: saru
+we: nu
+we: nu
+woman: jevera
+woman: yevera
+woman: yevera
+you: ya

@@ -1,0 +1,206 @@
+all: kabeh
+all: kabeh
+all: kabeh
+all: sabən
+and: lan
+animal: [sato]
+ashes: awu
+back: gəgər
+bad: ɔlɔ
+bark: klikɔ
+because: awit
+belly: wətəŋ
+big: gedhe
+bird: manuʔ
+bite: ñakɔt (čakэt)
+black: irəŋ
+blood: gətih
+blow: sumilir
+bone: baluŋ
+breast: susu
+breathe: ambək-an
+burn: m-bakar
+child: bočah
+cloud: mendhung
+cloud: [mеgɔ]
+cold: aḍəm
+come: təkɔ
+correct: bэnэr
+count: ñăčah(čačah)
+cut: nugəl (tugəl)
+die: mati (pati)
+dig: n-duduʔ
+dirty: rəgət
+dog: asu
+drink: ŋ-ombe
+dry: gariŋ
+dull: kəṭul
+dust: bləduk
+ear: kupiŋ
+earth: [bumi]
+eat: mangan
+egg: ənḍɔk
+egg: ənḍɔk
+empty: kɔtpŋ
+eye: mɔtɔ
+fall: -m{ш}ei
+far: adɔh
+father: bapaʔ
+fat (n.): gaǰih
+fear: wədi
+feather: wulu
+few: sitiʔ
+fingernail: ǰεǰum-o
+fingernail: kuku
+fire: [gəni]
+fish: iwaʔ
+five: limɔ
+float: ŋambaŋ (kambaŋ)
+flower: kəmbaŋ
+flow: mill (m-ili)
+fly (v.): m-abur
+fog: pədut
+foot: sikil
+forest: alas
+four: papat
+frog: kɔdɔʔ
+fruit: wɔh
+full: kəbaʔ
+give: mεnεhi (wεnεh)
+good: apiʔ
+grass: sukət
+green: iǰo
+guts: ǰəro-an
+guts: ǰəro-an
+hair: rambut
+hand: taŋan
+head: əndas
+head: sirah
+hear: ŋruŋu (kruŋu)
+heart: ǰantuŋ
+heavy: abɔt
+he: ḍεwεʔ-e
+hit: ŋ-antəm
+horn: suŋu
+how: kəprie
+hunt: m-buru
+husband: laki
+I: aku
+ice: [εs]
+if: yɛn
+in: (ñ-)ǰəro
+kill: matε-ni
+knee: ḍəŋkul
+know: wəruh
+lake: [tlɔgə]
+large: gəde
+laugh: ŋ-guyu
+leaf: gɔḍɔŋ
+left: kiwυ
+leg: sikil
+lie: turэn
+liver: ati
+live: urip
+long: dɔwɔ
+louse: tumɔ
+man: wɔŋ lanaŋ
+many: akεh
+meat: dagiŋ
+moon: bulan
+mother: ibu
+mountain: gunuŋ
+mouth: čaŋkəm
+name: ǰəηəŋ
+narrow: səmpit
+near: čədaʔ
+neck: gulu
+new: añar
+night: bэŋi
+nose: iruŋ
+not: ora, dudu
+old: tuɔ
+one: siǰi
+person: wɔŋ
+play: main-an
+pull: nariʔ (tariʔ)
+push: ñuruŋ (suruŋ)
+rain: udan
+red: abaŋ
+right: təŋən
+river: kali
+road: dalan
+root: ɔyɔt
+rope: tali
+rotten: bɔsɔʔ
+round: bundər
+rub: ŋ-gɔsɔʔ
+salt: uyah
+sand: wəḍI
+say: kɔnɔḍ
+sea: [səgɔrɔ]
+sea: [səgɔrɔ]
+seed: winih
+see: ndeleng
+see: ndelok
+sew: ñ-ǰait
+sharp: landəp
+short: čəndaʔ
+sing: nəmbaŋ (təmbaŋ)
+sit: luŋguh
+skin: kulit
+sky: laŋit
+sleep: turu
+small: čiliʔ
+smell: ŋ-ambu
+smoke: kəbul
+smooth: alus
+snake: ulɔ
+snow: [salǰu]
+some: saʔ-wətɔrɔ
+spit: idu
+split: m-bəlah
+stab: tusuʔ
+stand: ŋ-adək
+star: lintaŋ
+stick: təkən
+stone: watu
+suck: ñəḍɔt (səḍot)
+sun: srəŋeŋe
+swim: nglangi
+tail: buntut
+that: iku, kuwi
+thick: kandəl
+think: mikir ([pikir]) ŋ-gagas
+thin: tipis
+this: iki
+thou: koe
+thou: koe kabεh
+three: təlu
+throw: m-balaŋ
+tie: nalεni
+tongue: ilat
+tooth: untu
+tree: wit
+turn: m-balik
+two: loro
+vomit: mutah (wutah)
+walk: m-laku
+warm: panas
+water: banyu
+we: awake dhewe
+wet: tələs
+what: ɔpɔ
+when: kapan
+which: əndi
+white: putih
+who: sɔpɔ
+why: ŋ-ɔpɔ
+wide: ɔmbɔ
+wife: bini
+wind: aŋin
+wing: suiwi
+woman: wɔŋ wadɔn
+worm: čačiŋ
+wrong: luput
+year: taun
+yellow: kuniŋ

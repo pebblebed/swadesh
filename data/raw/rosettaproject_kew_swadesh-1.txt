@@ -1,0 +1,328 @@
+all: rayo
+all: rayo
+arm: ki
+arm: ki
+arrow: kenege
+ashes: taga
+ashes: taga
+back: masa
+back: masa
+bark: yogane
+bark: yogane
+belly: robaː
+belly: robaa
+belly: tomba
+belly: tomba
+big: adaː
+big: adaa
+bird: yaa
+bird: yáa~
+bird: yáà
+bite: na
+bite: na
+black: kobere
+black: kobere
+blood: kupa
+blood: kupa
+blood: yaapi
+bone: uni
+bone: uni
+boy: naːki
+breast: adu
+breast: a(n)du
+brother: ame
+brother: ame
+burn: raː
+burn: raa
+cheek: pae
+cheek: pae
+chin: yaga
+chin: yaga
+chin: yagaː
+claw: kidipa
+claw: kidipa
+cloud: moae
+cloud: moae
+cold: upa pia
+cold: upa pia
+come: ipu
+come: ipu
+dark: pobore
+day: aebe
+day: aebe
+day: paa
+die: koma
+die: oma
+die: oma
+dog: irikai
+dog: irikai
+dog: yana
+drink: ipa na
+drink: ipa na
+dry: kaapu ya
+dry: kaːpu ta
+dry: kaːpu ya
+ear: aane
+ear: aːne
+ear: kale
+earth: su
+earth: su
+earth: su
+eat: na
+eat: na
+egg: apaː
+egg: apaa
+eye: ini
+eye: ini
+father: apa
+father: apa
+father: aːpa
+father: araa
+father: kakua
+fat (n.): apaː
+fat (n.): apaa
+feather: iri
+feather: iri
+fingernail: kindipa
+fingernail: kindipa
+finger: rikini
+finger: rikini
+finger: rikini
+finger: rikini
+fire: repema
+fire: repena
+fire: tagaː
+fish: ena
+fish: ena
+fly (v.): biya
+fly (v.): biya
+foot: a~ː
+forehead: eno
+forehead: eno
+forehead: weno
+forehead: weno
+full: rubini
+full: rubini
+give: gi
+give: gi-
+good: epe
+good: epe
+good: epe ta
+green: kagaa rekene
+green: kagaː rekene
+hair: iri
+hair: iri
+hand: ki
+head: aalu
+head: aːlu
+hear: paga
+hear: paga
+heart: imu
+heart: imu
+heavy: kedaa paa
+heavy: kedaː paː
+here: go
+he/she: go
+he/she: (n)ipu
+he/she: nipu/nipumi
+hit: tu
+hold: sapira
+horn: eperaː
+horn: eperaa
+house: anda
+house: anda
+husband: ima
+I: ni
+I: ni/neme
+kill: tu maoma
+kill: tu maoma
+knee: rumu
+knee: rumu
+know: nimanaa
+know: niminaː
+laugh: giri ta
+leaf: yo
+leaf: yo
+leg: a~ː
+leg: àà
+lie: pala
+lie: pala
+liver: pu
+liver: pu
+long: adaalu
+long: adaːlu
+louse: ada
+louse: ada
+louse: ema
+louse: ema
+louse: ete
+louse: ete
+man: áː
+man: áá
+many: adaapu
+many: adaːpu
+meat: midi
+meat: midi
+moon: akua
+moon: akua
+moon: eke
+mother: ama
+mother: ama
+mountain: pore
+mountain: pore
+mouth: agaː
+mouth: agaa
+mouth: agixa
+name: bi
+name: bi
+neck: máː
+neck: maa
+neck: máá
+new: kagaː
+new: kagaa
+new: oge
+new: oge
+night: ribaː
+night: ribaa
+nose: ini ka(n)du
+not: dia
+not: dia
+not: na-
+not: na-
+one: padane
+one: padane
+person: onaː
+person: onaa
+rain: yai
+rain: yai
+rat: pakira
+red: kane
+red: kane
+ripe: ru
+ripe: ru
+road: pora
+road: pora
+root: pitaː
+root: pitaa
+root: pitya
+root: pitya
+round: magomawae
+round: magomawae
+salt: aipa
+sand: ipa mu
+sand: ipa mu
+say: la
+say: la
+see: ada
+see: a(n)da
+see: a(n)da
+seed: ini
+seed: ini
+shoulder: pasa͂ː
+shoulder: pasãã
+sister: anya
+sit: pira
+sit: pira
+skin: yogane
+skin: yogane
+sleep: u pala
+sleep: u pala
+small: oge
+small: oge
+smell: pugu pia
+smoke: miru
+smoke: miru
+smoke: popo
+spit: rope
+spit: rope
+spit: sope
+spit: sope
+spit: supi
+spit: tupi
+spit: tupi
+stand: reka
+stand: reka
+star: uba kedo
+star: uba kedo
+stone: aana
+stone: aːna
+sun: nare
+sun: nare
+swim: ki mogea
+swim: ki mogea
+tail: apu
+tail: apu
+take: mea
+take: mea
+take: paake mea
+take: paːke mea
+that: mo
+that: mo
+they: (n)imu
+they: nimu/nimu-mi
+they two: nipi/nipi-mi
+they two: (n)ipu
+thigh: palaː
+thigh: palaa
+this: go
+this: go
+this: one
+thorn: keto
+thorn: keto
+thou: ne
+thou: ne/neme
+thou: (n)imi
+three: repo
+tongue: eke
+tongue: eke
+tongue: keke
+tooth: aga
+tooth: aga
+tooth: imaa
+tree: repena
+tree: repena
+tree: repona
+two: laapo
+two: laːpo
+vomit: maːku ra
+walk: kimisu
+walk: pamua
+walk: pamua
+walk: pu
+walk: pu
+warm: kekapu pia
+warm: kekapu pia
+water: ipa
+water: ipa
+water: ipi
+we (incl.): saː
+we (incl.): saa
+we: niaa/niaa-me
+we: niaː ~ nyaː
+we two (incl.): saː laːpo
+we two: saa/saa-me
+what: ake
+what: ake
+when: a rabo
+white: kaːke pia
+white: yaako pi
+white: yaːko pi
+who: aapi
+who: aːpi
+wind: poripu
+wind: poropu
+wind: poropu
+wing: popaː
+wing: popaa
+woman: ona
+woman: ona
+yellow: abu pi
+yellow: abu pi(a)
+yellow: ambu
+yes: e
+yes: e
+yesterday: abala
+you: nimi/nimi-mi
+you two: ne
+you two: (n)ipi
+you two: nipi/nipi-mi

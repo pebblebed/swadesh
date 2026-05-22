@@ -1,0 +1,101 @@
+all: all
+ashes: Aeschen
+bark: billen
+belly: Bauch
+big: grouss
+bird: Vugel, Vull
+bite: baissen
+black: schwaarz
+blood: Blutt
+bone: Schank
+breast: Broscht
+burn: verbrennen
+cloud: Wollek
+cold: kaal
+come: kommen
+die: stierwen
+dog: Hond
+drink: drenken
+dry: drechen
+ear: Ouer
+earth: Erd
+eat: iessen, eessen
+egg: Ee
+eye: Aa
+fat (n.): Fett
+feather: Fieder
+fingernail: Fangernool
+fire: Feier
+fish: Fesch
+fly (v.): fleien
+foot: Fouss
+full: voll
+give: gin
+good: gudd
+green: greng
+hair: Hoer
+hand: Hand
+head: Kapp
+hear: heieren
+heart: Haerz
+horn: Haar, Huar
+I: Ech
+kill: Doud maachen, embrengen
+knee: Knei
+know: wessen
+leaf: Blaat
+lie: leien
+liver: Liewer
+long: laang
+louse: Laus
+man: Mann
+many: vill
+meat: Flesch, Flaesch
+moon: Mound, Mond
+mountain: Bierg
+mouth: Mond
+name: Numm
+neck: Geneck
+new: nei
+night: Nuecht
+nose: Nues
+not: net
+one: een, eent
+person: Persoun
+rain: Reen
+red: roud
+road: Stroos
+root: Wuerzel
+round: ronn
+sand: sand
+say: soen
+seed: Geseims
+see: kucken
+sit: setzen
+skin: Haut
+sleep: schloofen
+small: kleng
+smoke: Damp
+stand: stoen
+star: Staer
+stone: Steen
+sun: Sonn
+swim: schwammen
+tail: Schwanz
+that: deen, daat
+this: desen, dest
+thou: ?
+thou: Du
+tongue: zong
+tooth: Zand
+tree: Baam
+two: zwee
+walk: goen
+warm: waarm
+water: Waasser
+we: mier
+what: waat
+white: weiss
+who: ween, wien
+woman: Fraa
+yellow: giel

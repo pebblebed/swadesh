@@ -1,0 +1,191 @@
+all: kuu
+ashes: pɔh.2
+bark: hǝmpɔ:k
+bark: mpɔk
+belly: lui
+belly: po:ŋ
+big: nam
+big: nham
+bird: sim
+bird: si:m
+bite: pok
+bite: pok
+black: hɨaŋ
+black: hiaŋ
+blood: mam
+blood: mam
+bone: ča ʔaŋ
+bone: cǝʔa:ŋ
+breast: -buʔ
+breast: pu
+burn: pӧ:k
+claw: moŋ suǝŋ
+claw: tǝmmɔ:ŋ
+claw: ṭɨm mhɔŋ
+cloud: mhut
+cloud: pu:t
+cold: kat
+cold: ŋar
+cold: ŋar
+come: ka:j
+come: rɔt
+die: ha:n
+die: ha:n
+dog: sɔ:
+dog: sɔʔ
+drink: ʔɨm
+drink: uak
+dry: ra:s
+ear: hermǝ:j
+ear: rɨm mǝi
+earth: pa teʔ
+earth: pǝte
+eat: mah
+eat: pǝ
+egg: ka doŋ
+egg: kǝtoŋ
+eye: mat
+eye: mat
+feather: khu:l
+fire: pǝrlǝa
+fire: phrɨa
+fish: ka:
+fish: kaʔ
+fly (v.): ti:r
+fly (v.): tɨr
+foot: cǝaŋ
+foot: ӡɨaŋ
+full: kiŋ
+full: kiй
+give: ʔan
+give: u:n
+good: lǝ
+good: lǝʔ
+green: cǝŋa:r
+green: kheu
+hair: khu:l
+hair: klǝ
+hand: kǝta:k ti
+hand: tɨʔ
+head: kǝmpoŋ
+head: kɨm poŋ
+hear: ʔmaik
+hear: mec
+heart: hǝrйǝam
+heart: йhɨam
+horn: centrɨ:ŋ
+horn: drɨŋ
+I: o
+I: ʔoʔ
+kill: pha:n
+kill: plek
+knee: ka nu:n
+knee: kǝnu:n
+know: nǝ:ŋ
+know: nǝ:ŋ
+leaf: la
+leaf: lhaʔ
+lie: ŋi:m
+liver: tǝl lɔ:m
+liver: tǝlɔ:m
+long: va:ŋ
+long: wa:ŋ
+louse: se
+louse: šeʔ
+man: čɨ brɔ:ʔ
+man: cǝmprɔ
+many: kɨ
+many: mak
+meat: ah
+meat: ʔah
+moon: moŋ
+moon: moŋ
+mountain: mok
+mountain: rǝŋ kɔŋ
+mouth: ta nɔh
+mouth: tǝnoh
+name: cɨ:
+neck: kǝntuar
+neck: kɨn tuar
+new: hǝnme
+new: m-meʔ
+night: pa sɨam
+night: pǝsaǝm
+nose: muh
+nose: muh
+not: pǝ
+one: mo:i
+one: mo:j
+person: ka mhuʔ
+person: kǝmmu
+rain: ka maʔ
+rain: kǝma
+red: jim
+red: jim
+road: ŋɔ:r
+road: ŋɔ:r
+root: rias
+root: rias
+round: mon
+sand: cres
+sand: sreh
+say: lɔ:
+seed: klɔŋ
+seed: pǝliar
+see: guiŋ
+see: ku:й
+sit: den
+sit: ten
+skin: hǝmpu:r
+skin: mh pu:r
+sleep: ših
+sleep: sis
+small: nɛ
+small: ti:k
+small: йɛʔ
+smoke: pǝtǝ
+smoke: pu tǝʔ
+stand: dɨn
+stand: tɨn
+star: sǝrmiй
+star: sɨr meŋ
+stone: glaŋ
+stone: kla:ŋ
+sun: mat bri
+sun: mat bri
+sun: mat pri
+sun: mat pri
+swim: jɔŋ ʔom
+swim: wa:j
+tail: hǝnta
+tail: nhtaʔ
+that: kǝ=ni
+that: nhiʔ
+this: gi
+this: kǝ=ki:
+thou: me:
+thou: mi
+tongue: hǝnta:k
+tongue: ntak
+tooth: ra:ŋ
+tooth: rhaŋ
+tree: si ʔɔ:ŋ
+tree: sɔʔɔ:ŋ
+two: pa:r
+two: sɔ:ŋ
+walk: jɔh
+walk: jɔ:h
+warm: ŋǝkɨm
+water: ʔom
+water: ʔom
+we: i
+we: ʔiʔ
+what: mǝh
+what: mhǝh
+white: klɔ:k
+white: klɔ:k
+who: mǝ
+who: mǝʔ
+woman: cǝmkǝn
+woman: kɨn
+yellow: si:-lǝaŋ

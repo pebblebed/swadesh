@@ -1,0 +1,140 @@
+ashes: aßetu
+ashes: avetu
+belly: oti
+belly: oti ~ tini
+belly: tini
+belly: tini
+belly: tini
+big: bamu
+big: bamu
+bird: ni
+bird: ni
+breast: ami
+breast: ami
+chest: dzadzana
+child: mai
+cloud: beredze
+cloud: bere(d)ze
+cloud: poraga
+cloud: utu
+come: mai
+crocodile: ugama
+dog: suna
+dog: suna
+ear: dana
+ear: dana
+eat: ni-
+eye: giti moka
+eye: giti moka
+fall: duw-
+father: mama
+fire: niao
+fire: niao
+fish: wo
+five: wana da
+foot: te
+foot: te
+guts: tini
+hair: giti tu
+hair: giti tu
+hand: wana
+hand: wana
+head: giti
+head: giti
+here: ewa
+he/she: nu
+he/she: nu
+hit: de-
+I: na
+I: na/name/nane
+knee: bawa
+knee: bawa
+leaf: ni gi
+leaf: ni gi
+man: ema
+man: ema
+moon: inua
+moon: inua
+mosquito: demira
+mountain: pama
+mouth: be
+mouth: be
+name: dzadzo
+nape: tuma
+nape: tuma
+neck: duba
+neck: tuma
+nose: vena
+pull: dzumu-
+rain: boru(d)za
+rain: wa
+rain: wa
+road: ebata
+road: ebata
+root: tatabi
+root: tataßi
+say: sai
+sea: ewa
+see: gai
+skin: aiso
+skin: aiso
+skin: tama
+skin: tama
+sky: utu
+sky: utu
+sleep: gitawa wai
+small: kiaka
+small: kiaka
+smoke: ibosi
+smoke: ibosi
+star: dabori
+star: dabori
+star: gobu
+star: kuna
+star: kuna
+star: moroa
+star: moroa
+star: yara
+stone: doba
+stone: doba
+stone: omata
+stone: omata
+sun: waiko
+sun: waiko
+tail: ara
+there: awa
+there: owa
+they: nukare
+they: nukare
+they two: nuto
+they two: nuto
+thorn: dirina
+thou: ni
+thou: ni
+thou: nikare
+throat: duba
+throat: duba
+tongue: iwawa
+tongue: iwawa
+tooth: di
+tooth: di
+tree: ni
+tree: ni
+two: eto
+walk: bamu-
+water: ou
+water: ou
+we (excl.): nakare
+we (incl.): nakai
+we (incl.): nakai
+we: nakare
+we two (excl.): nato
+we two (incl.): nage
+we two (incl.): nage
+we two: nato
+white: koakoa
+woman: bama
+woman: bama
+you: nikare
+you two: nito
+you two: nito

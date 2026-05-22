@@ -1,0 +1,542 @@
+arrow: moŋo
+arrow: obo moŋom
+arrow: op moŋgo
+ashes: dobu cevolt
+ashes: dobu čevolt
+ashes: tevelt
+ashes: tevelt
+ashes: tsiver
+ashes: tsiver
+back: bult
+back: bult
+back: mogum
+back: mogum
+back: mogunu
+back: mogunu
+bad: kej
+bad: kes
+bad: kes
+bad: kes
+bad: kes
+bad: keǯ
+big: tongal
+big: toŋal
+big: uruma
+big: úruma
+big: wom
+big: wom
+bird: ka
+bird: ka
+bird: ka
+bird: ka
+bird: kai
+bird: kai
+black: ka:ma
+black: kaːma
+black: nganimp
+black: nga:nimp
+black: ŋanimp
+black: ŋaːnimp
+blood: maia
+blood: maia
+blood: mayam
+blood: mayam
+blood: meya
+blood: meya
+bone: ombur
+bone: ombur
+bone: ombura
+bone: ombura
+bone: ombur-um
+bone: ombur-um
+breast: am
+breast: am
+breast: am
+breast: am
+breast: am
+breast: am
+brother: anga
+brother: aŋa
+brother: anggina
+brother: aŋgina
+brother: ángina
+brother: aŋina
+burn: dob nggara
+burn: dob ŋgara
+burn: dobu nggara
+burn: dobu nggara
+burn: dobu ŋgara
+burn: dobu ŋgara
+butterfly: kuim kaime
+butterfly: kuim kaime
+butterfly: kum kaip
+butterfly: kum kaip
+butterfly: piju
+butterfly: pižu
+cassowary: kai raimp
+cassowary: ka raima
+cassowary: ka raima
+cheek: koɲ
+child: nalt kembij
+child: nalt kembiǯ
+child: ngar kere
+child: ŋar kere
+child: yeme
+child: yeme
+cold: biinggor
+cold: bingg onc
+cold: biŋg onč
+cold: biːŋgor
+cold: goiiri mpaim
+cold: goiːri mpaim
+cold: mpi
+cold: nok
+cold: nsi
+day: kunande
+day: kunande
+day: kunents
+day: kunents
+day: tangima
+day: taŋima
+die: gok
+dog: tu
+dog: tu
+dog: tu
+dog: tu
+dog: tu
+dog: tu
+drink: nolh nove
+drink: nol nont
+drink: nol nont
+drink: nol nove
+drink: noru nondu
+drink: noru nondu
+ear: komolt
+ear: komolt
+ear: komolt
+ear: komolt
+ear: komur
+ear: komur
+earth: malt
+earth: malt
+earth: malt
+earth: mar
+earth: mar
+earth: mar
+earth: mar
+earth: mar
+earth: mar
+eat: nondu
+eat: nondu
+eat: nont
+eat: nont
+eat: nove
+eat: nove
+egg: muḷum
+egg: murom
+egg: murom
+egg: muru
+egg: muru
+egg: muru
+egg: muru
+emu: kai raimp
+emu: ka raima
+emu: ka raima
+eye: donggor
+eye: doŋgor
+eye: dungolt
+eye: duŋolt
+eye: tuŋur
+eye: tungut
+face: numpndalt
+face: numpndalt
+fall: mbok
+father: da:p
+father: da:p
+father: da:p
+father: daːp
+father: daːp
+father: daːp
+fear: kidal gor
+fear: kidalh gor
+fear: kilal gondu
+fear: kilalh gondu
+fear: ngandil ngont
+fear: ŋandil ŋont
+fire: dobu
+fire: dobu
+fire: dobu
+fire: dobu
+fire: do:p
+fire: doːp
+fire: ndop
+fish: bur
+fish: buṛ
+fish: buṛ
+fish: buru
+fish: burum bar
+fish: burum bar
+flower: tavelt
+flower: tavelt
+flower: war kuo
+flower: war kuo
+flower: war kwiye
+flower: war kwiye
+fly (n.): jebin
+fly (n.): uma
+fly (n.): uma
+fly (n.): wurma
+fly (n.): wurma
+fly (n.): wurma
+fly (n.): ǯebin
+foot: cimp
+foot: cimp
+foot: cimp
+foot: čimp
+foot: čimp
+foot: čimp
+fruit: ende mongo
+fruit: onde moŋo
+fruit: on.dr mongom
+fruit: ondr moŋom
+fruit: op monggo
+fruit: op moŋgo
+full: mbil
+girl: ambar kere
+girl: ambar kere
+girl: amber.
+girl: ambeṛ
+girl: ambrngar
+girl: ambrŋar
+girl: ampuk
+give: eʎim ŋove
+give: na elyim ngove
+give: na ngandu
+give: na nggondu
+give: na ngonc
+give: na nim ngonc
+give: na nyim ngove
+give: ŋandu
+give: ŋonč
+good: ka
+good: ka
+good: ka
+good: ka
+good: kai
+good: kai
+guts: enje
+guts: enje-m
+guts: ents
+guts: ents
+guts: enǯe
+guts: enǯe-m
+hair: eɲsin
+hair: peng elna
+hair: peŋ elna
+hair: peng enjin
+hair: peŋ enǯin
+hair: peng injin
+hair: peŋ inǯin
+hand: angelt
+hand: aŋelt
+hand: anger
+hand: aŋer
+hand: angge.r
+hand: aŋgeṛ
+head: peng
+head: peng
+head: peng
+head: peŋ
+head: peŋ
+head: peŋ
+hear: komor pic
+hear: komor pič
+hear: pic
+hear: pič
+hear: pič
+heavy: ompun
+hold: ambiḷmbe
+house: gar
+house: gar
+house: gar
+house: gar
+house: nggar
+house: ŋgar
+husband: anda
+husband: anda
+husband: andam
+husband: andam
+husband: wini
+husband: wini
+know: na pic
+know: na pic
+know: na pic
+know: pič
+know: pič
+know: pič
+know: pilmbe
+leaf: aur
+leaf: aur
+leaf: o:nda urum
+leaf: oːnda urum
+leaf: ondo wor
+leaf: ondo wor
+leg: t̪s̪impʰ
+lie: na panc
+lie: na panc
+lie: na wuru panc
+lie: panč
+lie: panč
+lie: wuru panč
+live: na (koly) monc
+live: na kor mont
+long: erke
+long: erke
+long: erke
+long: or
+long: or
+long: or
+long: or
+louse: numan
+louse: numan
+louse: numan
+louse: numan
+louse: tult
+louse: tult
+man: arambu
+man: arambu
+man: aramp
+man: aramp
+man: aramp
+man: aramp
+man: ye
+man: ye
+meat: minc
+meat: minč
+meat: mince
+meat: minče
+meat: minti
+meat: minti
+moon: ol
+moon: ol
+moon: ol
+moon: olh
+moon: olh
+moon: olh
+mother: mam
+mother: mam
+mother: mam
+mother: mam
+mother: mam
+mother: mam
+mountain: kimp
+mountain: kimp
+mountain: ma:r
+mountain: maːr
+mountain: muro
+mountain: muro
+mouth: da:r
+mouth: daːr
+mouth: nggup
+mouth: ŋgup
+mouth: numini
+mouth: numini
+name: kanggina
+name: kaŋgina
+name: kangim
+name: kaŋim
+name: kangina
+name: kaŋina
+name: n̪d̪z̪
+name: ŋga
+name: nson
+new: kolynga
+night: anj bem
+night: anǯ bem
+night: emil pam
+night: emil pam
+night: guru pum
+night: guru pum
+night: nac manji ponom
+night: nač manyi ponom
+night: taman
+night: taman
+night: tamane
+night: tamane
+not: na-
+rain: komborom
+rain: kómborom
+rain: kombu ronom
+rain: kombu ronom
+rain: kompr tonum
+rain: kompr tonum
+rain: kone
+rat: koi
+rat: koi
+rat: koi
+rat: koi
+rat: koi
+rat: koi
+red: bang
+red: bang
+red: baŋ
+red: baŋ
+red: go:nu
+red: goːnu
+ripe: mboḷ
+road: koru wejina
+road: koru weǯina
+road: wazinga
+road: waziŋa
+road: wijingam
+road: wiǯiŋam
+root: dumbur
+root: dumbur
+root: dumburo
+root: dumburó
+root: mem
+root: mem
+root: puḷum
+rope: ka:n
+rope: ka:n
+rope: ka:n
+rope: kaːn
+rope: kaːn
+rope: kaːn
+rope: kir kaːn
+rope: op eruan
+rope: op yiruan
+salt: ap
+say: na yu nyinc
+say: na yu nyive
+say: na yu yundi
+say: ya yundi
+say: yu ɲinč
+say: yu ɲive
+see: kanč
+see: kanč
+see: kanč
+see: na kanc
+see: na kanc
+see: na kanc
+sister: amba-na
+sister: amba-na
+sister: ambr-na
+sister: ambr-na
+sister: ambul-na
+sister: ambul-na
+sit: amen ɲinč
+sit: amen nyinc
+sit: amiɲmont
+sit: amiɲ mont
+sit: aminy mont
+sit: aminy-mont
+skin: nganc
+skin: nganc
+skin: nganc
+skin: ŋanc̣
+skin: ŋanc̣
+skin: ŋanc̣
+small: kembis
+small: kembis
+small: kembis
+small: kembis
+small: kere
+small: kere
+smoke: dob ejil
+smoke: dob ejil
+smoke: dob eǯil
+smoke: dob eǯil
+smoke: dop ejil
+smoke: dop eǯil
+snake: kambukeru
+snake: kambu-keru
+snake: keru
+snake: keru
+snake: keru
+snake: keru
+stand: ageda
+stand: agigl
+stand: angilya
+star: kan.jip
+star: kansip
+star: kanǯip
+star: kugl
+star: kugul kan.jip
+star: kugul kanǯip
+star: kul
+stone: ku
+stone: ku
+stone: ku
+stone: ku
+stone: ku
+stone: ku
+sun: anc
+sun: anc
+sun: anc
+sun: anč
+sun: anč
+sun: anč
+sun: eɲe
+thou: eɲim
+thou: nim
+tomorrow: tolynga
+tongue: arəmbel
+tongue: arëmbelh
+tongue: armbelt
+tongue: armbelt
+tongue: armber
+tongue: armber
+tooth: gub mongo
+tooth: gub moŋo
+tooth: gub mongom
+tooth: gub moŋom
+tooth: nggub mongo
+tooth: ŋgub moŋo
+tree: ont
+tree: ont
+tree: ont
+tree: ont
+tree: ont
+tree: ont
+tree: ontʰ
+water: nol
+water: nol
+water: noḷ
+water: nor
+water: nor
+water: noru
+water: noru
+weep: dongor noro ront
+weep: doŋor noro ront
+weep: ga nel
+weep: ngga erebe
+weep: ŋga erebe
+weep: tungur noro tom
+weep: tuŋur noro tom
+weep: vi ronc
+weep: vi ronč
+weep: wi tona
+weep: wi tona
+weep: wi tonc
+weep: wi tonč
+where: nse
+wife: ambie-m
+wife: ambie-m
+wife: ambi-na
+wife: ambi-na
+wife: embi-na
+wife: embi-na
+wind: biri
+wind: biri
+wind: pob
+wind: pob
+wind: yir
+wind: yir
+woman: amp
+woman: amp
+woman: amp
+woman: amp
+woman: amp
+woman: amp
+woman: ampʰ

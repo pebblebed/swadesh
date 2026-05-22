@@ -1,0 +1,215 @@
+arrow: egl
+arrow: egl moŋ
+ashes: jip kik
+ashes: ǯip kik
+back: burung
+back: buruŋ
+bad: kic
+bad: kič
+big: ou
+big: ou
+bird: kai
+bird: kai
+black: pombara
+black: pómbara
+blood: mem
+blood: mem
+blood: mem
+blood: mem
+bone: ombedl
+bone: ómbedli
+bone: ombegl
+bone: ombegli
+breast: aim
+breast: aim
+brother: aiya
+brother: aiya
+brother: angini
+brother: aŋini
+burn: dip nunt
+burn: dip nunt
+butterfly: goguma
+butterfly: goguma
+cassowary: raima
+child: kan
+child: kan
+child: nana
+child: nana
+cold: ait enim
+cold: ait enim
+cut: kop
+cut: kop cinc
+day: renguma
+day: reŋuma
+dog: oua
+dog: oua
+drink: nu nont
+drink: nu nont
+ear: kum
+ear: kum
+ear: kum
+ear: kum
+earth: moi
+earth: möi
+earth: möi
+eat: nonc
+eat: nonč
+eat: nont
+eat: nont
+egg: mugl
+egg: mugl
+egg: mugl
+egg: mugl
+egg: mukl
+emu: raima
+eye: mong
+eye: moŋ
+face: gwimpa keda
+face: gwimpa keda
+father: tipám
+father: tipan
+father: wota
+father: wota
+fear: mondrmon ent
+fear: mondrmon ent
+fire: cip
+fire: čip
+fish: o:ma
+fish: oːma
+flower: kunjip
+flower: kunǯip
+fly (n.): oglma
+fly (n.): oglma
+foot: cimp
+foot: čimp
+fruit: de mong
+fruit: de moŋ
+girl: ambogla
+girl: ámbogla
+give: eʎim ŋunt
+give: na elyim ngunt
+give: na nim ngunt
+good: kai
+good: kai
+guts: kijim
+guts: kiǯim
+hair: peng inji
+hair: peŋ inǯi
+hand: ki
+hand: ki
+head: peng
+head: peŋ
+hear: pinc
+hear: pinč
+house: mana
+house: mana
+husband: wamb
+husband: wamb
+I: na
+I: na
+know: na pinc
+know: pinč
+leaf: ngoman
+leaf: ŋoman
+lie: na uru pinc
+lie: uru
+live: na konc morum
+long: rugl
+long: rugl
+louse: nema
+louse: nema
+man: wamb
+man: wamb
+man: wo
+man: wö
+meat: minc
+meat: minc
+meat: minč
+meat: minč
+moon: kaʎimp
+moon: kalyímp
+mother: mam
+mother: mam
+mountain: komënga
+mountain: koməŋa
+mouth: keda
+mouth: keda
+name: bi
+name: bi
+new: kont(y)
+night: anc maná ponum
+night: anč mand ponum
+night: rumbugl
+night: rumbugl
+nose: guimp
+rain: kona ronum
+rain: kona ronum
+rat: koi
+rat: kui
+rat: kui
+red: gundr
+red: gundr
+road: nombugla
+road: nombugla
+root: ai
+root: ai
+rope: egl gan
+rope: ga:n
+rope: gaːn
+say: ɲinč
+say: na nyinc
+see: ka-
+see: ka-nc
+see: kanč
+see: na kanc
+sister: aiya
+sister: aiya
+sit: mana munt
+sit: mana munt
+skin: köng
+skin: koŋ
+small: kedl
+small: kegl
+smoke: dop egidl
+smoke: dop egigl
+snake: wumbia
+snake: wumbia
+stand: ogla munt
+star: mibidl
+star: mibigl
+stone: ku
+stone: ku
+sun: anc
+sun: anc
+sun: anč
+sun: anč
+tomorrow: ta:gl
+tomorrow: uglö
+tongue: anumbidl
+tongue: anumbigl
+tooth: nggu
+tooth: ŋgu
+tree: de
+tree: de
+tree: de
+tree: de
+walk: va
+walk: va!
+water: no
+water: no
+water: nu
+water: nu
+weep: mongo te
+weep: moŋo te
+weep: wi runt
+weep: wi runt
+white: kurumugl
+white: kurumugl
+wife: amp-om
+wife: amp-om
+wind: kobuglo
+wind: köbuglô
+woman: aimbi
+woman: aimbi
+woman: amp
+woman: amp

@@ -1,0 +1,499 @@
+all: ne\eye
+all: nɛʔɛyɛ
+all: neinana
+all: neinana
+and: yobu
+and: yobu
+arm: neme
+arm: nɛmɛ
+arrow: so͂
+ashes: sia dzhu\u
+ashes: sia ǯuʔu
+ashes: sidai
+ashes: sidai
+back: bolu
+back: bolu
+bad: mɛːdi
+bad: meedi
+bark: i he\e
+bark: i͂ hɛ͂ʔɛ͂
+bark: in hë.i.
+bark: in hə͂i͂
+belly: siwo
+belly: siwo
+belly: souma
+belly: souma
+big: hoi.
+big: hoi͂
+big: hoi-te
+big: sai hoite
+bird: der
+bird: der
+bird: ge
+bird: ge
+bite: dzho waiye
+bite: yawasu.
+bite: yawasu͂
+bite: ǯo waiyɛ
+black: ëpu-me
+black: obu
+black: obu
+black: ʌpume
+blood: seni
+blood: sɛni
+blood: su
+blood: su͂
+blow: hori-su.e
+blow: horisu͂ɛ
+bone: dzheme
+bone: yemi
+bone: yɛmi
+bone: ǯɛmɛ
+boy: pe
+boy: pɛ
+boy: peo
+breast: emi
+breast: emi
+breast: ɛmi
+breast: ɛmi
+brother: mau
+brother: mau
+burn: homunai
+burn: homunai
+burn: iriasu.
+burn: iriasu͂
+butterfly: tua
+butterfly: tua
+claw: mauneme
+claw: mauneme
+claw: ogu
+claw: ogu
+cloud: hali
+cloud: hali
+cloud: sura
+cloud: sura
+cold: nemi
+cold: nɛmi
+cold: nimi
+cold: nimi
+come: nauwe
+come: nauwe͂
+come: perasu
+come: perasu
+cut: ona-su.e
+cut: onasu͂ɛ
+dance: tiabi-su.e
+day: hepeta͂u
+day: olsu͂ɛ
+die: orasu
+die: orasu
+die: orawe
+die: ɔra͂we
+dirty: pu.
+dirty: pu͂
+dog: ha͂
+dog: hã
+dog: he
+dog: hɛ͂
+drink: eye
+drink: ɛ͂yɛ
+drink: hatisu.
+drink: hatisu͂
+dry: sarasu.
+dry: sarasu͂
+dry: si ariye
+dry: si ariye
+ear: ne͂ʲ
+ear: nei
+ear: ne.i
+ear: nɛ͂i
+earth: so
+earth: so
+earth: so\o
+earth: soʔo
+eat: hatisu.e
+eat: hatisu͂ɛ
+eat: ti ha\aye
+eat: ti haʔayɛ
+egg: ge dzhu
+egg: yo
+egg: yo
+egg: ǯuri
+eye: to
+eye: to
+eye: toʷ
+eye: tou
+father: abu
+father: abu
+father: àpú
+fat (n.): ora
+fat (n.): ora
+fear: yasue
+fear: yasuɛ
+feather: ge
+feather: ge dzhuri
+feather: yuli
+feather: yuli
+fingernail: kebid
+fingernail: kɛbid
+finger: wid
+finger: wid
+fire: sia
+fire: sia
+fire: sia
+fire: sia
+fish: ge ǯu
+fish: sai
+fish: wari
+fish: wari
+fly (v.): aenenasu.e
+fly (v.): aɛnɛnasu͂ɛ
+fly (v.): ke nouwe
+fly (v.): ke nouwe
+foot: he.
+foot: hɛ͂
+forest: olido
+fruit: ɛgia
+full: ho.ia-su.e
+full: ho͂iasu͂ɛ
+full: hu me\eyaowe
+full: hu mɛ͂ʔɛ͂ya͂o͂we
+full: yau
+full: yau
+girl: oi
+girl: òìmúl
+give: imasu.e
+give: imasu͂ɛ
+give: ipoie
+give: ipoiyɛ
+good: me adi
+good: me adi
+good: moi
+good: moi
+grass: mou
+grass: mou
+green: gue
+green: gue
+green: si ebime
+green: si ebime
+hair: muse
+hair: mu-se
+hair: si.
+hair: si͂
+hand: nemi
+hand: nɛmi
+head: mu
+head: mu
+head: mu
+head: mu
+hear: nei herawe
+hear: ne͂i͂ herowe
+hear: nei hetisu.e
+hear: nɛi hetisu͂ɛ
+heart: meabor
+heart: me apo
+heart: me apo
+heart: méàpól
+heart: mɛtabor
+heavy: nemi
+here: eni
+here: ɛni
+he/she: a
+hit: nawa-su.e
+hit: nawasu͂ɛ
+hole: hu.
+hole: hu͂
+horn: mekapo
+horn: mekapo
+house: hapol
+house: hapol
+I: ana
+I: ana
+I: ane
+I: ane
+in: oli
+kill: dzhal anawawe
+kill: nawaisu.e
+kill: nawaisu͂e
+kill: ǯa anawawe
+knee: obu
+knee: obu
+knee: opo
+knee: opo
+know: ho aiye
+know: ho o͂i͂ye͂
+know: horanasu.e
+know: horanasu͂ɛ
+leaf: i nesi
+leaf: i͂ nesi
+leaf: si.
+leaf: si͂
+leg: he.
+leg: hɛ͂
+leg: si\i
+leg: si͂ʔi͂
+lie: aiye
+lie: so\o ro\iye
+lie: soʔo roʔiye aiye
+lie: yanbiasu.e
+lie: yanbiasu͂ɛ
+liver: senai
+liver: sena͂i
+liver: su
+liver: su
+long: esaoi
+long: esaoi
+long: ioi
+long: ioi
+louse: po
+louse: po
+louse: por
+louse: por
+man: dzhë\
+man: yala
+man: yala
+many: hoiteye
+many: hoiteyɛ
+many: howodie
+many: howodie
+man: ǯʌʔala
+meat: mi
+meat: mi
+meat: na\are
+meat: naʔarɛ
+moon: we
+moon: we
+moon: we
+moon: wɛ
+morning: enau
+morning: ɛnau
+mother: ena
+mother: ɛna mam
+mountain: so\o po\odu
+mountain: soʔo poʔodu
+mountain: soso
+mountain: soso
+mouth: me
+mouth: mɛ͂
+mouth: menei.
+mouth: mɛnɛi͂
+name: he\epi
+name: hɛʔepi
+name: hopi
+name: hopi
+near: hu.enu
+near: hu͂ɛnu
+neck: bo\a
+neck: bo͂ʔa͂
+neck: pu.a
+neck: pu͂a
+new: dzhe\e
+new: ye
+new: yɛ
+new: ǯɛʔɛ
+night: si\ino
+night: siʔino
+night: yuno
+night: yuno
+nose: ho
+nose: ho.
+not: o\o
+not: oʔo
+not: se
+not: sɛ
+old: nenau
+old: sa.u
+old: sa͂u
+one: pe\emi
+one: pɛʔɛmi
+one: pomi
+one: pomi
+one: pó.mì
+person: dzha\ara
+person: toi
+person: toi
+person: ǯaʔara
+rain: dzha
+rain: yama
+rain: yama
+rain: ǯa
+rat: pai
+rat: pai
+red: sene adi
+red: sene adi
+red: sia
+red: sia
+ripe: apolo
+road: su.
+road: su͂
+road: su baiamo
+road: su͂ baiamo
+root: i so\oyu
+root: i͂ soʔoyu
+root: peradie
+root: peradiɛ
+rope: iboi
+rope: ibol
+rope: sin
+round: sube\eri
+round: subɛʔɛri
+round: tari
+round: tari
+sand: soadu
+sand: soadu
+sand: suaru
+sand: suaru
+say: hi enuwe
+say: hi enuwɛ
+say: hu.e
+say: hu͂ɛ
+say: hu.esu.e
+say: hu͂ɛsu͂ɛ
+seed: bopeni
+seed: bopɛni
+seed: egia
+seed: yo
+seed: yo
+see: herowe
+see: herowɛ
+see: hetisu.e
+see: hɛtisu͂ɛ
+sister: mauwa
+sister: mauwa
+sit: ewa aiye
+sit: ɛwa aiye
+sit: ewenasu.e
+sit: ɛwɛnasu͂ɛ
+skin: he\e
+skin: hɛʔe͂
+skin: hei\
+skin: hɛi͂
+skin: ìáìè
+sleep: dzhe\i aiye
+sleep: oyetisu.e
+sleep: oyetisu͂ɛ
+sleep: ǯɛʔi aiye
+small: baiamo
+small: baiamo
+small: homi
+small: homi
+smoke: sopo
+smoke: sopo
+smoke: yu.
+smoke: yu͂
+snake: o
+snake: o
+snake: ó.à
+split: pobali
+split: pobali
+stand: eya aiye
+stand: ɛya aiye
+stand: yanbiasu.e
+stand: yanbiasu͂ɛ
+star: në\u
+star: nou.
+star: nou͂
+star: nʌʔu
+stone: tobu
+stone: tobu
+stone: topu
+stone: topu
+sun: o͂i
+sun: o.l
+sun: ol-su.e
+sun: sia
+sun: sia
+swim: onasu.e
+swim: onasu͂ɛ
+swim: saʔorawe
+swim: sa so\orawe
+tail: tu
+tail: tu
+tail: tul
+tail: tul
+that: inie
+that: iniɛ
+that: wa
+that: wa
+there: weni
+there: wɛni
+they: a
+this: a
+this: a
+this: o
+this: o
+thou: ono
+thou: ono
+thou: ono
+thou: une
+thou: une
+today: ho.i
+today: ho͂i
+tomorrow: enei
+tomorrow: nɛi
+tongue: hapi
+tongue: ha͂pi
+tongue: hemina
+tongue: hɛmina
+tooth: su
+tooth: su
+tooth: su
+tooth: su
+tree: i
+tree: i͂
+tree: in
+tree: in
+two: na\au
+two: naʔau
+two: nau
+two: nau
+walk: peta-zu.e
+walk: petazu͂ɛ
+walk: to\o nouwe
+walk: toʔo no͂u͂wɛ
+walk: uyatisu.e
+walk: uyatisu͂ɛ
+wallaby: yu
+wallaby: yu
+warm: hopiye
+warm: hopiye
+warm: howi
+warm: howi
+wash: sani sulo
+wash: sani sulo
+water: sa
+water: sa
+water: sa
+water: sa
+weep: deli-su.e
+weep: dɛlisu͂ɛ
+we (incl.): nole
+we (incl.): no͂le
+we: nono
+we: nono
+wet: sasu.e
+wet: sasu͂ɛ
+what: nodi
+what: nodi
+what: noi
+what: noi
+white: poi
+white: poi
+white: sopadime
+white: sopadime
+who: ma
+who: ma
+who: mai
+who: mai
+wing: a͂
+woman: oi
+woman: oi
+woman: u
+woman: u
+wood: in
+yellow: sewai
+yellow: sɛwai
+yellow: subome
+yellow: subome
+yes: oui
+yesterday: nei

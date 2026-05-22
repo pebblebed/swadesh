@@ -1,0 +1,101 @@
+all: --
+ashes: tshauv
+bark: tawv
+belly: plab
+big: toj
+bird: noog
+bite: tom
+black: dub
+blood: ntshav
+bone: txha
+breast: mis
+burn: cig
+cloud: huab
+cold: no
+come: tuaj
+die: tuag
+dog: dev
+drink: haus
+dry: qhuav
+ear: ntsej
+earth: teb
+eat: noj
+egg: qe
+eye: muag
+fat (n.): roj
+feather: plaub
+fingernail: rau tes
+fire: taws
+fish: ntses
+fly (v.): ya
+foot: taws
+full: puv
+give: pub
+good: zoo
+green: ntsuab
+hair: plaub
+hand: tes
+head: taubhau
+hear: hnov
+heart: plawv
+horn: kub
+I: kuv
+kill: tua
+knee: caug
+know: paub
+leaf: nplooj
+lie: pw
+liver: siab
+long: ntev
+louse: tuv
+man: txiv
+many: ntau
+meat: nqaij
+moon: hli
+mountain: roob
+mouth: ncauj
+name: npe
+neck: dab
+new: ntsiab
+night: hmo
+nose: ntswg
+not: tsis
+one: ib
+person: tibneeg
+rain: nag
+red: liab
+road: kev
+root: cag
+round: kheej
+sand: hmoov zeb
+say: hais
+seed: noob
+see: pom
+sit: zaum
+skin: tawv
+sleep: tsaug zog
+small: me
+smoke: --
+smoke: ncho pa
+stand: sawv ntseg
+star: hnub qub
+stone: pob zeb
+sun: hnub
+swim: luam
+tail: tw
+that: ntawd
+this: no
+thou: koj
+tongue: nplaig
+tooth: hniav
+tree: ntoo
+two: ob
+walk: mus
+warm: sov
+water: dej
+we: peb
+what: dabtsi
+white: dawb
+who: leej twg
+woman: pojniam
+yellow: dab

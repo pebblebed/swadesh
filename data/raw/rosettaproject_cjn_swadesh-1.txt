@@ -1,0 +1,16 @@
+he/she: sira/siru
+he/she: ti/siru
+he/she: tow/sira
+I: an/sung
+I: sung
+they: ta-m
+they: ta-m
+they two: te-y
+thou: na-n/ta-ng
+thou: ni-n/te-ng
+thou: ta-ng/te-ng
+we: sa-m
+we two: se-r
+you: na-m/ta-m
+you: ta-m/ta-y
+you two: na-y/ta-y

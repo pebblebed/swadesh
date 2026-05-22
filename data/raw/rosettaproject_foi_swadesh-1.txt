@@ -1,0 +1,809 @@
+all: hagihiye
+all: memenageye
+all: sunage
+all: sunage
+all: sunage
+all: tigage
+all: tʰigage
+arm: ya
+arm: ya
+arm: ya
+arm: ya amene
+arm: ya amene
+arrow: kʰenage
+arrow: kenege
+ashes: danega
+ashes: danega
+ashes: kanama
+ashes: kanuma
+ashes: kʰanuma
+ashes: xa͂numa
+at: huni hunh.si
+back: kʰiʔo
+back: ki\o
+back: kixo
+back: kixo
+bad: gaifore
+bad: gaifore
+bad: gaye
+bad: keifori
+bad: keifori
+bark: irəkʰaʔo
+bark: irï-ka\o
+bark: kʰaʔo
+belly: fa\o
+belly: fa\o
+belly: faʔo
+belly: faʔo
+belly: faxo
+belly: faxo
+belly: pako
+belly: paxo
+big: fore
+big: fore
+big: forei
+big: fori
+big: fori
+big: φorɛi
+bird: ya
+bird: ya(\)
+bird: yaʔ
+bird: ya bayu
+bird: ya sibi
+bite: huniyʌ
+bite: huniyenh
+bite: moni
+bite: moni-
+bitter: da\asi
+bitter: daʔasi
+black: budu
+black: buru
+black: buru
+black: butu
+black: but̪u
+blood: hamage
+blood: hamage
+blood: hamagi
+blood: warea
+blood: warea
+blood: waria
+blood: welia
+blood: wəḷia
+blood: ya:pi
+blood: yaːpi
+blow: kode
+bone: khikhi
+bone: kigi
+bone: kʰigi
+bone: kʰikʰi
+boy: u\ubi ma\a
+boy: uʔubi maʔa
+breast: oko
+breast: o\o
+breast: oʔo
+breast: o\õ
+breast: oxo
+breast: o͂xo͂
+brother: ana
+brother: boba
+brother: wame
+brother: wame
+brother: wame
+burn: hisa
+burn: inik.hiriba\ai
+burn: i͂ni͂kʰiribaʔaɪ
+burn: kʰe-
+burn: ke-
+calf: gefa͂
+calf: gefã
+cassowary: guru
+cheek: agiʔa
+cheek: agi\a faru
+cheek: agixa
+cheek: agixa
+chest: fifiri
+child: kʰoʔo͂
+child: ko\õ
+chin: agiʔa faru
+chin: agixa ßaru
+chin: agixa varu
+claw: korage
+claw: kʰorage
+claw: ya-girafe
+claw: yagi raφe
+cloud: tʰuru
+cloud: turu fabo
+cloud: turu (fapo)
+cloud: turuφapo
+cold: gogobu
+cold: gogobu
+cold: inu
+cold: kokobu
+cold: kokobu
+come: wa-
+come: wa-
+come: wäʲ
+come: wäi
+come: wia
+come: wia!
+count: yaso͂-
+count: yasõ-
+crocodile: huara
+crocodile: huara
+cut: fora͂i͂
+cut: forãinh
+cut: wa\obea-
+cut: wara
+cut: ware-
+dark: genemode
+dark: genemode
+daughter: u\ubi
+daughter: uʔubi
+day: ãfa
+day: gede
+day: samage
+day: samage
+day: sere
+die: kʰu-
+die: ku-
+die: ya\a kuke
+die: yaʔa kʰukʰe
+dog: genh.sa
+dog: gesa͂
+dog: gesã
+dog: kesë
+dog: xɛsʌ
+drink: ni-
+drink: ni-. no-
+drink: no-
+drink: no͂bo baʔa
+drink: nobo ba\a
+dry: ho
+dry: ho
+dry: hodi-
+dry: hodi-
+ear: ho xʰiyʌ
+ear: kia
+ear: kʰia
+earth: gi
+earth: gi
+earth: gi
+earth: gi
+earth: gi
+earth: me
+ear: yo k.hiyë
+eat: ne-
+eat: ni-
+eat: ni-. no-
+eat: niyäi
+eat: niyäi
+eat: no-
+egg: hʌ͂ʲ
+egg: hae
+egg: hae
+egg: hãenh
+egg: hëi
+elbow: ya moga
+elbow: ya moga
+emu: guru
+emu: guru
+eye: hi͂
+eye: hinh
+eye: i͂
+eye: i͂y
+eye: i(y)nh
+fall: tʰoʔoboga-
+fall: to\oboga-
+far: megamo
+far: megamo
+far: wowa
+far: wowa
+father: aba
+father: aba
+father: aba
+father: apa
+father: apa
+father: kauwa
+fat (n.): fore
+fat (n.): k.hak.hu
+fat (n.): xʰaxʰu
+fear: ena
+feather: sa͂e
+feather: sãe
+feather: ya sai
+feather: ya sə͂i͂
+few: manoye
+fight: baiene-
+finger: ena sigini
+finger: ena sigini
+fingernail: ena girafe
+fingernail: girafe
+fingernail: ya giraafe
+fingernail: (ya) girafe
+finger: sigini
+finger: sigini
+finger: ya sigini
+finger: ya sigini
+fire: irʌ
+fire: ira
+fire: ira
+fire: irë
+fish: yagi
+fish: yagi
+fish: yegi
+fish: yɛgi
+five: kaba
+five: kʰaba
+fly (n.): gofo͂
+fly (n.): gofonh
+fly (v.): ya\ububa\a
+fly (v.): yaʔububaʔaɪ
+foot: ena
+foot: ena
+foot: ena dama
+foot: ena dama
+foot: koraiki
+foot: koraiki
+forehead: ifame
+forehead: ifame
+forehead: iφame
+four: tʰuʔubu
+four: tu\ubu
+fruit: beyaha-
+fruit: hae
+fruit: hae
+fruit: hai
+full: kʰona-
+full: kona-
+full: kʰonʌbaʔai
+full: konëba\ai
+girl: u\ubi kama
+girl: uʔubi kʰama
+give: giyä
+give: giyä
+give: (mi)gi-
+give: (mi)gi-
+good: wasi
+good: wasi
+good: wasi
+good: wasi
+good: wasiye
+good: wësi
+good: wʌsi
+grass: hanu͂
+grass: hanunh
+green: butu
+green: but̪u
+hair: sä
+hair: sa͂e
+hair: sãe
+hair: unh sa
+hair: (unh) sãe
+hair: u͂ sa
+hair: u͂ sa͂e
+hair: u͂sæ͂
+hand: ya
+hand: ya
+hand: ya
+hand: ya dama
+hand: ya dama
+head: anuhae
+head: anuhae
+head: anuhai
+head: aruhai
+head: a͂ruhai
+head: u͂
+head: u͂
+head: unh
+head: unh
+hear: nisi-
+hear: nisi-
+hear: nisi-
+hear: nisibubaʔaɪ
+hear: nisibuba\ai
+heart: gamu(nh)\u
+heart: ga͂mu͂ʔu͂
+heart: gamuʔu
+heart: gumunh.xu
+heavy: umi
+heavy: umi
+heavy: uni
+here: to
+here: tʰo
+he/she: naka
+he/she: nake
+he/she: to
+he/she: yo
+he/she: yo
+he/she: yo
+hit: abide-
+hit: baiene-
+hit: ho͂i͂
+hit: hõinh
+hit: hu͂-
+hit: hunh-
+hit: kare-/daside-
+hit: ya\oene-
+hold: maraha-
+hold: maraha-
+hole: fase
+hole: fase
+horn: gi
+horn: gi
+horn: mere
+horn: mere
+house: a
+house: a
+house: a
+how: noma-same
+how: nomaye
+how: nomaye
+husband: ima
+husband: ima
+I: maka
+I: maka
+I: na
+I: na
+I: na
+I: nano
+I: nano
+I: nano
+I: na/nomo
+in: karuari
+I: nomo
+kill: hu͂-
+kill: hunh-
+kill: yaʔa hububaʔaɪ
+kill: ya\a hububa\ai
+knee: ga\anua
+knee: gaʔanua
+knee: gaxona
+knee: kiki
+knee: xixi
+know: kʰama-
+know: këmïfuge
+know: kʌməφuge
+leaf: ira sëi
+leaf: irʌ s̪ʌ͂i
+leaf: kara
+leaf: sa͂e
+leaf: sãe
+leg: ena
+leg: ena
+leg: korage
+leg: t̪amʌ
+leg: tamë
+lie: yi kɛrʌʲ
+lie: yi-(kera-)
+lie: yikʰera-
+lie: yi kerëië
+lip: kʰo baru
+lip: ko baru
+lip: ko-baru
+liver: kʰasiaʔo
+liver: kasia\o
+liver: ku\unu
+liver: ku͂ʔu͂nu͂
+long: tufaiyo
+long: tufaiyo
+long: wasa\o
+long: wasaʔo
+long: wasaʔo
+long: wasaʔo
+long: yo͂ʔone
+long: yõ\one
+louse: dabari
+louse: dabari
+louse: t̪ʌbʌli
+louse: tëbëli
+louse: terare
+louse: terare
+louse: tʰerare
+man: amɛnʌ
+man: amena
+man: amena
+man: amena
+man: amena
+man: amenë
+man: kabe
+man: kʰabe
+many: foreye
+many: foreye
+many: forie
+many: sia
+many: φorie
+meat: ma͂i
+meat: mãi
+meat: mei
+meat: me͂i
+moon: hege
+moon: hege
+moon: heke
+moon: hɛxɛ
+moon: itau
+moon: itau
+morning: ga\one
+mosquito: de͂
+mosquito: denh
+mother: hu͂a
+mother: hu͂a
+mother: hu͂a
+mother: hunh.a
+mother: hunh.a
+mountain: duma
+mountain: duma
+mountain: duma
+mountain: tuma
+mountain: tuma
+mouth: agixa
+mouth: ko
+mouth: kʰo
+mouth: xo
+name: nyano
+name: nyano
+name: yafo
+name: yafo
+name: yaro
+name: yaφo
+near: megeba
+near: megeba
+neck: fufu
+neck: fufu
+neck: gariko
+neck: garikʰo
+neck: kariko
+neck: karixo
+new: isa
+new: (\)isa
+new: ʔisa͂
+new: mano
+new: mano
+night: genemo
+night: genemo
+night: genemo
+night: karoromo
+nose: sabe(i)
+not: wae
+not: wae
+not: wae
+old: gama
+old: gu\uru
+old: guʔuru
+old: ko\ora
+one: ha\unh.mege
+one: mege
+one: menage
+one: menage
+one: menake
+one: mɛna͂xɛ
+other: me
+other: me
+person: amena
+person: amena
+person: amena
+play: misi͂-
+play: misï-
+pull: fo\o-
+rain: kagi
+rain: kʰagi
+rain: këki
+rain: kʰʌkʰi
+rain: yao
+rain: yao
+rat: fagira
+rat: fagira
+rat: φagira
+red: dabura
+red: dabura
+red: dʌbura
+red: dëbura
+red: game
+ripe: su
+ripe: su
+ripe: su
+river: ibu
+river: ibu
+road: iga
+road: iga
+road: ika
+road: ikë
+road: ixʌ
+root: bagiʔo͂
+root: bagi\õ
+root: bagixo
+root: irë ka
+root: irʌ ka
+rope: hagenamo
+rope: hagenamo
+round: duba\o
+round: dubaʔo
+round: habëlu
+round: habʌlu
+sand: surari
+sand: surari
+sand: surëli
+sand: surʌli
+say: de-
+say: de-
+say: de-
+say: de-
+say: yot̪asetaʔae
+say: yotaseta\ae
+seed: hae
+seed: hae
+seed: hai
+seed: ha͂i͂
+see: ere-
+see: ere-
+see: ere-
+see: ere-
+see: ɛriyäʲ
+see: eriyäi
+see: iribu
+see: íribu
+see: sebe
+see: sebe
+sharp: gima-
+short: gakaro
+short: gakʰaro
+short: kaniyake
+short: kaniyake
+shoulder: gi͂
+shoulder: ya gi͂
+shoulder: (ya) ginh
+sister: ana
+sister: ana
+sister: boba
+sit: ɛrɛ kɛrʌʲ
+sit: erekʰera-
+sit: erekera-
+sit: ere kerëië
+skin: kako
+skin: kʰaʔo
+skin: ka\o
+skin: kaxo
+skin: xaxo
+sky: memare
+sky: memare
+sleep: asa-yi-
+sleep: asayi-
+sleep: ʔasa yibu
+sleep: \asa yibu ba\a
+sleep: yi-
+small: mano
+small: mano
+small: mano
+small: mano
+small: ma͂no
+small: mano-mege
+smell: yã-
+smoke: mus̪u
+smoke: musu(-\unh.nu)
+smoke: musuʔu͂nu
+snake: ahurarokamene
+son: u\ubi
+son: uʔubi
+spit: koseka
+spit: koseka
+spit: somade-
+stand: eraha-
+stand: eraha-
+stand: erahãinh
+stand: yenaha-
+stand: yerë hëi
+stand: yɛrʌ hʌʲ
+star: eremaka
+star: eremaka
+star: irinibu
+star: irinibu
+star: orowabe
+star: orowabe
+star: orowape
+star: orowa͂pɛ
+stick: kegebo
+stone: gãna
+stone: kʰa͂nʌ
+stone: kana
+stone: kʰana
+stone: kanë
+straight: gisi
+straight: gisi
+straight: mesenh.de-
+sun: iriyabo
+sun: iriyabo
+sun: iriyapo
+sun: iriyapo
+sun: maiaya
+sun: maiaya
+sweet: hamini
+swim: dena-
+swim: dena-
+swim: yaʔa hoye kʰerabo baʔaɪ
+swim: ya\a hoye k.herabo ba\ol
+tail: gesege
+tail: gesege
+tail: ya kʰə͂φu͂
+tail: yakïfa
+take: agima
+take: agima-
+take: agima-
+take: ma
+take: ma
+take: ma
+that: ba
+that: ba
+that: sa
+that: ta
+that: t̪ʰa
+there: ba
+there: sa
+they: naka
+they: naka
+they two: haga\a
+they two: hagaʔa
+they two: hagaxa/hageramo
+they two: hageramo
+they: yaʔa
+they: yaʔá
+they: ya\á
+they: yaxa
+thigh: bau
+thigh: bau
+thigh: bau
+this: to
+this: tʰo
+this: t̪ʰo
+thou: haʔa
+thou: hemaʔamo
+thou: na\a
+thou: naʔa
+thou: naʔa
+thou: naka
+thou: naka
+thou: naka
+thou: naxa/nomaxamo
+thou: nomaʔamo
+three: igi
+three: igi
+throat: digamabi
+throw: kuhunh.ga-
+tie: meserobode-
+tie: meserobode-
+tie: modoge-
+today: mini
+today: mini
+tomorrow: davi
+tomorrow: dumi
+tomorrow: hera
+tomorrow: hera
+tomorrow: viri
+tongue: aru
+tongue: aru
+tongue: auru
+tongue: auru
+tooth: gi
+tooth: gi
+tooth: mere
+tooth: ti
+tooth: t̪i
+tree: esenh
+tree: irʌ
+tree: ira
+tree: ire
+tree: irë
+turn: verode
+turn: verode-
+turn: vero-verode
+two: hage
+two: hage
+two: hake
+two: ha͂xɛ
+unripe: kasigi
+unripe: kʰasigi
+walk: )
+walk: ayaha- (
+walk: go
+walk: kimi
+walk: ø
+walk: puapu
+walk: puapu
+walk: ßiyɛ
+walk: "tread on
+walk: ubu
+walk: vi
+walk: vi-
+walk: vi-
+walk: vi-
+walk: viye
+walk: walk
+wallaby: ba\abi
+wallaby: baʔabi
+warm: sisibu
+warm: sisibu
+warm: sisibu
+warm: sisibu
+wash: dena-
+wash: dena-
+wash: dera\aso-
+wash: deraʔaso-
+water: he͂
+water: henh
+water: ibu
+water: ibu
+water: ipu
+water: ipu
+we (excl.): yia
+we (excl.): yiamo
+we (incl.): iya
+we (incl.): iya
+we (incl.): yiya
+we (incl.): yiya
+we (incl.): yiyamo
+we: isina
+we: isina
+we: nakana
+we: nakana
+we two (excl.): yage
+we two (excl.): yagemo
+we two (incl.): iya hage
+we two (incl.): yaʔa
+we two (incl.): yaʔa
+we two (incl.): yage
+we two (incl.): ya\ya
+we two: yage-mo
+we two: yage/yaxa-mo
+we two: yaxa
+we: yi(y)a/yi(y)a-mo
+what: ma
+what: noma
+what: noma
+what: nomage
+what: noma-ge
+when: mamo
+when: mamo
+where: ma
+where: ma
+where: mai͂ye
+where: maïye
+white: fabo
+white: fabo
+white: fa.bo
+white: faːbo
+who: ibu
+who: ibu
+who: ibu-ge
+who: ibuke
+who: ibu-ke
+wife: kae
+wife: kʰae
+wind: kuba
+wind: kuba
+wind: kʰuba
+wing: awa
+wing: awa
+woman: kʰa͂
+woman: kã
+woman: kaa
+woman: qa
+woman: qa
+woman: xa͂ː
+wrist: ya bunagi
+yellow: game
+yellow: game
+yellow: kame
+yellow: ka͂me
+yes: au
+yes: au
+yesterday: davi
+yesterday: dumi
+yesterday: hera
+yesterday: hera
+yesterday: viri
+you: ha\a
+you: haxa/hemaxamo
+you: naka
+you two: haga\a
+you two: hagaʔá
+you two: hagaxa/hage-maxamo
+you two: hagemaʔamo
+you two: naxa

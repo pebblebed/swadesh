@@ -1,0 +1,66 @@
+arm: winta
+belly: lutpi
+bird: min̪iɟi
+bite: wat̪a-
+burn: wan̪t̪i-
+cut: ute-
+die: alga
+dig: aŋa- ~ aŋe-
+dog: utaga
+eat: uɲe-
+elbow: yutu
+fall: alga
+father: iba-d̪a
+fire: uma
+foot: nukaw
+give: u-
+hand: mata
+hear: ami-
+heavy: uŋkun
+he/she: ula(-ba)
+he/she: uŋu-
+I: an̪i(-ba)
+I: at̪u(-ba)
+I: ayu(-ba)
+kill: umpi-
+knee: wuŋku
+laugh: aŋkar(i)-
+lie: una-
+liver: lipa
+meat: min̪a
+mouth: naŋka
+one: n̪ipi-ma
+person: ama
+river: ataba
+rotten: gat̪a
+say: iɟa-
+see: aɟi
+shoulder: agaw
+sit: ina
+skin: akuy
+star: unpi
+sun: wuŋa
+take: ape-
+this: ura
+thou: aŋku-
+thou: antu(-ba)
+thou: ipul-a
+throat: manu
+throw: ṛa-
+tongue: lalan
+tooth: ŋampu
+tree: yuku
+two: ud̪y-ama
+walk: ana-
+walk: wili-
+water: ipi
+weep: ṛuŋka-
+we (excl.): ana(-ba)
+we (incl.): ampul-a
+we two (excl.): ana(-ba)
+we two (incl.): ali(-ba)
+what: ani
+where: antu-
+who: ari-
+wind: alba
+you two: ipul-a

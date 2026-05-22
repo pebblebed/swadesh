@@ -1,0 +1,206 @@
+all: aufa
+and: ke
+ashes: umu
+back: ova
+bad: apala
+bark: au faaŋā
+because: puoŋai (puo-ŋa-ai)
+belly: inae
+big: akaikia
+bird: inei
+bite: e-aŋa
+black: umu(-ŋa)
+blood: ifa
+blow: e-pua
+bone: unia
+breast: ʔuʔu
+breathe: laʔaie-ŋuŋu-ŋa
+burn: e-aŋa(-i-a)
+child: imoi
+cloud: apu-apu
+cold: e-kekea
+come: e-mai
+correct: e-kai(-na)
+count: e-kuapi(-na)
+cut: e-iva(-i-a)
+day: kina
+day: kina (as for sun, time)
+die: e-mae
+dig: e-api(-a)
+dirty: e-ofu
+dog: amuʔe
+drink: e-inu(-a)
+dry: e-fuŋa
+dull: fuŋu
+dust: ae-apu
+ear: aina
+earth: aŋo
+eat: e-aniani, e-ania
+egg: aoi
+empty: maini
+eye: maa
+fall: tuda
+far: aŋomai
+father: ama
+fat (n.): oʔo
+fear: maniʔi
+feather: inei puina
+few: afa
+fingernail: ima ofē
+fire: napʷ
+fish: maʔa
+five: ima
+float: eŋau
+flow: e-lolo
+flower: kai-kai
+fly (v.): e-ŋopo
+fog: apu
+foot: ue
+forest: aŋo
+four: pani
+frog: kulua
+fruit: pua
+full: poŋu
+give: e-peni-a
+good: [felō]
+grass: ava
+green: aŋe-aŋe
+guts: fuouo-ŋa
+guts: fuouo-ŋa
+hair: fufu
+hand: ima
+head: kania
+hear: e-loŋo
+heart: ŋua-fopa
+heavy: meau
+he: isa
+here: ina, inae
+hit:   e-au-ŋa
+hold: e-afia
+how: alā koā
+hunt: e-kapu-kapu
+husband: akava
+ice: vei ʔoʔopi-na
+if: aisama  (aiama)
+I: Iau
+in: aloŋai (alo-ŋa-ai)
+kill: e-au-puŋu-a
+knee: kiu
+know: e-loŋo
+lake: ofu(-ŋa)
+large: akaikia
+laugh: e-aʔa
+leaf: ŋaŋau-ŋa
+left: lafanina
+leg: pao
+lie: e-ka-kipo
+live: mauni
+liver: aʔe
+long: maeva
+louse: uu
+man: au
+many: maʔo
+meat: kiki
+meat: kiki
+meat: kiki (tsitsi)
+meat: pikio
+moon: ŋava
+mother: ina
+mountain: iku
+mouth: ake
+name: aka
+narrow: ope
+near: kainaŋai
+neck: aiso (aio)
+new: mama(-ŋa)
+night: ŋapi
+nose: kua
+not: a-
+old:   apao
+one: aŋao
+person: papiau
+play: e-ʔopua
+pull: e-laʔa(-i-a)
+push: e-koni-na
+rain: imu
+red: pito(-ŋa)
+right: kai-na
+river: ake
+road: keaŋa
+root: ŋamu
+rope: ʔaŋau
+rotten: feka
+round: e-paʔi(e-pa-ii)
+rub: e-fai(-na)
+salt: ʔiʔifo
+sand: fiŋu
+say: e-iva
+sea: aʔu
+sea: aʔu
+seed: ani
+see: e-isa
+sew: e-kai(-na)
+sharp: ako
+short: foʔoa
+sing: e-ivi
+sit: e-aŋu
+skin: faa
+sky: ufa
+sleep: feu
+small: eʔele
+smell: foŋa e-loŋo
+smoke: aku
+smooth: maŋe-ʔafu
+snake: kaapa
+some: isa (ia)
+spit: e-ʔupe
+split: e-fafa(-i-a)
+stab: e-fau(-ŋa)
+stand: e-apa
+star: miʔi-miʔi
+stick: au
+stone: kepo
+straight: ʔopai(-na)
+suck: e-ʔu
+sun: kina
+swim: e-ngau
+tail: iu
+that: enga\ina
+there: enga, engae
+they: isa
+thick: ʔafua
+think: e-opolaŋa
+thin: manipi
+this: ina\ina
+thou: oi
+thou: oi
+three: oiso
+throw: e-pu-akr
+tie: e-ŋope(-i-a)
+tongue: mala
+tree: au
+turn: giro-a hanai
+two: ŋua
+vomit: e-uŋa
+walk: e-pea
+warm: isapu
+water: vei
+we: i\a, lai
+wet: e-vei
+what: kapa-ʔina (kapa-ina)
+when: ŋaika
+where: kapai
+which: ala-ʔina(ala-ina)
+white: kelo(-ŋa)
+who: kai
+why: kapa puo
+wide: falapa
+wife: akava
+wind: ameku
+wing: pani
+woman: papie
+worm: ʔima-ʔima
+wrong: apala
+year: ʔinipo
+yellow: laofa(-ŋa)
+you: oi

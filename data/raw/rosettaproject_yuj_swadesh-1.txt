@@ -1,0 +1,1063 @@
+all: aŋgankaba kari
+all: nari
+all: panaŋgwɔr
+all: pənaŋgɔl
+all: pənaŋgolə
+all: pənaŋgoṛ
+all: ponankor
+arrow: komp
+arrow: omʔ
+arrow: ombʷ
+arrow: om ~ ʊm
+arrow: ɔmpʰ ~ ʊmpʰ
+arrow: oʷp oʷpʰʊ
+ashes: ɪdəbupʰ
+ashes: ⁿdu
+ashes: əndʊ
+ashes: əndu
+ashes: ənduʷ
+ashes: ndabwi
+ashes: ʌndu
+at: -an
+at: -ënt
+back: nagər ~ naxʊr
+back: paŋgoreʲor
+back: poŋgrəkʊl
+back: yəngwɪkɔl
+back: yʊŋgwi mek
+back: yuŋgwime
+back: yuŋgwɨkɔrr
+bad: kʷatɛ(ʲ
+bad: kwateʔ
+bad: kwatɛ
+bad: kwatei
+bad: kwɔtɛʔ
+bad: wateʲ~ kwatei
+bark: (yaʷ yɪßi
+bark: (yaʷ yɪßi
+bark: yayɪßi
+bark: ya yußiʔ
+bark: yoyißiʔ
+bark: yɒu yeßiʔ
+belly: mɒm yəṛeⁿʲ
+belly: yarɪ
+belly: yare
+belly: ya re
+belly: yareʲ
+belly: yarɛʲ
+belly: yari ~ eʲ
+big: dɔgwɛʲ
+big: ku
+big: təgwakar
+big: təkʷʌi kʰal
+big: togwaʲ~ tə gwaʲkar
+big: tokwae
+big: tokwaikarə
+big: toɣwai kaṛ
+bird: and
+bird: andər
+bird: ʔantʰ
+bird: antʰ
+bird: antʰ ~ antʌ
+bird: antə
+bird: antə
+bite: aroßyampʰ
+bite: asinongwe
+bite: fɛrɛn
+bite: yam
+bite: ʲyampʰ
+bite: yirʊŋgwi
+black: yəɣəṛeʲ
+black: yəgəri
+black: yəkəre
+black: yʌgre kʊr
+black: yʌgri
+black: yʌgʌriʔ
+blood: yɛri
+blood: yəṛi
+blood: yiri
+blood: yiri ~ yidi
+blood: yɪri
+blood: yɨri
+blood: yɪri
+blood: yɪri
+bone: k(ɛ)ʊr
+bone: koṛ
+bone: kʊr
+bone: kʊr
+bone: kʊrʊ
+bone: kurə
+bone: kurr
+bone: puamukur
+boy: bumdərəp
+boy: pʊmʊtərapʰ
+boy: pʊm tərʌp
+boy: pomətərʌp
+boy: (pume)tərəpʰ
+boy: pumutrʌp
+boy: pumutɨrrʌp
+breast: mʊːm
+breast: moʷ
+breast: mom
+breast: momʔ
+breast: mom ~ mum
+breast: mum
+breast: mumʰ ~ mɔmʰ
+brother: mɒʷ neʲəp
+brother: mom ~ mam nɛʲnʌpʰ
+brother: nai
+brother: nai
+brother: nenəpʰ
+brother: pʊmarop təgwai
+burn: yaeumi yɪrʊŋ
+burn: yami yɪrunk
+burn: yaomiruŋ
+burn: yaʷwi rʊŋk ~ rʊngənə
+burn: (yaʷwi) yɨṛʊŋkʰ
+burn: yəmiuruŋʰ
+cassowary: pan
+cassowary: pën
+child: abrəmrɛk tərap
+child: derʌp kənəŋgɛʲ
+child: tərap kənaŋgei
+child: tərəp kəlaŋke
+child: tərʌp əßaṛmoṛok
+child: tərʌp kənaŋgɛʲ
+child: trab kunaŋge
+chin: gibi kʊrʊ
+chin: kabikorə
+chin: kʊ bɪluk
+chin: kəbwi kʊr
+chin: kʊßikor
+chin: kubi kʰol
+chin: kußwikɔrr
+claw: (andə) pʊkəßən
+claw: (antə)kəbən
+claw: bəßən
+claw: butʌl
+claw: pu kəbən
+claw: pukəbin
+claw: pwukɨbwɨn
+cloud: əgərʊr
+cloud: ɛgʌrʌr
+cloud: kʰʊmi
+cloud: kʊmwi
+cloud: komwɪ
+cloud: ogurər
+cloud: yɪmarə
+cold: nambarei
+cold: nəmbare
+cold: nəmbaṛeʲ
+cold: nəmbarɛʲ
+cold: nʌmbariʔ
+cold: təwari
+come: əgən
+come: kɔrɔbaʲ
+come: kɔrobɨni
+come: korop
+come: koroßʊ
+come: kɔrɔßaʲ
+come: krɔbɔmi
+come: mɒʷkoṛop
+crocodile: wunëpïr
+crocodile: wunɪfɪrr
+cut: fàràkap
+day: imarkʊkʰ
+day: kʊmoran
+day: kʊmʊrɪmiX
+day: ku murumik
+day: kumurumikʰ
+day: yàmar kux
+day: yɨmar poroɣop
+die: awawipi
+die: ma səbwinəm
+die: mɒʷ(wɛʲ sumbwi (pɒr)
+die: sɪmbwi neʲəgənənaʲ
+die: šumbi
+die: sumbwineriyagwʌni
+dog: as
+dog: as
+dog: as
+dog: as
+dog: as
+dog: asɛ ~ asə
+dog: kar
+drink: amoforai
+drink: mɒʷfʌṛ
+drink: (ɪnai)fərə(no)
+drink: naifɨl
+drink: ɪndɪ fərəmaro
+drink: ʌndi fɛr ~ fərɛr
+dry: indiagʌmwɔ
+dry: kul ~ kur
+dry: kurə
+dry: ɪndi troalia
+dry: wa koṛ yax
+dry: ytərigi auipək
+ear: ʊbi
+earth: aßərʌ ~ aßɛrʌ
+earth: kəarruʔ
+earth: kɔr
+earth: kwarə
+earth: kwɔr
+earth: kwɒṛ
+earth: nim
+ear: ubi
+ear: woßʷi
+ear: wubi-korë
+ear: wubikorr
+ear: wubi kʊr
+ear: wubi (kur)
+ear: wubwi
+eat: fara
+eat: fəraʲ
+eat: fəran
+eat: fərən
+eat: fʌrə
+eat: mɒʷʌṛ
+eat: φər
+egg: kʰaʲ
+egg: kai
+egg: ka i
+egg: kʰai numri
+egg: kɛi
+egg: Xai ~ kʰai
+egg: xɛʲ
+elbow: yagap
+elbow: yä kekɔrr
+elbow: yege kʊr
+elbow: yeikikor
+elbow: yeikʊrʊbi
+elbow: yɛkɛ kʰol
+elbow: yɛkekorə
+emu: pan
+emu: pən
+emu: pən
+emu: pən
+emu: pən
+emu: pʌṇ
+eye: iːɪ
+eye: mɒm yi
+eye: yi
+eye: yi
+eye: yi
+eye: ʔyiː
+eye: yiɪ
+eye: yih
+fall: aɣasɪgʲəm
+fall: ara səkrɪbʌn
+fall: (əŋgo)šɪgɪr ba(n)
+fall: mɒʷsəɣəṛəp
+fall: pononkor
+fall: səgrəp
+fall: sɪgərɪbaei
+fall: sigʌrɪm
+father: aʷʰ
+father: aiyə(rə)
+father: aopφ
+father: ayɔ
+father: mɒm naṛoßʷar4
+father: mom ~ mam narbal
+father: narʌßar
+father: ʌya
+fat (n.): kʰuː uri
+fat (n.): uri
+fat (n.): urri
+fat (n.): woṛi
+fat (n.): wʊri
+fat (n.): wuli
+fat (n.): wuriʲ
+feather: andəmbɛi
+feather: (andə) pwaiʔ
+feather: andipwäʔ
+feather: antəpai
+feather: (antə) pɛʲ
+feather: paʲ
+feather: paʲ paʲmorobiŋgeʲ
+finger: ɪndi
+finger: pu topwe
+finger: yä kɨßɨn
+finger: yei ɪnai
+finger: yendi
+finger: yɛndi
+finger: yɛndi
+finger: yeʲndi(k)
+fire: yamʷi
+fire: yamiʲ
+fire: yamwi
+fire: yaomwɨʔ
+fire: yaomwi
+fire: yaʷwi
+fire: yaʷwi
+fire: yëmwi\
+fire: yɒʷwi
+fish: əndəɣamʔ
+fish: endɪgam
+fish: əndigam
+fish: ëntë-kam
+fish: indigamp
+fish: ndʲam
+fish: ɪndikəm
+five: əndik
+five: əndikʰ
+five: ɨndi
+five: ɪndiːk
+five: ɪndikʰ
+five: ɪndikʰ
+flower: fu
+fly (v.): aria frʊɣwariaɣap
+fly (v.): fʌrʌmßaɣɔßʌni
+fly (v.): mɒʷfʊṛʊɣʷaṛiʌʷaʷʷɔp
+fly (v.): nami təgəmari
+fly (v.): narɪk pogonei
+fly (v.): φobagopʰ
+foot: bingwʌʲ
+foot: pʊ
+foot: pʊtʊbi ~ bwi
+foot: pu
+foot: pukurr
+foot: pukwei ~ pwikei
+foot: pußikorə
+forehead: mekul
+forehead: yɪbi yiɣi
+forehead: yəßekorʔ
+forehead: yɪgɔbənɪ gʊr
+forehead: yikəpən
+forehead: yɨmitipφ
+forehead: yɪʲɪndəp
+forehead: yɪßi ~ iɣi
+four: iyaʷor
+four: yiawɔr
+four: yi ɔr
+four: yiɒwor
+four: yɔr
+four: yɨrəgobweʲ
+four: yuərape
+full: kəba kari
+full: kəbwa kari aŋandi
+full: (m)pɛ
+full: piaɣʌnɪ
+full: tupərom
+girl: ai wariyußuʔ
+girl: engiyubuñ
+girl: yɨbʊtrʌp
+girl: yəm ßweŋgi
+girl: yʊßi tərʌp kənaŋgei
+girl: yɪßʊ ʷɪŋgi
+girl: yɨßʊ tərʌpəŋgi
+give: anantəmbəl
+give: mɒʷonansəp
+give: səbənəm
+give: səngei
+give: səŋkʰ
+give: simbeʲ
+give: sʌßai
+good: kɔbɛkare
+good: kɔpikəreʔ
+good: kʷɔßʷekaṛeʲ
+good: kwabɛ karɛ
+good: kwapwe
+good: kwʊbwi kari
+good: kwɔßwikariʔ
+green: yaɣikor
+green: yigikɔl
+green: yigikɔr
+green: yɪɣikɔr
+green: yɪɣi kʊr
+green: yɪkikoñ
+hair: mepa
+hair: mimßɛʲ
+hair: mipai
+hair: mipe
+hair: mi:pe
+hair: mi pei
+hair: mi pei
+hair: miφɛ(foropʰ)
+hair: mɒm me peʲ
+hand: keaŋ
+hand: yaikorrə
+hand: ʲyɛʲ
+hand: yɛʲ
+hand: yei
+hand: yɛiʔ
+hand: yetəbi
+head: kaigorə
+head: mɛʲʰol
+head: mi kul
+head: mɒm me koṛ
+head: mɔgɔr
+head: yeve-kom
+head: yeve-korë
+head: yʌhe kɔr
+head: yɪßɛʲʊr
+hear: amowawarabiʔ
+hear: mɒʷwɒʷ
+heart: iŋgʌʲnəbrəm
+heart: pʊßəṛʊʔ
+heart: pubəru
+heart: pußaru
+heart: pußəru
+heart: undurkur
+heart: yʊngwa yʊr
+hear: uːaiwanəm
+hear: waʷ
+hear: wamaro
+hear: wao
+hear: wawɪnʊm
+heavy: kəbaʲ
+heavy: kəßaʲ
+heavy: kəßaʲ
+heavy: kəßɛi
+heavy: kəφai
+heavy: kʌßai
+he/she: gʷam
+he/she: mɒʷ(ʔ)
+he/she: ŋgoiyaX
+he/she: nŋo
+he/she: numu anokwəpe
+he/she: wa
+hit: əŋgoφərəgwaban
+hit: fuk
+hit: ma progopʰ
+hit: mɒʷpoṛoɣʷɔp
+hit: pərogop
+hit: porogowap
+hit: porokwap
+hit: progwoba
+hit: proɣobaʲ
+horn: kwanɛmɛkʰol
+horn: suwi
+horn: tarapʰ
+horn: wußikwɔrr
+horn: yɛkəßən
+house: nap
+house: naːpʰ
+house: napʰ
+house: napʰ
+house: napʰ
+house: napʰ
+house: napφ
+I: ənʌŋ
+in: mek
+I: ono
+I: ono
+I: ono
+I: ononeʲ
+I: wenoʔ
+kill: maʷprəɣɔp pabənʊm
+kill: mɒʷporoɣʷɔßia sumbwi pap
+kill: ogwa sɪmbian
+kill: pɔrogwapaßäi
+kill: sɪmbiak
+kill: tsɪmbwi
+kill: (uŋgo)yəŋgoß(iyən)
+knee: karəbikʊl
+knee: kʷarupkʰol
+knee: kaßəkʊl
+knee: kwarokɔr
+knee: kwarr əpkol
+knee: kwərəkorə
+knee: mɒm kʷəṛəp koṛʔ
+know: kəgwa wawipi
+know: mɨl
+know: mɒʷməṛ
+know: ogwɛʲwa nambəno
+know: uːaiwanəm
+know: waogwaiwɔ
+laugh: aməmʊr ~ amemrei
+laugh: amʊmor
+laugh: ma amʊm mur
+laugh: mɒʷamomoṛ
+laugh: səruməngoñ
+leaf: mbwɛʲ
+leaf: pʷaiʔ
+leaf: pɛi
+leaf: pwʌʲ
+leaf: pwae
+leaf: pwai
+leaf: yaʷip
+leaf: (yo)paiʲ
+leg: bu
+leg: pʊ
+leg: pʊkʊr
+leg: pʉsɪp kʊr
+leg: pu
+leg: pukul
+leg: pukur
+leg: pu(mə)kurə
+lie: aːmʰ
+lie: amʰ
+lie: ambai
+lie: ambən
+lie: ampʰ
+lie: ampφ
+lie: mʷampʰ
+lip: top yëpi
+liver: yəŋgʷʌʲ
+liver: yo͂ŋgwaʲ
+liver: yoŋgwaʲ
+liver: yoŋgwaʲ~ yəŋgwaʲ
+liver: yonguai
+liver: yuŋgwa
+liver: yuoŋgwai
+long: təgwaʲi
+long: togwaʲi
+long: tokwairi
+long: tokwairi
+long: toɣwɛiri
+long: tɔwʰɛ ri ~ toɣwɛri
+louse: imʌr
+louse: sɪmbʊr
+louse: yəmʊr
+louse: yʌ mar
+louse: yɪmarə
+louse: yɨməṛ
+louse: yɪmir
+man: arop
+man: arop
+man: arop
+man: aropʰ
+man: arɔp
+man: bʊm
+man: pumarəφʰ
+many: kəba kari
+many: kəpaikale
+many: kəßai kareʲ
+many: kʌßakarɛʲ
+many: nari
+many: təgwaəkar
+meat: emi
+meat: əmi (ko?mi)
+meat: fʉrʲ
+meat: kʰʊmi səbaʲ
+meat: mʊri farh
+meat: nabeʲkʊ mʊri
+meat: napiʲ
+meat: naße
+moon: wikam
+moon: yɛʷk
+moon: y(ɛ)unkʰ
+moon: yɨŋ
+moon: yʊŋkʰ ~ yʊŋgʰ
+moon: yung
+moon: yuŋkʔ
+moon: yuŋkʰ
+morning: kʊmʊnikʰ
+morning: kʊmoni
+morning: kʊmɔnɪk
+morning: kumoni
+morning: kumunik
+morning: kumunikʰ
+mosquito: kiriki
+mother: ʌʲ
+mother: aiyəɛ
+mother: ayei
+mother: ʔəmʰ
+mother: əndʊßar
+mother: mɒm əndʊßʷar
+mother: mom ~ mam dub al
+mother: omφ
+mountain: abrəwɪ
+mountain: faongkwe
+mountain: fɒŋgwɛ(k)
+mountain: foŋgwi təgwaʲ
+mountain: pukəroʷyu ~ žu
+mountain: yʊmwi təgʊpʰ
+mountain: yuh
+mouth: favi
+mouth: kußikʊl
+mouth: mɒm toßoɣoṛ
+mouth: ndɔbʌkʌl
+mouth: təpəkʊr
+mouth: tip
+mouth: top-korë
+mouth: top kour
+mouth: toːpɔr
+mouth: toφkʰol
+mouth: tɪpəßi
+name: eʲ
+name: ɛʲ
+name: ɛʲ~ eʲ
+name: ɛi
+name: i tabenʊ
+name: yʊbomeʲ
+neck: barikʰol
+neck: mɒm uißaṛikoṛ
+neck: ɔntɔkɔl
+neck: yɪbarekar
+neck: yißarrɪkol
+neck: yɪßarekʊl
+neck: yɪßɔrəkorə
+new: wani kəmʰ
+new: woṛəɣamʔ
+new: wʊrəgam
+new: wʊrəgam
+new: wuguramp
+new: yɪmʊ
+night: kərrəgəbɪne
+night: kʊmʊri karimik par mi
+night: kʊmʊrʊk
+night: krigɪp
+night: kumur
+night: kumurukʰ
+night: wakərəgəp
+nose: mindë-korë
+nose: nesë-korë
+not: gɔtaŋ mɔ
+not: maʔ
+not: məmbəle
+not: mʉnɔ
+not: mo͂(ʔ)
+not: mɔ
+not: mɔʔ
+not: mo͂ ~ mo͂no͂
+not: mo͂no͂
+not: tange mo
+not: tangəmo
+old: arem dəɣrʊ
+old: arəp təgərru
+old: ɪbi ~ yɪßi
+old: əßi
+old: əßi
+old: ʊgwaragam
+old: mər arop
+old: mər yɨßʊʔ
+old: mirarɔpʰ
+old: mirɪəbu
+old: nai wuyußuʔ
+old: ɔkwa(i)ɛk
+old: pʊmarop təgənu
+old: ɨßi
+old: tegunuarup
+old: tekənəyaßul
+old: tɪkənero
+old: yəmbʊn dəɣru
+old: yɪßu təgənu
+old: yɪßu təgəru
+one: aŋgəranʰ
+one: aŋgəraŋam
+one: aŋgəräŋam
+one: aŋgəṛaŋ(kʰ)
+one: aŋgərraŋk
+one: angraŋ
+one: anklaŋ
+one: manëkïr
+person: arəp
+person: arop
+person: arop
+person: arɔp
+person: aṛop (pomaṛop)
+person: nʊmaropʰ
+person: pumarɔpʰ
+push: pànànkàr
+rain: waṛaɣamʔ
+rain: warəgam
+rain: warəgam
+rain: wargam
+rain: warʌgamp
+rain: warragam
+rain: wərəkəmʰ
+rat: nabsan
+rat: naːpsan
+rat: nap saŋkʰ
+rat: napsən
+rat: naφsaŋ(k)
+rat: nəpsan
+red: nʊmri
+red: nʌmri
+red: nʊmṛi
+red: nʊmrikʊr
+red: nomʌri
+red: numari
+river: ʔɪntʰ ~ ʔɪl
+road: mʌʲ
+road: mʷai
+road: maiɪ
+road: maiʌkup
+road: mɛʲ
+road: mekʊpʰ
+road: mwe͂ʲ
+root: bɔkʰ
+root: nəmbəmɪpik
+root: paʷəgəpʰ
+root: pauk yarʌkʰ
+root: pəuʷ
+root: yarək
+root: yari
+root: yiri
+round: aɣərikʊl
+round: agorekwɔr
+round: aʷoṛikoṛ
+round: əkore
+round: fro aɣop
+round: tədi
+sand: kərəkʰ
+sand: kərʌk
+sand: kərʌkʰ
+sand: kərʌkʰ ~ kərax
+sand: kʌrʌk
+sand: krʌx
+sand: ogup ~ ogußʊk
+say: amosirai
+say: karsʊr
+say: mɒʷsəṛ
+say: sër
+say: sirə
+say: sirinəm
+seed: ya kʰiʔ
+seed: yaʷŋgab kəŋgei
+seed: yɛkiʔ ~ yekiʔ
+seed: yeʲ~ ya kʰi
+seed: yɒʷkiʔ
+seed: yʌkʰi
+see: gin ~ ɣin
+see: mɒʷŋge
+see: ŋge
+see: ŋge
+see: ŋgeʲ
+see: ŋgiei
+see: nɪgɪnəm
+see: nke
+short: faitʌgʌli
+short: fatəgri
+short: fatəkəle
+short: feʲəgri
+short: fɛi t̪əɣəre
+short: fɛtʰəgri
+shoulder: fëré
+shoulder: fərekor
+shoulder: fərekul
+shoulder: frekʰol
+shoulder: fʌre kɔrr
+shoulder: freʲor
+shoulder: fri
+shoulder: φərekorə
+sister: andapφ
+sister: andəpənəpʰ
+sister: anerʊb
+sister: mɒʷ andəp
+sister: mʊm təgwai
+sister: mom ~ mam antʌp
+sister: tokaimum
+sit: gɔ-tank
+sit: mɒʷtaŋk
+sit: nangen ~ nangəŋ
+sit: taŋ
+sit: ta͂ːŋ
+sit: tangai
+sit: taŋkʰ
+sit: tank
+skin: ißi
+skin: mɒm yəßiʔ
+skin: nißiː
+skin: (pəru)žißi
+skin: yëpi
+skin: yivi
+skin: yɪßi
+skin: yɪßi
+skin: yɪßi
+sleep: am
+sleep: ambäi
+sleep: amə(nɔmʰ)
+sleep: ampʰ
+sleep: mɒʷambə
+sleep: pam bə mara
+small: kanaŋge
+small: kənaŋgeʲ
+small: kənaŋgeiʔ
+small: kənaŋgeʲkoro
+small: kənaŋkɛʲ
+small: kənəŋke
+small: kəräŋgi
+smoke: čɔr
+smoke: čo riʲ
+smoke: sabok
+smoke: soṛi
+smoke: sʉri
+smoke: yaʷwi sʊr
+smoke: (yaʷwi) suri
+snake: kër
+snake: təɣam
+snake: təgam
+snake: tə gam
+snake: tekəm
+snake: tʌgam
+snake: tɔgam
+spit: atop
+spit: ma sʊromagʊr
+spit: mɒʷsəṛəmʊŋgʊṛ
+spit: səm
+spit: sirimiŋgir
+spit: sɪrəməgʊr
+spit: sɪrɪmʊgʊr
+split: karàkap
+stand: fəgobɛagai
+stand: fərəmbɛarx
+stand: fərəmpearə
+stand: fəwagən
+stand: fɔɣohweXak
+stand: goɣobʷɛarkʰ
+stand: mɒʷfoɣoßeyaX
+star: dirɪmi
+star: tɛremi
+star: tərəmi
+star: tərəmiʔ
+star: tɛrʌmeʔ
+star: tir(ə)mi
+star: tɪrɪmi
+stone: yʊmʷi
+stone: yɪmwi
+stone: yʊmwi
+stone: yʊm(w)i
+stone: yomwi
+stone: yumikorə
+stone: yumwi
+stone: yumwi
+stone: yumwiʔ
+sun: imar
+sun: yəmar
+sun: yɛmərrə
+sun: yimarë
+sun: yɪmaɲ
+sun: yɨmaṛ
+sun: yɪmarə
+sun: yʌmarr
+swim: əñl
+swim: ɛraɣɔßʌni
+swim: indimi pəgəni
+swim: mɒʷəndəmeɣəṛ
+swim: ɪndi təgaːm
+swim: ɨr ~ ɨlɪ
+tail: abifu
+tail: (andə) pi pʷaiʔ
+tail: (andə) pi pʷaiʔ
+tail: andiyeŋʔ
+tail: kəreʲkur
+tail: korrekorrə
+tail: piei
+tail: pipaʲ
+tail: yʊrkʊr
+take: samp
+that: amŋgoʔ
+that: ŋgo
+that: ɔngoʔ
+that: paːnik
+that: panɪkʰ
+that: parami
+they: maitui
+they: ŋgoʔ ~ ŋkoʔ
+they two: aṛop anəŋgɔßʷeʲ
+they two: epo
+they two: go yaʷa
+they two: numu (kəφaikare)
+they two: yʊmʊ ongobi tabi taŋ
+they two: yußwi a yanaßi
+they: ʷwɛʲ
+they: yɪmʊ nareʲ
+this: məməʔ
+this: mʌmʌʔ
+this: mʌmʌː
+this: ŋgoʔ
+this: ʔwiː i
+this: yaʷkəragəri
+thou: amo
+thou: amo
+thou: amo
+thou: amo
+thou: aŋgoʔ
+thou: aŋgorokae
+thou: ʌmʊŋ
+thou: wara
+thou: yinu ~ yano
+thou: yɪmʊŋ
+thou: yʊmo͂
+thou: yumu͂ŋ
+three: yinɪkʰ
+three: yɪnəŋgɔßʷei
+three: yɪnʊŋ gɔbweʲ
+three: yɪnɪŋ ~ yɪmɪŋk
+three: yɪnukwəpe ~ yunukwəpe
+three: yunumgwaßwei
+tomorrow: bʊran ~ bɔran
+tomorrow: əmboran
+tomorrow: əmbʊran
+tomorrow: omboran
+tomorrow: omburän
+tomorrow: yibrəman
+tongue: sərəɣamʔ
+tongue: sɪrɪgaːm
+tongue: təgap
+tongue: tɛrekəm
+tongue: tserakëm
+tongue: tsɛregamp
+tongue: tsɛrgam
+tongue: tsiligam
+tongue: tsɪrɪgam
+tooth: dɪgamp
+tooth: u-korë
+tooth: ukorrə
+tooth: yʊgəl ~ yɨgəl
+tooth: yʊgʊr
+tooth: yʊkʊrə
+tooth: yʊ kuṛ
+tooth: yo
+tooth: yo-korë
+tooth: yukur
+tree: ʌʷe
+tree: yɒʷ
+tree: yaʷ
+tree: yaʷ
+tree: yaʷ
+tree: yao
+tree: yao
+tree: yɛʷ~ iyɛʷ
+tree: yəuʷ
+two: anank
+two: anəkwope
+two: anəŋkʰ
+two: anənkʰ
+two: aŋənkʰ
+two: anoŋgwɔßwe
+two: onogobwi
+walk: agwɔφ
+walk: aɣobai
+walk: aokwáp
+walk: aɣop
+walk: aɣopʰ
+walk: (əŋgo)fəragoʔ(pən)
+walk: fragopʰ
+walk: fraɣoφ
+walk: frogobrogop
+walk: froɣobaʲ
+walk: lra fragɔp
+walk: mɒ aɣɔp
+walk: mɒʷfəṛaɣoßəṛə aʷɔp
+walk: paokop
+walk: pok
+walk: uragən
+walk: yɛrakʰ
+wallaby: muli
+wallaby: muli
+wallaby: pësi
+wallaby: pəsi
+wallaby: pəši
+wallaby: pəsi ~ pɪsi
+wallaby: pisi
+wallaby: pɪsi
+wallaby: pɨ si
+wallaby: yèri
+wallaby: yɛri
+warm: blutwi
+warm: nəmri
+warm: pəli tui
+warm: tʊʷi
+warm: tuːi(φəpɔ)
+warm: tuwiφʌɣɔr
+water: andï
+water: əinri
+water: əndɪ
+water: ënt
+water: ənt
+water: əntʰ
+water: intʰ
+water: ɪntʰ
+water: warʌgamp
+weep: ëm
+we (excl.): arep kəbe
+we (excl.): namo ~ nʊmʊ pənaŋgo
+we (excl.): yinʊ͂
+we (excl.): yɪnuŋ
+we (excl.): yumu (kəφaikare)
+wet: fəgi
+wet: fəɣi kəbaʲ
+wet: fɪɣi
+wet: ʌndʌ fɪɣi
+wet: ɨntiagʌni
+we two (excl.): arəp anək
+we two (excl.): nəmo oŋgobwi
+we two (excl.): yamu anokwəpe
+we two (excl.): yino͂ anəŋgɔßʷeʲ
+we two (excl.): yɪnʊŋ
+what: abe di naße
+what: abei fərəno
+what: abəino
+what: amt̪e aßen
+what: aßaino
+what: aßaʲono
+what: aßɛn
+when: maɣar
+when: maəgop grabenambənʊ
+when: maɣəṛ(ən)
+when: magar dɪ nənabʊn
+when: magʌr
+where: aßɛʲnəmbʊk
+where: maɣʌn
+where: maux ogwi yagananabənʊ
+where: məgəmnumbuwənam
+where: mɔgwoambanße
+white: wʊßiʔ
+white: wʊßigor
+white: wubikorr
+white: wußi
+white: wußi kʊr
+white: wußwiʔ
+who: amt̪e wɒwian
+who: amuti wanaße
+who: amʊ wanabɔ
+who: amwɪti wanap
+who: wa nap
+who: wəweən
+wind: ʔʌʷi
+wind: ʊi kəropʰ
+wind: oʷi
+wind: ouwi
+wind: owiʔ
+wind: owiʔ
+wind: owiʔ ~ uwiʔ
+wind: ui
+wing: (andə) yəwepʷaʲ
+wing: andi ye kor
+wing: kʊr
+wing: pußurə
+wing: wämbɛʲ
+wing: yai yuwipwai
+wing: yäʷ pɛʲ
+woman: imbu
+woman: yabaʊ
+woman: yɪbu
+woman: yɨbu
+woman: yipú
+woman: yɪßʊ
+woman: yɨßʊʔ
+woman: yußu
+wood: yaʷʷaiʔ
+wood: yapaʲ
+wood: (yaʷ peʲ
+wood: yatɔgri
+wood: yɔkane
+wood: yɔobwä
+wood: yɒʷwiʔ
+yellow: yar
+yellow: yaṛ
+yellow: yarʌ
+yellow: yare
+yellow: yarə
+yellow: yarəkʊr
+yes: iya
+yesterday: uguman
+yesterday: umburan
+yesterday: yəßərəmanʔ
+yesterday: yißʲəman
+yesterday: yɪßʌman
+yesterday: yupuləman ~ yɪpuləman
+yes: yaː
+yes: yah
+yes: yɛ
+yes: ye-no
+yes: yeʔ ~ yo
+yes: yio
+you two: a anokwəpe
+you two: yinaŋ gwa bani
+you two: yʊ͂mo͂ anəŋgɔßʷeʲ
+you two: yʊmʊ oŋgobwi
+you two: yumuŋ

@@ -1,0 +1,405 @@
+all: wasehem
+all: wasehem
+animal: niumbualoukin
+arm: talopɛl
+arrow: tuŋkul
+ashes: (ɲi) sakɛp
+ashes: (nih) sakep
+back: tinget
+back: tɪŋgɛt
+back: tɪnket
+bad: lak
+bad: lok
+bad: lok
+bark: (lu) naikŋin
+bark: (lu) naiknin
+belly: ɲiŋko ɲimpil
+belly: ningoinimbil
+big: lagɪn
+big: saŋkuʰ
+big: sanguh
+bird: nan
+bird: nan
+bird: nan
+bite: aimbuk
+bite: aimbuk
+bite: alh
+black: siehel
+black: siehel
+blood: ɲiŋkop
+blood: ninggop
+blood: niungop
+blood: nɪŋgop
+blow: aiǯuhul
+bone: lingäp
+bone: lingep
+bone: linggäp
+bone: lɪŋkɛp
+boy: wasu wučɛp
+boy: was wuǯɛo
+breast: ɲumʷp
+brother: sukwʌn
+brother: tatat
+brother: tʌtʌt
+burn: aiǯuk
+burn: ɲil mir mir
+child: wasuh
+child: wasuh
+chin: niungloh
+chin: ɲuŋkolo
+claw: na yɛhučiaŋ
+cloud: simbohleŋkil
+cloud: sumbolhenkil
+cold: mateh
+cold: ɲumuim
+come: lak
+come: lak
+count: whapelp
+cut: aimbuk
+cut: antun
+day: aawɪnxohak
+day: aun ɲuŋ kulikel
+day: awun
+die: aulk
+die: aulk
+dig: alkeh
+dirty: nianel
+dog: ɲimboaŋ
+dog: niumpuang
+dog: nɪmbwaŋ
+drink: ayek
+drink: ieg simbep
+dry: kuŋkurar
+dry: kungrar
+dust: samulon
+ear: taingip
+ear: taɪŋkip
+ear: tëekip
+ear: tʌekip
+earth: kətap
+earth: kitap
+earth: kitapp
+earth: kɪtappʰ
+eat: aiyek
+eat: ayɛk
+egg: huiǯnim
+egg: na hutɲim
+elbow: tahukgum
+elbow: tahukŋum
+emu: simbien
+eye: ɲambeo
+eye: nambep
+eye: nambɛp
+eye: niambep
+face: ɲambep
+fall: kusaik
+fall: kusaik
+far: holel
+father: yaiyai
+father: yaiyai
+father: yayai
+fat (n.): sumbual
+fat (n.): wusumbual
+fear: kalkel matih
+feather: nanɪ
+feather: nanih
+few: klep miting
+fight: aipol
+finger: tah tɔ
+finger: tahtoh
+finger: tah wiǯeng
+finger: tamʌra mɛl
+fire: ɲɪ
+fire: ɲi
+fire: ni
+fire: nih
+fish: yogknin
+fish: yokɪn
+fish: yokŋɪn
+five: tahbu
+five: tohbu
+five: toh mbu
+fly (v.): rihrir hamui
+foot: yeʰ
+foot: yɛ nʌmbäp
+forehead: sumbʷ(ʰ)
+forest: long ~ lung
+four: wiyep wiyep
+four: wiyɛpwiyɛp
+four: wuiyep wuiyep
+fruit: (ku) kop
+full: kork
+full: kurk
+girl: asip matəkŋi
+girl: wasu hasɪp
+give: wakap
+give: wanel
+good: bʷik
+good: puaik
+good: pwʌʲ
+grass: iwaɛʰ
+green: nɪnɪnamel
+hair: (yelk) uaih
+hair: (yɛlk) ɪwaɛʰ
+hair: (yɛlk) wʌe
+hair: yelk-wëe
+hand: kʌlam akmok
+hand: taʰ
+hand: tah
+head: yelk
+head: yelk
+head: yɛlk
+head: yɛlkʰ
+hear: aip
+heart: simbelk miumpuaip
+heart: sɪmbelk
+hear: yip
+heavy: mangitehel
+heavy: maŋketehel
+here: indi
+he/she: ki
+hit: al
+hit: yelh
+hold: tah pen
+hole: upmua
+horn: walieng
+horn: walyeŋ
+house: igkih
+house: ikŋi
+hunt: whatem
+husband: mingan
+I: ap
+I: ap
+kill: alhdoh
+kill: yelh
+knee: yehukgum
+knee: yɛ(ʰ)kŋum
+know: aičel
+know: ye
+laugh: nangig
+laugh: naŋkik
+leaf: sup
+leaf: sup
+leg: yeʰ
+leg: yɛ
+leg: yeh
+lie: aliknimbi
+lie: linimpih
+liver: niumpuaip
+liver: sualop
+liver: ɲumpaɪp
+long: pigel
+long: pikek
+louse: ɲumukŋun
+man: wasu
+man: wuǯep
+many: miting
+many: mɪtiŋ
+meat: wuč
+moon: winip
+moon: winip
+moon: wʷɲip
+moon: wunip
+morning: nomulien
+morning: nomulien
+morning: nɔmulɪn
+mother: ap
+mother: mamam
+mother: maman
+mother: mandek
+mountain: simbilh
+mountain: sɪmbilʰ
+mountain: sɪmbɪl
+mouth: tukgum
+mouth: tukŋum
+mouth: tukum
+mouth: tukum
+name: ɲal
+name: nial
+narrow: tulpum punel
+near: kitnan
+neck: wʷŋ
+neck: wong
+new: nʷmbʷŋ
+new: nuimpuing
+night: nom
+night: nom
+night: num
+nose: mip
+not: klep
+not: klep
+old: asehɲokel
+old: asi nokɛl
+old: mehɲokel
+old: mɛ nokɛl
+old: niokel
+one: lɛk lɛʔč
+one: lič̪
+one: liǯ
+other: plel
+person: mehlipming
+person: mɛhlipmiŋ
+play: milmin
+pull: kisem
+push: kunuimpul
+rain: sɪmbolikŋi
+rain: sumbaluknɪ
+rain: sumboligkih
+rat: simbil
+rat: simbil
+rat: simbɪl
+rat: wambilel
+rat: wambilel
+red: ɲiŋkopel
+red: mɪŋgopɛl
+red: ningopel
+right: yangohegel
+river: mih
+road: yaŋkohok
+road: yangohog
+root: (luŋ)yəpo
+root: niupoh
+rope: muah
+rotten: sumuamel
+round: ainingempuel
+round: bimpayel
+rub: niuanem
+salt: niop
+sand: saʰ
+sand: yegkisah
+say: ati
+say: inǯang
+scratch: aiyir
+sea: simbepniop
+see: aičel
+seed: (lu)kop
+seed: (lulu) kop
+see: iǯel
+sew: inginem
+sharp: naimpien
+short: sikŋim
+shoulder: malem
+shoulder: malem
+sing: ikisep
+sister: ɲehakŋi
+sit: wʷlp
+sit: yelpkitap
+skin: sinjhe
+skin: sinǯɛ
+skin: sinǯeh
+skin: sʊl
+sky: subɔs sumbʌŋ
+sky: sumpolhiyengil
+sleep: alinimbi
+sleep: linimpih
+small: likik
+small: likik
+small: pɪǯɪpiǯik
+smoke: (ɲi) suan
+smoke: saiǯek
+smoke: sʌǯʌk
+smooth: li(y)el
+snake: sɪko
+snake: sko(ʰ)
+snake: sukoh
+spit: katɛhɛrk
+spit: tugkusakum
+split: lingeh
+squeeze: surim
+stand: wak
+stand: yekikip
+star: čamasum
+star: inǯamasum
+star: nǯʌmasum
+stone: yegkin
+stone: yëkin
+stone: yekŋen
+stone: yʌkɪn
+straight: pimpink
+suck: kisem
+sun: awun
+sun: awun
+sun: awun
+sun: awun
+swell: nalem
+swim: auk mulaŋ
+swim: piliyel piliyel
+tail: mundom
+tail: mundom
+that: kɪ
+that: ki
+there: lak undu
+there: undu
+they: tip
+they: tip
+they two: tipuyep
+think: nigimuaiyim
+this: indi
+this: ʲndi
+thou: yik
+thou: yik
+thou: yip
+thou: yip
+three: uiep liǯ
+three: wiyɛblik
+three: wiyep pič
+throw: kihiy
+tie: muaiǯip
+tomorrow: tahamiŋ
+tongue: tugkum litni
+tongue: tukŋu lɪtni
+tooth: naip
+tooth: naip
+tree: lung
+tree: lung
+tree: luŋ
+tree: luŋ
+turn: nimpiliem
+two: wiyʌbɛl
+two: wiyep
+two: wuyep
+vomit: niangil
+walk: humui
+walk: munam
+walk: nam
+walk: pilŋ pilŋ
+wallaby: upmusum
+warm: tingiliem
+wash: kulkosimpep
+water: simbep
+water: simbëp
+water: simpep
+water: sɪmbʌp
+we: an
+we (excl.): antʲel
+wet: matɛh
+we two (excl.): aɲep
+wet: ǯukul
+what: čupmol
+what: ǯupmol
+when: tɛm čupmol
+when: tem ǯupmol
+where: alikyehlawel
+where: lau
+white: hurel
+white: hurel
+white: hurrɛl
+who: mini
+who: mini
+wide: punǯer punǯer
+wife: aseh
+wind: yuhun
+wind: yuhun
+wing: (nan)yoh
+wing: naɲo
+wipe: saingil
+woman: asip
+woman: asip
+woman: asip
+wood: nap
+wood: talk
+worm: malǯnuwih
+yellow: sotokel
+yellow: sulpapohel
+yesterday: kɛkɛmpik
+you two: yipuyep

@@ -1,0 +1,286 @@
+all: guruguru
+ankle: badgi
+arm: mala
+ashes: bud̪a
+back: bangaḍ
+bad: wadguwadgu
+bark: mudguɲ
+belly: baṭi
+belly: baɲɟud
+belly: baɲɟud
+big: baɲa
+big: baɲaːri
+bird: baya
+bite: bad̪a
+bitter: gaṭi
+black: gudul
+blood: bundu
+blood: guma
+blow: buya
+bone: maka
+boy: n̪angaḍu
+breast: ŋamun
+breathe: buyu
+breathe: buyu biɟu
+brother: d̪aguɲ
+brother: wabuḍu
+burn: guba
+burn: wad̪u
+calf: badgi
+calf: buḷa
+cheek: ŋuḷku
+chest: waṇga
+child: gandu
+chin: ŋaṇmu
+claw: binguɲ
+cloud: d̪aɹ̣iŋada
+cold: yagal
+come: gan̪a
+come: waɟa
+correct: yaɲɟa ~ wad̪i ~ wad̪iganiɲ
+cut: babi
+cut: banba
+cut: baɲɟu
+dark: biṭa
+dark: uga
+daughter: bukul
+day: d̪uḍu
+die: gun̪d̪i
+die: ula
+dig: baga
+dig: gamba
+dog: ŋuta
+drink: d̪ala
+dry: yaḷga
+dust: d̪uɹ̣ura ~ d̪ura
+ear: maŋa
+earth: d̪an̪d̪i
+eat: d̪ala
+egg: gabuɲ
+elbow: gupu
+emu: gulbaɹ̣i
+eye: d̪ili
+face: ŋuɲɟa
+fall: banbu
+far: gambari
+father: yabu
+father: yabunu
+fat (n.): d̪ami
+fear: gala
+feather: buda
+few: waŋud
+fingernail: binguɲ
+fire: biya
+fire: buḍi
+fish: guyu
+flow: maḍa
+fly (n.): n̪imun
+fog: gugumba
+foot: d̪ina
+forehead: balga
+good: mudga
+grass: ud̪un
+guts: guṇa
+hair: d̪uɹ̣uɲ
+hair: muɲɟa
+hair: muɲɟa
+hair: muɲɟul
+hand: maḍa
+head: baŋgun
+hear: imba
+hear: imba
+heart: yuḷku
+heavy: utiɲ
+here: ina
+he/she: -la
+he/she: -n̪a
+he/she: n̪ula
+he/she: n̪uŋu
+he/she: n̪uŋun̪a
+hit: guni
+hold: baṭa
+hole: yuṇa
+horn: n̪alga
+horn: n̪algan̪alga
+house: gun̪u
+hunt: biya
+husband: gungal
+ice: mid̪aḍ
+ice: mid̪aḍ
+I: -iya
+I: ŋacu
+I: ŋan̪a
+I: ŋaya
+I: -ya
+jaw: wakada
+kangaroo: gula
+kangaroo: ŋadgu
+knee: mugu
+know: d̪in̪d̪u
+laugh: yad̪i
+leaf: gadgal
+leg: baḷa
+lie: una
+lightning: d̪iguɹ̣u
+lightning: maniɲ
+lightning: wiɹ̣a
+lip: mimi
+liver: d̪iba
+liver: d̪igiɲ
+long: gudgan
+long: gudgan
+louse: guliɲ
+louse: guliɲ
+man: baṇḍayi
+man: maḍi
+many: giʎala
+meat: yuḍi
+moon: d̪ilgaṇ
+mosquito: bud̪uɲ
+mountain: bagul
+mountain: bagul
+mouth: d̪aː
+name: n̪ari
+nape: gudga
+navel: nimbiɲ
+near: bindiɲ
+new: gawula
+night: biṭa
+night: uga
+not: gaḍa
+old: gabalgabal
+old: garugaru
+old: gayadambal
+old: mudguɲ
+old: uḍu ~ wadgudaɲ
+one: waŋgaɹ̣a
+other: bid̪u
+other: bid̪uŋaḷi
+person: maḍi
+play: wata
+rain: bad̪ili
+rain: d̪awadaɲ
+rain: yugan
+rat: maŋgumaŋgu
+rat: mudi
+red: gud̪igud̪i
+river: baḍu
+river: baḍu
+road: maḷa
+root: balgara
+rope: gulguṇ
+rotten: gaca
+rub: buba
+salt: gaṭi
+sand: gaḍila
+say: gulba
+say: ŋalga
+say: ŋan̪d̪i
+scratch: bada
+scratch: badga
+scratch: d̪uda
+see: n̪aga
+see: n̪aga
+sew: banba
+short: gupu
+shoulder: wingal
+sing: baɲɟa
+sister: babaya
+sit: binda
+skin: yut̪al ~ yulaɲ
+sky: bandaḍa
+sleep: una
+small: ɟipu
+smoke: d̪umbiɲ
+smoke: d̪uŋuɲ
+snake: d̪ambal
+snow: mugaḍi
+son: d̪idgi
+son: d̪uwaṇ ~ d̪uwana
+son: mugana
+spit: gunkuru
+spit: ŋaʎi
+stand: d̪ana
+stone: bari
+suck: buʎa
+sun: d̪uḍu
+sweet: guɟa
+swell: buŋguli
+swim: ŋumbi
+tail: baṇḍa
+take: gan̪i
+that: ŋuna
+there: ŋuna
+they: d̪ana
+they: d̪anan̪a
+they: d̪anaŋu
+they: -(i)d̪ana
+they: -n̪d̪anan̪a
+they two: bula
+they two: -bulan̪a
+they two: bulan̪a
+they two: bulaŋu
+they two: -(i)bula
+they two: -wula
+thigh: d̪ara
+thin: makabiṇḍaɲ ~ makamaka
+this: ina
+thou: inan̪a
+thou: inda
+thou: -inda
+thou: inu
+thou: -nan̪a
+thou: -nda
+thou: yuɹ̣a
+thou: yuɹ̣an̪a
+thou: yuɹ̣aŋu
+thou: yuːlu
+throat: manu
+throw: biɟu
+thunder: bariɲ
+tie: gaɟu
+today: baḍaːdu
+tomorrow: mugaɹ̣u
+tongue: d̪alaɲ
+tooth: iɹ̣a ~ iṭa
+tree: baga
+two: bulaḍi
+unripe: guṇga
+vagina: d̪imbaɲ ~ miṇaɲ
+vomit: mulagadaɲ
+walk: maḍa `u ugan̪a
+walk: waɟa
+walk: waɟa
+warm: buwaɲ
+wash: ŋabi
+water: gamu
+water: muḷu
+weep: bati
+weep: miʎaḍ
+we: ŋana
+we: ŋanan̪a
+we: ŋanaŋu
+we two (excl.): -iŋali
+we two (excl.): -li
+we two (excl.): ŋali
+we two (excl.): ŋalin̪a
+we two (excl.): ŋaliŋu
+we two (incl.): -iŋali
+we two (incl.): -li
+we two (incl.): ŋali
+we two (incl.): ŋalin̪a
+we two (incl.): ŋaliŋu
+white: bud̪abud̪a
+wide: bit̪aṇ
+wife: guyaḍa
+wind: yadga
+woman: ŋamala
+woman: wayanbiḍa
+wood: d̪at̪a
+wood: d̪ulgaḍa
+yesterday: gunda ~ guliɹ̣u ~ macamaca
+you two: -balun̪a
+you two: ibalu
+you two: -ibalu
+you two: ibalun̪a
+you two: ibaluŋu

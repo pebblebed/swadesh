@@ -1,0 +1,335 @@
+all: dza͂
+and: ta
+animal: ǃne ǃkoma
+ankle: ǁkhum
+arm: ǂha͂
+arrow: ǁkou
+ashes: ǂqwa
+ashes: tɔ
+back: ǁkhua
+back: ǃkubi
+bad: keki
+bark: ǀnɔː
+belly: ǃguː
+big: ǀne ǁa
+bird: tsaba
+bite: ǃneː
+bite: taː
+black: ǯɔː
+blood: ǀiŋ
+blood: ǁnɔru
+blow: čuː
+blow: šuː
+bone: ǃkuː
+branch: ǁka͂u͂
+breast: tswa
+breathe: ǀhuː
+brother: ǁko
+brother: tsa͂u͂
+burn: ǁke
+burn: ǁku
+burn: kuuː
+calf: ǃkho ǁka
+chest: ǂke
+child: daba
+chin: ǁgaŋ
+cloud: ǁga
+cold: ǁkarau
+come: ǀge
+come: ša
+come: še
+cut: ǀkum
+cut: ǁne atu
+cut: ǃnʌm
+die: ǁke
+die: ǂoː
+dig: guː
+dig: ǃkum
+dog: ǂkwe
+drink: čiŋ
+drink: k\\aː
+dry: ča
+dust: ǁgwi
+dust: k\\a
+ear: ǀküi
+earth: ǁgwi
+earth: k\\a
+ear: ǀühi
+eat: m
+egg: ǃnu
+elbow: ǂkwɔni
+eye: ǀgaː
+face: ǀkho
+fall: ǃkau
+fall: ǂnau
+fall: ǃxaǃxa
+far: ǂxa͂
+father: ba
+fat (n.): ǁnwiː
+feather: ǃk\\wi
+fight: ǁa͂
+finger: ǁgau
+finger: ǃgau ǃgwi
+finger: ǀk\e ǀko
+finger: ǃkoá
+fingernail: ǁkuru
+fire: daá
+five: ču
+flower: gɔː
+flow: šaː
+fly (n.): ǯɔa͂ǯoa͂
+fly (v.): ǁgama
+foot: ǀke ǃgoːa
+foot: ˤk\i
+forehead: ǀkho
+forest: ǃkaŋ
+four: ǂkhi
+fruit: ǀne
+fruit: ǃnum
+give: ǀa͂
+give: aː
+give: ǀka
+good: kaia
+grass: ǁeː
+green: ǀkaŋ
+green: ǂke
+hair: ǃk\wiː
+hand: ǁgau
+head: ǀne
+hear: s\aː
+heart: ǃk\a
+heavy: ti
+here: se e
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha˗ka
+he/she: ha˗ka
+he/she: ka
+he/she: ka
+he/she: ka
+he/she: ka
+he/she: ki
+he/she: ki
+he/she: ki
+he/she: ki
+hole: ču
+horn: ǃkhu
+house: či
+hunt: guni
+husband: ǃkao
+I: m
+I: m
+I: me
+I: me
+I: mi
+I: mi
+I: n
+I: na
+I: ŋ
+kill: ǁkoa͂
+kill: ǃku͂
+kill: ǃkuŋ
+knee: ǃkoa
+leaf: ǃgwaː
+leaf: ǃnɔba
+leg: ǃkoː
+lie: šu
+lie: tam
+lip: si ǀoː
+liver: čiŋ
+live: ǀxɔa
+live: ǯwai
+louse: ǀnani
+man: ǃku͂
+man: ǃkuŋ
+many: ǂkhii
+meat: ǁkha
+moon: ǁnwai
+mother: tai
+mountain: ǃnum
+mouth: ǁk\we
+mouth: tsiː
+name: ǀku
+navel: ǃnum
+near: t\um
+neck: ǁka͂u͂
+new: ˗ma
+new: zɛ˗ma
+night: ǀgu
+not: ǀkúa
+not: ǀkúi
+old: ǂgaː
+old: ǁgaː
+old: ǃnou
+one: ǀnee
+other: duri
+other: taŋku
+person: žuː
+person: ǯuː
+play: ǁnʷ
+play: ǂnaba titiíbi
+pull: ǃxa
+pull: ǁxe
+pull: ǁxi͂
+rain: ča
+rain: ǂneəm
+rain: ša
+rat: ǀnu˗hi͂
+red: ǃgaː
+red: ǃga͂
+river: ǃka͂
+river: ǁxum
+road: ǂkha
+road: ku
+root: daŋ
+root: ǁkeri
+root: ǃkube
+rub: gum
+rub: šašari
+salt: gwi
+sand: k\\a
+say: ǀgaŋ
+say: kue
+say: k\wi
+say: ǂnya
+say: o k\wi
+say: ok\wi
+scratch: čane
+scratch: ǃnɑː
+seed: ǀneːsiŋ
+see: siŋ
+sew: ǃgei
+sew: ǂum
+sharp: ǂnabe
+sharp: ǃne
+short: ǃkoːma
+sing: geeː
+sing: ǁka͂
+sister: siŋ
+sit: ǃkoː
+sit: ǀni͂
+skin: ǀnɔ
+sky: ǀn
+sleep: ǂga
+sleep: tsaː
+small: ˗ma
+small: tse˗ma
+smoke: šɔre
+smooth: to
+snake: ǁgaŋǁgani˗ʃeː
+snake: ǁgeː
+spit: ǃgɔːo
+squeeze: ǁnara
+stand: ǁga
+stand: ǃnu͂
+star: ǂko͂
+stone: ǃnum
+straight: to
+suck: ǀkum
+sun: ǀkʌm
+sweet: ǀnai
+sweet: ǯɔ
+swell: čɔ
+swim: dum
+swim: ǂhau
+tail: ǁkhwe
+take: gu
+take: ǁxe
+that: ka
+that: ši
+there: ši
+they: sa
+they: sa
+they: sa
+they: siŋ
+they: siŋ
+think: ǂi͂ŋ
+thin: ǀkwi
+this: e
+this: eːa
+this: eːya
+thou: a
+thou: aː
+thou: i
+thou: i
+thou: isa
+thou: ma
+three: ǃkao
+throat: dɔm
+throw: ǃnúa
+tie: ǁi͂ŋ
+tie: ǃkheː
+today: kʌm a e
+today: ǀkʌm a ǁnaǁna
+tomorrow: ǀkʌm a  e ǁkhe
+tongue: tɛni
+tongue: tɛri
+tooth: tsau
+tree: ǃkaŋ
+tree: ǃka͂u͂
+turn: debi
+two: sa
+two: tsa
+vomit: tsu
+walk: ǂhau
+walk: ǃkaː
+walk: ǃku
+walk: u
+warm: kwi
+warm: ǂxaŋ
+wash: ǁka
+water: ǁguː
+weep: čiŋ
+weep: ǀgaa ǁgu
+we (excl.): e
+we (excl.): e
+we (excl.): m
+we (excl.): msa
+we (excl.): si
+we (excl.): šiši
+we (excl.): šiši
+we (incl.): e
+we (incl.): e
+we (incl.): e
+we (incl.): e
+we (incl.): e˗sa
+we (incl.): e˗sa
+we (incl.): hm
+we (incl.): hm
+we (incl.): i
+we (incl.): i
+wet: čaː
+wet: čiː
+what: tsa˗de
+where: ˗de
+where: ˗te
+white: ǃk\ao
+who: ǃku͂˗de
+wife: dzau
+wife: zau
+wind: ǂa͂ː
+wipe: ǂku
+with: kwe
+with: sa
+woman: de
+woman: zau
+woman: ǯau
+wood: ǃkaŋ
+wood: ǃkhe
+yellow: ǀkaŋ
+yesterday: ǀguwa
+yesterday: ǀkʌma ǀguwa

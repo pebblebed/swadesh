@@ -1,0 +1,59 @@
+blood: naaemá
+breast: náámma
+brother: ábá\à
+brother: awaaóma
+cloud: konnámmá
+cloud: kunnomimá
+come: (y)iyo
+daughter: ayáamûmma
+dog: iyámmá
+ear: áá\a
+ear: ááraramma
+earth: maramá
+father: aboámá
+fat (n.): ainómma
+fat (n.): matewémma
+fire: ira´má
+fruit: arammá
+hand: ayáá-mma
+head: a\nómma
+he/she: -ay
+he/she: -i
+he/she: wemá
+house: nammá
+husband: awai\á
+I: -un
+knee: araayummá
+liver: árumma
+louse: nûmma
+man: waamá
+man: wáátigoma
+meat: ama\á
+mother: a-´nówa-ma
+name: awî\a
+nose: ai\á
+one: mô´rá-mà
+person: wáátigoma
+rain: aa\á
+road: aammá
+root: ánû\a
+say: tiyo
+seed: ayu-mmá
+shoulder: á-bû-mma
+smoke: úmú-mma
+tail: améráa-mma
+that: minná-ma
+they: -a
+they two: -ay
+thigh: árû\a
+this: maanná-ma
+thou: -an
+tongue: amáabî-ma
+tree: yaa-má
+water: nommá
+we two: -uy
+we: -un
+wife: ánáa\a
+wind: uwáá-ma
+you: -a
+you two: -ay

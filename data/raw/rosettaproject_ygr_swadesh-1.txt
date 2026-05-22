@@ -1,0 +1,206 @@
+all: vukiʔ
+arrow: aleiya
+arrow: hali
+ashes: ladeva
+back: (a)ke(ta)
+back: gelega
+bad: feipa
+bark: gavuda
+belly: (e)ipa
+big: legepa
+big: sipi
+bird: nama
+bite: (no)hae
+black: haniʔ
+black: nupa
+blood: gola(na)
+bone: (a)pi(va)
+boy: bade
+breast: du(na)
+brother: e(ʔa)go(ʔa)
+burn: (noʔ)le
+child: hinapu(na)
+chin: (a)vetata(pa)
+chin: meta
+claw: (a)ginogo
+cloud: hiya(na)
+cold: getipana
+cold: lani(taniʔna)
+cold: yasiʔ (nosie)
+come: (noʔ) e
+day: ute(na)
+die: (no)fili(e)
+dog: gala
+drink: (no)de
+dry: hou
+dry: (noʔ)vei(e)
+ear: (a)geta
+earth: igopa
+eat: (no)de
+egg: mu(na)
+elbow: (anita) ou(ʔa)
+emu: manani(na)
+eye: (o)ulega
+fall: (a)go(ʔno)tavei(e)
+father: avo(ʔa)
+fat (n.): agusa
+fat (n.): vaʔa
+feather: (a)olegeva
+finger: boto(ʔa)
+fire: hali
+fish: faya(na)
+fly (v.): (noʔ)hale
+foot: (e)iya
+forehead: guita
+forehead: hani
+full: beida gilipaedae
+full: havei(ʔno)te
+girl: abade
+give: (noʔa)mi(e)
+good: ho
+good: soko
+green: eigava(koʔ)
+green: gavu haeya
+green: yava haeya
+hair: (a)olegeva
+hand: (a)nita
+head: (a)genopa
+head: leta(ʔamo)
+hear: (no)havi(e)
+heart: (a)lutumopa
+heavy: gata (nosie)
+he/she: a(gaea)
+he/she: -i
+hit: (no)begi(e)
+horn: lokia
+house: yo(na)
+I: da(gaea)
+I: -u
+kill: begi(na nofilie)
+knee: (a)leta
+know: havi(die)
+laugh: gigi (nosie)
+leaf: haeya
+leaf: zavasa
+leg: (e)iya
+lie: (noʔ)hae
+liver: hou(na)
+long: yatalaʔ
+louse: namaʔ
+man: ve
+many: gotayana
+many: laʔ
+many: soleʔ
+meat: me
+moon: gei
+morning: dete(na)
+mother: i(ʔi)la(ʔa)
+mother: ita(ʔna)
+mountain: ae
+mountain: moa
+mouth: haeyapa
+mouth: hamota
+name: (a)gi
+neck: (a)gunupa
+new: eigava
+new: souva
+night: hani(na)
+not: aʔ-
+not: eʔe
+old: gosu(ta)
+old: itene
+old: lopa
+old: tava
+one: bogo
+person: de
+person: yale
+rain: go(na)
+rat: hamu
+red: gitumaʔ
+red: gola(koʔ)
+red: loteʔ
+road: gi(na)
+root: havu
+root: savuta
+round: bonuʔ
+round: vego
+sand: gahaepa
+sand: gipa
+sand: hagaepa
+say: hu(die)
+seed: eita
+see: (noʔa)ge
+short: hogo
+short: ou(pa)
+shoulder: (a)gida
+sister: sa(ʔa)
+sit: (igopaloʔ no)bei(e)
+skin: (o)uva
+sleep: (o)uʔ (noʔ)hae
+small: havana
+smoke: halita
+snake: bakisave
+snake: givolote
+spit: gatu (nosie)
+spit: gugo (noʔhae)
+stand: he(ʔno)ti(e)
+star: ganevi
+stone: yava(na)
+sun: yege
+swim: dagosa (noʔeie)
+tail: eigota
+that: aʔi
+that: aiʔna
+that: na(ʔi)
+they: -a
+they: pa(gaea)
+they two: -a\
+they two: paʔa(gaea)
+they two: ta(gaea)
+this: ma(ʔi)
+thou: -an
+thou: ga(gaea)
+thou: lapa(gaea)
+thou: pa(gaea)
+three: loleʔeʔ bogoʔeʔ
+tomorrow: ega
+tongue: nevuda
+tooth: haeyapa
+tree: yava
+two: lole
+walk: dugu(dugu nosie)
+walk: gupa (noʔeie)
+walk: (no)humon(ie)
+wallaby: esa
+warm: buko
+water: ni(na)
+we: la(gaea)
+wet: vala(valaʔ)
+we two (incl.): laʔa(gaea)
+we two: -u\
+we: -un
+what: da(ʔana)
+what: heipaʔ (ouva)
+when: dakana(viʔ)
+when: heipaʔ (vitane)
+where: heipa(toʔ)
+white: efeʔ
+white: fai(paiʔna)
+white: vaye(vayena)
+who: ga(ʔa)
+who: nala(ʔa)
+wind: yasi
+wing: haku
+woman: a(na)
+wood: fasuta
+wood: gatora
+wood: gave
+yellow: egevu
+yellow: gadipa
+yellow: gamoluʔ
+yes: he
+yesterday: ega
+you: -a
+you two: -a\
+you two: lata(gaea)
+you two: paʔa(gaea)

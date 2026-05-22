@@ -1,0 +1,347 @@
+all: tugus
+and: kat
+back: hevuk
+back: sae
+bad: ker
+bad: ker
+big: laut
+big: laut
+big: lautar
+bird: ngeining
+bird: ŋieniːŋ
+bite: elat
+bite: ngarep
+black: katou
+black: katvur
+blood: kabarak
+blood: ngindiel
+blood: sindiel
+blood: yindiel ~ sindiel
+blow: hu
+blow: huː huhu
+bone: soi/sugi
+branch: kha
+branch: kha
+brother: luː
+brother: lu/-k
+brother: nopia/nopik
+burn: hot
+child: kalyie ~ kalsie
+child: lsie/gunes
+child: s
+cold: ruru
+cold: ruːru
+come: pis/pagis
+dark: sluk
+day: kolkha
+day: kolkha
+die: ngeynkua/inkual
+die: yur
+dig: egus
+dig: eguːs ~ eguguːs
+dig: kil
+dig: kil
+dig: peyk
+dog: guela
+dog: guela
+drink: eivie
+dry: golgol
+dry: vuir
+dust: ngaur
+ear: ela
+ear: ng-ela
+ear: ŋela
+earth: kvak
+earth: mie
+eat: em
+eat: ɛːm
+egg: kohek ~ khek
+egg: ko(h)ek/kok
+eye: kiːek
+eye: kiek/kieruk
+face: kalvon
+fall: vut
+far: hagenmok
+father: tit/t.tik
+fat (n.): psin
+fear: gur
+fear: gur ~ guguːr
+feather: kmeneng
+feather: kmeneŋ
+fingernail: paga
+fingernail: pagaː
+finger: smigi
+finger: smiːgi
+fire: pui
+fire: pui
+fish: silang
+fish: silaŋ
+fish: singol
+five: gitiek
+flower: ngeyhi/reyhi
+fly (v.): vo
+fog: kopui
+fog: kopui
+foot: kan-har
+foot: nhar
+foot: nhar
+foot: pun
+forest: tuningmok
+four: korlolo
+fruit: mit/miel
+fruit: mitol
+give: klang
+give: tuk
+good: ia
+good: sim
+good: sim
+good: sma
+grass: muk
+grass: muk
+green: et
+green: ngetor/ngetui
+hair: ŋeiriːs
+hair: ngeiris/ir
+hand: ktiek
+head: lpek
+head: lpek
+hear: ŋnik ~ ŋoŋnik
+heart: ngaung
+heavy: vanker
+here: mo
+here: moː
+here: ŋati
+he/she: en
+he/she: en
+he/she: en
+he/she: ka
+he/she: ka
+he/she: ka
+he/she: ta
+he/she: ta
+he/she: ta
+hit: hagie
+hit: k(aus)
+hit: osp(um)
+hit: pu
+hole: nhoː
+hole: nho/-tur
+hole: paːmok
+house: ŋaulu
+house: ngaulu/ulmaik
+house: rik/-tur
+I: kua
+I: kua
+I: kua
+I: kua
+I: nduk
+I: nduk
+kill: kei
+know: mnor
+know: mnur
+know: ngan
+know: pat
+laugh: hala
+laugh: hala
+leaf: mier
+leaf: mir
+lie: kru
+lie: kru ~ kurkru
+live: ktal
+long: hog-or
+long: hok
+long: hok-
+louse: morek
+man: ngokol/aurokol
+many: ring
+many: vu
+moon: kienho
+mother: naːm
+mother: n.an/n.nik
+mountain: vul
+mountain: vuːl
+mouth: gu/gnurik
+name: munik
+near: hamo
+near: hamoː
+near: kanmok
+near: kanmok
+neck: ngoru
+new: vun.ngar
+night: nikier
+night: nikieːr
+night: seyin
+night: vuleːmas
+nose: vorn.gap
+old: lautar
+one: tiang
+one: tiːaŋ
+person: mhad/mea
+person: mhel
+rain: keirik
+rain: kus
+rat: pkor
+rat: pkor/vukrul
+rat: vogor
+red: svel
+ripe: vului
+ripe: vulur
+road: ngoi/nghek
+road: ŋoy
+rotten: lpus
+rotten: ngha
+rub: hem
+sand: vai
+say: mun
+say: reang
+say: rere
+sea: maw
+see: langtar
+see: nhoː
+see: nhoŋ
+see: nho/vuoko
+sharp: tav-ha
+short: kunur
+short: vghon
+shoulder: vorlha
+shoulder: vorlha
+sing: kni
+sing: koni
+sing: koni ~ kni
+sister: etim/otmik
+sit: kar/kur
+sit: orsang
+skin: ptayk
+skin: ptayk/ptek
+sleep: onit
+sleep: oniːt ~ oniniːt
+small: ke
+smell: giri
+smell: giriː
+smell: mmi
+smell: ŋti ~ ŋiŋti
+smooth: koros
+snake: vim
+snake: vim
+son: hal
+split: uomiːnik
+split: vumin oumimin
+squeeze: kir ~ kikir
+stand: hop
+stand: sir
+stone: kori
+stone: kori
+stone: vik
+sun: kolkha
+sweet: mogoi
+swell: vuniŋ
+take: kpum
+take: kul
+they: mar
+they: mina
+they: nga
+they: nga
+they: ŋa
+they: ŋar ~ ŋa
+they: nge
+they: ŋe
+they: nget
+they: ngina
+they: ngio
+they: ta
+they two: min
+they two: min
+they two: min
+they two: min
+they two: mina ~ ŋina ~ ŋin
+they two: mina ~ ŋina ~ ŋin
+they two: min ~ ŋin
+they two: min ~ ŋin
+they two: ngin
+thigh: kha
+think: pat
+thin: pelpel
+thin: pelpel
+thou: i
+thou: i-
+thou: ia
+thou: ila
+thou: iːla
+thou: in
+thou: iːn
+thou: muk
+thou: mula
+thou: mu ~ mug
+thou: ya ~ yi ~ si
+three: korlotige
+tie: kting
+tie: ktiŋ ~ kitkitiŋ
+tie: owsie
+today: nanga
+today: naŋaː
+tomorrow: ngamo
+tomorrow: ŋamoː
+tongue: naperei
+tooth: mulker
+tooth: onker
+tree: hoː
+tree: ho/hi
+two: lo
+two: loː
+two: lomin ~ lor
+walk: ngoi
+warm: kuk
+warm: kukar
+warm: kupit
+warm: kupit
+wash: orop
+wash: orop
+wash: orop ororop
+wash: oror
+wash: oroːr
+water: si
+water: yi ~ si
+water: yi/tuk
+we: a
+weep: eːti
+weep: keti
+we: ma
+we: mur
+we: ŋo
+we: ngoa
+we: ŋur ~ ŋu
+wet: pas
+wet: si
+we two (incl.): ma
+we two (incl.): mo ~ mu
+we two (incl.): mo ~ mu
+we two (incl.): mua
+we two (incl.): mua
+we two: mo
+we two: mua
+we: ut
+what: nie
+what: ninya
+what: nya
+where: tam
+white: ilei
+who: erie
+wing: ŋehaw
+woman: blom
+woman: vlom/reip
+yellow: songor
+yellow: yoŋor ~ soŋor
+yesterday: namo
+yesterday: namoː
+you: mea
+you: mu(g)
+you: muk
+you: mula
+you two: meːa
+you two: meːa
+you two: mi
+you two: mi ~ meːa
+you two: mi ~ meːa
+you two: mui
+you two: mui
+you two: mui

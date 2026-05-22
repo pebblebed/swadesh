@@ -1,0 +1,183 @@
+all: ko-si, koosi
+and: -emsi
+animal: hoore-mos
+ashes: pontet
+back: haawech
+bad: kim
+bark: -rkwech
+because: -ohlkumi, mewishtu
+belly: tektey, -yah
+big: plr-ryrk, peloyek-, plepek, pelihl
+bird: ch-uch-ish
+bite: cheykumek-
+black: lr-rgryrk-,  lo-ogeronok-, lo-ogeyowok-
+blow: mewechek-, pr-rh
+bone: -wrhlkr-
+breast: kekwonootek-
+breathe: suwepek-
+burn: tye-wolok, lo-opek
+child: huuk, huuksoh
+cloud: leptenok
+cold: saawonek-
+come: wenok-, neskwechok-
+count: chkem
+cut: tekwsok-
+day: kechoyhl
+die: mulowok-, merkewechek-, moykek-
+dig: lekwtemehlek-
+dirty: hlkelomoyek-
+dog: megokw, ch-ishah
+drink: -ahspek-, rekwoh
+dry: che-loyek-
+dull: sweykemoyek-
+dust: prnchrch
+ear: chpega-r
+earth: hlkehl
+eat: nepek-
+egg: -wryhl
+eye: =lin
+fall: toomoo
+far: chpaanikek-
+father: =psech, totos
+fat (n.): welogoo
+fear: hlmeyorkwok-
+feather: re-noh
+fight: pelomoyek-, pelomewpeyok-
+fingernail: ska-atew
+fire: mech
+fish: nepe-wish
+float: weno-monew
+flower: chiishep
+flow: meworoyek-
+fly (v.): solek-,  soonolek-, nohsolek-
+fog: mo-ohpir
+foot: =chkah
+four: cho-onemi, choona-mi
+freeze: menek, menekoletkok-
+full: kohchewehl
+give: nahchek-, nahchpumek-
+good: skuyahpelek-,skuyepek-
+grass: -rrwrh
+guts: -wa-alox
+hair: -leptoyhl
+hand: chewes
+head: mohlkwoh
+hear: ko-moyok-
+heart: chekws
+heavy: pke-yelek-
+hit: kohtoolishok, maawetek-
+hold: -ekonepek-, -ekoh
+horn: s-echoh
+husband: =nos
+if: -ep-ehl
+I: ne-
+in: himech
+knee: rkrhl
+know: komchumek-
+laugh: hahkwsek-
+leaf: kaap-
+left: =kesomewet
+leg: mihlpehl
+lie: -oyhlkesek-, -oolinek-
+live: hewolochek-, hewechek-
+liver: -wrhlkun
+long: no-omelek-
+louse: mohkoh
+man: pegrk
+many: tenekomoyek-,  tenok-
+meat: nrprw
+moon: wonewsleg
+mother: =chekos, kokos
+mountain: mrkwrhl
+mouth: =luhl
+name: =hew, wegenoyek-
+narrow: cheykoksek-
+near: neskweni, neskwi
+neck: pahtun
+new: cha-anar
+night: nahschewen
+nose: =hrp-r-n
+old: mewimor, perey
+one: kohchi
+other: naa-nik
+person: -oohl
+play: pyurkerek-
+pull: menoochek-, menootek-
+push: myootek-
+rain: tenpewehl=,
+red: prkryr-ryrk-, prkryrh; pekoyeronok-
+right: -nekomewet
+river: laayoh, -umewoo
+road: laayekw, laas
+root: -wrhlpitrk
+rope: weskwelekws
+rotten: plekwohlek-
+round: yrhprh
+rub: me-repinek-
+salt: pishkah
+sand: chaahl
+say: negoosoochek-, hegolek-, hegoomumek-
+scratch: sesomenoyek-, sesomenek-
+sea: pishkah
+seed: hoolehl
+see: newok-
+sew: kahchek-
+sharp: munipoyek-
+short: tkwepip-
+sing: rurowok-, nrrmryrk-
+sit: chek, chekcheyek-, chyuuk, chyuuk-wenek-
+skin: mr-rh
+sky: wes-onew, wes-onah
+sleep: chkeyek-
+small: chrykr-ry, cheykelek-, cheykekwonek, cheykoh
+smell: soono-molek-, swoo-melek-, swoometek-
+smoke: meraa
+smooth: skewi-ronok-,skewihlonok-
+snake: leyolekws, leyes
+snow: rorir
+some: maagin
+spit: ke-yolew
+split: pegohsok-, pegonek-, pegpegohsok-
+squeeze: yegohsok-
+stab: lekoosok-, lekootek-
+stand: -oolo-oh, -ooloopek-
+star: hogech
+stick: kowish
+stone: ha-aag
+straight: chewonemek-
+suck: newonek-
+sun: wonewsleg
+swell: nohsehl
+swim: raayurek-, rurek-, weno-omurek-
+tail: wrhlry
+there: kyus, kyu, kyu-n: yu-: wik
+thick: tkohpek-, tomikek-
+think: soosek-, soonosek-, soonoksek-
+thin: wrsryrk-
+this: wek, wit, we-y, wii-it
+three: nahksemi
+throw: rohsek-, lootek-
+tie: eketkwelek-
+tongue: =hiphl
+tooth: =rpehl
+tree: tepoo
+turn: yohpoh, yohpechok-
+two: nr-r-ryhl, niiyen, no-oh, nr-rpi-
+vomit: me-lomek-
+warm: hewomopek-
+wash: wesahchek-
+water: pa-ah
+wet: pa-ah
+what: tish, ti-in, ti-nishow, ti-ni
+when: kolchi
+where: kus
+white: muntr-ryrk-, munchoksek-, muncheyowok-, muncheronok-
+who: ti-now
+wide: plohlek-, ploolikek-
+wife: =hahpew
+wind: rookw
+wing: we-not
+wipe: mewolok
+woman: wenchokws
+year: loksihl=
+yellow: taanep, ti-npelah

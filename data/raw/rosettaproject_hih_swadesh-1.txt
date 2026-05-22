@@ -1,0 +1,414 @@
+arm: ape
+arm: apɛ
+ashes: fë:mu
+ashes: fʌːmu
+back: mote
+back: mɔtɛ
+bad: fi:wi
+bad: fiːwi
+belly: ula
+belly: ula
+belly: ulë lek
+belly: urʌ lɛk
+big: sepa
+big: sɛpa
+bird: muŋgʌ
+bird: munggë
+bite: -war-
+bite: -war-
+black: ulu
+black: ulu
+blood: më:wor
+blood: mʌːwor
+blow: fi ke-
+blow: fi ke-
+blow: fi ok-
+blow: fi ok-
+bone: kaneb
+bone: kɛnab
+boy: amun kele
+boy: amun kɛlɛ
+breast: me
+breast: mɛ
+brother: imaha
+brother: imaha
+brother: pëpe
+brother: pʌpɛ
+burn: ikum(os)-
+burn: ikum(os)-
+butterfly: munggë-kur
+butterfly: muŋgʌkur
+calf: munang
+calf: munaŋ
+cassowary: oizor
+chest: epe hasol
+chest: ɛpɛ hasol
+child: sesa
+child: sɛsa
+chin: nanggupa
+chin: naŋgupa
+cloud: sepelak
+cloud: sɛpɛlak
+cold: pepul
+cold: pɛpul
+come: fuwu-
+come: fuwu-
+crocodile: ësë
+crocodile: ʌsʌ
+cut: ikow-
+cut: ikow-
+cut: peland-
+cut: pɛland-
+day: etët
+day: siruene
+day: siruɛnɛ
+day: ulenenine
+day: ulɛneninɛ
+die: umomb-
+dig: olub im-
+dig: olub im-
+dig: ya mundos-
+dig: ya mundos-
+dirty: sinambulum
+dirty: sinambʷum
+dog: eman
+dog: ɛman
+dry: elelekewa
+dry: ɛlɛlɛkɛwa
+ear: pika
+ear: pika
+earth: ahup
+earth: ahup
+eat: anomb ekam-
+eat: onom-
+eat: onom-
+egg: munang
+egg: munaŋ
+elbow: baun
+elbow: baun
+emu: oizor
+excrement: ipu
+eye: eleha
+eye: ɛlɛha
+face: mesipi keneng
+face: mɛsipi kɛnɛŋ
+fall: oh-
+fall: oh-
+fall: owi-
+fall: owi-
+fall: w-
+far: fë:lik
+far: fʌːlik
+far: fo:lëk
+far: foːlʌk
+father: inde
+father: indɛ
+fat (n.): ewël
+fat (n.): ɛwʌl
+fear: pipi yeha-
+fear: pipi yeha-
+few: së:rik
+few: sʌːrik
+fight: ɛwɛlal-
+fingernail: inggen
+fingernail: iŋgɛn
+finger: unent
+finger: unɛnt
+fire: mundu
+fire: mundu
+fish: milële
+fish: milʌlɛ
+fly (n.): manggoonggor
+fly (n.): maŋgooŋgor
+fly (v.): fëwop yowi-
+fly (v.): fʌwop yowi-
+fog: sombe
+fog: sombɛ
+forest: membak
+forest: mɛmbak
+fruit: luha
+fruit: luha
+full: tetiwok
+full: tɛtiwok
+full: un-
+full: un-
+girl: epoib duang
+girl: ɛpoib duaŋ
+give: -is-
+give: -is-/-us-
+good: eliwe
+good: ɛliwɛ
+grass: sewab
+green: nomu
+green: nomu
+guts: ulë lek
+guts: urʌ lɛk
+hair: imi
+hair: imi
+head: anginggen
+head: aŋiŋgɛn
+head: mende kumu
+hear: -fruk oe-
+hear: -fruk ow-
+heart: kema
+heart: kɛma
+heavy: pi:nënt
+heavy: piːnʌnt
+here: oßo
+here: ovo
+he/she: eye
+he/she: ɛyɛ
+he/she: ɛyɛ
+he/she: ø-
+hit: ewelal-
+hit: ewelal-
+hold: apih-
+hold: apih-
+house: tuël
+house: tuʌl
+how: kemendia
+I: ina-
+I: ina-
+in: kambangane
+I: ye
+I: yɛ
+knee: baun
+knee: baun
+laugh: iramos-
+laugh: iramos-
+left: faik
+left: faik
+leg: ë:ne
+leg: ʌːnɛ
+lightning: melelek ewi-
+lightning: mɛlɛlɛk ɛwi-
+liver: pëluha
+liver: pʰʌluha
+long: suën
+long: suʌn
+louse: nandi
+louse: nandi
+man: mënde amun
+man: mʌndɛ amun
+man: molohon
+man: molohon
+many: ipët
+many: ipʌt
+meat: sanggi
+meat: saŋgi
+moon: nëyohob
+moon: nʌyohob
+morning: nokowete
+morning: nokowɛtɛ
+morning: umeina
+morning: umɛina
+mosquito: masen
+mosquito: masɛn
+mother: umbe
+mother: umbɛ
+mountain: tëeleha
+mountain: tʌeleha
+mouth: pëmasu
+mouth: pʌmasu
+name: unim
+name: unim
+nape: uma kapa
+nape: uma kapa
+navel: ulëtot
+navel: ulʌtɔt
+near: tonang
+near: tonaŋ
+neck: mundu kupa
+neck: mundu kupa
+new: moning
+new: moniŋ
+night: fësusu
+night: fʌsuru
+nose: mesipik
+not: waik
+not: waik
+old: mande fiwi
+old: mande sepa
+old: mandɛ sɛpa
+old: ohim
+old: ohim
+one: tuku
+one: tuku
+pull: muß-
+pull: muv-
+push: yapih-
+push: yapih-
+rain: sepik
+rain: sɛpik
+rat: akineng
+rat: akinɛŋ
+red: etët
+red: ɛtʌt
+right: ëte
+right: ʌtɛ
+ripe: pilip
+ripe: pʰilip
+road: elehe
+road: elehɛ
+root: turu
+root: turu
+rope: kindʌr
+salt: iwe:l
+salt: iwɛːl
+sand: iwel selew
+sand: iwɛl sɛlɛw
+say: -moho pokal-
+say: -moho pokal-
+say: pokal-
+say: pokal-
+scratch: neming unat-
+scratch: nɛmiŋ unat-
+sea: iwel opet
+sea: iwɛl opɛt
+see: ek-
+see: -wek-
+see: -wɛk-
+see: -wok-
+see: -wok-
+sharp: ewela
+sharp: pa-
+short: tuhub
+shoulder: kukupʌ
+shoulder: kukupë
+sing: itu wae-
+sister: ima hɛpiop
+sister: weip
+sister: weip
+sit: puk(emi)-
+sit: puk(ɛmi)
+skin: fuku
+skin: fuku
+sky: faula
+sky: faula
+sleep: in-
+sleep: in-
+small: musim
+small: musim
+smell: itupih-
+smoke: këwuk
+smoke: kʌwuk
+snake: tëkul
+snake: tʌkul
+spit: epehëk
+spit: ɛpɛhʌk
+spit: ŋgoha-
+split: emand-
+split: ɛmand-
+stand: otop ikw-
+stand: pahët-
+stand: pahʌt-
+star: sepena
+star: sɛpɛna
+stick: yoë
+stone: nome
+stone: nomɛ
+straight: gonggon
+straight: goŋgon
+sun: më:li
+sun: mʌːli
+swell: boun il-
+swell: boun il-
+tail: elep
+tail: ɛlɛp
+tail: imbueleb
+tail: imbuɛlɛb
+take: owo-
+take: owo-
+that: eino
+that: ɛino
+there: eye
+there: eyɛ
+they: mande
+they: ø-
+thigh: nggubu
+thigh: ŋgubu
+this: ono
+this: ono
+thou: na-
+thou: na-
+thou: na-
+thou: ne
+thou: nɛ
+thou: niŋgɛ
+throat: uramu genap
+throat: uramu genap
+throw: mah itiw-
+throw: mah itiw-
+thunder: sepelak orop-
+thunder: sɛpelak orop-
+tie: kasu p-
+tie: kasu p-
+tomorrow: fue:mine
+tomorrow: supine
+tomorrow: supinɛ
+tongue: mindëk
+tongue: mindʌk
+tooth: nanggepeha
+tooth: naŋgɛpɛha
+tree: ɛna
+tree: nʌ
+tree: në
+tree: utu
+turn: kiki fuwi-
+turn: kiki fuwi-
+two: ilob
+two: ilob
+vagina: upe
+vagina: upɛ
+vomit: mɛlilɛw-
+walk: bumbuɛp ah-
+walk: (e)y-
+walk: (e)y-
+walk: itiw-
+walk: itiw-
+wallaby: mimba
+wallaby: mimba
+warm: ëlowë
+warm: ʌlowʌ
+wash: opet is-
+wash: opɛt is-
+wash: -sewi-ma-
+wash: -sɛwi-ma-
+water: opet
+water: opɛt
+weep: um-
+weep: um-
+we: ike
+we: ikɛ
+wet: pepul
+wet: pɛpul
+we: ya-
+we: ya-
+what: mea(ya)
+what: mea(ya)
+where: kono
+where: kono
+white: fuʌ
+white: fuë
+who: aya
+who: aya
+wind: opi:nom
+wind: opiːnom
+wing: menggël
+wing: mɛŋgʌl
+woman: mënde epiop
+woman: mʌndɛ ɛpiop
+woman: unend
+woman: unɛnd
+wood: (ng)ena
+wood: (ŋ)ɛna
+wood: yoʌ
+yellow: ënib
+yellow: ʌnib
+yes: e:
+yes: ɛː
+yesterday: omër
+yesterday: oninong
+yesterday: oninoŋ
+you: na-
+you: ningge

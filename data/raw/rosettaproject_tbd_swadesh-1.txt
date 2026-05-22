@@ -1,0 +1,476 @@
+all: himiri
+all: himiri
+all: himiri
+ankle: φɛrɑ oko
+arm: upu
+arm: upu
+arm: upu
+arrow: hɑisɑ
+arrow: kɑipɛʔɑ
+arrow: φɑiɑ
+ashes: umu
+ashes: umu
+ashes: umu
+back: ɑpɑ
+bad: φɛhɑrɑ
+bark: bɛrɑʔɑ
+bark: oporo ruru
+bark: oporo ruru
+belly: here
+belly: here
+belly: hɛrɛ
+big: hiʔibila
+big: hiʔißira
+big: hi\ivila
+big: ßorißori
+bird: mini
+bird: mini
+bird: mini
+bite: nanamu\e
+bite: nanamuʔe
+bite: nɑnɑmu
+black: ɛporɛ
+black: mela epore
+black: mela epore
+blood: ißare
+blood: ißɑrɛ
+blood: ivare
+bone: uki
+bone: uki
+bone: uki
+boy: mono
+breast: ame
+breast: ame
+breast: ɑmɛ
+brother: ɑhɑrɑ
+brother: mɑʔo
+brother: ororɑ
+burn: aiye\i
+burn: aiyeʔi iro-araha
+burn: i͂ʔi͂
+burn: iro-araha
+burn: ɑrɑ
+butterfly: ßɑʔußɑʔu
+calf: ɑimumu
+calf: uʔumɑ
+child: ɑpɑi
+child: pɑkɑʔu
+child: ɑuɑ
+chin: u
+claw: faha
+claw: inimu
+claw: φaha
+cloud: mene-uru
+cloud: mene-uru
+cloud: (mɛnɛ) uru
+cold: hɑhuʔu
+cold: ßelaʔakokoa
+cold: vela\akokoa
+come: mɑ
+come: mane
+come: mane
+crocodile: ɛnɑpɛ
+cut: ɛʔɛ
+cut: ɑhi
+cut: homɑ
+cut: hɑßɑ
+cut: ɑsi(ɑ)
+daughter: muru
+day: lafifi
+day: laiφuru
+day: laφiφi
+day: lɑrɛ
+die: liɑßɛʔi
+die: ma\a ha
+die: maʔa ha
+die: ßɑʔɑ
+dig: ɛ͂ʔɛ͂
+dog: ɛßɛrɑ
+dog: eßera
+dog: evera
+drink: haime muake
+drink: haime muake
+drink: muɑ
+dry: hɑrɑʔo
+dry: na\ora
+dry: naʔora
+ear: oɛ
+ear: o\i
+ear: oʔi
+earth: ßɛɑroßɑɛkɑ
+earth: tau auru
+earth: tau auru
+eat: muake
+eat: muake
+eat: nɑ
+eat: ɑsɛnɑ
+egg: mini numu
+egg: mini numu
+egg: mumu
+elbow: upu oko
+emu: lɑurɑ
+eye: ere
+eye: ere
+eye: ini
+fall: huru
+fall: isi
+far: ̞
+far: hɛkɑ
+father: nɑpɑrɑ
+fat (n.): melo
+fat (n.): melo
+fat (n.): mɛro
+fear: hɑuɑ
+feather: mini onomo
+feather: mini onomo
+feather: onomo
+few: hoi
+few: pirɑri
+finger: ɛkɛ
+finger: fera eke
+fingernail: inimu
+finger: norɑ
+finger: φihi
+fire: aiye\i
+fire: aiyeʔi
+fire: ɑiɛʔi
+fish: nane
+fish: nane
+fish: nɑnɛ
+five: upu okɑʔi
+fly (n.): ɑrɛpo
+fly (v.): ßuʔo
+fly (v.): u\oha
+fly (v.): uʔoha
+fog: orohɑßu
+foot: φɛrɑ
+forehead: mɑiɛnɑ
+forest: ɛpɑ
+full: fu\iha
+full: φuʔihɑ
+full: φuʔiha
+girl: moru
+girl: moru
+girl: muru
+give: ini
+give: ini\e
+give: iniʔe
+good: namaivo
+good: namaiya
+good: nɑmɑiɑ
+grass: loro
+green: mela o\u-o\u
+green: mela oʔu-oʔu
+green: oʔu
+guts: hɛrɛɑnɛ
+hair: onomo
+hair: onomo
+hair: onomo
+hair: pupurɑ
+hair: pupura
+hair: u\umo
+hair: uʔumo
+hair: uʔumo
+hand: upu
+hand: upu φɑhɑ
+head: aro
+head: aro
+head: aropure
+head: ɑro
+hear: moʔɛ
+hear: mo\e ha
+hear: moʔe ha
+hear: pɑuɑmoʔɛ
+heart: hohire
+heart: hohire
+heart: hohiri
+hear: ukuri
+heavy: mɛhɑu
+here: nɛʔɛ
+he/she: ɛrɑ
+he/she: ɛrɑro
+he/she: ɛrɑßɛrɛ
+hit: ɑmɑ
+hold: mɑri
+horn: keya
+horn: keya
+house: ɛ͂ɑ
+house: kɑu
+hunt: oʔorɛ
+husband: ɑnurɛ
+I: nao
+I: nao
+in: luɛ
+in: mɑ
+I: nɑo
+I: noßɛrɛ
+I: nɑro
+kill: auha
+kill: auha
+kill: ɑu
+knee: fera oko
+knee: φera oko
+knee: φɛrɑ oko
+know: orɛ
+know: ore ha
+know: ore ha
+laugh: ɑnɑ
+leaf: opurore
+leaf: opurore
+leaf: orɛ
+left: ɛɑni
+leg: fera
+leg: φɛrɑ
+leg: φera
+lie: dia
+lie: dia
+lip: anara poe
+liver: ahena
+liver: ahena
+liver: ɑhɛnɑ
+long: baieße
+long: baieve
+long: ßɛißɛi
+louse: ɑmuri
+louse: saruta
+louse: saruta
+man: aru
+man: aru
+man: ɑru
+many: himiri
+many: himiri
+many: himiri
+meat: haißaiʔime
+meat: haivai\ime
+meat: urɑrɑ
+moon: fuiya
+moon: φuiɑ
+moon: φuiya
+morning: ißiʔirɑ
+mosquito: iφiɑ
+mother: nɑorɑ
+mother: noura
+mountain: uo
+mountain: u\o
+mountain: uʔo
+mouth: anara
+mouth: anara
+mouth: ɑnɑrɑ
+name: iru
+name: iru
+name: uru
+nape: ɛhunɛ
+near: mɑimɑ
+neck: pani
+neck: pani
+neck: pɑni
+new: o\ela
+new: oʔela
+new: oɛra
+night: hoʔorɑ
+night: lafifi
+night: laφiφi
+night: lɑφiφi
+nose: no\i
+not: korɛʔɛɑ
+not: onɛ
+not: orɛ
+not: ore\ea
+not: oreʔea
+not: ßɑikɑ
+old: moɛɑ
+old: ɑni
+old: ɑßɑʔißori
+old: ɑʔußori
+one: oki
+one: okiao
+one: okiao
+person: arauru
+person: aru(aru)
+person: ɑruɑʔu
+pull: ßɛri
+pull: φɛrɛɑ
+push: homɑʔi
+rain: upɑ
+rain: upa
+rain: upa
+rat: haua
+rat: haua
+rat: hɑuɑ
+red: mela milo
+red: mela milo
+red: ßiro
+right: hɑunɛ
+ripe: kinɛ
+river: mai
+river: ßɑi
+road: kɛrɛʔɑ
+road: kere\a
+road: kereʔa
+root: mɛnɛ
+root: oporo mene
+root: oporo mene
+rotten: pulula
+round: lohoru
+rub: muhu
+sand: kekene
+sand: φae φoʔolo
+sand: φɑɛ
+say: eme lamu\e
+say: eme lamuʔe
+say: ɛßɛrɑ
+say: oʔi͂
+say: ɑuʔi
+seed: oharo puʔane
+seed: ohoro pu\ane
+seed: φuɑni
+see: ɛrɛɑ
+see: ere amu\e
+see: ere amuʔe
+short: ɑu
+shoulder: lɑro
+sister: maʔomuru
+sister: onɛrɑ
+sit: hɑʔuhɑßɛʔi
+sit: me\e
+sit: meʔe
+sit: ßɛʔi
+skin: bɛrɑʔɑ
+skin: hɑhɛ
+skin: mera\a
+skin: meraʔa
+sky: mɛnɛ
+sleep: diai enu
+sleep: diai enu
+sleep: li
+small: iʔi
+small: pakaʔu
+small: paka\u/pa upakau\u
+small: pɑkɑʔu
+small: φihi
+smoke: aive\iuma
+smoke: aiyeʔi-uma
+smoke: umɑ
+snake: mɛmɛrɛ
+son: mono
+spit: hɑʔuɛhumo
+spit: ɑino
+stand: lɛɑ
+stand: u\eke
+stand: uʔeke
+star: bihuʔu
+star: mihuhu
+star: mihuhu
+stone: ere
+stone: ere
+stone: ɛrɛ
+straight: hɑukɑ
+straight: noʔɑ
+sun: lare
+sun: lare
+sun: lɑrɛ
+swim: a\aka
+swim: aʔaka
+swim: lɛou
+tail: ororɑ
+tail: orora
+tail: orora
+take: ɑʔɑ
+take: oʔɑɛ
+that: ɛ͂ʔɑ
+that: e\a
+that: eʔa
+that: ßɛhɛʔɑ
+there: ɛ͂ɑʔɛhɛʔɑ
+there: ɛhɛ
+they: ɛrɑhɛ
+they: ɛrɑhɛßɛrɛ
+they: ɛrɑhoro
+they two: a\ura
+thigh: hɑurɑiɑ
+think: lɑʔɑ
+this: nɛʔɛ
+this: ne/ea
+this: neʔea
+thou: aro
+thou: aro
+thou: ɑo
+thou: oßɛrɛ
+thou: oφɛ
+thou: oφɛßɛrɛ
+thou: oφoro
+thou: ɑro
+three: u͂ʔu͂ka oki
+throat: pokoʔu
+throw: ɑri
+tie: moʔorɛɑ
+today: ɑikɑʔu
+tomorrow: paniʔila lare
+tomorrow: paniíla lare
+tomorrow: pɑniʔirɑ
+tongue: anara
+tongue: anara
+tongue: mɑiɑnɑ
+tooth: hu\u
+tooth: huʔu
+tooth: huʔu
+tree: ohɑro
+tree: oporo
+tree: oporo
+turn: ɛro
+two: u͂ʔu͂ka
+two: u\ungka
+two: uʔuruŋka
+unripe: kɑorɑ
+walk: ɑʔɛ
+walk: name mueha
+walk: naume mueha
+walk: onɑ
+walk: uriri
+wallaby: haßadu
+wallaby: havadu
+wallaby: hɑßɑro
+warm: hɑhɛʔɑ
+warm: hɑhɛʔɑ
+warm: oro\oro
+warm: oroʔoro
+water: haime
+water: haime
+water: ɑimɛ
+weep: pɑuɑ
+we (incl.): aufena
+we (incl.): auφena nura
+we (incl.): nura
+we: nuro
+we: nußɛrɛ
+we: nuʔu
+wet: φɑiʔɑφɑiʔɑ
+what: enena\i
+what: enenaʔi
+what: ɛnɛnɑʔi
+what: ɛnɑʔi
+when: ɛnɑhɑʔu
+where: kɑʔɑ-mɑ
+white: ɛʔɛro
+white: mela e\elo
+white: mela eʔelo
+who: naiforo
+who: naiφoro
+who: nɑɛro
+wind: bɛʔo
+wing: ßɑho
+woman: a\u
+woman: aʔu
+woman: ɑ͂ʔu
+wood: oporo
+wood: oporo
+wood: uri
+year: sioro
+yellow: mela nano
+yellow: mela nano
+yellow: nɑno
+yes: ɛ0hɛ͂
+yesterday: lafi lare
+yesterday: laφi lare
+yesterday: lɑφi
+you two: a\ura

@@ -1,0 +1,137 @@
+arm: yer
+arm: yer
+bad: hok bo
+bad: hok bo
+belly: han
+belly: han
+bird: yah
+bird: yah
+black: kor
+black: kor
+blood: noh
+blood: noh
+bone: rubwi
+bone: rubwi
+breast: muk
+breast: muk
+child: yon
+child: yon
+chin: yëg
+chin: yəg
+come: yow
+come: yow
+dog: wal
+dog: wal
+ear: mam
+ear: mam
+earth: salbak
+earth: sal-bak
+eat: mbe
+eat: mbɛ
+eye: li
+eye: li ~ ri
+father: dadi
+father: dadi
+fat (n.): kwal
+fire: kur
+fire: kur
+give: nuw
+give: nuw
+good: mëwlbi
+good: məwlbi
+hand: yer
+hand: yer
+head: towam
+head: towam
+he/she: tar
+he/she: te
+he/she: te/tar
+he/she: ye
+he/she: ye/te
+he/she: yor
+he/she: yor/tar
+I: nai/se
+I: nay
+I: se
+I: se
+leg: su
+leg: su
+louse: tetak
+louse: tetak
+man: tam
+man: ta-m
+moon: luh
+moon: luh
+mother: nesa
+mother: nesa
+nose: boling
+rain: mey
+rain: mey
+red: mih
+red: mih
+see: le
+see: le
+skin: mbe
+skin: mbe
+smoke: ubo
+smoke: ubo
+snake: mëmt
+star: ndow
+star: ndow
+stone: moŋg ~ noŋg
+stone: nongg
+sun: yam
+sun: yam
+they: to-h/to-r
+they: tor
+they two: tox
+they two: yo-h
+they two: yox
+they: yo-r
+they: your
+thou: ni
+thou: ni
+thou: ni
+thou: ni/tay
+thou: ni/ti
+thou: nom
+thou: tay
+thou: tay
+thou: tay/ti
+thou: ti
+thou: ti
+thou: tom
+tongue: taliyen
+tongue: taliyen
+tooth: ndël
+tooth: ndəl
+tree: mbotom
+tree: mbotom
+two: nwis
+two: nwis
+walk: wunil
+walk: wunil
+water: yëk
+water: yək
+water: yok
+water: yɔk
+we: nonnon
+we: no-n/so-n
+we: son
+we: so-n/so-nd
+we two (incl.): nond
+we two (incl.): sond
+we two: no-nd/so-nd
+what: alen
+what: aren
+white: wur
+white: wur
+wind: hëkwit
+wind: həkwit
+woman: taw
+woman: taw
+you: no-m/to-m
+you: to-m/to-h
+you two: no-h/to-h
+you two: nox
+you two: tox

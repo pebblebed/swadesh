@@ -1,0 +1,121 @@
+ashes: nugu
+bad: ganiːna
+belly: bin̪d̪i
+big: biraga
+bird: buɟan
+blood: ɟaraːli
+child: buray
+child: guɟaːga
+child: waraɲ
+cold: guyudu
+dog: miriga(ŋ)
+ear: guri
+earth: bəgan
+earth: guraːd
+egg: gəbaːnu(ŋ)
+emu: məriya
+eye: mabura
+father: baŋa
+fat (n.): byuwan
+fear: ɟa(ː)ndəna
+fire: gaɲi
+fish: buŋga
+fish: mara
+foot: d̪ana
+girl: miga
+good: ɟamaga
+hair: ɟawər
+hand: mana
+head: gəbəːnu(ŋ)
+he/she: -(a)n
+he/she: -nu
+I: -(a)ga
+I: -d̪uga
+I: -iŋga
+I: ŋayaga
+I: ŋayagaɲɟi
+kangaroo: buru
+lip: wiliŋ
+louse: miyaː(w)di
+louse: mula
+many: ganagəraːn
+man: yuwiɲ
+meat: man(d)iɟaŋ
+meat: ŋali
+moon: dawara
+moon: gəlaː
+mother: miŋa
+mountain: naɟənuga
+mouth: wiliŋ
+nape: garun
+neck: ŋaniŋ
+one: mi(r)dən̪d̪al
+person: yuwiɲ
+rain: bana
+rat: bugla(ŋ)
+river: bəda
+river: bəda
+sea: gad̪u
+sea: ŋaruwan
+skin: wa(r)d̪u
+smell: nundan
+smoke: duruwa
+smoke: gaːndi
+snake: gari
+star: ɟiŋgi
+stone: bura
+sun: bagəriɲ
+sweet: guwaːŋgal
+that: ɲin
+that: ɲun
+they: -(a)raga
+they: -in
+they: -ŋad̪an ~ ŋaɟan
+they two: -awara
+they two: -umbul
+they two: -uwara
+thigh: bunda(ɟa)
+this: ɟin
+thou: -(a)n
+thou: -(a)ni
+thou: ɲindiga
+thou: ɲindigaɲɟi
+thou: ɲindiwan
+thou: -n̪d̪ur
+thou: -un̪d̪ur
+thunder: miribi
+today: naway
+tomorrow: buraːɟa
+tooth: yira
+tree: bunbal
+two: məŋəndawara
+vagina: gala
+wallaby: baraːl
+wallaby: bud̪aːlima
+water: ŋaɟu
+we (excl.): -(a)ŋa
+we (excl.): ŋayawaŋa
+we (incl.): -(a)ɲ
+we (incl.): -aŋan
+we (incl.): -ɲin
+we (incl.): ŋayawaɲ
+we two (excl.): -(a)ŋ(g)ala
+we two (excl.): -aŋ(g)aluːŋga
+we two (excl.): ŋayawaŋala
+we two (excl.): -ŋ(g)alaŋ(ga)
+we two (incl.): -(a)ŋ
+we two (incl.): -aŋ(g)al
+we two (incl.): ŋayawaŋ
+wind: gurgama
+woman: balan
+woman: dilwa
+woman: muɟiŋgal
+woman: waŋgan
+wood: bunbal
+wood: ganbi
+worm: ɟiliga(ŋ)
+yesterday: bugiya
+you two: -mbul
+you two: ŋindiwu
+you two: -u
+you two: -ul

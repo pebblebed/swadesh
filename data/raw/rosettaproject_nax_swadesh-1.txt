@@ -1,0 +1,320 @@
+arrow: li
+ashes: tai
+ashes: tai͂
+ashes: ta-rë foutö
+ashes: ta-rə φoutɤ
+back: ateyəmi
+back: nəmi
+bad: fesëku
+bad: φesəku
+bark: atema
+bark: a-tema
+belly: nima
+belly: nima
+belly: nima(\)
+belly: nimaʔ
+big: nò siri
+big: nɔ siri
+big: ufa
+big: uφa
+big: uφa
+bird: wë
+bird: wə
+bird: wesi
+bird: wesi
+black: bri
+black: bri
+blood: uë
+blood: uə
+bone: mi͂
+bone: mi˜
+boy: noi
+boy: noi
+breast: nò
+breast: nɔ
+breast: nɔ
+brother: auwa
+brother: auwa
+cassowary: awani
+child: arua tai ~ arua soː
+chin: ami
+chin: ami
+claw: frabiami
+claw: φrabiami
+cloud: u
+cloud: u
+cloud: uwo
+cloud: uwo
+come: arutuwam
+come: arutuwam
+come: kweku
+come: kweku
+crocodile: falkaik
+crocodile: sërabi\
+crocodile: sərabiʔ
+crocodile: φalkaik
+day: aneitai
+day: aneitai
+dog: au
+dog: au
+dog: au
+dog: au
+ear: ɔtəmʌ
+ear: òtëmë
+ear: ɔtɔmʌ
+ear: òtòmë
+earth: asi
+earth: asi
+eat: prafi
+eat: prəφi
+eat: prəφi
+egg: i
+egg: i
+egg: i
+elbow: nëtumi
+elbow: nətumi
+emu: awani
+eye: mo
+eye: mo
+eye: mo(ng)
+eye: moŋ
+father: abouk
+father: abouk
+fat (n.): a͂
+fat (n.): ã
+feather: wë-so
+feather: wəso
+finger: i
+finger: i
+fire: ta
+fire: ta
+fire: ta
+fish: ri
+fish: ri
+five: nomu
+five: nomu
+foot: prëpi
+foot: prəpi
+foot: prəpi
+forehead: nami
+forehead: nami
+four: yeyë
+four: yeyə
+girl: nia͂mi
+girl: niãmi
+give: peyomu
+give: peyomu
+give: pòmu
+give: pɔmu
+good: frasi
+good: φrasi
+hair: (ami-)sò
+hair: (ami)sɔ
+hair: (ami)sɔ
+hair: wiyi
+hair: wiyi
+hand: (y)i
+hand: (y)i
+hand: yio͂u͂
+hand: yiõu˜
+head: ami
+head: ami
+head: amin
+head: ami(n)
+heart: mari
+heart: mari
+he/she: ni
+he/she: ni
+house: nuni
+house: nuni
+I: ye
+I: ye
+knee: aromi
+knee: aromi(\)
+knee: aromiʔ
+knee: arosa
+knee: arosa
+laugh: sëre
+laugh: səre
+leaf: asò
+leaf: asɔ
+leaf: a-sɔ
+leg: fëto
+leg: φəto
+lie: oːnəbəseßʌ
+lie: onëbësevë
+lie: opëtenio
+lie: opətenio
+lie: opətenio
+liver: nima
+liver: nima
+long: krəmi
+long: Qkrëmi
+louse: amie͂
+louse: amie͂
+louse: amie˜
+man: nëfo siënò
+man: nəφo siənɔ
+man: nò
+man: nɔ
+man: nɔ
+meat: hu
+meat: hu ~ pi ~ su
+meat: pi
+meat: su
+meat: su
+moon: umʌ
+moon: umʌ
+moon: umë
+morning: pësasiyo
+morning: pəsasiyo
+mosquito: we͂
+mosquito: we͂
+mosquito: we˜
+mother: anauk
+mother: anauk
+mountain: you
+mountain: you
+mouth: no
+mouth: no(\)
+mouth: noʔ
+mouth: nu
+mouth: nu
+neck: nëfërëbu
+neck: nəφərəbu. tomi
+neck: tohomi
+neck: tomi
+neck: twowomi
+night: anei
+night: anei
+nose: umë(mi)
+not: pa
+not: pa
+old: nia͂ wai
+old: niã wai
+old: nò wai tai
+old: nɔ wai tai
+one: sië
+one: siə
+one: sisʌ
+one: sisë
+rain: së
+rain: sə
+rain: sə
+rat: wafrau
+rat: waφrau
+red: frama
+red: φrama
+river: asi framë
+river: asi φramʌ
+road: ari
+road: ari
+road: ari
+road: aru
+road: aru
+root: a-tëti
+root: a-təti
+root: teti
+root: teti
+sand: ubeik
+sand: upëit
+sand: upəit
+seed: aiya͂
+seed: aiyã
+see: niyupowò
+see: niyupowɔ
+short: foutai
+short: φoutai
+shoulder: nemimi
+shoulder: nemimi
+shoulder: wariyë
+shoulder: wariyə
+sister: wi͂k
+sister: wi˜k
+sit: animepisi
+sit: pië siau˜
+sit: piʌ siau͂
+sit: piʌsiau͂
+skin: tema
+skin: tema
+skin: tëma
+skin: təma
+skin: təma
+small: vulivulik
+small: wəli
+small: wëli (wali)
+small: wəli wali
+smoke: përë pi
+smoke: pərə pi
+smoke: ta-usë
+smoke: ta-usə
+snake: nau
+snake: nau
+spit: arə φənɔ
+stand: pəsiatuʌ
+stand: pët(ë)ratu
+stand: pət(ə)ratu
+stand: pət(ə)ratu
+star: amò
+star: amɔ
+star: amɔ
+stick: a
+stone: tëpai
+stone: təpai
+stone: tepëit
+stone: tepəit
+stone: tëpëuk
+stone: təpəuk
+sun: ok
+sun: ok
+sun: u
+sun: u
+thou: ni
+thou: ni
+three: tòtò
+three: tɔtɔ
+tomorrow: foe
+tomorrow: φoe
+tongue: isapʌ
+tongue: isapʌ
+tongue: isapë
+tooth: i
+tooth: i
+tooth: i
+tree: a
+tree: a
+tree: a
+two: tii˜
+two: tii͂ ~ titi
+two: titi
+two: titi
+walk: pəfi nɔnɔ
+walk: pëna
+walk: pəna
+walk: wou
+walk: wou
+walk: wou
+walk: yərəwowu
+wallaby: paki
+wallaby: paki
+water: wi
+water: wi
+water: wi
+we (excl.): nowafu
+we: Qnowafu
+we two (excl.): wəti
+we two: w-ëti
+white: φemuwi
+wing: nədi
+wing: Qnëdi
+woman: nia͂
+woman: nia͂
+woman: niã
+woman: nyai ari
+woman: nyai ari
+wood: a
+yesterday: neisi
+yesterday: neisɨ ~ neiyɨ
+yesterday: neiyi
+yes: wei
+yes: wei

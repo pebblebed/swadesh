@@ -1,0 +1,100 @@
+back: kor
+big: au
+boy: werem
+breast: nano
+burn: -uwe-
+cheek: bau
+come: taba
+daughter: neur
+day: gerger
+dog: omai ~ umai
+ear: laip
+earth: sep
+eye: puni
+face: op
+far: muris
+father: babi
+father: papa
+fire: ur
+fish: lar
+fly (n.): ebur
+girl: neur
+give: tikau
+good: debe
+grass: sogi
+hand: tag
+here: e
+he/she: abi
+he/she: abra
+he/she: e
+house: meta
+how: naka ~ nako
+I: ka
+I: kape [erg]
+I: kara
+I: kari
+leg: teter ~ titir
+lie: -pe-
+man: kimiar
+man: le
+many: gair
+meat: lar
+moon: meb
+morning: idim
+mother: ama
+new: kebi
+night: ki
+not: nole
+one: netat
+person: le
+push: -marik-
+push: -timed-
+sea: gurim
+sea: gurim
+sea: yaubir
+small: kebi
+smell: laglag
+snake: tabu
+star: wer
+straight: kak
+straight: nat
+sun: lim
+swim: -kas-
+take: -is-
+that: ab
+there: ab
+they: wi
+they: yaba
+they: yabi
+think: -kepwo-
+this: e
+thou: ma
+thou: mape [erg]
+thou: mara
+thou: mari
+thou: wa
+thou: waba
+thou: wabi
+thou: ?wapi [erg]
+thunder: girgir
+tomorrow: abgergerge
+turn: -batawirik-
+turn: -gard-
+two: neis
+water: ni
+we (excl.): kerbi
+we (excl.): kereba
+we (excl.): keriba
+we (excl.): ki
+we (excl.): kiriba
+we (incl.): merbi
+we (incl.): mereba
+we (incl.): meriba
+we (incl.): mi
+we (incl.): mipe [erg]
+what: na
+where: nade
+who: nete
+wind: wag
+woman: kosker
+yesterday: abgergerge

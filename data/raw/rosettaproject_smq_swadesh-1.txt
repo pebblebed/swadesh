@@ -1,0 +1,307 @@
+all: go͂go͂
+all: gõgõ
+all: gougou
+all: go͂u͂go͂u͂
+arm: dèbè
+arm: dɛbɛ
+ashes: dòsòbu
+ashes: dɔsɔbu
+back: wagibi
+back: wagibi
+bark: bisigòbu
+bark: bisigɔbu
+belly: sasi
+belly: sasi
+big: kau
+big: kau
+bird: sigò
+bird: sigɔ
+bite: gada
+bite: gada
+bite: goda
+bite: goda
+black: busi͂te
+black: busĩte
+blood: ayo
+blood: ayo
+blood: ayu
+bone: kibi
+bone: kibi
+breast: bu
+breast: bu
+brother: a͂ya͂
+brother: samo
+burn: gitoulogwa
+burn: gitoulogwa
+burn: heyasògòla
+burn: heyasɔgɔla
+burn: si
+cassowary: kòyabi
+claw: (sigò) kali
+claw: sigɔ kali
+cloud: ògabi
+cloud: ɔgabi
+cold: ti͂
+cold: tĩ
+come: hugala
+come: hugala
+die: tola
+die: tola
+dog: sòfo
+dog: sɔfo
+dog: sofu
+dog: sofu
+drink: ho͂u͂ na͂la
+drink: hou nala
+dry: hafodo
+dry: hafodo
+ear: duli
+ear: duli
+ear: duːri
+earth: mëhòĩ
+earth: mʌhɔi͂
+earth: mohoi
+eat: na
+eat: na͂la
+eat: nãla
+egg: (sigò) hòlò
+egg: sigɔ hɔlɔ
+emu: kɔyabi
+eye: hĩòwò
+eye: hi͂ɔwɔ
+eye: hiyowo
+eye: hi͂yowo
+fall: mu͂
+father: ade
+father: ade
+fat (n.): bono
+fat (n.): bɔ͂nɔ͂
+fat (n.): bɔ̃nɔ̃
+feather: (sigò) tòwò
+feather: sigɔ tɔwɔ
+fingernail: kiga͂
+fire: dòlò
+fire: dɔlɔ
+fire: dɔrɔ
+fish: diɔ
+fish: di(y)ò
+fly (v.): fuluma͂ ila
+fly (v.): fulumã ila
+foot: hɔ͂mɔ͂
+full: mɔɛ taw
+full: moyetonomado
+full: mɔ̃yòtònòmãdò
+full: mɔ͂yɔtɔnɔ͂ma͂dɔ
+give: ne͂la
+give: nelanẽla
+good: de
+good: de
+green: molowate
+green: mɔ̃lòwòte
+green: mɔlɔwɔte
+hair: otowa
+hair: otowa
+hair: tawa
+hair: ulëgibi towo
+hair: ulʌgibi tɔwɔ
+head: ukubi
+head: ulagibi
+head: ulëgibi
+head: ulʌgibi
+hear: dula
+hear: dula
+hear: duya
+heart: solufe
+heart: solufe
+he/she: e͂
+he/she: yə͂
+he/she: yo
+hit: ou-
+I: a͂
+I: ã
+I: mo
+kill: ola
+kill: ola
+kill: tola
+kill: tola
+knee: ibulu
+knee: ibulu
+knee: iburi
+know: tòwa-dela
+know: tɔwadela
+know: towe
+know: towe
+laugh: yo͂-
+leaf: dibi
+leaf: dibi
+leg: hòmɔ̃
+leg: hɔ͂mɔ͂
+lie: kela
+lie: kela
+liver: hobe
+liver: hobe
+long: sagò
+long: sagɔ
+louse: ou͂
+louse: òũ
+man: oso
+man: oso
+man: ouson
+many: go͂go͂
+many: gɔ̃gɔ̃
+many: gougou
+many: go͂u͂go͂u͂
+meat: hwòĩ
+meat: hwɔi͂
+moon: ogwʌ
+moon: ogwa
+moon: ogwë
+moon: ugo
+mother: uyò
+mother: uyɔ
+mountain: golwu foda
+mountain: golwu foda
+mountain: goufòda
+mountain: goufɔda
+mouth: magara
+mouth: magara
+mouth: mɔ͂galu
+mouth: mɔ̃galu
+name: hu͂ti
+name: hũti
+neck: gobagibi
+neck: gòbëgibi
+neck: gɔbʌgibi
+neck: mu
+new: doafi
+new: dwafi
+new: dwafi
+night: gosi
+night: gɔ͂si͂
+night: gɔ̃sĩ
+nose: minĩ
+not: mòi
+not: mɔi
+one: helenu͂
+one: helenũ
+person: oso
+person: oso
+play: ge͂-
+rain: ho͂ mu͂nu͂
+rain: hõ mũnũ
+rain: hou munu
+red: òbusĩte
+red: ɔbusi͂te
+road: ali
+road: ali
+road: ari
+root: tofè
+root: tofɛ
+root: toufe
+round: fugosama
+round: fugo͂sama
+sand: bobose
+sand: bobose
+say: hwa͂
+say: hwana
+say: hwa͂na
+say: tɔ͂ hwa͂la
+say: tɔ̃ hwãla
+seed: kòlò
+seed: kɔlɔ
+see: ògò-la
+see: ɔgɔla
+shoulder: ò-diò
+shoulder: ɔdiɔ
+sister: ɔ͂wɔ͂
+sit: buòla
+sit: buɔla
+sit: buwola
+skin: kòlòfu
+skin: kɔlɔfu
+skin: korofu
+skin: kɔrɔfu
+sleep: kiala
+sleep: ki(y)ala
+small: fe͂ya͂fo
+small: fe(y)ãfo
+smoke: dahai
+smoke: dëhaĩ
+smoke: dʌhai͂
+snake: boi
+spit: ma͂ku͂
+stand: tòfola
+stand: tɔfola
+star: gosomoni
+star: gòsòmɔ̃nĩ
+star: gɔsɔmɔ͂ni͂
+stone: yo
+stone: yo
+straight: mugu
+sun: ɔ͂sɔ͂
+sun: ɔ̃sɔ̃
+swim: hõ tòlòfiyala
+swim: ho͂ tɔlɔfiyala
+swim: tolofiyaila
+tail: hoube
+tail: sòfo hobe
+tail: sɔfo hobe
+that: ka
+that: ka
+they: diye͂
+they: diyo͂
+they two: ile
+they two: ili
+they: ya͂
+this: ke
+this: ke
+thou: ne͂
+thou: ni͂
+thou: ni͂ye͂
+thou: nõ
+thou: nɔ͂
+tie: tiga
+tie: tiga
+tongue: menèmanĩ
+tongue: me͂nɛ͂ma͂ni͂
+tongue: meremai
+tooth: mɔ̃yò
+tooth: mɔ͂yɔ
+tree: hɔma͂ne͂
+tree: hòmãnẽ
+tree: home
+two: be͂nau͂
+two: benaũ
+walk: dula
+walk: suda
+walk: suda
+warm: dòfi
+warm: dɔfi
+warm: dɔfi
+water: hõ
+water: hou
+water: ho͂u͂
+we (incl.): oye
+we: oye
+we: òye
+we: ɔye
+we two (excl.): ola
+we two (excl.): oliye
+we two (incl.): ala
+we two (incl.): ala
+what: kòbòba
+what: kɔbɔba
+white: olowate
+white: òlòwòte
+white: ɔlɔwɔte
+who: ku͂ba
+who: kũba
+wind: wafu
+wing: alafagibi
+wing: alafagibi
+woman: sòbò
+woman: sɔbɔ
+yellow: biyete
+yellow: biyete
+you two: ni͂le
+you two: ni͂li

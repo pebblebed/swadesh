@@ -1,0 +1,596 @@
+all: nirpol
+all: nirpol
+all: nirpol
+and: kiːtɛ bʌiyɒ
+and: kiːtɛ bʌiyɒ
+and: kitɛ bʌiyɒ
+arm: miːrtɒŋ
+arm: miːrtɒŋ
+arm: mir-tong
+arrow: læ-it
+arrow: læ-it
+arrow: rɛmɒ
+arrow: rɛmɒ
+arrow: rɛɒ-tul
+arrow: rɛɒ-tul
+arrow: tɑ kɛit
+arrow: tɑ kɛit
+ashes: yir
+ashes: yiːr pɑt
+ashes: yiːr pɑt
+at: kak
+at: kuatuk
+back: mɑrɑ kɑtɑ kurub
+bad: ebela kat
+bad: ɛbɛlʌ kɛt
+bad: ɛbɛlʌ kɛt
+bark: ot-kapo
+bark: ɒt kɑpɒ
+bark: ɒt kɑpɒ
+belly: e pil lu
+belly: ɛ piːl lu
+belly: ɛ piːl lu
+belly: mi-chute
+belly: miːcute
+big: ɛr kurʌ
+big: ɛr kurʌ
+big: er kuro
+bird: ɟɒɛ tupɑ
+bird: ɟɒɛ tupɑ
+bird: joe tupa
+bite: tong ab pio
+bite: toŋ ʌb piːɒ
+bite: toŋ ʌb piːɒ
+black: ɛr diːrim
+black: ɛr diːrim
+black: ir dirim
+blood: et tɛiː rɑ tu
+blood: teyi
+blood: tɛ yiː
+blood: tɛ yiː
+blow: er pu we
+blow: er pu wɛ
+blow: er pu wɛ
+bone: e tu we
+bone: ɛtu wɛ
+bone: ɛtu wɛ
+boy: ɛtiːrɑ
+boy: ɛtiːrɑ
+boy: etira
+branch: tauku t-ot delol
+branch: tɔku tot dɛlɒl
+branch: tɔku tot dɛlɒl
+breast: meme teyu
+breast: mɛme tɛyu
+breast: mɛme tɛyu
+breathe: chinhe
+breathe: ciŋɛ
+breathe: ciŋɛ
+brother: aka repu
+brother: ɑkɑ rɛpu
+brother: ɑkɑ rɛpu
+burn: te chua
+burn: te cuɑ
+butterfly: bamo
+butterfly: bɑmo
+butterfly: bɑmo
+calf: mɛtuɛ
+calf: mɛtuɛ
+calf: mɛtuɛ
+cheek: iːr nokɒ
+cheek: iːr nokɒ
+cheek: ir-noko
+chest: ot pada be
+chest: pɔt
+chest: pɔt
+child: ɛtiːrɑ
+child: te
+child: tɛ
+child: tɛ
+chin: ma pua
+chin: mɑ puɑ
+chin: mɑ puɑ
+cloud: tao
+cloud: tʌo
+cloud: tʌo
+cold: julum
+cold: ɟulum
+cold: ɟulum
+come: kie ta pal le
+come: kiːe tɛ pʌl lɛ
+come: kiːe tɛ pʌl lɛ
+count: ara lup o
+count: ɑrɑ lupo
+count: ɑrɑ lupo
+cut: ebob
+cut: ɛ bob
+cut: ɛ bob
+cut: eŋ o ɒl
+cut: eŋ o ɒl
+cut: eng o ol
+cut: ɛr rao
+cut: ɟɒ tut
+dance: timjiwu
+dark: ti tir dirim
+dark: tiː tiːr diːriːm
+dark: tiː tiːr diːriːm
+daughter: te
+daughter: tɛ
+daughter: tɛ
+day: dio
+day: diːyʌ
+day: diya
+die: empiːl
+die: em-pil kan
+die: empiːl kʌn
+die: empiːl kʌn
+dig: ot ma
+dig: ot pong
+dig: ɒt mɑ
+dig: ɒt poŋ
+dig: ɒt poŋ
+dirty: tem yote
+dirty: tem yotɛ
+dirty: tem yotɛ
+dog: biːbiː ye
+dog: biːbiː ye
+dog: bibi ye
+drink: ko ku
+drink: ko ku
+drink: to ku
+dry: ɟɛwu
+dry: jewu
+ear: er bu
+ear: ɛr-bu
+ear: ɛr-bu
+earth: emine
+earth: puah
+earth: puɑh
+earth: puɑh
+earth: pute
+eat: aka to
+eat: to jo
+eat: to ɟo
+eat: to ɟo
+egg: mulɒ
+egg: mulɒ
+egg: mulo
+egg: tɛlem
+excrement: pu
+eye: er tol
+eye: er-tol
+face: mirmike
+face: miːrmiːkɛ
+fall: o bo tɒ
+fall: o bo to
+far: ti tra tau
+far: tiː trʌ tɔ
+father: mɑ
+father: tura mai
+fat (n.): ciːru
+fat (n.): ma
+fear: ʌm yɑt
+fear: tem yat
+feather: ir-wat
+feather: iːrwɑt
+few: elɑɒ
+few: eto mo
+fight: ŋɑrʌm tɒŋ no
+fingernail: meil
+fingernail: meil
+finger: ɒŋ kurɒ
+finger: ong-kuro
+finger: tʌmɒ putɛ
+fire: aht
+fire: ɑht
+fire: ɟiːr piːprɒ
+fire: jir pipro
+fire: korowa
+fire: korɒwʌ
+fish: tai jeu
+fish: tʌi ɟɛu
+flower: ye wərɒ
+flower: ye wöro
+flow: trɑtu
+fly (n.): nyipo
+fly (n.): piːɛmɒ
+fly (n.): piemo
+fly (v.): ir-waat
+fly (v.): iːr wɔt
+fog: bauto
+fog: bite
+fog: bitɛ
+foot: am-taa
+foot: ʌm tɔ
+forest: ti taa ku
+forest: tiː tɔ ku
+fruit: ot-chu
+fruit: ot cu
+full: ɟet kʌm tɑ ku
+full: jet kam ta ku
+girl: e kaun ngo
+girl: ɛ kɔn ŋo
+give: iːɟi tʌiɟiː
+give: iji taiji
+good: e-nale
+good: enɑlɛ
+grass: cɛmiːl
+grass: chemil
+green: i pung
+green: i puŋ
+hair: paich
+hair: pʌič
+hand: am koro
+hand: am-to
+hand: ʌm korɒ
+hand: mɒ mɑrɑ
+hand: mo mara
+head: er-chu
+head: ercu
+head: ir mine
+head: mor tango
+hear: ɑkʌ biːŋe
+hear: tɒŋɑ biːŋɒ
+hear: tonga bingo
+heavy: jo tile
+heavy: ɟɒ tiːlɛ
+here: kile
+here: kiːlɛ
+here: kita towi
+he/she: iːmɒ
+he/she: iːmɒ
+he/she: iːmɒ
+he/she: kite
+he/she: kite
+he/she: kitɛ
+he/she: kudɛ
+hit: cɛrɛp
+hit: cherep
+hit: cherep
+hit: ngaram tong no
+hold: jok
+hole: aka pong
+hole: ɑkʌ pɒŋ
+horn: wulu tue
+horn: wulu tuɛ
+house: tör
+how: cha-tita
+how: cɑ tiːtɑ
+how: ngör pol
+hunt: tɒ ciːt
+hunt: to cɛiː
+husband: e tairu
+husband: ɛ tʌiru
+in: il
+in: ko
+in: pong
+in: tɑ
+I: tiː ce
+I: ti che
+I: tui
+I: tuiː
+jaw: miːrnokɒ
+jaw: mirnoko
+kill: ɛ pucu
+knee: e-lu
+knee: ɛ lu
+know: e kot
+know: ɛ kot
+lake: iːr pɒŋ
+lake: ir pong
+laugh: irim kein
+laugh: iːrim kɛin
+leaf: obə
+leaf: obö
+left: mara kori
+left: mɑrɑ kori
+leg: mara boicho
+leg: mɑrɑ bɒico
+lie: um baul to
+lie: um bɔl tɒ
+lightning: wai e
+lightning: wʌi ɛ
+lip: m-a puah
+lip: mʌ puɑh
+live: aka-puis
+live: ɑkʌ puis
+long: ɛrlo
+long: lau u
+long: lɔ u
+louse: kɛlʌ
+louse: kela
+louse: kɛrbiːt
+man: e tairu
+man: ɛ tʌiru
+man: ɛ tʌiru
+many: ot pol le
+many: ot pol lɛ
+meat: tomɒ
+meat: tomʌ
+meat: tomo
+moon: chirke
+moon: ciːrkɛ
+morning: die katu
+morning: ɟiːr wɔw to
+morning: jir wauw to
+morning: tir wow tau
+morning: tiːr wɒw tɔ
+mosquito: teil
+mosquito: tɛil
+mother: memi
+mother: mɛmiː
+mountain: burin
+mountain: burin
+mountain: burin
+mouth: ta pong
+mouth: tɑ pɒŋ
+name: eliwo
+name: ɛ liːwu
+narrow: tiː tɑɒ
+narrow: ti tao
+navel: meit
+navel: mɛiːt
+near: pede puie
+near: pɛde puie
+neck: ot lyoŋo
+neck: ot yongo
+new: er rup
+new: ɛr up
+new: kui
+new: kuiː
+night: trai i to
+night: trɑi iː tɒ
+night: yir pat
+night: yiːr pɑt
+nose: mir kauto
+not: puiyo
+not: yiːr pɑt
+old: ara taum
+old: ɑrʌ tɔm
+one: luah mo
+one: luɑh mo
+one: totʌm culɑ
+person: kodia tenye
+person: kodiːɑ tɛnye
+play: irimke
+play: iːrimkɛ
+pull: ɟete tɛpiːr
+pull: jir teno
+rain: ɟo ɟɛm
+rain: tɒiɛrʌ
+rain: toiera
+rat: de
+rat: de
+rat: dɛ
+rat: dɛ
+red: bi ye
+red: biː yɛ
+right: miːr biːdiː
+right: mir bidi
+ripe: jo boi
+ripe: ɟo boiː
+river: boliu
+river: boliːu
+road: luk
+road: luk
+road: wangato
+root: ɟerɑ cɑŋ
+root: jera chang
+rope: bɛtmɒ
+rope: betmo
+rotten: oi choro
+rotten: oi corɒ
+round: rok tor
+round: rok tor
+rub: cɛtɔ
+rub: chetau
+rub: ot yeko
+salt: ceriːɛ
+salt: cherie
+sand: torɒ
+sand: toro
+sand: wea po
+say: irim en
+say: ir war
+say: iːr wɑr
+say: iːrwɑr
+scratch: engot
+scratch: ɛŋot
+scratch: ot pur
+sea: cherie
+sea: chiro
+sea: ciːrɒ
+sea: paietaich
+sea: ta pua
+seed: iːr tol
+seed: ir tol
+see: ir tede
+see: iːr tɛdɛ
+see: ot weka
+see: tiːtɒi dɛ
+sew: ɟe cɒt
+sew: ɟo mɔr
+sharp: ig rɛtɑ
+sharp: ig reta
+short: ot delo
+short: ot dɛlo
+shoulder: me ben
+shoulder: mɛ bɛn
+shoulder: me kuro puia
+shoulder: mɛ kurɒ puiːɑ
+sing: jo
+sing: jo choro
+sing: ɟo coro
+sister: aka repu
+sister: ɑkɑ rɛpu
+sit: aka wuano
+sit: ɑkɑ wuʌno
+skin: ot kaupo
+skin: ot kɔpo
+sky: tauo
+sky: tɔo
+sleep: tie beno
+sleep: tiːr bɛno
+small: lɑɒ
+small: lao
+smell: chopo
+smell: chuinj
+smell: copɒ
+smoke: ɟɛb
+smoke: jeb
+smoke: maron
+smooth: ot lengri
+smooth: ot lɛŋriː
+snake: chupe
+snake: cupɛ
+snake: jopano
+snake: para
+snake: wer
+son: te
+son: tɛ
+sour: iːr miːʌ
+sour: ir mia
+spit: chein
+spit: kɔt
+spit: ma bub
+spit: mɑ bub
+split: jakam kauto
+split: ɟɑkɑm kɔto
+squeeze: otum bat
+squeeze: otum bɛt
+stab: jo tut
+stand: o tɒi ɑ
+stand: o toi a
+star: katain
+star: kɑtʌin
+stick: tauku
+stone: mio
+stone: mio
+straight: totem
+straight: totem
+suck: oku
+suck: oku
+suck: omɑmɛ tɛku
+sun: die
+sun: diːe
+sweet: jo une
+sweet: tumel
+swell: nɛnɛmɑ
+swim: o-ngauto
+swim: oŋɔto
+tail: ra kucho
+tail: rɑ kucɒ
+take: jok
+take: jok
+take: ɟɒk
+take: otop
+take: otop
+that: kuʌ
+that: kua
+there: kua
+there: topmo
+they: imo
+they: iːmo
+thick: jo muto
+thick: ɟo muto
+thin: e butwu
+thin: e keding
+thin: jo takamo
+think: toti köt
+think: tɒtiː kət
+thin: ɟo tɑkʌmo
+this: kite
+this: kiːtɛ
+this: kiːtɛ
+thorn: iːr cɛ
+thorn: ir che
+thorn: ir tau
+thorn: iːr tɔ
+thou: ng-
+thou: ŋiːce
+thou: ng-ui
+thou: ŋuiː
+thou: ŋuiː
+throat: aka enuku
+throat: ɑkɑ ɛneku
+throw: jo pil
+throw: ɟo piːl
+thunder: ara tinge
+thunder: ɑrɑ tiŋɛ
+tie: oka chup
+tie: okɑ cup
+tie: ot chup
+tomorrow: wowel
+tomorrow: wowel
+tongue: aka-tat
+tongue: ɑkɑtɑt
+tongue: o eil
+tooth: m-ir pile
+tooth: miːr piːlɛ
+tooth: piːle
+tree: ka-tong
+tree: kɑtoŋ
+turn: atam tir kat
+turn: ɑtʌm tiːr kɑt
+two: iːr pol
+two: ir-pol
+unripe: dop
+unripe: dop
+vagina: mara tet
+vagina: mɑrɑ tɛt
+vomit: otʌm wɛʌmɛ
+walk: chid
+walk: ciːd
+walk: empoklau
+walk: kabua
+walk: kebuɑ
+walk: ket ta tul
+walk: ket tʌ tul
+walk: oicho
+walk: oico
+walk: ot tɛpʌl
+walk: uni
+walk: uniː
+warm: wiːriwɑ
+warm: wiriwa
+warm: wiːriː we
+wash: ngem chaut
+wash: ŋem cɔt
+wash: to top
+water: ine
+water: iːne
+weep: biːliːp
+weep: ooni
+we: mui
+we: muiː
+we: muiː
+we: tiː cu
+wet: ot iːno
+wet: oy-ino
+what: cɑdɛ
+what: cha-de
+when: alech
+when: atita bei
+when: ɑtiːtɑ bɛiː
+where: ateta
+where: ɑtɛtɑ
+white: oloyʌ
+white: oloya
+who: cha-le
+who: cɑle
+wide: tɑmɑpu
+wife: ebuko
+wife: ɛbuko
+wind: pautau
+wind: pɔtɔ
+wipe: tiː cɔt
+with: ot bɒicol
+with: ot boichol
+woman: eb buku
+woman: ebuku
+woman: ebuku
+wood: tauku
+wood: tɔku
+wood: tɔku
+yes: we
+you: ng-il-

@@ -1,0 +1,306 @@
+all: inkini
+and: waɲ
+ankle: muntulk
+arm: pe
+arm: tetimila
+ashes: tara-
+back: tetti
+bad: wincan
+bark: wuyi
+belly: atla
+belly: lur
+belly: lur
+belly: tuɹ
+big: puwal
+bite: karkar
+black: cipme
+blood: puɹwuɹ
+bone: mu
+boy: yeɹa ŋulpak
+branch: panapana
+breast: yiŋi
+breathe: ŋuŋuk
+brother: meɹepet
+burn: cuk
+burn: yuɹwu
+butterfly: maŋkana
+butterfly: winipeɹ
+calf: ara
+cheek: tanŋan
+cheek: tiɹkal
+chest: maɹitemper
+child: yeɹa
+child: yeɹa
+cloud: wəŋə
+cold: cucutur
+cold: lalaɹŋan
+correct: yitiyiti
+crocodile: weɹempen
+cut: kat
+cut: kat
+cut: papal
+cut: tuɹ
+daughter: ŋeti
+day: kentipet
+die: kila wuta
+dig: cat
+dig: tim
+dog: mi
+dry: taɹapu
+dust: pənnə
+ear: ceŋi
+earth: pitlam
+eat: cakal
+eat: cam
+egg: muɹu
+elbow: pəntəɹ
+emu: ŋuɹci
+eye: miɹi
+face: miɹi
+far: ŋaytpir
+father: ŋilaŋ
+father: nikani
+fat (n.): ɹeɹi
+fat (n.): ɹeɹi
+feather: wattan
+few: eleɹ
+fight: taɹa
+finger: kumpu maɹwu
+fingernail: ŋaɹaɹ
+finger: niyuŋku
+fire: yimiɲ
+fish: awa wakkar
+five: peŋenti
+float: waɹ
+flower: marka
+fly (n.): kalaŋuk
+fog: calpak
+foot: kumpu
+foot: kumpu maɹi
+foot: kumpu pəɹ
+forehead: ɹimi
+four: miyitiɲmiyitiɲ
+full: kul
+full: pekwuyc
+give: wut
+give: wuɹut
+good: manim
+good: natla
+grass: wəɹə
+green: lekme
+guts: wunaɹa
+hair: məɹamer
+hair: -mer
+hair: wattan
+hand: niyuŋku
+hand: niyuŋku maɹi
+head: piya
+hear: ceŋi
+heart: miɹicun
+heavy: yəɹmalaŋ
+he/she: -na
+he/she: nankuɲ
+he/she: nankuɲ
+he/she: nawaɲ
+he/she: -ŋa
+he/she: ŋankuɲ
+he/she: ŋankuɲ
+he/she: ŋawaɲ
+hit: kəɹ
+hit: kəɹkəɹ
+hole: ŋelkiɲ
+house: ŋatta
+how: emi nunu
+hunt: katuɹ
+I: -ŋaɲ
+I: ŋaɲ
+I: ŋaɲ
+I: ŋeni
+in: yena
+kangaroo: korpoɹoŋ
+kangaroo: manark
+kill: kuɹ paw
+knee: piŋkara
+know: ceŋi wica
+laugh: eɹuwe
+leaf: kalkal
+left: cacawuyc
+leg: ara
+lightning: wanar
+lip: ŋal teti
+liver: peɹele
+long: malikita
+louse: mimpi
+man: ciɹciɹ
+man: kantu
+many: tap
+meat: awa
+moon: alamuɲ
+morning: penkuɹu
+morning: witital
+mosquito: putti
+mother: akani
+mother: alaŋ
+mountain: milŋin
+mountain: milŋin
+mouth: ŋal
+name: winka
+nape: manta teti
+navel: titir
+near: wənəŋə
+neck: manta
+new: yaŋu
+night: ŋupel
+not: way
+old: cilili
+old: muntak
+old: pələ
+one: ŋantawaɲ
+play: eɹuwiyə
+pull: wulwul
+push: tuŋkuti
+rain: wuta
+rain: wuyic
+rat: nəmpə
+rat: nəmpə
+rat: pere
+red: kukaɹa
+red: wuɹiwuɹi
+right: cetme
+ripe: ticimu
+ripe: wuɲmu
+river: wuta makat
+river: wuta pe
+road: emetuk
+root: ŋiɹ
+rope: ci
+rotten: kunpuɹuk
+rotten: pəɹkuɹiɲ
+rotten: teɹemeɹ
+round: palapiya
+rub: ɲiɹkakaɹ
+rub: piɹkic
+rub: puc
+salt: wettiɹiɲ
+salt: wuta wuttaɹ
+sand: menneɹ
+say: maɹaɲ
+scratch: ɲiɹiki
+sea: pulaŋpulaŋ
+sea: wuttaɹ
+seed: miɹi
+see: miɹi
+sew: tentem
+sew: yit
+sharp: peɹke
+short: wəntəpəɹ
+shoulder: kara
+sing: mantiya
+sister: wuŋka-
+sit: tat
+skin: teɹipiɹiɲ
+sleep: ŋuɹkuɹ
+small: kiɹuwalic
+smoke: cumu
+smooth: puɹicpuɹic
+snake: awa mala
+son: niti
+spit: kutluk
+spit: tiɹaɹk
+split: petuɹ
+squeeze: ciɹ
+squeeze: tɹaw
+stand: yaɹuŋ
+star: məɹə
+stone: kaɹawala
+straight: cetme
+sun: kiyik
+sweet: mitti
+swell: lalaw
+swim: capat
+tail: yiɹi
+take: waw
+take: wincaɹa
+that: keni
+that: yuwa
+they two: -wiɲamata
+they two: wiɲamata
+they two: witamata
+they: -wiɲa
+they: wiɲa
+they: wiɟa
+thick: mitli
+thigh: tar
+thin: kalaɹaŋ
+thin: watpaɹ
+this: kenki
+thou: -niɲa
+thou: niɲa
+thou: niɟa
+thou: nimpe
+thou: -nimpe
+thou: nina
+thou: nina
+three: neɲmete
+throat: manta
+throw: pac
+throw: pət
+thunder: miɹ
+tie: pel manta
+today: kucala
+tomorrow: yeɹi
+tongue: ŋaltiɹitiɹi
+tooth: tir
+tree: tawaɹ
+two: miyitiɲ
+unripe: ciɹkin
+vagina: tiɹi
+vagina: tiɹi
+vagina: tiɹitetliɹ
+vomit: ek
+vomit: yeŋin
+walk: amma
+walk: paɹac
+walk: tara
+walk: wat
+wallaby: wamaŋkan
+warm: pulpul
+wash: pit
+water: wuta
+water: wuta teti
+weep: wə
+weep: wiɹica
+we (excl.): ŋaɟa
+we (excl.): ŋaɟa
+we (excl.): -ŋeɹiɲa
+we (incl.): -kiɲa
+we (incl.): kiɲa
+we (incl.): kica
+wet: lekme
+we two (excl.): ŋatamata
+we two (excl.): ŋatamata
+we two (excl.): -ŋeɹiɲamata
+we two (incl.): ŋaŋku
+we two (incl.): -ŋaŋku
+we two (incl.): ŋanku
+what: emi
+what: enci
+when: məntə
+where: antama
+where: ka
+white: keɲapuy
+who: apa
+wind: warmala
+wing: wele
+woman: peku
+woman: wuŋku-
+wood: cuɹa
+wood: yili
+wood: yimiɲ
+woomera: manpuk
+year: wuɹu
+yellow: kəmpel
+yesterday: calcaɹa
+you two: -niɲamata
+you two: niɲamata
+you two: nitamata

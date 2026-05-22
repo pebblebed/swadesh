@@ -1,0 +1,210 @@
+all: kaikki
+and: ja
+animal: eläin
+ashes: tuhka, tuhkat
+at: -lla, -llä
+back: selkä
+bad: paha
+bark: kaarna
+because: koska
+belly: vatsa, maha
+big: iso
+bird: lintu
+bite: pure
+black: musta
+blood: veri
+blow: puhaltaa
+bone: luu
+breast: rinta
+breathe: hengittää
+burn: poltta
+child: lapsi
+cloud: pilvi
+cold: kylmä
+come: tule
+correct: oikea
+count: laskea
+cut: viiltää, leikata
+day: päivä
+die: kuole
+dig: kaivaa
+dirty: likainen
+dog: koira
+drink: juo
+dry: kuiva
+dull: tylsä
+dust: pöly, tomu
+ear: korva
+earth: maa
+eat: syö
+egg: muna
+eye: silmä
+fall: pudota
+fall: putoa
+far: kaukainen, etäinen
+father: isä
+fat (n.): rasva
+fear: pelkä
+feather: höyhen
+few: harva
+fight: taistella
+fingernail: kynsi
+fire: tuli
+fish: kala
+five: viisi
+float: kellua. leijua
+flower: kukka
+flow: virrata
+fly (v.): lentää
+fog: sumu
+foot: jalka
+forest: metsä
+four: neljä
+freeze: jäätyä, palella
+fruit: hedelmä
+full: täysi, täynnä
+give: anta
+good: hyvä
+grass: ruoho
+green: vihreä
+guts: sisälmykset
+hair: hius, hiukset
+hand: käsi
+head: pää
+hear: kuule
+heart: sydän
+heavy: raskas
+he: hän
+here: täällä, tänne
+hit: lyödä
+hold: pitää (kiinni)
+horn: sarvi
+how: kuinka
+hunt: metsästää
+husband: mies
+ice: jää
+if: jos
+I: minä
+in: -ssa, -ssä
+kill: tappaa
+knee: polvi
+know: tunte
+lake: järvi
+laugh: naura
+leaf: lehti
+left: vasen
+leg: sääri
+lie: valehdella
+live: elää
+liver: maksa
+long: pitkä
+louse: täi
+man: mies
+many: moni
+meat: liha
+moon: kuu
+mother: äiti
+mountain: vuori
+mouth: suu
+name: nimi
+narrow: kapea
+near: lähe
+neck: kaula, niska
+new: uusi
+night: yö
+nose: nenä
+not: ei
+old: vanha
+one: yksi
+other: toinen, muu
+person: henkilö
+play: soitta
+pull: vetää
+push: työntää
+rain: sata
+red: punainen
+right: oikea
+river: joki
+road: tie
+root: juuri
+rope: köysi
+rotten: mätä, mädäntynyt
+round: pyöreä
+rub: hieroa, hangata
+salt: suola
+sand: hiekka
+say: sano
+scratch: raapia, rapsuttaa
+sea: meri
+seed: siemen
+see: näke
+sew: ommella
+sharp: terävä
+short: lyhyt
+sing: laula
+sit: istu
+skin: iho, nahka
+sky: taivas
+sleep: nukku
+small: pieni
+smell: haistaa jtk
+smoke: savu
+smooth: märkä
+smooth: pehmeä
+snake: käärme
+snow: lumi
+some: joku
+spit: sylkeä
+split: halkaista, puolittaa
+squeeze: puristaa, rutistaa
+stab: puukottaa, pistää
+stand: seiso
+star: tähti
+stick: tikku, keppi
+stone: kivi
+straight: suora
+suck: imeä
+sun: aurinko
+swell: turvota, paisua
+swim: uida
+tail: häntä
+that: että
+there: siellä, sinne
+they: he
+thick: paksu
+think: ajattele
+thin: ohut
+this: tämä
+thou: sinä
+three: kolme
+throw: heittä
+tie: sitoa
+tongue: kieli
+tooth: hammas
+tree: puu
+turn: kääntyä
+two: kaksi
+vomit: oksentaa
+walk: kävellä
+warm: lämmin
+wash: pestä
+water: `vesi
+we: me
+wet: märkä
+what: mikä
+when: milloin
+where: missä
+white: valkoinen
+who: kuka
+wide: leveä, laaja
+wife: vaimo
+wind: tuuli
+wing: siipi
+wipe: pyyhkiä, pyyhkäistä
+with: kanssa
+woman: nainen
+worm: mato
+year: vuosi
+yellow: keltainen
+you: sinä
+you: te

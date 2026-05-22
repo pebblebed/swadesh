@@ -1,0 +1,137 @@
+ankle: muntulk
+back: tati
+bad: wincen
+belly: maṭi
+big: kapil
+bite: -tutuɹ-
+black: cikimpi
+blood: wulkiɹim
+bone: ama
+breast: yeŋi
+cheek: teɹkal
+child: yeɹi
+cloud: weŋi
+crocodile: awuɹumpun
+cut: -cuɹ-
+dig: -tum-
+dog: yitin
+dust: penni
+ear: caŋi
+earth: weɲiɹ
+eat: -lic-
+egg: amaɹi
+elbow: pipen
+emu: ŋuɹp
+eye: miɹi
+father: ŋaca
+fat (n.): alawunkaɹ
+feather: awawuya
+fire: cenci
+five: pukinti ŋanɟipe
+flower: tumuɹci
+foot: peɹi
+forehead: wemi
+four: piɲiti piɲiti
+full: pakwuyc
+good: kati
+grass: weɹi
+hair: piyameɹ̣
+hand: muɹi
+head: piyi
+heart: miɹiɹim
+heavy: mutputŋan
+he/she: naŋ
+he/she: -ŋ-
+he/she: ŋiya
+he/she: -ni-
+hole: yerṭi
+house: ŋatta
+I: -ŋin-
+I: yikin
+I: yikin
+kangaroo: ayemi
+knee: piɹeŋki
+laugh: -aɹ̣wu-
+leaf: yiɹin
+leg: wuɹaŋ
+liver: apaɹwu
+long: malawaɹuŋ
+man: meɹi
+meat: awu
+moon: piŋkaḷ
+mosquito: apuci
+mother: ala
+mouth: ŋal
+name: winkin
+navel: cetiɹ̣
+neck: mant̪i
+new: yaŋi
+night: nici
+not: mampi
+old: mapintipinti
+old: mitil
+old: wayina
+one: ŋancipe
+rain: wuti
+red: kukaɹa
+red: piɹkim
+ripe: weɲmi
+river: peteɹ
+road: nalan
+rope: puca
+rotten: ŋalputput
+sand: maɲiɹ̣i
+sea: puŋaŋ
+sharp: melcem
+shoulder: kaɹ̣i
+skin: ateɹipiɹi
+small: capac
+smoke: cancamu
+snake: emeli
+spit: citalwil
+spit: -muɹci-
+star: yewi
+stone: kaɹawala
+straight: catma
+sun: panti
+tail: yeɹi
+take: -metum-
+they two: wiɲ-pi
+they: -wiɲ-
+they: wiɲi
+thigh: pa
+thou: -mpu-
+thou: naɲ
+thou: nati
+thou: -niɲ-
+three: alikinti
+today: yaŋi
+tomorrow: niciŋani
+tongue: ŋalŋiɲaŋ
+tooth: teɹ̣
+tree: t̪awuɹ̣
+two: piɲiti
+vagina: ecen
+vomit: wewe
+walk: -taɹi-
+wallaby: awamaŋkan
+wash: -pet-
+water: wuti
+we (excl.): kati
+we (excl.): -kiɲ-
+we (incl.): ŋaŋkiwiɲim
+we (incl.): -ŋki-
+we two (excl.): kati-pi
+we two (incl.): ŋaŋki
+we two (incl.): -ŋki-
+what: mananci
+when: kiminpe
+where: ɟinuku
+white: kiŋiɲpuy
+who: kilimpe
+wind: wiɹiɹ
+woman: peki
+woomera: puɹincic
+year: waɹi
+yesterday: tuɹŋanci
+you two: nati-pi

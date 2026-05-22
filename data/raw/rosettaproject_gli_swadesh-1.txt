@@ -1,0 +1,41 @@
+belly: lia
+blood: linati
+butterfly: mbilambila
+cloud: sinu
+crocodile: binga
+die: minate
+ear: tanginoia
+eye: mata
+father: mama
+fish: mesa
+five: lima
+fly (n.): zinongi
+fly (n.): zinongo
+four: dina
+guts: singungu
+hand: voniri
+head: rano
+he/she: hana
+house: vale
+I: rano
+I: rano-to
+I: rino-to
+leg: nokolou
+lip: mono
+moon: retulo
+mouth: ngonano
+night: moni
+nose: susungu
+stone: bito
+stone: bitono
+they: rino
+they: rino-to
+tongue: lembani
+water: kino
+we (incl.): ngito
+we: kimo
+we: kimo-to
+we: ngito-to
+wind: mememei
+you: kumo
+you: kumo-to

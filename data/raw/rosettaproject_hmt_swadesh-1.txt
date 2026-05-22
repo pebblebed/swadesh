@@ -1,0 +1,120 @@
+all: aqa(pu)
+arm: fe\a/fempaa
+ashes: wataaka
+bark: (iya)hewa
+belly: au\wa
+big: na\a
+bird: inga
+bird: ingor
+bite: haqoaanga qa-to-\i
+black: tifa\a
+blood: hingeáa
+bone: yanga
+breast: aamnga
+burn: ta qa-n-i\i
+butterfly: amahuka
+cassowary: noyoa
+claw: haapnga
+cloud: qawa
+cold: ymnga(ta)
+come: qa-pi
+die: qa-pe-\i
+dog: hive\aa
+dog: tibia
+drink: e\aa (qa-n-\i)
+dry: yeaa
+ear: kaitu
+ear: qata
+earth: qoaa
+eat: qa-n-\i
+egg: mnga
+eye: ebowau
+eye: hingo
+eye: inu
+fat (n.): aawa
+feather: aa
+fire: ta
+fish: waimpoka
+fly (v.): nappiyaa\aa qu\-w-i
+full: maanko
+give: qan-taap-i
+good: awa
+green: hayenka
+hair: mta
+hair: umdah
+head: mnga
+hear: qata q-i-\i
+heart: hav\a/fav\a
+horn: hawanga
+house: unger
+I: ni
+kill: qa-v-ii
+knee: qomnga
+know: aqo na\anqa ti
+leaf: qu\wa
+leg: yanga
+lie: saa\aa q-oe
+lip: ne-ah
+liver: qeá
+long: qhouka
+louse: iyaa\aa
+man: qoka
+many: ninqa/qoaapa
+meat: naanga
+moon: gaamnga
+moon: kama
+mountain: mnga
+mouth: maanga
+mouth: mia
+name: yav\a
+neck: hepo
+new: hnanga
+night: hipinaa/hipi\ya(m)
+nose: hima
+nose: imuk
+not: maa-i/maa
+one: fati(na)
+person: amaa\aa
+rain: piya
+red: hamaata
+road: fan\a
+root: taapinga
+round: pamka
+sand: uwna
+say: qa-t-i
+seed: hi\ya
+see: hingo gu\wana
+sit: ya qa-pm-e-aa
+skin: hewa
+sky: owah
+sleep: cha-a
+sleep: saa\aa q-oe
+small: wqang a
+smoke: tivaaka
+stand: ya qato
+star: sa\anaaka
+stone: hawa
+stone: howah
+sun: mabah
+sun: mapa
+swim: aaifaa qa\i
+tail: su\wa
+that: a
+this: ta
+thou: nti
+tongue: aaiwa
+tongue: aiwah
+tooth: maanga
+tooth: manyi
+tree: iya
+two: hivaa\u
+walk: qaanga g-u-\wi
+warm: ta hanga
+water: e\aa
+water: era
+we (incl.): nai
+what: pi\ya
+white: qapaahe\a
+who: to\o
+woman: aapaka
+yellow: hiviyata

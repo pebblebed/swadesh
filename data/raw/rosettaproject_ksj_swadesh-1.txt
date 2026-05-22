@@ -1,0 +1,402 @@
+all: niduʔa
+all: nidú\a
+and: ...dzu
+and: ...tu
+arm: ɛßorɛ
+arm: evóre
+ashes: ußahu
+ashes: uváhu
+at: (ne)ghana
+back: ɣaronɛ
+back: gharóne
+bad: sauʔa
+bad: sáu\a
+bark: (ire) ogágha
+bark: (ɪrɛ) ogaɣa
+belly: isi
+belly: isí
+big: boro
+big: bóro
+bird: níni
+bird: nɪnɪ
+bite: ßiho-nɛ-
+bite: viho-nE-
+black: ghú\a
+black: ɣuʔa
+blood: ru\u
+blood: rúú
+blow: ho-tE-
+blow: ho-tɛ-
+bone: isíne
+bone: ɪsɪnɛ
+boy: tahia komɛɣa
+boy: táhia komégha
+branch: (ire) ejhágha
+branch: (ɪrɛ) ɛžaɣa
+breast: nuné
+breast: nunɛ
+brother: éjhe
+brother: ɛžɛ
+brother: neko
+brother: néko
+burn: ho-fE-
+burn: ho-φɛ-
+butterfly: karabébe
+butterfly: karabibi
+butterfly: kɒrɒbebe
+cassowary: údi
+chest: óne
+chest: onɛ
+chin: ɣaɛnɛ
+chin: gháene
+cloud: ghójhe
+cloud: ɣožɛ
+cold: nahuga
+cold: nahúga
+come: ona-
+come: ona-
+cut: o-dɛ-
+cut: ßarɪ-ʔɛ-
+cut: vari-\E-
+daughter: aboe
+daughter: abóe
+dig: (haba) ho-\E-
+dig: ku-rE-
+dig: ku-rɛ-
+dog: ghúni
+dog: ɣunɪ
+drink: ga-gE-
+drink: ga-gɛ-
+dry: imira
+dry: ɪmɪra
+ear: tɛɣa
+ear: tégha
+earth: haba
+earth: hába
+eat: a-nE-
+eat: a-nɛ-
+eat: u-nE-
+egg: maɣa
+egg: mágha
+elbow: (ɛßorɛ) ʔaʔuʔa
+elbow: (evore) \a\u\a
+emu: udɪ
+eye: ubuma
+eye: ubúma
+fall: ɪbuwɛ-
+fall: ibuwE-
+fall: inike
+fall: inikE-
+far: faghano
+far: φaɣano
+father: mama
+father: máma
+fat (n.): iká
+fat (n.): ɪka
+fear: rɪha-nɛ-
+fear: riha-nE-
+feather: (nini) íkugha
+feather: (nɪnɪ) ɪkuɣa
+fight: utɪtɛ-
+finger: (ɛßorɛ) hutuʔa
+finger: (evore) hútu\a
+fingernail: (ɛßorɛ) uga
+fingernail: (evore) úga
+fire: ireróga
+fire: ɪrɛroga
+fish: ghojhóne
+fish: ɣožonɛ
+five: fú\o
+five: φuʔo
+float: ruhaoʔohɛ-
+flower: (ire) kakagha
+flower: (ɪrɛ) kakaɣa
+fly (n.): oféne
+fly (n.): oφɛnɛ
+fly (v.): lafianE-
+fog: ghójhe
+fog: ɣožɛ
+foot: (óda) rafágha
+foot: (oda) raφaɣa
+forehead: jhehére
+forehead: žɛhɛrɛ
+forest: dutu
+forest: dútu
+four: ɣažaga
+four: ghadzága
+fruit: (ire) mágha
+fruit: (ɪrɛ) maɣa
+full: iriaveha
+full: ɪrɪaßɛha
+give: emáiaro\i/dzéno\i/hanó\i
+good: manoɣa
+good: manógha
+grass: émi
+grass: imi
+hair: (ghuni) íkugha
+hair: íku
+hair: ɪku
+hair: one íkugha
+hair: onɛ ɪkuɣa
+hair: (ɣunɪ) ikuɣa
+hand: (ɛßorɛ) raφaɣa
+hand: (evore) rafágha
+head: ßadɪnɪ
+head: vadíni
+hear: eke-#E-
+hear: ɛkɛ-ɛ-
+heart: jhaméma
+heart: žamama
+heavy: aduka
+heavy: adúka
+here: adi-aɛ
+here: this\ + ae
+he/she: ani
+he/she: áni
+hit: ma-nE-
+hit: ma-nɛ-
+hit: utitE-
+hold: obo-nE-
+hold: obo-nɛ-
+house: ne
+house: né
+husband: ohožɛ
+husband: ohózhe
+I: ɛɣɛ
+I: éghe
+jaw: ɣaɛnɛ
+kill: veno-dE-
+knee: ehó
+knee: oφɛna
+know: iki-hE-
+lake: tu\ura
+lake: tuʔura
+laugh: eghofE-
+laugh: ɛɣoφɛ-
+leaf: (ire) rougha
+leaf: (ɪrɛ) rouɣa
+left: kaurɪ
+left: káuri
+leg: oda
+leg: óda
+lie: badze-
+lie: bažɛ-
+liver: ghúga
+liver: ɣuga
+long: fá-gha
+long: φaɣa
+louse: nomóne
+louse: nomonɛ
+man: ohózhe
+man: ohoǯe
+man: ßaže
+man: vázhe
+many: ɣɛhaɣa bagaɣa
+many: ghehagha bagagha
+moon: bato
+moon: báto
+morning: ohérebághu
+morning: ohɛrɛ baɣu
+mosquito: mudíre
+mosquito: mudɪrɛ
+mother: nanu
+mother: nánu
+mountain: maɣa
+mountain: mágha
+mouth: ɛbɛ
+mouth: hébe
+name: nɪ
+name: ni
+nape: unu
+nape: únu
+narrow: fá\igha
+narrow: φaʔɪɣa
+navel: imúle
+navel: imúri
+navel: ɪmulɪ
+near: futugha
+near: φutuɣa
+new: idzígha
+new: ižɪga
+night: ghoráva
+night: ohére
+night: ohɛrɛ
+night: ɣoraßa
+nose: jhajhóre
+not: mene
+not: mene + V
+old: mahiɣa
+old: mahígha
+old: roɣai ǯuhiʔa
+old: roghái zhuhí\a
+old: ßažɛ žuhɪʔa
+one: tɪba
+one: tíba
+other: ahóka
+pull: hutu-bE-
+pull: hutu-bɛ-
+push: du\i-nE-
+push: duʔi-nɛ-
+rain: irugu
+rain: irúgu
+red: kanaɣa
+red: kanágha
+right: ɛdaʔe
+right: edá\e
+ripe: hígha
+river: ßou
+river: vóu
+road: ebe
+road: íbi
+road: ibi ~ ebe
+root: (ire) táigha
+root: (ɪrɛ) taiɣa
+rope: mɛnɪ
+rope: mɛnɪ
+rope: meni
+rotten: luhuɣa
+rotten: luhúgha
+salt: inigá
+salt: ɪnɪga
+sand: niʔuri
+sand: ni\úri
+say: eho\i
+say: ghoe-rE-
+say: ɣoɛ-rɛ-
+scratch: ghuki-sE-
+scratch: ɣuki-nɛ-
+seed: (ire) ejhoga
+seed: (ɪrɛ) ɛžoga
+see: horo-nE-
+see: horo-nɛ-
+sew: bibi-ɛ-
+sharp: ɛʔaɣa
+short: fútu\a
+short: φutuʔa
+shoulder: héra
+shoulder: hɛra
+sing: bada he-\E-
+sing: jhávo
+sister: ejhéhe
+sister: ɛžɛhe
+sit: ehorE-
+sit: ɛhorɛ-
+skin: ahíri
+skin: ahɪrɪ
+sky: adúre
+sky: adurɛ
+sleep: badze-
+sleep: bažɛ-
+small: kobɛɣa
+small: kobégha
+smell: hoho-gE-
+smoke: ghísi
+smoke: ɣɪsɪ
+snake: móhe
+snake: mohɛ
+son: ubuae
+son: ubúae
+spit: ɪgu-tɛ-
+split: ʔaʔa-nɛ-
+stand: )
+stand: "arise
+stand: dudu-nE- (ø
+stand: edanE-
+stand: edanɛ-
+stand: ighunE-
+stand: "stand up (post) (tr.)
+star: bojhógha
+star: božoɣa
+stone: hadi
+stone: hádi
+straight: duduɣa
+straight: dudú-gha
+sun: mada
+sun: madá
+swell: menE-
+swim: ɣɛmabɛ-
+swim: ghemabE-
+swim: ruhao\ohE-
+tail: (ghuni) avágha
+tail: (ɣunɪ) aßaɣa
+take: ma-#E-
+take: ma-ɛ-
+that: omo
+there: omo-ae
+there: that\ + ae
+they: jhé(-ghe)
+they: žɛ(ɣɛ)
+thick: baruɣa
+thick: bárugha
+thigh: manɪnɛ
+thin: dzíghia
+thin: žɪɣɪa
+this: adi
+this: adi
+this: omo
+thou: ɣa
+thou: ghá
+thou: ǯa(ɣɛ)
+three: ughídu
+three: uɣidu
+throat: ogorabɪ
+throat: ogorábi
+throw: feu-nE-
+throw: φɛu-nɛ-
+tie: au-tE-
+tie: au-tɛ-
+tongue: majháne
+tongue: mažanɛ
+tooth: ghonóne
+tooth: ɣononɛ
+tree: ire
+tree: ɪrɛ
+tree: ɪrɛ gabaɣa
+tree: ɪrɛ mažaɣa
+turn: mirute-\E-
+turn: mirutɛ-ʔɛ-
+two: ahéu
+two: ahɛu
+vomit: mɪbuhɛ-tɛ-
+walk: onamE-
+walk: onamE-
+walk: onamɛ-
+walk: onamɛ-
+walk: turɛhɛ-
+warm: gégia
+warm: gɛgia
+wash: ßɪrɛ-
+wash: virE-
+water: ßou
+water: vóu
+we: ɛmɛɣɛ
+weep: nianE-
+weep: nianɛ-
+we (incl.): emé-ghe
+wet: abuta
+wet: abutá
+what: nagíni
+what: nagɪnɪ
+when: moe mada
+when: noɛ mada
+where: nou(ma)
+where: nou(ma)
+white: uruɣa
+white: urú-gha
+who: íniu
+who: ɪnɪu
+wide: raφaɣa
+wife: loɣai
+wife: loghái
+wind: jhavára
+wind: jhavára feu-
+wind: žaßara
+wing: iságha
+wing: ɪsaɣa
+woman: noghóne
+woman: novone
+woman: roɣal
+woman: roghái
+yellow: boraɣa
+yellow: borá-gha
+you: jhá(-ghe)

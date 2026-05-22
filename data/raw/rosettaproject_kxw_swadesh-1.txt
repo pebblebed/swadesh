@@ -1,0 +1,193 @@
+all: òlòfe
+all: ɔlɔfe
+arm: debuŋo͂
+arm: debungõ
+ashes: dësigɔ̃
+ashes: dʌsigɔ͂
+back: tabe
+back: tabe
+bark: hʌbe kɔlɔ
+bark: hëbe kòlò
+belly: gwòkò
+belly: gwɔkɔ
+big: heye
+big: heye
+bird: siò
+bird: siɔ
+bite: wòlu
+bite: wɔlu
+black: dësigɔ̃ dëgi
+black: dʌsigɔ͂ dʌgi
+blood: kafi
+blood: kafi
+bone: diò
+bone: diɔ
+breast: bu
+breast: bu
+burn: wòbòlu
+burn: wɔbɔlu
+cassowary: kwea
+claw: siò kati
+claw: siɔ kati
+cloud: mabi
+cloud: mabi
+cold: kulò
+cold: kulɔ
+come: hugwa
+come: hugwa
+dog: sò
+dog: sɔ
+ear: këhẽ
+ear: kʌhe͂
+earth: mëhĩ
+earth: mʌhi͂
+eat: nòlu
+eat: nɔlu
+egg: siò hò
+egg: siɔ hɔ
+emu: kwea
+eye: dihò
+eye: dihɔ
+father: aye
+father: aye
+fat (n.): gwësige
+fat (n.): gwʌsige
+feather: siò tòwe
+feather: siɔ tɔwe
+fire: dou
+fire: dou
+fish: mĩye
+fish: wi͂ye
+fly (v.): siò fuliòli
+fly (v.): siɔ fuliɔli
+full: ëmaò
+full: ʌmaɔ
+give: ne͂li
+give: nẽli
+good: bònòfĩ
+good: bɔnɔfi͂
+green: gëhẽ dëgi
+green: gʌhe͂ dʌgi
+hair: wudio towe
+hair: wudio towe
+head: wudio
+head: wudio
+hear: dulu
+hear: dulu
+I: a͂
+I: ã
+kill: wòlòyò
+kill: wɔlɔyɔ
+knee: hògwòtòu
+knee: hɔgwɔtɔu
+know: tɔwe͂
+know: tòwenh
+leaf: hʌbe gwɔ
+leaf: hëbe gwò
+leg: òbògɔ̃
+leg: ɔbɔgɔ͂
+lie: tiò-lu
+lie: tiɔlu
+long: sògò
+long: sɔgɔ
+louse: òũ
+louse: ɔu͂
+man: ò
+man: ɔ
+many: su
+many: su
+meat: hwi͂
+meat: hwĩ
+moon: ëgwò
+moon: ʌgwɔ
+mother: duò
+mother: duɔ
+mountain: bĩting
+mountain: bi͂toŋ
+mouth: mògau
+mouth: mɔgau
+name: hu͂
+name: hũ
+neck: gòbagi
+neck: gɔbagi
+new: gehe͂
+new: gehẽ
+night: sa nògulu
+night: sa nɔgulu
+nose: mòkwã
+not: miò
+not: miɔ
+one: tano
+one: tano
+rain: hweĩ tòlu
+rain: hwei͂ tɔlu
+red: ësĩ dëgi
+red: ʌsi dʌgi
+road: a
+road: a
+root: hʌbe tʌfʌla
+root: hùbe tëfëla
+say: tʌbulɔ
+say: tëbulo
+seed: kòlò
+seed: kɔlɔ
+see: dugulu
+see: dugu-lu
+shoulder: biyago
+shoulder: biyago
+sit: duò
+sit: duɔ
+skin: kòlò
+skin: kɔlɔ
+sleep: tuluò
+sleep: tuluɔ
+small: fafwi
+small: fafwi
+smoke: dahai
+smoke: dahai
+stand: tëfëla
+stand: tʌfʌla
+star: kwidihò
+star: kwidihɔ
+stone: yo
+stone: yo
+sun: ësò
+sun: ʌsɔ
+swim: hwei͂ suadi
+swim: hweĩ suadi
+tail: hʌbia
+tail: hëbia
+that: bukwe͂he͂
+that: bukwẽhẽ
+this: kwëhẽ
+this: kwʌhe͂
+thou: na͂
+thou: nã
+tongue: i
+tongue: i
+tooth: me͂
+tooth: menh
+tree: hʌbe
+tree: hëbe
+two: bënòu
+two: bʌnɔu
+walk: ili
+walk: lil
+warm: dëfi
+warm: dʌfi
+water: hwei͂
+water: hweĩ
+we: e͂gogo͂
+we: ẽgogõ
+what: kei͂
+what: keĩ
+white: fɔ̃ dëgi
+white: fɔ͂ dʌgi
+who: kòyòbẽ
+who: kɔyɔbe͂
+wing: tëfigai
+wing: tʌfigai
+woman: sësai
+woman: sʌsai
+yellow: biye dëgi
+yellow: biye dʌgi

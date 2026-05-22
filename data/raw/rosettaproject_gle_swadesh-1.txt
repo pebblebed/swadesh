@@ -1,0 +1,215 @@
+all: gach
+all: gach
+all: uile
+and: agus
+animal: ainmhí
+ashes: luaith
+at: ag
+back: droim
+bad: olc
+bark: coirt
+because: mar
+belly: bolg
+big: mór
+bird: éan
+bite: bain greim as
+black: dubh
+blood: fuil
+blow: ag síobadh
+bone: cnámh
+breast: cíoch
+breathe: análaigh
+burn: dóigh
+child: páiste
+cloud: scamall
+cold: fuar
+come: tar
+correct: ceart
+count: ag áireamh
+cut: gearr
+day: lá
+die: bás a fháil
+dig: tochail
+dirty: salach
+dog: madra, mada
+drink: ól
+dry: tirim
+dull: leadránach
+dust: deanach
+ear: cluas
+earth: talamh
+earth: talamh (as in earth, ground)
+eat: ith
+egg: ubh
+eye: súil
+fall: tit
+far: i bhfad
+father: athair
+fear: eagla
+feather: cleite
+few: cuid de/roinnt de
+fight: troid
+fingernail: ionga
+fire: tine
+fish: iasc
+five: cúig
+float:  snámhán
+flow:  ag líofa
+flower: bláth
+fly (v.): eitil
+fog: ceo
+foot: cos
+forest:  foraois, coill
+four: ceathair
+freeze: reoigh
+fruit: tortha
+full: lán
+give: tabhair
+good: maith
+grass: féar
+green: glas, uaithne
+guts: putógaí
+hair: gruaig
+hand: lámh
+head: ceann
+hear: clos
+heart: croí
+heavy: trom
+here: anseo
+he: sé
+hit: buail
+hold: beir
+horn: adharc
+how: conas
+hunt: fiach
+husband: fear chéile
+ice: leac oighir
+if: dá, má
+I: mé
+in: i
+kill: maraigh
+knee: glúin
+know: eolas a bheith agat air; aithne a chuir air
+lake: loch
+laugh: gáire
+leaf: duilleog
+left: clé
+leg: cos
+lie: luí
+live: cónaí a bheith air
+liver: ae
+long: fada
+louse: míol
+man: fear
+many: a lán
+meat: feoil
+moon: gealach
+mother: máthair
+mountain: cnoc
+mountain: sliabh
+mouth: béal
+name: ainm
+narrow: caol
+near: in aice le/ in éineacht le
+neck: muineál
+new: nua
+night: oíche
+night:  oíche
+night: óíche
+nose: srón
+not: ní
+old: sean
+one: aon, amháin
+other: eile
+person: duine
+play: imirt, súgradh, seinm
+pull: tarraing
+push: brú
+rain: báisteach
+red: deard
+red: dearg
+right: deas
+river: abhainn/sruth
+road: bóthar
+root: fréamh
+rope: rópa
+rotten:  lofa
+round: timpeall
+rub: cuimil
+salt: salann
+sand: gaineamh
+say: abair
+scratch: scrabh,  scríob
+sea: muir; farraige
+seed: síol
+see: feic
+sew: ag fuaigh
+sharp: géar
+short: gearr
+sing: can; abair
+sit: suí
+skin: craiceann
+sky: spéar
+sleep: codail
+small: beag
+smell: boladh
+smoke: deatach (n.), caith (v.)
+smooth: mín
+snake: nathair nimhe
+snow: sneachta
+some: roinnt de
+spit: smugairle
+split: scoilt
+squeeze: fáisc
+stab: sáith
+stand: seas
+star: réalt
+stick: bata
+stone: cloch
+straight: díreach
+suck: diúl
+sun: griain
+sun: grian
+sun: grian
+sun: grian
+swim: snámh
+tail: eireaball
+that: an... sin
+there: ansin
+they: siad
+thick: leathan
+thin: caol, tanaí
+think: smaoinigh
+this: an...seo
+thou: tú
+three: trí
+throw: caith
+tie: ceangail (v.), carbhat (n.)
+tongue: teanga
+tooth: fiacal
+tree: crann
+turn: cas
+two: dhá, a dó
+vomit: aiseag
+walk: siúl
+warm: te
+wash: ní
+water: uisce
+we: sinn, muid
+wet: fliuch
+what: cad, céard
+when: cathain
+where: cá, cén áit
+white: bán
+who: cé
+wide: leathan
+wife: bean chéile
+wind: gaoth
+wing: sciathán
+wipe: cuimil
+with: le
+woman: bean
+worm: cnuimh
+year: bliain
+yellow: buí
+you: sibh (plural)

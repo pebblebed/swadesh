@@ -1,0 +1,320 @@
+all: mukiʔ
+arm: ohovate
+arm: ohovate
+arm: ro\pe ohovate
+arm: roʔpe ohovate
+arrow: elese
+arrow: eresa
+ashes: lani
+back: mehene
+bad: goloso
+bad: orosa
+bad: orosa
+bark: galupo
+belly: morute
+belly: morute
+belly: mulo(no)
+big: namba
+big: nampa
+big: nampa
+bird: nama
+bird: nama
+bird: nama
+bite: (no)mbil(ive)
+black: gonombuʔ
+black: onompu
+black: onompu
+blood: vanisa
+blood: vanisa
+blood: vanise
+bone: amudzate
+bone: amudzate
+bone: amuzo
+boy: gipe
+breast: ami(ne)
+breast: aminte
+breast: aminte
+brother: akuna\ne
+brother: akunaʔne
+brother: uvo(loho)
+brother: uwo\neho
+brother: uwoʔneho
+burn: l(ave)
+cassowary: oroina
+chest: rosopate
+chest: rosopate
+child: izipe
+chin: ombuwo
+claw: tolovo
+cloud: limuso
+cloud: rimusa
+cloud: rimusá
+cold: hepeʔ (elave)
+come: ano
+come: ano
+come: (n)ø(ave)
+day: nivengaʔ
+die: fereka
+die: fereka
+die: hel(ave)
+dog: gulo
+dog: gura
+dog: gura
+drink: (no)n(ave)
+drink: nozo nosa
+drink: nozo nosa
+dry: gokoʔ (lave)
+ear: ga(la)
+ear: kate
+ear: kate
+earth: mekesupa
+earth: meké-supa
+earth: misumbo
+eat: (no)n(ave)
+eat: nozo
+eat: nozo
+egg: mulo
+elbow: (ana) ombuvo
+emu: oloni
+emu: oroina
+eye: (ve)le
+eye: vete
+eye: vete
+fall: lemo ong(ave)
+fall: veleheʔ (doʔmozi)
+father: me(leho)
+father: me\neho
+father: meʔneho
+fat (n.): avoza
+fat (n.): avoza
+fat (n.): gavozo
+feather: zopovo
+finger: mozovo
+fire: oloʔ
+fire: ro\
+fire: roʔ
+fish: alahaʔ
+fly (v.): patelo (vave)
+foot: gizate
+foot: gizate
+foot: gize(ne)
+forehead: golihi(le)
+forehead: orofite
+forehead: orofite
+forest: zauka
+forest: zauka
+full: vaiʔ (lave)
+girl: alungo
+girl: arukoma
+girl: arukoma
+give: (noni)m(ive)
+good: lamineʔ
+good: ramina
+good: ramina
+green: zavile
+hair: yoporate
+hair: yopórate
+hair: zopovo
+hand: a(na)
+hand: ante
+hand: ante
+head: gondo(lo)
+head: otote
+head: otote
+hear: gel(ave)
+hear: gireno
+hear: gireno
+heart: goʔmoho(lo)
+heavy: geni
+he/she: a(za)
+he/she: e(iʔ)
+he/she: -i
+hit: mbel(ave)
+house: numuna
+house: numuna
+house: numuno
+I: na(za)
+I: ne(niʔ)
+I: -u
+kill: mbel(e helave)
+knee: ombuvo(lo)
+knee: opuvate
+knee: opuvate
+know: gel(e neive)
+laugh: gize (ogave)
+leaf: abida
+leaf: abida
+leaf: avile
+leg: gize(ne)
+leg: hamunate
+leg: hamunute
+lie: ongo (neive)
+lip: vete monopova
+lip: vete monopova
+liver: gitihulu(no)
+liver: henive
+long: haʔna
+long: haʔna
+louse: silime
+man: ve
+man: ve
+man: ve
+many: mukiʔ
+many: vaiʔ
+meat: meʔmele
+moon: ike\na
+moon: ikeʔna
+moon: ikeʔni
+morning: nedengaʔ
+morning: nenengaʔ
+mother: ije\naho
+mother: ize(leho)
+mother: iǯeʔnaho
+mountain: golo
+mountain: gora
+mountain: gora
+mouth: ve(le)
+mouth: veteruru
+mouth: vetruru
+name: gulive
+name: gurine
+name: gurine
+neck: luvo(no)
+neck: rentete
+neck: rentete
+new: gosohoʔ
+night: holukaʔ
+nose: ote
+not: -mi
+not: oʔve
+old: eleni
+old: litehe
+old: vani
+one: hamoʔ
+person: eveneʔ
+rain: goline
+rain: orina
+rain: oriná
+rat: songoloni
+red: guleheʔ
+red: urahe
+red: ura-he
+road: aka
+road: a:ka
+road: aːka
+root: luhive
+rope: meʔnona
+round: vondo(vondo)
+sand: gepe
+say: l(ave)
+say: rokano
+say: rokano
+seed: gihile
+seed: zuho(niteʔ)
+see: ningkeno
+see: niŋkeno
+see: (no)ning(ive)
+short: ariʔniba
+short: liʔnimbe
+shoulder: atapate
+shoulder: atapate
+shoulder: gata(na)
+sing: namaroku
+sister: arune
+sister: arune
+sister: ate(laho)
+sit: (mitoʔ ne)ø(ive)
+sit: mitono
+sit: nito\no
+skin: okuʔ(no)
+sky: okuruma
+sky: okuruma
+sleep: ong(o neive)
+small: neraʔgoma
+small: neta\goma
+small: ngomo
+smoke: (so)kile
+snake: gosiheʔ
+snake: sataʔ
+spit: gutu (lave)
+stand: ot(ave)
+stand: oteno
+stand: oteno
+star: sonohi
+star: sonohi
+star: sonohiʔ
+stick: amuta
+stone: gefena
+stone: gefena
+stone: geheni
+sun: fo\i
+sun: foʔi
+sun: hoʔ
+swim: gulaʔnese (noizive)
+tail: avasuvo
+take: guminaku
+take: guminaku
+take: tokowodzo
+take: tokowodzo
+that: ne(ne)
+that: vole(ne)
+they: -a
+they: engiʔ
+they: ingi(ne)
+they two: -asi
+thigh: fumaite
+thigh: fumaite
+this: me(ne)
+thou: -an
+thou: ga(za)
+thou: ge(ʔi)
+thou: lengiʔ
+three: seto hamoʔ
+throat: ruvante
+throat: ruvante
+tomorrow: aizeʔ
+tongue: nahu(no)
+tongue: vete nahuna
+tongue: vete nahuna
+tooth: gavu(lo)
+tooth: vete amuja
+tooth: vete amuǯa
+tree: dza
+tree: dza
+tree: za
+two: sitaʔ
+walk: lotiʔ (noizive)
+walk: (no)mon(ive)
+walk: orurokovi
+walk: woozo
+walk: woːzo
+wallaby: lumbo
+warm: oloʔ (lave)
+water: nosa
+water: nosa
+water: noso
+weep: vezaku
+weep: vezaku
+we: la(za)
+we: le(liʔ)
+wet: gehe(gehe)
+we two: -usi
+we: -un
+what: na(ndove)
+when: na(ni)heʔ
+where: zala
+white: mokonoʔ
+who: zaho
+wind: hepeʔ
+wing: holokeʔni
+woman: vena
+woman: vena
+woman: veneʔ
+wood: gavoso
+wood: zalekeseni
+yellow: gihungoʔ
+yes: oː
+yesterday: aizeʔ
+yes: veː
+you: -a
+you two: -asi

@@ -1,0 +1,110 @@
+all: ɛ-
+all: ɪkírɪrɛ
+ashes: əməfú
+bark: ʊ́↓fíjáɲ
+belly: ɪfáɲ
+big: e-
+big: i-
+big: ogidí
+bird: ɛfɛ́n
+bite: gbom
+black: ó↓bíbí
+blood: ɪdʒá↓lám
+bone: ú↓ɓúwó
+breast: ißíjóɳʷ
+burn: tɔ́
+cloud: oɓutú
+cold: í↓níní
+come: jí
+die: wú
+dog: á↓ɓʊ́wá
+drink: ɲɔ́ɳʷ
+dry: kʊwá
+ear: ʊ́↓sɔ́w
+earth: ʊtɔ́
+eat: ɗí
+egg: ú↓kíjé
+eye: ʊ́ɳɔ́ áɗʊʷ
+fat (n.): ebír
+feather: ʊßʊ́↓ʊ́w
+fingernail: ʊßɛ́ ʊ́sírá ʊ́ɗɔ
+fire: í↓táɲ
+fish: esén
+fly (v.): ßɛ́ß
+foot: aßí
+full: ßʊwɔ́
+give: kɪjɛ́
+good: oßí
+green: aɗʊ́ áɓi ítáɲ wɔwɔ
+hair: ʊtʊ́
+hand: ʊɓɔ́
+head: utóm
+hear: suwené
+heart: ʊ́ɳʷɔ́íßom
+horn: ʊkpán
+I: mɛ́↓ɛ́
+kill: gbijé
+knee: okpókpúlóm ákɪ
+know: ɗerí
+leaf: ʊɓí ʊ́taɲ
+lie: iɳʷí↓íɲ
+lie: selene
+liver: əɗíjóm
+long: ɪ-
+long: ɛ-
+long: ɔgɔdɔ́
+louse: udúß
+man: ímómosi
+man: ɔ́mɔ́mcsɪ
+many: íkpólə
+meat: í↓tá
+moon: obə́↓ə́m
+mountain: í↓gú
+mouth: enú
+name: iní
+neck: ɪɲán
+new: ɔfáɲ
+night: asʊ́
+nose: ísúßeɲ
+not: kʊ́
+one: ɔßʊ́
+person: owé↓éj
+rain: ɔ́↓kpár
+red: atʊatú
+road: usúwéɲ
+root: ʊsɪnɛ́
+round: hihirə́ɲ
+sand: ʊkpɛ́↓kpílɛ́m
+say: kuwɛ́
+seed: ʊ́↓ɳʷɔ́
+see: mɔ́n
+sit: dʒə ʊ́ɔ
+skin: ʊ́táɲ ʊ́ɳʷɔ
+sleep: mɛsɛ́
+small: ímígbɛr
+small: mɛgbɛr
+small: ɔ́mɔ́gbɛr
+smoke: əməfú
+stand: hɪrá
+star: ʊsɛmɛ́sɛ
+stone: ohinɳʷ
+sun: ußúwó
+swim: jɔ́w
+tail: utúm
+that: ɔjɔ́ɔ
+this: ɔnáa
+thou: wɔ́↓ɔ́
+tongue: ʊɗɛ́m
+tooth: ʊkʊ́
+tree: ʊ́↓tɲ
+two: ißə́
+walk: reré
+warm: í↓tʊ́tʊ́
+water: amín
+we: ení
+what: imo
+white: ɔ́↓fʊ́fʊ́
+who: oßo
+woman: ímíßɪtam
+woman: ɔ́mɔ́ßɪtam
+yellow: aɗʊ́ ákɔm

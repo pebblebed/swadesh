@@ -1,0 +1,323 @@
+all: kúrɛ́ɲ
+animal: ǯ˗uṛu
+arm: d˗
+arm: d̪ɛ́y
+ashes: ǯ˗aːru
+back: d˗
+back: d̪˗ɔ́ṛɔ
+bad: gwu˗
+bad: ˗kkɛ́ɲ
+bark: g˗iya
+bark: ǯ˗
+belly: g˗aːrɛ
+belly: ǯ˗
+big: ˗bɔ́ːðɔ
+big: gu˗ ǯi˗
+bird: ɲí˗
+bird: ŋ˗iṛuwo
+bird: ŋ́˗ṛuwa
+bite: ŋiːn ŋə˗m˗ɛrum
+black: gw˗
+black: ˗úmə́náŋ
+blood: ŋ˗în
+blood: ŋʷvan
+blow: bud̪˗ád̪iǃ
+blow: wu˗ɒ́ðiǃ
+bone: ́l˗úyá
+bone: ŋ˗
+branch: d̪˗ŕná
+branch: r˗
+breast: ʌd̪u
+breast: ǯ˗ɛd̪u
+breathe: gwa˗gɛ́ːg˗əlɔ uːwa
+breathe: uːwa
+brother: máŋga
+burn: yá˗wud˗ɛ́
+calf: ð˗ɛṛɛ
+child: ɲ˗
+child: ŋ˗aːṛi
+claw: g˗ámun
+claw: ǯ˗
+cloud: ábáṛu
+cloud: ʌrbut̥
+cold: ˗íɲídíŋ
+come: ɪ́l˗áǃ
+correct: ˗arkɛɲ
+correct: gw˗
+count: d̪ul˗ɛ́d̪iǃ
+cut: d̪ɔ́g˗ɔǃ
+cut: mɛt̪
+cut: ṛúṛ˗d̪iǃ
+day: áɲɛnɛ
+day: l˗áːmun
+day: ŋw˗ɔ́ːmun
+die: m˗ay
+dig: kúr˗u
+dirty: g˗úmə́náŋ gaːnu
+dog: ɲ˗
+dog: ŋ˗iːn
+drink: y˗ûǃ
+dry: gw˗
+dry: ˗úndoŋ
+dust: ŋ˗ílâŋ
+ear: g˗ɛ́ːni
+earth: gw˗íyɔ́m
+ear: ǯ˗
+eat: ítt˗iǃ
+eat: rəg˗
+egg: l˗ɔ́ɲ
+egg: ŋw˗
+eye: g˗ɛ́y
+eye: ǯ˗
+fall: ma˗čál˗u
+far: gw˗ɔ́ːlaŋ gaːnu
+father: ˗ɲá
+father: baːbá
+fat (n.): ŋ˗ɛ́ːláʷ
+fear: gwu˗d̪aɲ˗ɔ
+feather: g˗ ~ d̪˗alaŋ
+feather: ǯ˗
+few: li˗
+few: ˗t̪ídɔŋ
+fight: pɛ́d˗ʊǃ
+finger: l˗aːmun
+fingernail: g˗amɔn
+fingernail: g˗aːmun
+fingernail: ǯ˗
+finger: ŋw˗
+fire: í(ː)gá
+fish: l˗ʊːm
+fish: ŋ˗
+five: t̪ɔ́ːd̪ánɛ
+float: gw˗índ˗i ŋaẃ˗lɔŋ
+flower: l˗áwur
+flower: ŋw˗
+flow: ŋ˗ad̪˗ɔðɔ gaːlu
+fly (v.): ŋ˗á˗dír˗í kɛɲɛn
+fog: ǯábáṛú
+foot: l˗aːra
+foot: ŋw˗
+four: kwɔṛɔŋ
+fruit: ɲ˗
+fruit: ŋ˗aːṛi
+full: gw˗áɲɛ́ðɔ
+give: d̪ɛ́˗d̪iǃ
+good: d̪i˗
+good: gwʊ˗
+good: ˗(ŋ)ŋír
+grass: ŋ˗árúm
+green: gw˗
+green: ˗igəlɔŋ
+guts: č˗ú
+hair: ð˗ɔla
+hair: ʌṛu
+hand: g˗írgɛ
+hand: ɟ˗ɪrɪgɛ
+hand: ǯ˗
+head: ŋʷ
+head: ṛá
+hear: dáŋ˗ə́nuǃ
+heart: d˗
+heart: d̪˗ugɪrɛ́
+heavy: gw˗
+heavy: ˗úní)
+here: ˗ɛ
+here: ˗ɛno
+he/she: ŋu˗
+he/she: ŋu˗
+he/she: ŋûn
+he/she: ŋûn
+he/she: ˗u
+he/she: ˗u
+he/she: ˗uŋun
+he/she: ˗uŋun
+hit: píð˗iǃ
+hole: l˗úßúṛɔ
+hole: ŋ˗
+horn: l˗ʊːba
+horn: ŋ˗
+house: ŋú˗dun
+hunt: g˗ɛ́ːnâ
+husband: gwumya
+I: ɲi
+I: ˗i
+I: i˗
+I: ˗iɲi
+kill: gw˗á˗riɲ˗ɛ
+kill: ma˗liɲ˗ɛ
+knee: ŋú˗rkɔ́
+knee: r̀kɔ́
+know: gwu˗liŋ˗íːd̪i
+lake: lí˗búŋ
+lake: ŋu˗
+laugh: akíúw ǯ˗úmmaŋǃ
+leaf: g˗ɛ́ːni
+leaf: ǯ˗
+left: d̪˗awur
+leg: l˗aːra
+leg: ŋw˗
+lie: ǹdr˗ɔǃ
+live: gu˗mɛ˗d̪ɔ
+live: gw˗it̪˗iǯ˗ɛ
+liver: áwɛ
+liver: ǯ˗
+long: d˗
+long: gw˗
+long: ˗ɔ́ːláŋ
+louse: g˗ámul
+louse: ǯ˗
+man: gw˗ʊ́mmea
+man: l˗
+many: l˗
+many: ˗úttuŋ
+meat: ǯ˗íd̪i
+moon: l˗
+moon: uwa
+mother: náːna
+mountain: l̀˗rɔgɔm
+mountain: ŋu˗rgɔm
+mouth: l˗úɲú
+mouth: ŋ˗
+name: y˗iːriŋ
+narrow: g˗
+narrow: ˗úmmáŋ gaːnu
+neck: gú˗rɔ́m
+neck: ŕ˗
+new: gw˗
+new: ˗íyâŋ
+night: g˗ílíyəŋ
+old: g˗
+old: ˗ɔːṛɔ̂n
+one: gwɛːdɔŋ
+person: gw˗iǯi
+person: l˗
+play: rít̪˗ɔǃ
+pull: gəlúd̪í
+push: ub˗ád̪iǃ
+rain: g˗âw
+rat: gw˗uri
+red: gw˗
+red: ˗ur(r)ɛɲ
+right: d̪˗íŋɛr
+river: kiǯɔ̂y
+river: kwɔ̂y
+road: d̪˗áy
+road: ŋw˗
+root: d˗
+root: d̪ə˗rɔ
+rope: d˗
+rope: d̪˗ár
+rotten: dɛ́ːŋɛṛu
+rotten: gu˗
+round: gwu˗
+round: ˗ridɔŋ
+rub: ɔba˗ðígalɔǃ
+salt: l˗uco
+salt: ŋ˗úča
+sand: amuṛu
+say: aːr˗uǃ
+say: umm˗ád̪íǃ
+scratch: ɲáŋ˗uǃ
+see: aŋ˗ɛ́diǃ
+seed: ɲ˗
+seed: ŋ˗aːṛi
+sew: úkṛɔǃ
+sharp: ˗ɛ́rɛd̪u
+sharp: g˗
+short: ˗ɔbədá gaːnu
+shoulder: g˗əbo
+sing: ɛ́ːlúŋ˗ɔ́ǃ
+sit: ǯ˗áːluǃ
+skin: g˗ərna
+skin: ǯ˗
+sky: kɛɲɛ́n
+sleep: ǹdr˗ɔǃ
+small: gu˗
+small: ˗ttí
+small: ǯi˗
+smoke: g˗úlúm
+smooth: gw˗
+smooth: ˗um̀rɛɲ nɔːnɔ
+snake: d̪˗uŋa
+snake: ǯ˗
+snow: l˗ʊrʊm
+split: baɲ˗ɛ́d̪i gaːnu
+squeeze: awá˗d̪i gaːluǃ
+stand: t̪úd̪ún˗uǃ
+star: l˗úrɔ́m
+star: ŋ˗
+stone: g˗ádɔl
+stone: ǯ˗
+straight: gw˗at̪u gw˗apə́ ganu nɔ
+suck: ɛɾuǃ
+suck: mún˗uǃ
+sun: áɲɛ́n
+swell: ma˗apíṛ˗i
+swim: li˗pín˗u
+tail: lɛ˗pɛ́r
+tail: ŋu˗
+take: ápp˗uǃ
+there: ˗ɔ
+there: ɔnɔ
+there: ˗uwei
+they: ˗agɛn
+they: ŋaːgɛn
+thick: bɔðɔ nɔːnɔ
+thin: ˗ddrá
+thin: gwu˗
+think: arab ʟ.w.
+thorn: ð˗ugi
+thou: ˗alɔ
+thou: ɲaːlu
+thou: ŋa
+thou: ˗ɔna
+three: t̪ɛ́ṛɛl
+throw: məṛ˗íd̪iǃ
+tie: kak˗éuǃ
+tongue: d˗
+tongue: d̪˗ɛ́ŋɛ́lá
+tooth: l˗áŋát̪
+tooth: ǯ˗íŋátq
+tree: gw˗aːṛɛ
+tree: n˗
+turn: wúrl˗ɔ gaːnuǃ
+two: gutʌn
+vomit: wɛ́˗d̪iǃ
+walk: gw˗índ˗i
+walk: índ˗iǃ
+warm: ŋ˗
+warm: ˗úbúðu
+wash: wɛ́˗uǃ
+water: ð˗el
+water: ŋ˗âw
+we (excl.): ɲɛri
+we (excl.): ɲɛri
+we (excl.): ˗əri
+we (incl.): ˗agɛ
+we (incl.): ˗agɛ
+we (incl.): ɲaːne
+we (incl.): ɲaːne
+we (incl.): liŋo
+we (incl.): liŋo
+wet: ˗ígə́lɔ́ŋ nɔːnɔ
+what: gurɔ́
+when: ǯád̪û
+where: káŋ
+white: gw˗
+white: ˗ukrɛ́
+who: ad̪rígúrɔ
+wide: g˗
+wide: ˗úːrá gaːnu
+wife: gw˗á
+wife: l˗
+wind: d̪˗ə́rɔn
+wing: g˗íbɔ́
+wing: ǯ˗
+wipe: mɔ́ǯ˗ɔǃ
+woman: gw˗á
+woman: l˗
+wood: d̪˗ɔ́
+wood: d˗ɔ́a
+worm: gw˗ɔ́ndɔ́lɔ
+worm: l˗
+year: g˗id̪ilíáw

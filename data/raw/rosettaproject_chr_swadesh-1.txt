@@ -1,0 +1,35 @@
+all: Nigadv
+and: Ale / Nasmu
+ashes: Digosdu
+back: Oniditlv
+bad: Uyoi
+because: -yeno
+big: Utanv
+bird: Jisqua
+black: Gvnage
+blood: Giga
+bone: Gola
+burn: Ajilvtodi
+child: Ayotli
+cloud: Unole
+cold: Uyvtli
+come: Nehena
+correct: Doyugadv
+day: Iga
+die: Ayohuhisdi
+dig: Godesdi / Ajiyelvniska
+dirty: Gadaha
+dog: Gitli
+drink: Aditasdi
+dust: Gosdu
+ear: Galeni
+earth: Elohi / Gada
+eat: Agisdi
+egg: Uweji
+eye: Atoli
+far: Gei
+father: Adoda
+feather: Ugidatli
+few: gayotli
+fire: Ajila
+fish: Ajadi

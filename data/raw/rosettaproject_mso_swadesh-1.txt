@@ -1,0 +1,589 @@
+all: dummorom
+all: tònteghe
+all: tontɛxɛ
+ankle: mop kumbögh
+ankle: mop kumböx
+arm: bukur
+arm: bùkur
+arm: endjöwòn
+arm: ɛnǯöwon
+arrow: wöxɛ
+ashes: imud
+ashes: imùd
+back: urigh
+back: urigh tögh
+back: urix
+back: urix töx
+bad: eruburtu
+bad: ɛruburtu
+bark: tu par
+bark: tu par
+belly: put
+belly: put
+big: namar
+big: nangar
+big: nemùr
+big: neŋgör
+big: nenggör
+bird: kondjì
+bird: konǯi
+bite: mekaraw-
+bite: mekaraw-
+bite: zil
+bitter: siar
+bitter: sìar
+black: sortògh
+black: sortox
+blood: iri
+blood: irì
+bone: itögh
+bone: itöx
+boy: nam monokor
+boy: nam monokor
+branch: to-kange
+branch: tu-kangk
+branch: tu kaŋk
+breast: apwügh
+breast: apwügh mömögh
+breast: apwüx-mömöx
+breast: opwüx
+breathe: id gaz-
+breathe: id gaz-
+brother: agha
+brother: agha-nègh
+brother: axa
+brother: axanɛx
+burn: domu
+burn: -domu-
+butterfly: buri-baŋgam
+calf: inabögh
+calf: inöböx
+calf: itögh
+calf: itöx
+cassowary: kài
+cheek: ghambòl
+cheek: xambɔl
+chest: keghèn
+chest: kɛxɛn
+child: enyi
+child: hurbombo
+child: nin
+chin: amutè
+chin: amutɛ
+cloud: yegi
+cold: yɛpwi
+cold: yepwì
+come: terer-
+come: terer-
+correct: tiwor
+crocodile: karamo
+crocodile: kàramo
+cut: fàgha-
+cut: ngoyareb
+dance: sadé
+dark: kabwar
+dark: kuber
+dark: kubèr
+daughter: ɛnyi itöm
+daughter: enyi itöm
+day: fèra-fèra
+day: wòte-zawe
+day: wòte-zàwe
+day: wotɛzawɛ
+die: mborowi-
+die: mborowi-
+die: nam mborow
+die: nam mborow
+die: yew-
+dig: ho
+dig: ta
+dig: ta-
+dog: ipwi
+dog: ipwì
+drink: mainak
+drink: nuku-
+drink: nuku-
+drink: sakodere
+dry: ghwarào
+dry: maimbasuré
+dry: xwarao
+ear: ipar
+ear: ìper
+ear: ipɛr
+earth: mbam
+earth: puwwe
+earth: sa
+earth: sire
+earth: tumor
+earth: tumor
+earth: tùmor
+earth: tumòr
+ear: undji
+eat: noku
+eat: nuku-
+eat: nuku-
+egg: yausil
+egg: yaùsil
+elbow: ismbun
+elbow: ismbun
+elbow: izimbun
+elbow: ton
+emu: kai
+excrement: ar
+excrement: ar taw-
+eye: muri-nam
+eye: musigh-nam
+eye: musigh-sin
+eye: musix-nam
+eye: musix-par
+eye: musix-sin
+eye: mus-kumbögh-sin
+eye: mus-kumböx-sin
+face: ayemor
+face: šamol
+face: shamòl
+fall: fàgha-
+fall: nabënë
+far: cholwo
+far: tamalwai
+far: tumorwal
+far: tumorwal
+father: imb
+father: imb
+fat (n.): mer
+fat (n.): mɛr
+fear: to(-to)
+feather: chin
+feather: sin
+feather: sin
+finger: anggu nenggèr
+finger: aŋgu nɛŋgɛr
+finger: anggu tarapòr
+finger: ghwagh natum
+finger: kangk
+finger: kaŋk
+finger: kwaite
+fingernail: muŋgu
+fingernail: munggù
+finger: xwax natum
+fire: wad
+fire: wad
+fire: wad domu-
+fish: yangj
+fish: yangk
+fish: yaŋk
+five: ghupanumör
+flower: anggin
+flower: aŋgin
+fly (n.): sìnogho
+fly (n.): sinoho
+fly (n.): sinoxo
+fly (v.): gawdetere
+fly (v.): meghutubna-
+fly (v.): mexutubna-
+foot: kang(k)
+foot: kaŋk un
+foot: kauk
+forehead: eidow
+forehead: éydòw
+forehead: eǯow
+forest: totow
+forest: totòw
+four: arögh
+four: aröx
+fruit: šɛt
+fruit: shet
+full: köwɛ
+girl: mburumbur
+girl: yet-monokor
+girl: yɛt monokor
+give: dey-
+give: déy-
+give: uwe
+good: simor-angib
+good: tiwor
+good: tiwor
+grass: ghu
+guts: ko-p(o)ri
+guts: kopri
+guts: kopri
+hair: gu-sin
+hair: koshin
+hair: sin
+hair: sin
+hair: xu-sin
+hand: bukur
+hand: bukur
+hand: ghwagh
+hand: kwal
+hand: xwax
+head: untrom
+head: wondrum
+head: wondrùm
+head: wondrum itogh
+hear: mbedewel
+heart: idumo
+heart: šɛt
+heart: shet
+hear: züw
+hear: züw
+heavy: zakoi
+heavy: zakwe
+heavy: zàkwe
+heel: kangk un
+he/she: aanggìb
+he/she: anggam
+he/she: aŋgib
+he/she: ɛwɛy
+he/she: -i
+hit: idowo
+hit: irow
+hit: iröw-
+hit: kuy
+hole: maraw
+house: vokörà
+house: wokera
+house: woköra
+house: wokörà
+husband: nèt
+husband: ombo
+husband: umb
+husband: umb
+I: mo
+I: nɛy
+I: nu
+I: nu
+I: -u
+kangaroo: nar
+kill: yɛw-
+kill: yow
+knee: yoghomögh
+knee: yohomo
+knee: yoxomöx
+know: purte
+know: zöf tu ko
+know: zöf tu ko
+lake: zomb
+laugh: mešir u-
+laugh: mesyir u-
+laugh: necheru
+leaf: èpur
+leaf: ɛpur
+leaf: to-pur
+leg: kangk
+leg: kaŋk
+lie: ghöröghna-
+lie: taine
+lie: xoröxna-
+lightning: wàndjir
+lightning: wanǯir
+lightning: wonjhir
+lip: auru-par
+lip: auru-par
+lip: ruppar
+live: mɛšɛrna-
+live: mesyerna-
+liver: idumu
+liver: ìdumu
+long: ghaif
+long: ghew
+long: xaif
+louse: am
+louse: am
+louse: itere(k)
+man: idub
+man: nam
+man: nam
+man: nam
+man: nam
+man: omb
+many: ndomrom
+many: ndomrom
+meat: zuru
+meat: zürügh
+meat: zürügh
+meat: zürüx
+moon: irinche
+moon: irìndj
+moon: irinǯ
+morning: imbu-kaxab
+mosquito: yol
+mosquito: yol
+mother: ap
+mother: ap
+mountain: tumor ieatör
+mountain: tumor iéàtör
+mountain: tumor-yéatör
+mouth: ghatawòn
+mouth: xatawɔn
+name: ur
+name: ur
+nape: mbaku
+nape: mbaku
+navel: undjer
+navel: unǯɛr
+near: awontarapor
+near: awon-tarapor
+near: wontab
+neck: dömön
+neck: dömön
+new: eringgib
+new: ɛriŋgib
+new: monokor
+new: mònokor
+new: ringib
+night: eldzhen
+night: kubèr
+night: kubɛr
+night: yohodom
+nose: mene
+nose: menögh
+nose: menögh maràw
+nose: menöx maraw
+old: kàgha
+old: porönga
+old: poröŋa
+old: poröŋa
+old: poröngà
+old: yɛwib
+old: yewon
+one: te
+one: tɛ
+one: temta
+person: nam
+person: nam
+person: omb
+play: ud-
+push: jhupiserowo
+rain: mun
+rain: mun
+rat: ghömör
+rat: noghór
+rat: noxor
+rat: yɛwri
+rat: yewrì
+red: warta
+red: wàrtögh
+red: wartögi
+ripe: muni
+ripe: muni
+river: ariki
+river: ɛriki
+river: erikì
+road: maraw
+root: dödör
+root: dödör
+root: to-drudr
+rope: mar
+rope: mar
+sand: sir
+sand: sir
+sand: yondinche
+say: döm-
+say: döm-
+say: dum
+say: zagh-
+say: zax-
+sea: yama
+see: pegher-
+see: pexer-
+sew: ze-
+sharp: menesir
+sharp: menesìr
+short: ghàdkembere
+short: hadkambere
+short: xadkɛmbɛrɛ
+shoulder: mirim
+shoulder: mirim
+shoulder: urob
+sing: ragu
+sing: šadɛy-
+sing: shadey-
+sister: agha-nègh
+sister: apob
+sister: apob
+sister: axanɛx
+sit: imšɛb-
+sit: ims(h)eb-
+skin: depar
+skin: par
+skin: par
+sky: ngalaw
+sky: yɛgi
+sky: yegì
+sleep: namume
+sleep: tay-
+sleep: tay-
+small: sesjen
+small: tarapor
+small: tarapòr
+small: thaborom
+smell: murun tɛxɛ ko
+smell: murun-zöw
+smoke: unowur
+smoke: unowur
+snake: kanyumbe
+snake: kɛnimbo
+snake: kenìmbo
+son: enyi maram
+son: ɛnyi maram
+sour: siar
+sour: sìar
+spit: mitào
+spit: mitào tubi-
+spit: mitaw
+spit: xu kaw-
+split: šawmow-
+split: šawn-
+stand: iperèd-
+stand: ipɛrɛd-
+stand: ndiye
+stand: zetjerèd-
+star: mbaram
+star: mberèm
+star: mbɛrɛm
+stick: ghé
+stick: kamb
+stone: mate
+stone: metè
+stone: mɛtɛ
+straight: ponmor
+straight: ponmor
+suck: apwügh mwe nukmow-
+suck: apwügh mwe nuku-
+suck: apwüx mwe-nuku
+suck: imüx-
+sun: dzowa
+sun: zawa
+sun: zawà
+sun: zowa
+sweet: me
+sweet: ndzhem
+swim: nggushebeyna-
+swim: papow
+tail: pi
+tail: pi
+tail: pi
+take: daraw
+take: daxana-
+take: dazhana
+take: ghweti
+take: nareiro
+take: wagh u-
+take: wax u-
+take: woy
+they: -a
+they: anemrè
+they: anɛmrɛ
+they: anɛmrɛy
+they: tonta
+thick: mùghtenè
+thick: muxutɛnɛ
+thigh: gharewögh
+thigh: xarɛwöx
+thin: früfür
+thin: früfür
+think: mɛnif damöndö
+think: menif dàmöndö
+think: minif (
+thin: kowdar
+think: thought-accompany
+thorn: tu mopèngk
+thorn: tu mopɛŋk
+thou: -im
+thou: imwɛy
+thou: iwɛy
+thou: yo
+thou: yu
+thou: yu
+thou: yum
+three: inis
+three: inìs
+throat: kerèndjeram
+throat: kerèndjeram
+throat: kɛrɛnǯɛram
+throw: sarewo
+throw: sjeruw
+thunder: gigi
+thunder: gìgi
+thunder: matterë
+tie: kumbu
+tie: kumbu
+tie: kumbu-
+tie: kumbu-
+today: wotey
+tomorrow: imbu
+tomorrow: ìmbu
+tongue: dupen
+tongue: dupɛn
+tongue: duppan
+tooth: zid
+tooth: zigh
+tooth: zil
+tooth: zix
+tree: to
+tree: tu
+tree: tu
+tree: zuroghod
+two: kumb
+two: kumb
+unripe: kob
+unripe: kob
+vagina: men
+vagina: men
+vomit: mɛmori u-
+walk: mondorwotey-
+walk: mondorwotey-
+walk: yato
+wallaby: nar
+warm: umo
+warm: wom
+warm: wom
+wash: ar
+wash: mai-zoradju
+wash: mwe-yungguna
+wash: mwe yuŋguna-
+wash: mwezax-
+water: moi
+water: mwe
+water: mwɛ
+weep: banb u-
+weep: mambu
+weep: mombögh
+weep: momböx
+weep: namb u-
+we: nom
+we: num
+we: num
+we: numwɛy
+we: -om
+wet: maitanab
+wet: poŋgɛnɛ
+wet: punggene
+white: purubur
+white: puru-bur
+white: pùru-bur
+wide: paxan
+wife: awomb
+wife: et
+wife: ɛt
+wind: zuru
+wind: zuru
+wing: teghè
+wing: tɛxɛ
+woman: idöb
+woman: idöb
+woman: idub
+woman: yet
+woman: yɛt
+wood: tu
+wood: tu
+wood: waw
+wood: waw
+yesterday: wambi
+yesterday: yoghoy
+yesterday: yoghòy
+yesterday: yowé
+you: -om
+you: ya-mu
+you: yu-m

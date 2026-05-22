@@ -1,0 +1,144 @@
+all:  smasnil
+ashes:  te ta\aŋ
+bark:  jocb\al te\
+big:  niwquil
+bird:  ch\ic
+bite:  chi\a
+black:  q\uic\
+blood:  chiq\uil
+blow:  utz\j
+bone:  b\ac
+breast:  im
+burn:  tz\a\i
+child:  \unin
+cloud: asun
+cold: sic
+come:  jaw
+cut:  tzuc\w
+day:  c\u
+die:  chami
+dig:  joyo
+dog:  tz\i\
+drink:  ucj
+dry:  taquin
+dust:  pojoj
+ear:  chiquin
+earth:  lu\um
+eat:  wa\i
+egg:  ŋolob\
+eye:  yol sat
+fall: \em ta
+far:  najat
+fat (n.):  mantca\
+fear:  xiwi
+feather:  xil
+fingernail: ech
+fire:  c\ac\
+fish:  chay
+five:  o\e\
+fly (v.):  jeŋw
+fog:  q\uicl \asun
+foot:  oc
+four:  chaŋe\
+fruit:  sat
+full:  b\utji
+give:  ac\
+good:  wach\
+green:  yax
+hair:  xil jolom
+hand:  c\ab\
+head:  jolom
+hear:  ab\i
+heart:  pixan
+heavy:  al
+here:  atic
+hit:  mac\a
+horn:  ch\a\ac
+how?:  chajl
+husband:  ichmil
+I:  in
+kill:  mila\
+knee:  jolm penec
+know:  ojc
+lake:  pama
+laugh:  tz\ewji
+leaf:  xil te\
+left:  sarito
+lie:  ec\ cotan
+liver:  seyub\
+long:  najt
+louse:  uc\
+man:  winac
+meat?:  chib\j
+moon:  \uj
+mountain:  witz
+mouth:  ti\
+name:  b\i
+near:  lac\an
+neck:  jaj
+new:  ac\
+night:  ac\wal
+nose:  ŋi\
+one: jun
+other:  jun xo
+person:  anma\
+pull:  toc\o
+rain:  puch  nab\
+red:  chac
+right:  wach\ c\ab\
+river:  niwn a\
+road:  b\e
+root:  ch\aŋl yip
+rope:  ch\aŋ
+rope:  ch\aŋ
+rotten:  c\a·el
+round:  pilan
+sand: poc
+say: chi
+seed:  iŋat
+see:  wila\
+sing:  b\itni
+sit: \em wocan
+skin:  tz\umal
+sleep:  wayaŋ
+smell:  yune
+smoke:  tab\
+stab: olo
+stand:  q\ue liŋan
+star:  c\anal
+stone: cha\
+stone:  q\ue\en
+suck:  tz\ub\u
+sun:  c\u
+swell:  niw tji
+swim:  \achni
+tail:  y℮
+that:  jun...cha
+there:  acha
+thick: pim
+thin:  xaxo
+this:  jun...tic
+thou:  ach
+tongue:  ac\
+tooth: e
+tooth: e
+tree:  te\
+two:  cha\ab\
+walk:  b\ey
+warm:  c\ac\l
+wash:  b\ic
+wash: juc
+water:  a\
+we:  oŋ
+wet:  jich\
+what: tas
+when?:  b\ac\n
+where?: \ajtil
+white:  sac
+who:  mach
+wife:  istzil
+woman:  cob\s ix
+woman: \ix
+year: \ab\il
+ye:  extìc
+yellow:  c\an

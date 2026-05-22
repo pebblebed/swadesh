@@ -1,0 +1,216 @@
+ankle: taṇṭ
+arm: maɹ̣ak
+ashes: yuṭ
+back: muḷan̪
+back: pukaḷ
+bad: waɹ̣a ~ woɹ̣a
+belly: kapuḷ
+belly: kopuḷ
+belly: kopuḷ
+big: kumpa(ɹ̣)
+black: muṇ
+blood: ŋup ~ ŋop
+bone: kwet̪
+bone: t̪ulur
+boy: nop
+breast: pip
+brother: ŋun
+brother: ŋunt
+burn: naɹ̣in̪
+butterfly: pinti-pinti
+calf: wulit̪ ~ wuḷit̪
+cheek: kal̪kat
+chest: ŋuṇṭ
+child: kat̪a
+child: kuḷoŋ
+child: nop
+child: nop
+chin: yet
+claw: piɹ̣(i)
+cloud: mar
+cold: n̪itin̪
+come: paṇin̪
+cut: wantaŋin̪
+dark: muṇ
+die: not̪
+die: piku
+dig: penin̪
+dirty: minta-minta
+dog: t̪akin̪t̪u
+dog: tweṭ
+drink: ŋanin̪
+dust: put̪ur
+earth: put̪ur
+ear: toŋka
+ear: twaŋk
+eat: ŋanin̪
+egg: nuɹ̣uk
+elbow: ŋoy
+emu: wet̪
+eye: mimpiṇ
+eye: miŋeṇ
+eye: miyal
+eye: miyel t̪uwin̪
+face: mul̪maɹ̣i
+far: pu-
+far: pukut̪
+father: mam
+few: mo
+fight: pat̪ar
+finger: ŋaŋkaṇ
+finger: piɹ̣i
+fire: kaḷa
+fire: wat̪an
+foot: maṭ
+foot: miḷ
+foot: mon
+foot: t̪en ~ t̪in(a)
+forehead: mimpiṇ
+forehead: yimuŋk
+forest: t̪aɹ̣il̪maɹ̣i
+four: kut̪al-kut̪al
+full: muɹ̣aṭ
+girl: yok nop
+give: yaŋin̪
+good: kwop
+hair: kat t̪umpuɹ̣
+hair: kat t̪uwin̪
+hair: ŋal̪ t̪umpuɹ̣
+hand: maɹ̣(a)
+head: kat(a)
+hear: ŋaŋk wanin̪
+heart: kuṭ
+he/she: pal
+he/she: palan̪
+he/she: palaŋ
+hit: pamin̪
+hold: paɹ̣aŋin̪
+house: may
+house: maya
+house: ŋawuṭ
+I: ŋan̪
+I: ŋan̪(an̪)
+I: ŋan̪(aŋ)
+I: ŋet̪
+kangaroo: maḷu
+kangaroo: yoŋka
+kill: wantaŋin̪
+knee: punit̪ ~ ponit̪
+laugh: kawin̪
+left: t̪uwuḷ
+leg: maṭ
+lie: ŋuṇin̪
+lip: men
+liver: mayoɹ̣
+louse: kul
+man: mam
+man: mam
+man: n̪uŋaɹ̣
+many: pulaɹ̣aŋ
+meat: kukunt̪aɹ̣i
+meat: mantu
+meat: tat̪
+meat: t̪uru
+moon: meyak ~ miyak
+mother: ŋaŋk
+mouth: t̪a
+nape: naṇak
+navel: pil̪
+neck: naṇak
+new: kun̪at
+not: puṭ
+not: yuwat
+old: kapaḷi
+old: man̪t̪aŋ
+old: pampul
+one: ken̪
+rain: kep
+rain: kep poɹ̣uŋin̪
+rain: mit̪al
+rain: mit̪alin̪
+right: ŋuṇmuṇ
+road: t̪uɹ̣uṭ
+say: makin̪
+scratch: penin̪
+see: t̪inaŋin̪
+see: t̪inaŋin̪
+shoulder: ŋiḷ
+sister: t̪uk
+sit: n̪inin̪
+sky: woḷ
+sleep: nukeṭ ŋuṇṭin̪
+smoke: kaḷ puy
+smoke: kir
+snake: ŋepaṭ
+snake: nuṇ
+spit: tel̪
+stand: yakin̪
+star: mal̪eṇ
+star: t̪intaŋ
+stone: poy(a)
+suck: ŋanin̪
+suck: pip ŋanin̪
+sun: munak
+sun: yokaṭ
+sweet: ŋuk
+swim: wiṇ-wiṇalin̪
+that: al-
+that: pal-
+they: palap
+they: palapaŋ
+they: palapin̪
+they two: kut̪al
+thigh: yat̪
+think: ʟatin̪
+thin: kwet̪
+this: ni-
+thou: n̪inak
+thou: n̪inin̪
+thou: n̪intak
+thou: n̪unak
+thou: n̪unan̪
+thou: n̪unaŋ
+thou: n̪un(t)akat
+thou: n̪unuṭawaḷ
+thou: n̪unuṭin̪
+three: maṭin̪
+throat: waḷak
+throat: woṭ
+tie: yutinin̪
+today: yey
+tomorrow: penaŋ
+tongue: t̪aḷin̪
+tooth: ŋoḷak
+tree: puṇ
+two: kut̪al
+walk: mutuŋin̪
+walk: paṇin̪
+walk: yakulin̪
+wallaby: waɹ̣aŋ
+warm: kaḷaŋ
+warm: tuwit̪
+warm: woṭan̪ak
+water: kapi
+weep: mel̪an
+weep: walin̪ ~ welin̪ ~ wulin̪
+we (excl.): ŋaḷiwaḷ
+we (incl.): ŋaḷakawaḷ
+we: ŋaḷan̪
+we: ŋaḷaŋ
+we two (excl.): ŋaḷ
+we two (incl.): ŋaḷak
+we two (incl.): ŋaḷan̪
+we two (incl.): ŋaḷaŋ
+what: nal
+what: nat̪
+what: wa
+where: wa
+where: win̪t̪a
+who: ŋit̪
+wife: yok
+woman: yok
+woman: yok
+wood: kaḷ puṇ
+wood: puṇ
+wood: puṇ
+you two: n̪ut̪uwaḷ

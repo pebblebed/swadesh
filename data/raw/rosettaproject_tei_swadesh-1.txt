@@ -1,0 +1,241 @@
+all: rɪlɪφi
+arm: ntal
+arm: ntal
+arrow: yəpʰɔrɔ
+ashes: (yɛtʰau) ɔkʰɔp
+back: ʌpʰɔm
+bad: arkwat
+bad: arkwat
+bad: kʰarratʰ
+bark: lau mbʷɛkʰ
+belly: ëpum
+belly: əpum
+belly: ʌpʰoʷ
+big: kʰʌl̪eɔ
+bird: elip
+bird: elip
+bird: ʔɛpʰ
+bite: lɛm
+black: ɲɛrrən
+black: milak
+black: milak
+blood: ɲɪŋggɔp
+blood: nyinggop
+blood: yalkup
+blood: yalkup
+bone: lëp
+bone: ləp
+bone: ɲʊmweʲ
+bone: nyemwin
+boy: eʲ kʰɔnda
+breast: ɲʊmʌp
+breast: yimep
+breast: yimep
+brother: az kʰa eʲ
+burn: yɛtʰau taiyak
+child: lenëng
+child: lenəŋ
+child: wʌlʌp
+chin: nəŋgəlɔ
+claw: (ɛp) wateŋ mbɔrrk
+cloud: awʊnmbɔr
+cold: ɲɪma tʰau
+come: lʌŋgɛlɛ
+day: nɔm awʊn
+die: na lɛo
+dog: ɲʊmbʊʌ
+dog: yimpeu
+dog: yimpeu
+drink: lɛ (wʌmbʌp)
+dry: pʰulak
+ear: kʰwʊlɛp
+ear: ningyem
+earth: kaigë
+earth: mbʊlɛkʰ
+earth: pëlëng
+earth: pələŋ
+ear: wolep
+ear: wolep
+eat: lɛ (mɛpʰ)
+egg: (ɛp) yɪφeʲ
+egg: yimpwonën
+egg: yimpwonən
+elbow: watʰɛŋ warraŋ
+emu: ʔʌmbwɛn
+eye: ɲʌmbʌp
+eye: nambep
+eye: yempit
+eye: yempit
+fall: lawi
+father: ayang
+father: ayaŋ
+father: ayɛ kʰʌl̪ʌl̪
+fat (n.): wos ɲɛpʰʊk
+feather: (ɛp) ɔφɛ
+finger: watʰɛŋ φərram
+fire: yatu
+fire: yɛtʰau
+fire: yotou
+fire: yotou
+fish: ayɔkʰ
+five: watʰɛŋ ŋgɛrrɛ
+fly (v.): pʰɪrrɪrrɪp lɪφi
+foot: yɪkə
+forehead: ʔɔmbwʌ
+four: wiʌ wiʌ
+full: nʌmbʊrrɪl̪
+girl: aendžɪk nəŋgayaʷ
+give: lapʷakʰ
+good: kʰai ɲakʰ
+good: kinyai
+good: kinyai
+green: tʰʌn̪ʌŋʌl
+hair: amam-yoi
+hair: (ʌmʌm) wɛ
+hand: watʰɛŋ
+head: amam
+head: emen
+head: emen
+head: ʌmʌm
+hear: lɪkʰʊm
+heart: wʌnɔmb
+heavy: φʌŋgʌp
+he/she: lɪ
+hit: larandi
+horn: φalɛŋ
+house: kʰɛlɔ
+I: akʰ
+kill: laem ləlao
+knee: φɔlɛp
+know: sawɛ
+laugh: lanʌŋ
+leaf: wʊp kʰaḷau
+leg: arai\
+leg: araiʔ
+leg: yɪkʰə
+lie: laeri ɲɛmbʊ
+liver: ɲʊmbwɛp
+long: mbɪlɛŋ mbɪlɛŋ
+louse: ɲəmʊkʰ
+louse: numuk
+louse: numuk
+man: ʔɛʲ
+man: eing
+man: eiŋ
+many: mətʰɪŋ mətʰɪŋ
+meat: wɔs
+moon: ayen
+moon: iyén
+moon: iyén
+moon: yɪφɛn̪
+morning: ʔarɛn
+mother: makʰʌn kʰʌl̪ʌl̪
+mother: mang
+mother: maŋ
+mountain: malʌŋ
+mouth: mɛpʰ
+mouth: miep
+name: nakʰal̪ʌl̪ (na)
+neck: φrɔŋ
+new: ɲəmboi
+night: nɔm
+nose: merim
+nose: wujipen
+not: kʰwɔsɛl̪
+not: kʰwɔsɛl̪
+old: aendɪk wʊlʌp
+old: eʲ wʊlʌp
+old: rrʌŋgʌsɔ
+one: lʌkʌtʰən
+person: eʲ
+rain: atsou
+rain: atsou
+rain: ɛsɛ
+rat: wɔs layɛm
+red: mbarrʌŋʌl
+road: yakʰɔ
+root: mʷakʰaḷau
+round: tʰʌφʌkʰʌp
+sand: at̪ʰɪtʰan
+say: nakʰi
+seed: lau φarkʰɔp
+see: lʌkʰɛrr
+short: mʊtʰan
+shoulder: mʌlʌŋ
+sister: az kʰa eʲ
+sit: lʌmweʲ
+skin: alou
+skin: alou
+skin: ante
+skin: ʔɛndɛ
+sleep: laerri ɲɛmbu
+small: kʰʌtik
+smoke: feikilp
+smoke: feikilp
+smoke: (yɛtʰau) φakʰip
+snake: φɔndikʰ
+spit: t̪ɪŋgɛ ɲɪmbwɛk
+stand: lɛtʰ kʰe
+star: ŋgwae mʌndɔm
+star: tamër
+star: tamər
+stone: ënto\
+stone: əntoʔ
+stone: ndɔk
+sun: awën
+sun: awən
+sun: awʊn
+sun: awun
+swim: lɪngɛkʰʌm laerri wʌmbʌp
+tail: wʊndɪp
+that: lɪ
+they: rɪ
+they two: lɪ kʰwɔrriɛ
+this: ɔrrɔk kʰɔmbi
+thou: lɪ
+thou: yɪpʰ
+three: wiʌφʌl̪
+tomorrow: ŋgwa
+tongue: aelɛtʰɛ
+tongue: yangkëlou
+tongue: yaŋkəlou
+tooth: nal
+tooth: nal
+tooth: n̪ɛ
+tree: ḷaʷ
+tree: lo
+tree: lu
+tree: lu
+two: wi(y)ɛ
+two: wiyeu
+two: wiyeu
+walk: laeŋgɛl̪e
+walk: ndɪl̪ ndɪl̪
+wallaby: wos wanɛ
+warm: φarrən
+water: untu
+water: wʌmbʌp
+water: wop
+water: wop
+we (excl.): ʔapʰatʰ
+wet: ɲɪmbərra
+we two (excl.): yɪk akʰ
+what: mɔnɛ mɔn
+when: tʰɛm mɔn
+where: ɔwɔl
+white: eyɔn
+white: wawëng
+white: wayəŋ
+who: mbə mənaŋ
+wind: wiyëwën
+wind: wiyəwən
+wind: φɛφʊn
+wing: (ɛp) φambərri
+woman: ʔɛʲdžɪk
+woman: injik
+woman: inǯik
+wood: lau tʰəkʰʌn
+yellow: warr pɔtʰɛl̪
+yes: aŋ
+yesterday: kʰʌrkʰɔm
+you two: yɪk kʰʌpʰiɛ

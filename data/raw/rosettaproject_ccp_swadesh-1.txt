@@ -1,0 +1,100 @@
+all: begk
+ashes: shei
+bark: bhoogk
+belly: paedk
+big: bor, dangor
+bird: paegk
+bite: hamor
+black: hala
+blood: lo
+bone: ahr
+breast: bugk
+burn: puri jana
+cloud: megh
+cold: juro
+come: ai
+die: mor
+dog: hugur
+drink: haa
+dry: suguno
+ear: haan
+earth: madi, pittimi
+eat: haa
+egg: boda
+eye: sog
+fat (n.): pokta
+feather: forh
+fingernail: nok
+fire: agun
+fish: mach
+fly (v.): urr
+foot: theng
+full: goda, bekkan, bekkun
+give: de
+good: gawm
+green: ehl
+hair: sul
+hand: aht
+head: sirey, madha, hool
+hear: sun
+heart: poran ghor
+horn: sing
+I: mui
+kill: marey felana
+knee: ahdu
+know: janana, hobor pana
+leaf: pada
+lie: por
+liver: seedt
+long: lamba
+louse: ugoon
+man: morod
+many: bhaluk, bohut
+meat: ehra
+moon: saan, joon
+mountain: mown
+mouth: mu
+name: nang
+neck: gottona
+new: nuo
+night: reit
+nose: nak
+not: noi
+one: ek
+person: manuch,
+rain: jhor
+red: ranga
+road: podth
+root: singor
+round: gul
+sand: horoli
+say: haw
+seed: beeji
+see: saa
+sit: bawjh
+skin: saam
+sleep: ghum
+small: cigon, ittuk
+smoke: dhumo
+stand: thiga, thia
+star: tara
+stone: sil
+sun: bel
+swim: sajur
+tail: lej
+that: siyen
+this: iyen
+thou: tui
+tongue: jil
+tooth: daat
+tree: gach
+two: dui
+walk: ahd
+warm: oom
+water: pani
+we: ami
+what: hee
+white: dhup
+who: honna
+woman: miley
+yellow: olottye

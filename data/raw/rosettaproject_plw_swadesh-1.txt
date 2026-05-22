@@ -1,0 +1,187 @@
+all: ginsan
+and: sɔkɔʔ
+animal: [sɔtwa]
+ashes: təhuk
+back: likud
+bad: mɔyaʔat
+bark: kulit
+because: sabad
+belly: bɔtɔŋ
+bird: bɔgit
+bite: kagatɔn (kagat)
+black: maytɔm
+blood: duguʔ
+blow: tɔpyug-an
+bone: tulaŋ
+breast: duduʔ
+breathe: ginawa
+burn: tutuŋ
+child: yoŋyɔgaŋ
+cloud: kunɔm
+cold: mɔramig
+come: aniʔ kɔ
+correct: banar
+count: ituŋ-ɔn
+cut: putɔk-an
+die: patɔy
+dig: mɔŋali
+dirty: mɔdaki
+dog: indaŋ
+drink: minum
+dry: mɔtuʔug
+dull: mɔŋadɔl
+dust: purɔk
+earth: [duñaʔ
+ear: tɔliŋa
+egg: tilug
+egg: tilug
+empty: kaya sunuʔ
+eye: mata
+fall: mɔ-dagdag
+far: mɔrayuʔ
+father: amaʔ
+fat (n.): taba?
+fear: takut
+few: kikisɔk
+fingernail: kulɔb
+fire: apuy
+fish: sɔdaʔ
+five: lima
+float: lumtaw
+flower: burak
+flow: mɔgburbur (burbur)
+fly (v.): Iumɔpad (lɔpad)
+fog: ɔŋluʔ
+foot: tikad
+forest: rupaʔ
+four: apat
+frog: baʔak
+fruit: bwaʔ
+full: baha
+give: bɔgɔy-an
+good: mɔnuŋa
+grass: ibmunɔn
+green: mɔlunɔw
+guts: tinɔy
+guts: tinɔy
+hair: buwɔk
+hand: kɔramut
+head: ulu
+hear: mɔkiŋɔg
+heart: pusuʔ
+heavy: mɔbɔgat
+he: ya
+hit: lipakɔn
+horn: tanduk
+how: anukwan
+hunt: mɔnubuk
+husband: ɔsawa  Iɔlaki
+I: aku
+if: baʔ
+in: sɔlɔd
+kill: patɔyɔn (patay)
+knee: abɔb
+know: mɔg-sawud
+lake: lanɔw
+large: kɔlaʔ
+laugh: kɔsit
+leaf: daʔun
+left: gibaŋ
+leg: tikɔd
+lie: pɔ-buntul
+live: byag
+liver: atɔy
+long: mɔbwat
+louse: kutu
+man: Iɔlaki
+many: mɔdɔram
+meat: unɔd
+moon: bulan
+mother: induʔ
+mountain: bukid
+mouth: babaʔ
+name: ŋaran
+narrow: mɔkitid
+near: mɔkabiʔ
+neck: lyɔg
+new: bagu
+night: gэbi
+nose: oruŋ
+old: rnɔgurɔŋ
+one: isaʔ
+person: taw
+play: mɔg-bɔlbɔŋɔl
+pull: guyud-ɔn
+push: itulud
+rain: dɔlɔk
+red: mɔrɔgaŋ
+right: kɔwanan
+river: sɔpaʔ
+road: [korasada]
+root: gamut
+rope: tali
+rotten: buruk
+round: mɔriruʔ
+rub: riyab-an
+salt: asin
+sand: ɔgis
+say: mɔrɔs (bɔrɔs)
+sea: dagat
+sea: dagat
+seed: ulinsag
+sew: magtahiʔ (tahiʔ)
+sharp: mɔtarom
+short: məbabaʔ
+sing: mɔgtultul
+sit: maduŋ
+skin: kubal
+sky: laŋit
+sleep: mɔgigag (igɔ)
+small: kikisək
+smell: ɔbwɔn
+smoke: tabuk
+smooth: mɔlnis
+snake: sɔli
+some: iba
+spit: mibag (ibɔg)
+split: ridis-ɔn
+stab: tamparɔn
+stand: tumyɔg (tyag)
+star: bituwɔn
+stick: susuŋkud
+suck: dumuduʔ  (duduʔ)
+sun: ɔldɔw
+tail: ipus
+they: dyɔ
+thick: mɔkapal
+think: paʔinu-ʔīnuh
+thin: mɔnipis
+thou: ikɔw
+thou: kɔmyu
+three: tɔlu
+throw: itimbag
+tie: gɔsnɔt-ɔn
+tongue: dilaʔ
+tooth: nipɔn
+tree: kayu byag
+turn: tumɔŋwaʔ
+two: duwa
+vomit: sumuka (suka)
+warm: mɔʔinit
+we: kitɔw
+wet: mɔbasaʔ
+what: anu
+when: ŋiran
+which: ɔmbɔ
+white: mɔputi
+who: sinu
+why: manu
+wide: mɔlamku
+wife: ɔsawa libun
+wind: dɔrɔs
+wing: ɔlad
+woman: libun
+worm: luŋgati
+wrong: mɔ-salaʔ
+year: taʔun
+yellow: mɔkunit

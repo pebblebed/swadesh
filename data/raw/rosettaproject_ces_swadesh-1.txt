@@ -1,0 +1,121 @@
+all: všechno
+ashes: popel
+at: při
+bad: zlý
+bark: kůra
+belly: břicho
+big: velký
+bird: pták
+bite: kousat
+black: černý
+blood: krev
+bone: kost
+breast: prso
+burn: hořet
+cloud: mrak
+cold: studený
+come: pojd
+day: den
+die: umřít
+dog: pes
+drink: pít, pití
+dry: sucho, suché
+earth: země, zem
+ear: ucho
+eat: jíst
+egg: vejce
+eye: oko
+fat (n.): sádlo
+feather: peří, péro
+fingernail: nehet
+fire: ohen
+fish: ryba
+five: pět
+flower: květ
+fly (v.): lítat
+foot: chodidlo
+four: čtyři
+full: plný
+give: dát
+good: dobrý, dobře
+green: zelený
+hair: vlasy, vlas
+hand: ruka
+head: hlava
+hear: slyšet
+heart: srdce
+horn: roh
+how: jak
+I: já
+in: v
+kill: zabít
+knee: koleno
+know: vědět
+leaf: list
+lie: ležet
+lie: ležet
+lie: ležet
+lie: lhát
+liver: játra
+long: dlouhý
+louse: veš
+man: muž
+many: mnoho, hodně
+meat: maso
+moon: měsíc
+mountain: hora
+mouth: pusa
+name: jméno
+neck: krk
+new: nový
+night: nnoc
+nose: nos
+not: ne
+old: starý
+one: jeden, jedno
+other: jiný
+person: člověk
+rain: déšt
+red: červený
+river: řeka
+road: cesta, silnice
+root: kořen
+round: kulatý
+sand: písek
+say: říct, povědět
+seed: semínko, semeno
+see: vidět
+sit: sedět
+skin: kůže
+sleep: spát
+small: malý
+smoke: kouřit, kouř
+snow: sníh
+stand: stát
+star: hvězda
+stone: kámen
+sun: slunce
+swim: plavat
+tail: ocas
+that: to, tamto
+this: tohle
+thou: oni
+thou: ty
+three: tři
+tongue: jazyk
+tooth: zub
+tree: strom
+two: dva, dvě
+walk: chodit
+warm: teplo
+water: voda
+we: my
+what: co
+where: kde
+white: bílý
+who: kdo
+wind: vítr
+with: s
+woman: žena
+year: rok
+yellow: žlutý

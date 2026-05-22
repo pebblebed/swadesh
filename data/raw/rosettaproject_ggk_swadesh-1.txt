@@ -1,0 +1,258 @@
+all: warka
+arm: labur
+arm: labur kiɹ̣abur
+arm: mur
+back: ɟin moɹ̣o
+back: poḍo
+back: podo kimu
+bad: kiɹ̣iɟar
+belly: kubem
+big: kimaɹ̣abur
+bird: kubabayi-bamba
+bite: payaŋ
+bite: peyaŋ
+black: kiɟurupmen
+blood: cila
+blood: cilpan
+bone: kimu
+boy: kigeɹ̣ak kiwek
+boy: nogorok
+boy: pula
+breast: koyoŋ
+breathe: waipawaipamiɲ
+brother: neːŋuwey
+brother: papa
+butterfly: moɹ̣ŋa
+butterfly: yekaci
+calf: kibi kiwek
+cheek: piwaɲa
+chest: munulk
+chest: put
+child: kidilimen
+child: wawak
+chin: ŋarinel
+cloud: wiŋi
+cold: kibaibaimen
+come: cimiɲ
+come: kaɹ̣aɲ
+crocodile: lunduɹ̣u
+crocodile: podotondo
+cut: conputmiɲ
+cut: weɹ̣im
+daughter: caŋaŋ
+day: mo
+day: mo
+day: nibinibi
+day: (pit) meɹ̣weɹ̣
+die: ɹ̣inɟim
+dig: pancaɹ̣miɲ
+dig: perakŋaɲ
+dirty: kunɟukunɟu
+dog: kinamuɟiɲ
+dog: lirmi
+drink: incen
+ear: cel
+ear: kiwel
+ear: mala
+earth: kunɟu
+earth: kuɲɟu
+eat: cuɹ̣
+eat: incen
+egg: kibal
+elbow: (labur) kiwek
+elbow: mitpir
+emu: kulpiɲ
+eye: mibi
+eye: mibi kulbamba
+fall: piconaŋ
+fall: pirmaɲ
+far: wayi
+far: yoŋui
+father: ŋiraŋ
+fat (n.): kiɹ̣et
+fat (n.): kiɹ̣u
+fat (n.): kiɹ̣u
+feather: kubabayi
+fight: piɟaŋpiɟaŋ
+finger: kiɟit
+fire: poŋo
+fish: meɟa
+five: mo kuwer
+fly (n.): cilŋik
+fly (n.): mol
+fly (n.): muːr
+fly (v.): walwalmiɲ
+foot: kiɟit
+foot: (kiɟit) kiwer
+forehead: (kidulk) kiwer
+full: curkcurk wambiɲ
+girl: cilak
+girl: mangarba
+give: wuɟen
+good: kimek
+grass: ŋowa
+hair: caɹ̣wat
+hair: ŋekmemer
+hair: ŋetmemer
+hair: pendulk
+hand: (mo) kiwer
+hand: muː
+head: pem
+hear: ŋoyoŋ
+hear: ŋuyem
+heart: kogotgot
+heart: kubem
+heavy: kicuɹ̣ma
+here: alak
+he/she: kiɲpapa
+hit: pumu
+hole: wa
+husband: kowalaŋ
+I: ar-
+I: ara
+I: ŋirka
+kangaroo: cokottelma
+kill: pumu
+knee: mitpirk
+knee: pomper
+leaf: mala
+leg: miɹ̣uk
+lie: loɹ̣miɲ
+lie: yobo
+lip: (ŋankar) marwin
+live: kibu
+liver: kukotkot
+long: kibeŋgi
+louse: tiːn
+man: kigeɹ̣ak
+many: kipulk
+meat: miɲɟak
+moon: kena
+moon: kene
+moon: kene
+morning: nampit
+morning: ŋigarak
+morning: pit walmar niŋiɲ
+mosquito: ŋaɹ̣
+mosquito: ŋer
+mother: karaŋ
+mountain: kere
+mouth: ŋankar
+name: kiŋi
+nape: mon
+neck: maɟak
+night: ŋik
+nose: kimi motal
+not: moɹ̣oŋ
+old: namuyuk
+old: (ŋ)almuyuk
+one: woŋapuŋ
+person: kigeɹ̣ak
+play: kamlim(em)
+pull: wuramiɲ
+pull: yulki wambiɲ
+rain: kuɹ̣dem
+rat: poyor
+rat: purpur
+red: kinɟuḷ
+red: tiliʎma
+river: ceɹ̣ewak
+river: kobe kicaḷok
+river: ṭamiɲmiɲ
+rope: kibik
+rotten: kibiyir
+rub: wapi
+rub: yuɹ̣kyuɹ̣kmiɲ
+say: ŋengem
+say: wambem
+say: wambem
+sea: paba
+see: ŋatumu
+see: ŋatumu
+sharp: kiɟamok
+short: kicarpi
+shoulder: taṇḍa
+sing: kuwarak
+sister: calat
+sit: nobo(r)
+skin: kiwer
+sky: turu
+sleep: ŋorŋormem
+small: kiwek(wek)
+snake: kelerbeyeŋ
+snake: kibeŋgi
+snake: kurindaman
+snake: pir
+snake: ṭeṭ-ṭeṭ
+son: caŋaŋ
+spit: coner
+stand: cabo
+star: mibi kimuyik
+star: mibukini
+stone: kembe
+stone: kere
+straight: kicalpma
+suck: (koyoŋ) cincincen
+sun: pit
+sweet: milu
+sweet: pulakpa
+swim: calakmiɲ
+swim: ŋapmiɲ
+tail: kigumbun
+take: konɟe
+that: noɲ
+there: kimon
+there: noɲ
+they: pir-
+they: piriɟir
+thigh: kibe
+this: alak
+thou: ŋi-
+thou: ŋiɲapa
+thou: nir-
+thou: niriɟir
+three: kerapem
+throw: putmiɲ
+throw: watmiɲ
+thunder: lorol
+thunder: luṇḍuru
+thunder: takil
+tie: kibik wambiɲ
+tie: warambiɲ
+today: kuwanɟi
+tomorrow: cabi
+tongue: maŋar
+tooth: ŋeɲmek
+tree: poŋo
+two: kiɟaraba
+vagina: diː
+vagina: lic
+vomit: ŋolmiɲ
+walk: kiya
+wallaby: palkiɲ
+wallaby: walaŋur
+warm: kipotpotmen
+water: koba
+water: kobe
+weep: liː
+weep: ŋayik ŋengem
+we (excl.): ŋir-
+we (excl.): ŋirɟir
+we (incl.): kur-
+we (incl.): ŋogoɟir
+we two (incl.): ma-
+we two (incl.): ŋamapa
+white: werkwerkma
+wife: lukuɹ̣in
+wind: lakun
+wind: momer
+with: -bamba
+woman: loɹ̣al
+wood: poŋo
+wood: puŋu
+woomera: teli
+worm: piɹ̣
+year: meŋga
+yellow: ɟeɟu
+yellow: kikatkat
+yesterday: yeɟen

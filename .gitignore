@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.part
+
+# machine-local Claude Code session settings (permissions, etc.)
+.claude/settings.local.json

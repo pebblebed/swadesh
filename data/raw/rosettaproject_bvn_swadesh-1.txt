@@ -1,0 +1,349 @@
+all: sanʌ
+all: tɪkʌ
+arrow: iː
+arrow: yɨr
+ashes: (was-)ep
+back: gali
+bad: ableaʔ
+bad: abrʌ
+belly: amʷaːk
+belly: hamakiyo
+belly: urat
+big: gaßɨ
+big: gaßɨ
+big: gaßa
+bird: nɨ
+bird: nət̪
+bird: nɨt
+bite: gut̪en
+bite: nati
+bite: n?ni
+black: kɨsakma
+black: kɪsakmə
+black: kɨtakma
+blood: ɲɛk
+blood: nau
+blood: nyɛk
+bone: koroka
+bone: nakar
+bone: nyakal
+boy: wa miri
+boy: warɛ mɪri
+breast: mɛn
+breast: meny
+breast: mɨn
+brother: gabari
+brother: ɲoima gabari
+brother: tatə
+burn: lakri
+burn: lakri
+burn: wulai lɨrɨ
+child: walpindi
+child: war gabuskabʷe
+chin: maŋkɨ
+chin: maŋkes
+cloud: ampɔk
+cloud: ani
+cloud: ani
+cold: sibma
+cold: sɪkma
+cold: tiakma
+come: dukɪu
+come: nyen
+come: -ripʷi
+crocodile: warɪm
+crocodile: warɪm
+day: awkʷatu
+day: yokʷanɪn
+die: manai ten
+die: naʲti
+die: yasɪki
+dog: kau
+dog: kauk
+dog: kɔk
+drink: (nimeo) darɪn
+drink: (nimiyo) naleng
+drink: wadar
+dry: kakara
+dry: koragmʷe
+dry: yageve
+ear: makɨ
+ear: maka
+ear: məkai
+earth: nagɪ
+earth: nagɪo
+earth: nəgɪyo
+eat: bar
+eat: bar
+eat: evadale
+egg: ani
+egg: anik
+egg: evanek
+elbow: sejiri
+elbow: sɛrkɨro
+emu: magɨ
+emu: magaw
+emu: məghaw
+eye: lal
+eye: lal
+eye: ra
+fall: nasinaka
+fall: natin
+fall: natin
+father: abɨ
+father: abɨ
+father: aßa
+fat (n.): na
+fat (n.): na
+fat (n.): nagle
+finger: siakʷa
+finger: siakʷa
+fire: wəs
+fire: wʌs
+fire: wʌt
+fish: kači
+fish: kasil
+fish: kašil
+five: sɨl
+five: šʷo
+five: sɪr
+fly (v.): lɪpritoko
+fly (v.): lɪpritoko
+foot: ana
+foot: antap
+forehead: arkal
+four: sakɨl
+four: sakɨr
+four: takɨ
+full: kʷitnari
+full: paikiri
+full: paʲɨri
+give: ŋanke neyki
+good: nano
+good: nanok
+good: ŋänoke
+hair: yul-io
+hand: sə
+hand: sɪl
+hand: sɨr
+head: yol
+head: yol
+head: yuo
+hear: narkwem
+heavy: mai ye
+heavy: mayina
+heavy: yipina
+he/she: den
+he/she: din
+he/she: dɪn
+he/she: dɪn
+he/she: k-/w-
+he/she: n-
+he/she: on
+he/she: on
+he/she: on
+he/she: un
+hit: amiai
+hit: evodale
+hit: tɪrimnari
+house: ɨː
+house: hal
+house: ɨr
+I: k-
+I: na
+I: nga
+I: ŋa
+I: ŋa
+knee: kubʌ
+knee: kubʌ
+laugh: origansirɛri
+laugh: walaga nawo
+laugh: yigarau
+leaf: (nɪmi) tɛʔ
+leaf: (nɪmi) tep
+leaf: (nɪmi) tɛp
+leg: polkə
+lip: saßa
+lip: saßa
+long: tɪamʷa
+long: tɪmwa
+long: tomŋe
+louse: bɨsʌ
+louse: bɨse
+louse: bɨtɪ
+man: ami
+man: uri
+man: wuri ämalde
+many: səkanə
+meat: ebosao
+meat: evosəw
+meat: kasɪr
+moon: amuk
+moon: aŋgu
+moon: hamuk
+morning: ikuma
+morning: oramʷa
+mosquito: as
+mosquito: asiʔ
+mother: aʲʷa
+mother: aʲʷa
+mother: aya
+mountain: amʷo
+mountain: amwa
+mountain: o
+mouth: gat̪
+name: yapw
+neck: gwalwi
+new: akmone
+new: akwanei
+new: apmay
+night: ɪkura
+night: yekol
+night: yɪkura
+not: kaka
+not: kakara
+not: kakara
+old: gabari
+old: gabari
+old: kɨbʷi
+old: kɨkay
+old: ula e
+one: nəgəke
+one: ɲɪŋa
+one: ɲɪŋak
+rain: neʲ
+rain: nem
+rat: kulik
+rat: kuri
+rat: kurik
+red: kaßŋə
+river: nagɨ
+river: nagar
+road: ari
+road: ari
+road: ari
+root: yarop
+sand: ǯɪŋai
+sea: kugun
+sea: kugun
+see: ape
+see: -api
+seed: nɨmyil
+see: iapi
+short: kar
+short: kotokma
+short: kotopŋe
+shoulder: mansukʷi
+shoulder: mantukʷi
+shoulder: nəgətəp
+sister: abu
+sister: ɲamagobowi
+sister: ɲamogabʷuki
+sit: dari kosdan
+sit: dərə kantan
+sit: kanto
+skin: kəpɔʔ
+skin: kɨpɨ
+skin: kɨpɨ
+sleep: dakora
+sleep: daskʷan
+sleep: nas kwan
+small: ašina
+small: gabɪska
+small: gaßiska
+smoke: kosapu
+smoke: siga
+smoke: (wus-)apu
+snake: atom
+spit: kʷeyiar
+spit: urito kʷanaßɨ
+stand: dərə ikene
+star: aŋwai
+stone: moɟik
+stone: yat
+stone: yat
+sun: ane
+sun: ani
+sun: ani
+tail: kwə
+they: abuta tɪki
+they: bon
+they: bon sɪnɪ
+they: bon tɪki
+they: ebučɪnʌ
+they: en
+they: m-/k-
+they: nun/in
+they two: bon
+they two: bon
+they two: m-/k-
+they two: nun/in
+thou: kw-
+thou: no
+thou: no
+thou: no
+thou: no
+thou: nom
+thou: num sana
+thou: nu tɪkɪ
+three: diaŋkowe
+three: waraik
+three: worak
+throat: waːuri
+throat: waːuri
+tomorrow: rarɨ
+tomorrow: ɪrʌkar
+tongue: mem
+tongue: mem
+tongue: minsukureʔ
+tooth: sao
+tooth: səw
+tooth: taʔ
+tree: nɪmi
+tree: nɪmi
+tree: nɪmi
+two: nigri
+two: niŋnäk
+two: nɪnɪk
+walk: naɲirɛti
+walk: nanirɛsi
+wallaby: yagɨ
+wallaby: yagi
+warm: wasʷʌ
+warm: was le
+warm: watʌ
+water: nemeyo
+water: nimeyo
+water: wiya
+we: b-
+we (excl.): nambusɪni
+we (excl.): nambutɪkɪ
+we (excl.): ŋamgu
+we: na-m(bu)
+wet: nimamo
+wet: nomam
+wet: wɛtaka
+we two: b-
+we two (excl.): no nagʷi
+we two (excl.): no nagʷi
+we two: na
+what: bale va
+white: aʷra
+white: arʷa
+white: ɔwle
+who: ndena
+wind: nal
+wing: lan
+woman: ewu
+woman: ewu
+woman: wuri äbolgwe
+wood: was-ɛr
+wood: was-iaw
+yesterday: asona
+yesterday: atona
+you: kw-
+you: nu(-m)
+you two: kw-
+you two: no nagrɪpma
+you two: no ninɪgmo
+you two: nu

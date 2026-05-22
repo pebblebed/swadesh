@@ -1,0 +1,625 @@
+all: bibahende
+all: bibahent̪e
+all: kirabali
+all: mandagi
+arm: gi
+arm: gi
+arm: gi pʰayaḷu kʰuni
+arm: gi payalu kuni
+arrow: tʰimu
+ashes: danga
+ashes: dan(g)ga
+ashes: t̪aŋga
+at: daligani
+back: erebira
+back: erembira
+back: erembira
+bad: kagua
+bad: ko
+bad: ko
+bad: ko
+bad: kʰo
+bark: don(g)gole
+bark: ong(g)obane
+bark: oŋgobane
+bark: t̪oŋgoḷe
+belly: tombe
+belly: tombe
+belly: tombe
+belly: tʰombe
+belly: tʰombe
+big: anda
+big: tʰimbu(ni)
+big: timbu(ni)
+big: timbu(ni)
+bird: ega
+bird: ega
+bird: ega
+bird: gudubia
+bite: haya
+bite: haya
+bitter: negila
+bitter: negiḷa
+black: mindi-bi
+black: mint̪ibi
+blood: darama
+blood: darama
+blood: darama
+blood: t̪arama
+blow: dola
+bone: kuni
+bone: kuni
+bone: kʰuni
+boy: igiri
+boy: igiri
+boy: igiri
+breast: adu
+breast: andu
+breast: ant̪u
+brother: hagibuni
+brother: hameme
+brother: hamene
+brother: hamene
+brother: mbalibuni
+burn: da
+burn: dela
+burn: t̪a
+calf: ge duli
+calf: ge t̪uḷi
+cassowary: yari
+cheek: pa
+cheek: pʰa
+chest: galukuni
+child: gali
+child: gaḷi
+chin: yanga
+chin: yaŋga
+claw: ge gindiba
+claw: ge gint̪iba
+cloud: hari
+cloud: hari (beralibe)
+cold: dagare
+cold: t̪agare
+cold: tambe
+come: bi-
+come: ibi-
+come: ibu
+come: ibu
+come: ipu
+come: ipʰu
+count: dagala
+count: t̪agaḷa
+crocodile: abagua
+crocodile: abagua
+cut: boga
+cut: pora-
+cut: pora-
+cut: tombela
+dark: arumahe
+dark: arumahe
+dark: mindi bi
+daughter: wane
+daughter: wane
+day: alendo
+day: horombe
+day: wahe
+die: homa
+die: homa
+die: homa
+dog: bian(g)go
+dog: binago
+drink: na
+drink: na
+drink: ne-
+drink: ne-
+drink: no-
+drink: no-
+dry: yobi
+dry: yobi
+dry: yo bira
+ear: hale
+ear: haḷe ~ haḷi
+earth: dalu
+earth: dindi
+earth: dindi
+earth: dindi
+earth: t̪int̪i
+earth: t̪int̪i
+eat: na
+eat: na
+eat: ná
+eat: ne-
+eat: ne-
+eat: no-
+eat: no-
+egg: haba
+egg: haba
+elbow: gi himbi
+elbow: gi himbi
+emu: yari
+eye: de
+eye: de
+eye: de
+eye: re
+eye: t̪e
+fall: ibiraha
+fall: ibiraha
+far: kaundia
+far: kʰaunt̪ia
+father: aba
+father: aba
+father: aba
+father: apa
+father: apa
+fat (n.): tʰimbu
+fear: gi
+feather: iri
+feather: iri
+few: emeye
+fight: waibia
+finger: ge hondone
+finger: ge hont̪one
+finger: gi hondone
+finger: gi hont̪one
+fingernail: ge gindiba
+fingernail: gi gindiba
+fingernail: gi gint̪iba
+fire: ira
+fire: ira
+fish: hawi
+fish: hawi
+fish: wena
+fish: wena
+five: duria
+five: t̪uria
+fly (n.): pung(g)guna
+fly (n.): pʰuŋguna
+foot: ge
+foot: ge
+foot: ge
+foot: ge habe
+foot: ge habe
+foot: ke
+foot: ke hape
+forehead: wane kui
+forehead: wanokui
+forehead: wanokʰui
+four: maria
+four: maria
+fruit: lini
+fruit: ḷini
+fruit: (n)da
+full: tʰo͂ḷa
+full: tõla
+girl: wandari
+girl: want̪ari
+give: mia
+give: mis
+give: n(g)gi
+give: ŋgi
+give: ngí
+good: baieri
+good: bayahan(g)gu
+good: bayala
+good: baya(ḷe)
+good: baya(le)
+good: ebe
+good: ebe
+grass: datani
+grass: t̪atʰani
+green: domoromo-bi
+green: t̪omoromobi
+hair: iri
+hair: iri
+hair: iri
+hair: iri
+hair: iri
+hair: manda-iri
+hair: mandari
+hair: mant̪airi
+hand: gi
+hand: gi
+hand: gi haba
+hand: gi haba
+hand: gihoudoni
+hand: ki
+head: embone
+head: embone
+head: haguane
+head: haguane
+head: hagwune
+head: hauwan
+head: manda
+head: mant̪a
+hear: haleha
+hear: haḷeha
+hear: haḷeha
+hear: hale ha
+heart: gubalini
+heart: gupʰaḷini
+heavy: gendabi
+heavy: genda-bi
+heavy: gent̪abi
+here: ogoria
+he/she: i͂
+he/she: i͂
+he/she: ibu
+he/she: ibu
+he/she: ibu
+he/she: ibunaga
+hit: ba
+hit: ba
+hit: ba
+hit: ba-
+hit: gun(g)gubia
+hit: laila
+hit: taula
+hit: waibia
+hold: yainiha
+hold: yainiha
+hold: yu bia
+hole: uli
+hole: uḷi
+house: anda
+house: anda
+house: ant̪a
+how: agi-ria
+how: agua
+how: agua
+husband: agalini
+husband: agaḷini
+I: ɪ́
+I: i
+I: i
+I: i͂
+I: i͂naga
+I: ình
+in: tamuha
+kill: ba
+kill: ba
+knee: ge
+knee: lagoli
+knee: ḷagoḷi
+know: manda-bia
+know: mant̪abia
+laugh: oba timbuni ha
+leaf: yuni
+leaf: yuni
+leg: ge
+leg: ge
+leg: ge
+lie: palia
+lie: pʰaḷia
+lie: pa~lia
+lip: hambu
+lip: hambu
+liver: bu
+liver: bu
+liver: puní
+long: lu
+long: ḷu
+long: luni
+long: ḷuni
+long: tu
+louse: emo
+louse: kua
+louse: kʰua
+louse: tede
+louse: tʰet̪e
+man: agali
+man: agali
+man: agaḷi
+man: agari
+man: ari
+many: dewa
+many: karulape
+many: t̪ewa
+many: timbuni
+meat: mbirini
+meat: mbirini
+meat: mbirini
+moon: ege
+moon: ege
+moon: ege
+moon: ege
+morning: egerepagi
+mosquito: hinabibi
+mosquito: hinabibi
+mother: ainh.ya
+mother: ai͂ya
+mother: andia
+mother: anǯia
+mother: a͂ya
+mountain: hari
+mountain: hari
+mountain: hari
+mountain: hari
+mouth: ne hariga
+mouth: ne hariga
+name: mini
+name: mini
+name: mini
+name: mini
+name: minila
+near: kan(g)gore
+near: kʰaŋgore
+near: kaware
+near: kʰaware
+neck: ma
+neck: ma
+new: gahange
+new: gahan(g)ge
+new: gahaŋge
+new: kan(g)ge
+new: kʰaŋge
+new: wenehen(g)ge
+new: weneheŋge
+night: mbiraga
+night: mbiraga
+nose: n(g)gui
+not: na-
+not: na-
+not: ndo
+not: nt̪o
+old: daguahe
+old: gabo
+old: goba
+old: goba
+one: han(g)gu
+one: mbira
+one: mbira
+other: mende
+other: ment̪e
+person: mbirale
+person: mbiraḷe
+play: ginibia
+play: ginibia
+pull: dugua
+rain: dalu
+rain: diwi
+rain: t̪aḷu
+rain: taru
+rat: huru
+rat: huru
+red: ambua-bi
+red: darama-bi
+red: t̪aramabi
+ripe: ibede
+ripe: ibit̪e
+river: iba
+river: iba
+road: hariga
+road: hariga
+root: pini
+root: pini
+root: pʰini
+rope: pu
+rope: pʰu
+round: mo͂ḷomo͂ḷo
+round: mõlo-mõlo
+salt: ibi
+sand: iba mu͂
+sand: mu͂
+sand: munh
+say: la
+say: la
+say: la
+say: ḷa
+say: ḷa
+seed: egane
+seed: egane
+seed: lini
+seed: wai
+seed: wai
+see: handa
+see: ha~ndá
+see: handa-
+see: handa-
+see: hant̪a
+see: hant̪a
+sharp: nagawia
+short: tubagi
+short: tʰubagi
+shoulder: pʰaya
+shoulder: pya
+sister: hagibuni
+sister: mbalibuni
+sister: mbaḷibuni
+sister: mbalini
+sit: bira
+sit: bira
+sit: birá
+skin: don(g)gone
+skin: t̪oŋgone
+sky: hari
+sky: hari
+sleep: palia
+sleep: palia hondo-bia
+sleep: pʰaḷia hont̪obia
+small: emene
+small: emene
+small: emene
+smell: n(g)gubia/n(g)gabia
+smell: ngu ha
+smoke: hagua
+smoke: hagua
+snake: nogombi
+son: igini
+son: igini
+spit: kʰoḷa
+spit: ko la
+stand: ha
+stand: ha
+stand: heya
+star: abe
+star: yakundi
+star: yakʰunt̪i
+star: yapundi
+stick: nama
+stone: ege tʰo͂ḷe
+stone: ege tõle
+stone: to͂le
+straight: dogola
+straight: tʰigabi
+straight: tiga-bi
+straight: tiga-tiga
+sun: ne
+sun: ni
+sun: ni
+sun: ni
+sun: ni
+sweet: denda-bi
+swim: dõla
+swim: t̪o͂ḷa
+tail: erene
+tail: erene
+take: mia
+take: pagena
+take: pʰagena
+that: amu(go)
+that: amu(go)
+there: et̪egoria
+they: či
+they: ti
+they: ti
+they: ti
+they: ti
+they: tʰi
+they: tʰinaga
+they two: libu
+they two: libu
+they two: ḷibu
+they two: ḷibunaga
+they two: ribu
+they two: ribu kirare
+thigh: ba
+thigh: ba
+thigh: bahiri-ni
+this: o
+this: ogo
+this: ogo
+thou: ɪ~
+thou: či
+thou: i͂
+thou: i͂
+thou: ính
+thou: i͂Ú
+thou: i͂Únaga
+thou: ti
+thou: ti
+thou: ti
+thou: tʰi
+thou: tʰinaga
+three: tebira
+three: tebira
+three: tʰebira
+throat: gunduyulu
+throw: waha
+tie: hubuabia
+tie: pon(g)gobia
+tie: pʰoŋgobia
+today: ayu
+today: ayu
+tomorrow: golumani
+tomorrow: luma
+tomorrow: luma-ni
+tomorrow: yawi
+tomorrow: yawi
+tongue: hege
+tongue: hege
+tongue: hege
+tooth: ne
+tooth: ne
+tree: ira
+tree: ira
+tree: kʰira
+tree: wai
+turn: berege-beregeda
+turn: beregeda
+turn: bereget̪a
+two: kira
+two: kʰira
+two: kita
+unripe: kahan(g)ge
+unripe: kʰahaŋge
+unripe: kan(g)ge
+unripe: kʰaŋge
+vomit: magu tagu wia
+walk: hen(g)geda
+walk: por-
+walk: por-
+walk: pu
+walk: pu
+walk: pʰu
+walk: pʰu
+walk: pú
+wallaby: hali
+wallaby: haḷi
+warm: pobohe
+warm: pʰobohe
+warm: pʰoboyogobi
+warm: poboyogo-bi
+wash: dõla
+wash: doma
+wash: t̪o͂ḷa
+wash: t̪oma
+water: iba
+water: iba
+water: iba
+water: iba
+water: iva
+we: ina
+we: ina
+we: ina
+we: inanaga
+we (incl.): ina
+we two (incl.): ida
+we two (incl.): ina kirare
+we two (incl.): iya
+we two (incl.): iya
+we two (incl.): iya
+we two (incl.): iyanaga
+we two: iya
+what: agi
+what: agi
+what: agi
+what: ago
+when: an(g)gi
+when: aŋgi
+when: angi
+where: agoha
+where: agoha
+where: ani
+where: ani
+white: pagabua
+white: pele
+white: pʰeḷe
+who: ai
+who: ai
+who: i
+wife: one
+wife: one
+wind: poidabu
+wind: pʰoit̪abu
+woman: wali
+woman: wali
+woman: waḷi
+woman: wari
+woman: wari
+wrist: gi halekuni
+yellow: ambuabi
+yellow: ambuabi
+yellow: ambua-bi
+yesterday: abe
+yesterday: abe
+yesterday: abe
+yesterday: golebene
+yesterday: lebe
+yesterday: lebe-ne
+you: ti
+you two: libu
+you two: libu
+you two: ḷibu
+you two: ḷibunaga
+you two: ribu
+you two: ribu kirare

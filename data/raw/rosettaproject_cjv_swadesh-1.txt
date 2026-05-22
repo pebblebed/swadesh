@@ -1,0 +1,297 @@
+arrow: ei
+arrow: ei
+ashes: eri mugu
+ashes: eri mugu
+ashes: kuraɣandiŋgwa
+ashes: kurághandinggwa
+back: manonggwiyo
+back: manoŋgwiyo
+back: mono
+back: mono
+bad: nigindo-ŋgwa
+belly: mirinom
+big: ori
+big: ori
+big: ori
+bird: gavaga
+bird: gavaga
+bird: kapu
+bird: kapu
+bird: kʰaßuɣa
+black: kama
+black: kama
+black: kama
+blood: agi
+blood: agi
+blood: diyo
+blood: diyo
+bone: yiba:gon
+bone: yobiago
+bone: yobiago
+bone: yombu-rayombu-ra
+breast: ami-no
+breast: ami-no
+brother: emna-m
+brother: emna-m
+burn: honaiyo
+burn: konaiyo
+butterfly: derenggure
+butterfly: dereŋgure
+butterfly: kobonbumbe
+butterfly: tobaroba
+cassowary: kav-obi
+cassowary: oinime
+child: gan
+child: gan
+child: gaːn
+cloud: kamunφege
+cold: usiwe unggwa
+cold: usiwe uŋgwa
+cut: boie
+cut: toro
+day: foɣaipa
+day: foghaipa
+day: kʰamʊntagome
+dog: kei
+dog: kei
+dog: kei
+dog: kei
+drink: ni nega
+drink: ni nega
+ear: kina-na
+ear: kina-na
+ear: kina-no
+ear: kina-no
+earth: mangawa
+earth: mán.gawa
+earth: mán.gawa
+earth: mansinom
+earth: mansinom
+earth: mansinu
+earth: mansinu
+earth: mansinu
+eat: nega
+eat: nega
+egg: koruamwio
+egg: koruámwio
+emu: kavobi
+emu: oinime
+eye: ogonómio
+eye: ogonomiyo
+eye: onggumunya
+eye: oŋgumunya
+face: giananggumo
+face: gianaŋgumo
+father: afo
+father: afo
+fear: kuri pika
+fear: kuri pika
+fire: edongwa
+fire: eri
+fire: eri
+fire: eri ndonggwa
+fire: eri ndoŋgwa
+fish: nikabu
+fish: níkabu
+flower: gorawi
+flower: gorawi
+flower: taiku
+flower: taiku
+fly (n.): dewin
+fly (n.): dewin
+fly (n.): dewin
+foot: hau-no
+foot: hau-no
+foot: kau-na
+foot: kau-na
+fruit: mugo-
+fruit: mugo-
+girl: ama
+girl: ama
+give: nane
+give: tega
+give: tega
+good: arimun
+good: arimun
+green: eraromgamkwoingwa
+guts: de-no
+guts: de-no
+guts: dera midna
+guts: dera midna
+hair: vi-o
+hair: vi-o
+hair: yo-mo
+hair: yo-mo
+hand: ogo-nam
+hand: ogo-nam
+hand: ogonomu-no
+hand: ogonomu-no
+head: bi-no
+head: bi-no
+head: binya
+head: binya
+hear: pika
+hear: pika
+heavy: ißɪndome
+here: tawa
+he/she: yi
+hold: agure
+house: igi
+house: igi
+house: igi
+house: igi
+husband: wiumbiai
+ice: ninumwi
+I: no
+know: na pika
+know: piku
+leaf: eri aro
+leaf: wamun
+lie: paivene
+lie: paivene
+live: kori moiya
+live: kori moiya
+live: wanmoi
+long: arari
+louse: niman
+louse: niman
+man: ari
+man: ari
+man: yai
+many: munmani
+meat: miyo-
+meat: miyo-
+moon: kapa
+moon: kapa
+moon: kapa
+moon: kapa
+moon: kʰaßa
+mosquito: denkaßu
+mother: mana
+mother: mana
+mountain: gobu
+mountain: gobu
+mountain: moyo
+mountain: moyo
+mouth: gia-na
+mouth: gia-na
+mouth: gia-no
+mouth: gia-no
+name: ka-nam
+name: ka-nam
+name: yagoi
+name: yagoi
+name: yuwa
+navel: yoiyom
+night: arombenggwa
+night: arom-beŋgwa
+night: ginangguru
+night: ginaŋguru
+night: onosuna
+old: biai
+old: gaiyom
+one: tano
+push: sɪnboi
+rain: nimi
+rain: nimi
+rat: dua
+rat: dua
+red: gaigu
+red: gaigu
+road: komori
+road: komori
+road: ko:n
+road: koːn
+road: konmori
+root: maburum
+root: máburum
+root: ona
+root: ona
+rope: era
+rope: kan
+rope: ka:n
+rope: kaːn
+rotten: bwime
+salt: rivi
+salt: φwi
+see: kaniga
+see: kaniga
+short: buna
+shoulder: kibam
+sit: amendiga
+sit: amendiga
+skin: gaːm
+skin: ga-no
+skin: ga-no
+sky: kamʊn
+small: ga
+small: gan
+small: gaworoga
+smoke: deri nare
+smoke: deri nare
+smoke: ed nugu
+smoke: ed nugu
+smoke: enugu
+snake: onoba
+snake: onopa
+snake: onopa
+spit: ewium
+spit: noai
+stand: ariga
+star: kobu
+star: kobu
+star: mogomi
+star: mogomi
+stone: konggo
+stone: koŋgo
+sun: are
+sun: are
+sun: aro
+sun: aro
+sun: aro
+tail: weom
+take: kunei
+they two: yi suo
+they: yi
+this: i
+thou: ne
+thou: ne
+thou: ne
+three: suo ta
+tie: koiyosi
+tomorrow: o-ongo
+tongue: giau-no
+tongue: giau-no
+tooth: kinam
+tooth: kinam
+tooth: ki-no
+tooth: ki-no
+tree: eri
+tree: eri
+tree: eri
+tree: eri
+tree: eri
+tree: kowiye
+two: suo
+water: ni
+water: ni
+water: ni
+water: nuwi
+water: nuwi
+weep: oŋguminya niosinga
+weep: ongguminya niosingga
+weep: umboiwingga
+weep: umboiwiŋga
+we: nono
+we two (incl.): no suo
+white: φege
+wife: ebinyambie
+wife: ebinyambie
+wind: goi
+wind: goi
+wing: koiom
+woman: opai
+woman: opai
+wood: kuba
+year: noniki
+you two: ne suo

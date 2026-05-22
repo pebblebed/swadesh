@@ -1,0 +1,373 @@
+all: hihãgisò
+all: hiha͂gisɔ
+all: susugawa
+all: susugawa
+arm: de
+arm: de
+arm: di
+arm: di
+ashes: dòu sòlu
+ashes: dɔu sɔlu
+ashes: mu
+ashes: mu
+back: miligi
+back: miligi
+back: waki
+back: waki
+bark: hòmò kòlò
+bark: hɔmɔ kɔlɔ
+bark: homò kulò
+bark: hɔmɔ kulɔ
+belly: òbenie
+belly: òbenie
+belly: ɔbenie
+belly: ɔbenie
+big: daiya
+big: daiya
+big: towagò
+big: towagɔ
+bird: òsigò
+bird: ɔsigɔ
+bird: sò\
+bird: sɔʔ
+bite: bẽwiyagò
+bite: be͂wiyagɔ
+bite: soʔ anena͂
+bite: sò\ anenã
+black: daːsige͂
+black: dɔsigɔ͂
+black: heniye
+black: hòdèi
+blood: kega͂ye
+blood: kegãye
+blood: sa͂wɔ͂
+blood: sãwɔ̃
+bone: ki
+bone: ki
+bone: ki
+bone: ki
+breast: to
+breast: to
+breast: tɔ͂
+breast: tɔ̃
+burn: dòu si
+burn: dòu si
+burn: dɔu si
+burn: dɔu si
+cassowary: kòu
+cassowary: kòu
+claw: sò\ hòmò
+claw: sɔʔ hɔmɔ
+claw: sò\ kai
+claw: sɔʔ kai
+cloud: kaigɔ͂
+cloud: kaigɔ̃
+cloud: kilibò
+cloud: kilibɔ͂
+cold: dasige͂
+cold: dasigẽ
+cold: kisaisògò
+cold: kisaisɔgɔ
+come: sibèye
+come: sibɛye
+come: sißaye
+come: sivaye
+dog: sò
+dog: sò
+dog: sɔ
+dog: sɔ
+ear: dulu
+ear: dulu
+ear: dulu
+ear: dulu
+earth: mi
+earth: mi
+earth: mi
+earth: mĩ
+eat: na͂ye
+eat: nãye
+eat: nela:bugò
+eat: nelaːbugɔ
+egg: sò\ hò
+egg: sò\ hò
+egg: sɔʔ hɔ
+egg: sɔʔ hɔ
+emu: kɔu
+emu: kɔu
+eye: hòwɔ̃
+eye: hɔ͂wɔ͂
+eye: hɔ̃wɔ̃
+eye: hɔwɔ͂
+father: ma
+father: ma
+father: mai
+father: mai
+fat (n.): bò
+fat (n.): bɔ
+fat (n.): bɔ͂
+fat (n.): bɔ̃
+feather: sò\ tò
+feather: sɔʔ tɔ
+feather: sò\ wudu
+feather: sɔʔ wudu
+fire: dòu
+fire: dòu
+fire: dɔu
+fire: dɔu
+fish: di
+fish: di
+fish: inòlubi
+fish: inɔlubi
+fly (v.): fofulògò
+fly (v.): fofulɔgɔ
+fly (v.): sò\ fuòdugò
+fly (v.): sɔʔ fuɔdugɔ
+give: ne͂ye
+give: nẽye
+give: tònei
+give: tɔ͂nei
+good: sòwadò
+good: sɔwadɔ
+good: tigèfɔ̃
+good: tigɛfɔ͂
+green: mòluwò
+green: mɔluwɔ
+green: wenadèi
+green: wenadɛi
+hair: ulu tu
+hair: ulu tu
+hair: wudu
+hair: wudu
+head: ulugi
+head: ulugi
+head: wiligi
+head: wiligi
+hear: dualʌ
+hear: dualë
+hear: dula
+hear: dulòye
+hear: dulɔye
+I: a͂
+I: ã
+I: na
+I: na
+kill: inènh.ye
+kill: inɛyɛ
+kill: wi
+kill: wi
+knee: ebi
+knee: ebi
+knee: ibi
+knee: ibi
+know: dulisɔ͂
+know: dulisònh
+know: gulida
+know: gulida
+leaf: du
+leaf: du
+leaf: hòsugudu
+leaf: hɔsugudu
+leg: hòmò
+leg: hòmɔ̃
+leg: hɔmɔ
+leg: hɔmɔ͂
+lie: tiäye
+lie: tiäye
+lie: tie
+lie: tie
+long: sage
+long: sage
+long: sage
+long: sage
+louse: ou͂
+louse: òu
+louse: òũ
+louse: ɔu
+man: òlòga
+man: ɔlɔga
+man: olu
+man: ɔlu
+many: gogolu
+many: gogolu
+many: susugwa͂
+many: susugwã
+meat: hòu
+meat: hɔu
+meat: hwòĩ
+meat: hwɔ͂i
+moon: a
+moon: a
+moon: nɔ̃ligò
+moon: nɔ͂ligɔ
+mother: unòki
+mother: unɔki
+mother: wi
+mother: wi
+mountain: isisya͂
+mountain: isiyã
+mountain: mubi
+mountain: mubi
+mouth: mɔgɔlo
+mouth: mògòlò
+mouth: mɔ̃gòlò
+mouth: mɔ͂gɔlɔ
+name: hu͂
+name: hu͂
+name: hũ
+name: hũ
+neck: gòbòdã
+neck: gɔdɔba͂
+neck: gududã
+neck: guguda͂
+new: dia
+new: dia
+night: gaisi
+night: gaisi
+night: nòluga
+night: nɔluga
+nose: mòdu
+nose: mudu
+not: mèĩ
+not: mɛi͂
+one: dihɔ͂
+one: dihɔ̃
+one: hòmakòna
+one: hɔmakɔna
+rain: hɔ̃wɔ̃ sibògò
+rain: hɔ͂wɔ͂ sibɔgɔ
+rain: hɔ̃wɔ̃ sibògu
+rain: hɔ͂wɔ͂ sibɔgu
+red: bige͂
+red: bigẽ
+red: èmeĩ
+red: ɛme͂i
+road: eli
+road: eli
+road: eli
+road: eli
+root: hòmò tu
+root: hòmò-tu
+root: hɔmɔtu
+root: hɔmɔ tu
+say: kòlai
+say: kɔlai
+seed: gòkò
+seed: gɔkɔ
+seed: hòmòu
+seed: hɔmɔu
+see: ègè
+see: ɛgɛ
+see: òga-ye
+see: ɔgaye
+shoulder: ei
+shoulder: ei
+shoulder: ei
+shoulder: ei
+sit: bie͂
+sit: biẽ
+sit: buwa
+sit: buwa
+skin: kòlò
+skin: kɔlɔ
+skin: kulò
+skin: kulɔ
+sleep: tiäye
+sleep: tiäye
+sleep: tie
+sleep: tie
+small: fäbugo
+small: fäbugɔ
+small: febugɔ͂
+small: febugɔ̃
+smoke: dei
+smoke: dei
+smoke: kume͂
+smoke: kumẽ
+stand: tòbi
+stand: tɔbi
+stand: tubiye
+stand: tubiye
+star: gi͂wɔ͂
+star: gĩwɔ̃
+star: giwɔ͂
+star: giwɔ̃
+stone: yo
+stone: yo
+stone: yò
+stone: yɔ
+sun: osigɔ͂
+sun: osigɔ̃
+sun: òsugò
+sun: ɔsugɔ
+swim: hɔ̃wɔ̃
+swim: hɔ͂wɔ͂ tuabeye
+swim: tabiyaye
+swim: tabiyaye
+tail: òbeyò
+tail: ɔbeyɔ
+tail: sòtò
+tail: sɔtɔ
+that: kugòsɔ̃
+that: kugɔsɔ͂
+this: hagòsɔ̃
+this: hagɔsɔ͂
+this: hi͂
+this: hĩ
+thou: nò
+thou: nõ
+thou: nɔ
+thou: nɔ͂
+tongue: i
+tongue: i
+tongue: i
+tongue: i
+tooth: mɛ͂
+tooth: mei
+tooth: mei
+tooth: mènh
+tree: hòmò
+tree: hòmò
+tree: hɔmɔ
+tree: hɔmɔ
+two: hòma kòna
+two: hɔma kɔna
+two: wòlugu
+two: wɔlugu
+walk: diago
+walk: diago
+walk: dui
+walk: dui
+warm: dèbiò
+warm: dɛbiɔ
+warm: deduò
+warm: deduɔ
+water: hɔ͂wɔ͂
+water: hɔ͂wɔ͂
+water: hɔ̃wɔ̃
+water: hɔ̃wɔ̃
+we: daye
+we: daye
+we: iyɔ͂
+we: iyɔ̃
+what: ogoba
+what: ogoba
+what: ogobò
+what: ogobɔ
+white: da:sigẽ
+white: dòsigɔ̃
+white: he͂niye
+white: hɔdɛi
+who: ugumɔ͂
+who: ugumɔ̃
+wing: fudugò
+wing: fudugɔ
+wing: soʔ adʌ
+wing: sò\ adë
+woman: sòbò
+woman: sɔbɔ
+woman: subò
+woman: subɔ
+yellow: ɛmesiya͂
+yellow: èmesiyã
+yellow: wãdèi
+yellow: wa͂dɛi

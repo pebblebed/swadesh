@@ -1,0 +1,327 @@
+all: lipɔφi awɛle uwɛ waʔalɛ
+all: toʔowale
+all: towarei
+animal: lakaʲ
+animal: lakaʲ
+arrow: ɪnɛheʲ
+arrow: yɛne
+ashes: (yɛ) ʔi
+ashes: (yɛ) yɛʔi
+back: mɛki
+back: moki
+bad: koane pɛle
+bad: koan pɛle
+bark: (me) a
+bark: (me) ɛpeʲ
+belly: diho
+belly: hane
+belly: pɔʔɔφi
+big: hɔʔɔʲ
+big: towa
+bird: ape
+bird: ape
+bird: apɛ
+bite: aʷɛ
+bite: ani
+black: koposuawe
+black: yɛleawe
+blood: mateʲ
+blood: mateʲ naʲɔ
+bone: pɛkɛli
+bone: pokolɛ
+boy: mane komo
+boy: man(o)kom
+breast: moʔu
+breast: mɔʔu
+brother: aluʔo
+brother: yatoa
+burn: (yɛ) liφo
+burn: (yɛ) wɛli
+child: mane lɔku
+child: man loku
+chin: aʲpoke
+chin: apuɛli
+claw: (ape) yokolu
+claw: yokolu
+cloud: niakɛle
+cloud: nia kɛli
+cold: naʔalaʲ
+cold: nelɛʔaʲo
+come: suyaʷa
+come: yaʷo
+crocodile: sinapi
+day: nɪli φaʲ
+day: no nɛlihaʲ
+die: naʲɛ
+die: onɛʔe
+dog: yawi
+dog: yawi
+drink: aseʲaʔe
+drink: (ɔsei) maʷɛ
+dry: ave
+dry: yɛli
+ear: ope
+ear: pɛni
+earth: mopɛli
+earth: mopɛli
+earth: nepɛli
+eat: maʷ
+eat: maʷɔ
+egg: (ape) naha
+egg: apu wɛti
+elbow: lɔti oʷo
+elbow: lɔti pɔke
+emu: (lakaʲ woloʷ
+emu: (lakaʲ φapa
+eye: ni
+eye: nina
+eye: ni naφɛ
+fall: hawɛʔ ɔwe
+fall: sɔl wihowɛ
+far: no nuʔɛ
+far: upaʲe
+father: asua
+father: ilaʲ
+fat (n.): waʷ
+fat (n.): waʷ
+feather: (ape) o
+feather: (apo) o
+finger: nomalu
+finger: nome
+finger: nome
+finger: nomɔlu
+fire: yɛ
+fire: yɛ
+fish: ɛne
+fish: ɛne
+five: kele
+five: kɛliʔe
+fly (v.): ineneyɛ
+fly (v.): ɪnɛhiu
+foot: wali tɔli
+foot: wiku ahɛ
+forehead: mahɛ
+forehead: maφile
+forest: mɔkɔlo
+four: kɔlɔlu
+four: kɔlɔluʔo
+full: hi pile
+full: ohoseʔe
+girl: awɛlɛ man
+girl: awɛne mane
+give: sahaʷ
+give: sɔnɔ
+good: akoan
+good: koane
+green: nolopaʲyaʷe
+green: noreawe
+hair: (o) naφɛlo
+hair: (oʷ) noho͂le
+hand: lɔti
+hand: loti naha
+head: ʔoʷ
+head: oʷ
+hear: ana owano
+hear: sowano
+heart: ɪnahɛ
+heart: yɛnaφo
+heavy: hɛʔeyo
+heavy: hoʔo yoʔeɔ
+he/she: ɛle
+he/she: le
+hit: oφɔlu
+hold: sane
+house: wɔi
+house: wɔʔi
+I: an
+I: ane
+kill: naiʲiyɛ
+kill: onane ɛ
+knee: luɛti
+knee: uɛti
+know: tɛtɛte aʲ
+know: tote iyaʔɛ
+laugh: nɛsaʲyowa
+laugh: ɪnsai
+leaf: (me) o
+leaf: (me) o
+leg: wɔli
+leg: wore
+lie: mɛkiɛyɛ
+lie: φɔaʲ
+liver: waφe
+liver: waφe
+long: aʲiʔɛ
+long: ai niʔi
+louse: (oʷ) nome
+louse: (o) nɔme
+man: lihi
+man: lipofi
+many: lipɔφi liɛliʔɛ toφuʔu
+many: toʔowale
+many: towarei
+meat: (lakaʲ nɛme
+meat: nɛm
+moon: oʷe
+moon: paʔʲyaʷe
+morning: kapɛli paʲ
+morning: no sɛlioko
+mother: ma
+mother: mɔ
+mountain: oho ~ oxo
+mountain: wolowɛʔi
+mouth: aʲɛ
+mouth: ai
+name: wi
+name: wiʔɛ
+near: liale
+neck: ilɔʔo
+neck: loʔo
+new: hagitɔφio
+new: nɔle
+night: no sɛlimeye
+night: paʲ meʲ
+not: naʷ
+not: pɛle
+not: pi
+not: φau
+old: asɛpaʲ
+old: eawon
+old: ɛlipoφi
+old: kɔlio
+old: koreɔ
+old: lihi ɛʲ
+one: nome
+one: tɔpakɛli
+rain: no
+rain: no
+rat: (lakaʲ wamu
+rat: wamo
+red: mɛhiaʲawe
+red: mɛφi yaʷe
+river: asei e
+river: ɔsei towa
+road: pɛne
+road: yɔ yaʲ
+root: (me) mɛti
+root: (me) napi
+round: me o eoʲɔle
+round: yaʔui aʲ
+salt: saʲ
+salt: saʲ
+sand: ɛline
+sand: ɛline
+say: se
+say: suɛʔe
+seed: (me) ave
+seed: (me) naha
+see: mɛnaʷɔ
+see: oneʲ
+short: ɛφiaʷ
+short: ohiaʷ
+shoulder: ale
+shoulder: yoko
+sister: awɛn nomotɛ toa
+sister: nomoto
+sit: ɔwe
+sit: solowe
+skin: a
+skin: ɛbaʲ
+sleep: φoaʲe
+small: hɔ ɔngomɛ
+small: hɔ wɛsɛʔi
+small: pɛseaʔane
+smoke: (ye)sɛ
+smoke: (yɛ) yaʲe
+snake: maʲe
+snake: mɛʔɛ
+spit: samɛni
+spit: yowoʔe
+stand: ɛʲɛ
+stand: mʌmɛ sɛʔin aʲowe
+star: aʷehe
+star: yaʷtuaφe
+stone: paʔe
+stone: paʔɛ
+stone: yakiʔ
+sun: yaʲ
+sun: yei
+swim: asei oφihɛneʔi
+swim: oφi nei hoʔo
+tail: (yawi) apaʲɛni
+tail: (yawi) yɪni
+that: omose
+that: si
+they: loho
+they two: hɔʔi
+they two: neoʔi
+they: φɛn
+think: sɛtote
+think: setɔtɛ kɛti
+this: sea selihi
+this: tetɛte
+thou: hene
+thou: ne
+thou: ne
+thou: pofi toleʲ
+thou: φɛne
+three: hahalo
+three: loʷɛli
+tomorrow: wɛhɛ
+tomorrow: wɔφaʲ
+tongue: soluwɛ
+tongue: sɔluwɛ
+tooth: pina
+tooth: pinaφo
+tree: me
+tree: me
+two: hɔʔi
+two: nomɔlu
+vomit: e
+vomit: e
+walk: aʲ
+walk: iaʲ
+walk: nʌla naʲɛ
+walk: si
+wallaby: (lakaʲ wasin
+wallaby: pɛsi
+warm: mɔleyo
+warm: tomɛni
+warm: yɔlɛme
+water: asaə^
+water: osei
+we (excl.): noho
+we (excl.): noφu
+wet: no koloyɛ
+wet: sɛliou
+we two (excl.): natɛtape hɛsɛ
+we two (excl.): nɛtahoʔi
+what: ɛlɛ pi ɪnaφe
+what: piʔɛne
+when: ne hɔle yelal
+when: pi nɛφi
+where: pi awaʲ
+where: φu tei
+white: wapoawe
+white: wapuawe
+white: wapuawe
+who: ne hɔle neo
+who: φulu ɛφɛ
+wind: hiale
+wind: noloha
+wind: no wiʔu
+wing: (ape) amai
+wing: (apo) maʲ
+woman: awane
+woman: awɛn
+woman: awɛnɛ
+wood: kau
+wood: (me) ɪlipe
+yellow: hɛte awe
+yellow: oteawe
+yes: io
+yesterday: wɛhɛ
+yesterday: wɔφɛ
+yes: yei
+you two: haneoʔi
+you two: φɛnɛhɔʔi

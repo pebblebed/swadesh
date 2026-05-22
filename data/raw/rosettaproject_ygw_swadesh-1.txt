@@ -1,0 +1,101 @@
+all: helaqa
+arm: hwalyï
+ashes: kwataala
+bark: waasa
+belly: aakwiyï
+big: imasa
+bird: qaikwïsa
+bite: hisa
+black: pïsa
+blood: msaasa
+bone: yekïna
+breast: aamna
+burn: tiso itaatenyï
+claw: saapïna
+cloud: qaaula
+cold: tapaakumnyï
+come: qapaatana
+die: napakwa\nateqa
+dog: wakyï
+drink: aalyï natana
+dry: yaalsa
+ear: qatisa
+earth: kwaasa
+eat: hisa naatana
+egg: mna
+eye: hina
+fat (n.): qaaqwa
+feather: hyekwiyï
+fire: tïsa
+fish: waalapyï
+fly (v.): kwoatana
+fly (v.): qaula kwotana
+full: maanyï
+give: qansapaatana
+good: ilai\na
+green: hyaukwïnyï
+hair: msaasa
+head: mnakïna
+hear: qatisa u-y-aatana
+heart: hyaalmauyï
+horn: hikwaana
+I: nka
+kill: piyï pakla qaatana
+knee: kwauna
+know: naaqa\neynï isaqa
+leaf: kwiyï
+leg: kwapïtwalyï
+lie: heka o-lana
+liver: qalyï
+long: haiwalyaana
+louse: ila
+man: kwala
+many: pa\naayï
+meat: nenyï
+moon: lamnyï
+mountain: kwaana
+mouth: maana
+name: yavwï
+neck: hilna
+new: hyana
+night: hikwïna
+nose: himsa
+not: maya
+one: hïnkwa\na
+person: aa\mnyï
+rain: naqaiyï
+red: aalasa
+road: malna
+root: hula
+round: ilkwa\mna
+sand: wesa
+say: taatana
+seed: hyaulyï
+see: hina u-kwan-aatana
+sit: qakwaalana
+skin: aa\mosa
+sleep: heka olana
+small: maatïkwa
+smoke: hina tïsa
+stand: pola taqona
+star: hilaqamla
+stone: hekyï
+sun: mapya
+swim: aalïmla kwaata\nyï yaatana
+tail: hyauyï
+that: he
+this: te
+thou: nkïnï
+tongue: hyaalsa
+tooth: maana
+tree: isa
+two: hulwaaqwï
+walk: qaana emalyaatana
+warm: tïkumnyï
+water: aalyï
+we (incl.): nenkwa
+what: paaqaka
+white: kapaai\laalyï
+who: sïkwaka
+woman: aapala
+yellow: waakwulyï

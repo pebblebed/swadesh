@@ -1,0 +1,4 @@
+# The raw corpus must stay byte-for-byte as downloaded from the Internet Archive.
+# Disable all line-ending / text normalization so a fresh checkout matches the
+# original files exactly (some, e.g. hun_swadesh-2, are not even UTF-8).
+data/raw/** -text

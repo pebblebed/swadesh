@@ -1,0 +1,206 @@
+all: olgeta
+and: na
+animal: enimol
+ashes: sit bilong paia
+at: long
+back: bihain
+bad: nogut
+bark: skin diwai
+because: bikos
+belly: bel
+big: bikpela
+bird: pisin
+bite: kaikai
+black: blakpela
+blood: blut
+blow: winim
+bone: bun
+breast: susu
+breathe: pulim win
+burn: boinim
+child: pikinini
+cloud: klaut
+cold: kol
+come: kam
+correct: stret
+count: kaun
+cut: katim
+day: de
+die: indai
+dig: brukim graun
+dirty: doti
+dog: dok
+drink: dringim
+dry: draipela
+dull: i no sap
+dust: das
+ear: ia
+earth: graun
+eat: kaikaim
+egg: kiau
+eye: ai
+fall: pundaun
+far: longwe
+father: papa
+fat (n.): i gat gris
+fear: pret
+feather: gras bilong pisin
+few: i no planti
+fight: pait
+fingernail: kapa bilong pinga
+fire: paia
+fish: pis
+five: faipela
+float: drip
+flower: plaua
+flow: ran
+fly (v.): flai
+fog: sno
+foot: fut
+forest: bus
+four: foapela
+freeze: tanim long ais
+fruit: prut
+full: pulap
+give: givim
+good: gutpela
+grass: gras
+green: grinpela
+guts: bel
+hair: gras bilong het
+hand: han
+head: het
+hear: harim
+heart: hat, klok
+heavy: hevi
+he: em
+here: hia
+hit: paitim
+hold: holim
+horn: belo
+how: olsem wanem
+hunt: lukautim
+husband: man
+ice: ais
+if: sapos
+I: mi
+in: long
+kill: kilim i dai
+knee: skru bilong lek
+know: save
+lake: raunwara
+laugh: lap
+leaf: lip
+left: kais
+leg: lek
+lie: 1. giaman 2. slip
+liver: lewa
+live: sindaun
+long: longpela
+louse: laus
+man: man
+many: planti
+meat: abus
+moon: mun
+mother: mama
+mountain: maunten
+mouth: maus
+name: nem
+narrow: i no brait
+near: klostu
+neck: nek
+new: nupela
+night: nait
+nose: nus
+not: no
+old: olpela
+one: wanpela
+other: arapela
+person: man
+play: pilai
+pull: pulim
+push: subim
+rain: ren
+red: retpela
+right: rait
+river: riva, wara
+road: rot
+root: rut
+rope: lain
+rotten: i sting pinis
+round: raunpela
+rub: rabim
+salt: sol
+sand: waisan
+say: tok
+scratch: skrap
+sea: solwara
+seed: pikinini
+see: lukluk
+sew: samap
+sharp: sap
+short: sotpela
+sing: singim
+sit: sindaun
+skin: skin
+sky: skai
+sleep: slip
+small: smolpela
+smell: smel
+smoke: smok
+smooth: stret
+snake: snek
+some: sampela
+spit: spet
+split: brukim
+squeeze: krungutim strong
+stab: sutim long naip
+stand: sanap
+star: sta
+stick: stik
+stone: ston
+straight: stret
+suck: dring
+sun: san
+swell: solap
+swim: swim
+tail: tel
+that: em
+there: long hap
+they: ol
+thick: strong
+thin: bun nating
+think: tingting
+this: dispela
+thou: yu
+three: tripela
+throw: tromoi
+tie: pasim
+tongue: tang
+tooth: tit
+tree: diwai
+turn: tanim
+two: tupela
+vomit: traut
+walk: wokabaut
+warm: hat
+wash: waswas
+water: wara
+wet: i gat wara
+we: yumi
+what: wanem
+when: taim
+where: we
+white: waitpela
+who: husat
+wide: brait
+wife: meri
+wind: win
+wing: wing
+wipe: rabim
+with: wantaim
+woman: meri
+worm: liklik snek
+year: yia
+yellow: yelopela
+you: 1. yu 2. yupela

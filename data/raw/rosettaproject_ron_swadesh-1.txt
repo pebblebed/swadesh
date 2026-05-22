@@ -1,0 +1,288 @@
+all: tot
+all: tot
+and: şi
+and: şi
+animal: animal
+animal: animal
+ashes: cenuşă
+at: la
+at: la,pe
+back: spate
+back: spate
+bad: rău
+bad: rău,prost
+bark: scoarţă
+bark: scoarţă, coajă
+because: fiindcă, din cauză că
+because: pentru că
+belly: burtă
+big: mare
+big: mare
+bird: pasăre
+bird: pasăre
+bite: a muşca
+bite: muşca
+black: negru
+black: negru
+blood: sânge
+blood: sânge
+blow: a lovi, a sufla
+bone: os
+bone: os
+breast: piept
+breast: piept
+breathe: a respira, a răsufla
+breathe: respira
+burn: a arde
+burn: arde
+child: copil
+child: copil
+cloud: nor
+cloud: nor
+cold: frig
+cold: rece, frig
+come: a veni
+come: veni
+correct: corect
+count: a număra, număr
+cut: a tăia
+cut: tăia
+day: zi
+day: zi
+die: a muri
+die: muri
+dig: a săpa
+dig: săpa
+dirty: murdar
+dog: câine
+dog: câine
+drink: a bea
+drink: bea
+dry: sec
+dry: uscat
+dull: prost
+dust: praf
+earth: pământ
+earth: pământ
+ear: ureche
+ear: ureche
+eat: a mânca
+eat: mânca
+egg: ou
+egg: ou
+eye: ochi
+eye: ochi
+fall: a cădea
+far: departe
+far: departe
+father: tată
+father: tată
+fat (n.): grăsime
+fat (n.): grăsime
+fear: frică, teamă
+feather: pană
+feather: pană
+few: puţin
+few: puţin
+fight: a lupta
+fight: lupta
+fingernail: unghie
+fingernail: unghie
+fire: foc
+fire: foc
+fish: peşte
+fish: peşte
+five: cinci
+five: cinci
+float: a pluti
+float: pluti
+flow: a curge
+flower: floare
+flower: floare
+fly (v.): a zbura
+fog: ceaţă
+foot: picior
+forest: pădure
+forest: pădure
+four: patru
+four: patru
+freeze: a îngheţa
+fruit: fruct
+fruit: fruct,rod,poamă
+full: plin
+full: plin
+give: a da
+give: da
+good: bun
+good: bun
+grass: iarbă
+grass: iarbă
+green: verde
+green: verde
+guts: maţe, intestine
+hair: păr
+hair: păr
+hand: mână
+hand: mână
+head: cap
+head: cap
+hear: a auzi
+hear: auzi
+heart: inimă
+heart: inimă
+heavy: greu
+heavy: greu
+he: el
+he: el
+here: aici
+here: aici
+hit: a lovi
+hit: lovi
+hold: a ţine
+hold: ţine
+horn: corn
+horn: corn
+how: cum
+how: cum
+hunt: a vîna
+hunt: vâna
+husband: soţ
+husband: soţ
+ice: ghiaţă
+I: eu
+I: eu
+I: eu
+if: dacă
+if: dacă
+I: io
+in: în
+in: în
+kill: a omorî, a ucide
+kill: omorî
+knee: genunchi
+knee: genunchi
+know: a şti
+know: şti
+lake: lac
+lake: lac
+laugh: a râde
+laugh: râda
+leaf: frunză
+leaf: frunză
+left: stânga
+left: stânga
+leg: picior
+leg: picior
+lie: a minţi, minciună
+lie: zăcea
+live: a trăi
+liver: ficat
+liver: ficat
+long: lung
+long: lung
+louse: păduche
+louse: păduche
+man: om
+man: om,bărbat
+many: mulţi
+many: mulţi
+meat: carne
+meat: carne
+moon: lună
+moon: lună
+mother: mamă
+mother: mamă
+mountain: munte
+mountain: munte
+mouth: gură
+mouth: gură
+name: nume
+name: nume
+narrow: îngust
+narrow: strâmt
+near: aproape
+near: aproape, lângă
+neck: gât
+neck: gât
+new: nou
+new: nou
+night: noapte
+night: noapte
+nose: nas
+nose: nas
+not: nu
+not: nu
+old: bătrân
+old: vechi
+one: un
+other: alt
+person: persoană
+play: juca
+pull: trage
+push: împinge
+rain: ploua
+right: drept
+river: râu
+root: rădăcină
+round: rotund
+salt: sare
+sand: nisip
+say: zice
+sea: mare
+seed: sămânţă
+see: vedea
+sew: coase
+short: scurt
+sing: cânta
+sit: şedea
+skin: piele
+sky: cer
+sleep: dormi
+small: mic
+smell: mirosi
+smoke: fum
+snake: şarpe
+snow: ninge
+some: nişte
+spit: scuipa
+stand: sta
+star: stea
+stone: piatră
+suck: suge
+sun: soare
+swim: înota
+tail: coadă
+that: acel
+there: acolo
+they: ei, ele
+thick: gros
+think: gândi
+thin: slab
+this: acest
+thou: tu
+three: trei
+throw: arunca
+tongue: limbă
+tooth: dinte
+tree: arbore
+two: doi
+warm: cald
+wash: spăla
+water: apă
+we: noi
+wet: ud, umed
+what: ce
+when: când
+where: unde
+white: alb
+who: cine
+wide: larg
+wife: soţie
+wind: vânt
+wing: aripă
+with: cu
+woman: femeie
+worm: vierme
+year: an
+yellow: galben
+you: voi

@@ -1,0 +1,308 @@
+all: moːɗi
+all: wiriːdi
+ashes: tɔːdɔ
+ashes: tɔːdɔ
+back: ɔːyə
+bad: wəya
+bark: kəfɔllo
+bark: səba
+because: əssababai
+belly: ɛle
+belly: ɛlle
+big: amadenə
+big: yaːmədɛlʲ
+bird: mɛɟe˗
+bird: mɪɟɛ ~ mɪɟʔe
+bite: siːɓ˗əze
+bite: siːb˗i
+black: eːrɔ
+black: ɔrɔwa
+black: ɔrrɔ ~ ɔyyɔwa
+blood: gyeːba
+blood: gyeːfa
+blow: piːŋ
+bone: əmma
+bone: gaːmuː˗ŋga
+bone: ora˗
+boy: ɲeːla
+breast: aːbbi
+breast: əwiːdi ~ əwiːdɪ
+breathe: sɔːʔi
+brother: ɲeːdɛ˗na
+burn: aːrrebe
+burn: ɔ˗ɲɛm
+claw: mʊsʊ
+claw: mɪsɛ
+cloud: aːguːyu
+cloud: rrəŋgu
+cold: eːɟɪ
+cold: əɟi
+come: laːgo
+come: laːŋ
+come: ɔya
+cut: arbi
+cut: weː˗e
+cut: wei
+die: duːrri
+die: tiːwa
+die: tʊːri
+die: tui
+dig: kəlləⁿ
+dirty: wasxan
+dog: kəlɪ
+dog: kɛlɪ
+drink: mɪdi
+drink: məɗ˗ea
+dry: kɛːgɛbe
+dry: kekɛbe ~ kyekyɛbe
+ear: siːdi
+ear: si˗zi ~ ɪn˗zi
+earth: kɔyɔ
+eat: ɲəm
+eat: ɲiːmʲ
+egg: am(m)ɔi
+egg: əndi
+elbow: tɔʔɔlɔ
+eye: ɛːdi
+eye: iːn˗eːrə
+face: kədraːmu
+fall: bʊdia
+fall: pʊdia
+far: yʊːŋ
+fat (n.): aɲo
+fat (n.): kəba
+fear: lɛːɟəm
+fear: ləwdi
+feather: pɔːdo
+feather: pɔtɔ
+few: kɛɗɛɲɛle
+fire: ma
+fire: maʔa
+fish: uː
+fish: uː
+fish: uː\de
+five: ɔssʊmə
+fly (n.): ɛːɟ˗e
+fly (n.): gɛɟe
+fly (v.): piri
+foot: lʊ
+foot: ludɪ(ŋərane)
+forest: ˗ŋine
+forest: tilɔːseːli
+four: ləlɔs ~ lɔlɔzə
+full: tuːdu ~ duːdu
+girl: abɛra
+give: aːnsi
+give: bi
+good: waːr
+good: wəːdi
+grass: ɔːsɔ
+grass: ɔssɔ
+green: eːkeːrə
+green: ˗ɟeriyə
+guts: ɲəwəlida
+hair: ɟʔəŋge
+hair: ɔɲə
+hand: cɔrɔ ~ sɔrɔ
+hand: cɔye
+head: ɔla
+head: ɔːla
+hear: assini
+hear: ʊssine
+heart: iːyo
+heart: iyɔ
+heavy: liɟə ~ lidyə
+here: ta
+hit: ɛddɪbi
+hit: əddɪbi
+horn: gʊsuːli
+horn: kʊsʊl˗tə
+house: gama
+house: kɛːme
+how: kyɛŋ
+I: əŋ
+I: ɪŋgi
+kill: bɔːsi
+kill: pɔːzi ~ bɔːzi
+knee: kʊsʊ
+knee: kʊsu
+know: aːr
+know: kɔːrmi
+know: kʷɔyə ~ əːy
+laugh: ɲeːdən
+leaf: kəbəro
+leaf: kəca siːti
+left: ˗kənbiyə
+live: beːbea
+live: əːbbi
+liver: teː
+liver: teːte
+long: ɔlʊʔu
+long: uːluwe
+louse: aɲi
+louse: əːɲə
+man: amɔlɔra
+man: amoːlorɔŋ
+many: leʔa
+many: leːʔa ~ liaʔ
+meat: kɔːkɔ
+meat: ɔʔɔ
+moon: aqa
+moon: aʔʊwa
+mountain: bela
+mountain: beːla ~ bɛla
+mouth: ʊdu
+mouth: ʊdu
+name: ɪŋgi
+name: siːgə
+near: leːŋ
+neck: ŋaːlu
+new: aːyara
+new: ayaya
+night: ɔːrɔ
+night: ɔrrɔ ~ ɔyyɔwa
+not: mɔsi
+old: gadiːm
+old: uːllə
+one: loːdi
+one: lɔːdi
+other: maːnɛ
+other: maːnɛ
+person: amiːlu
+person: aːmɔl˗i
+person: ba
+person: fa
+pull: ɔːi ~ tiːbaːŋa
+push: kaʔaːsi
+rain: guːɟe
+rain: guɟə
+rain: kuɟə
+rat: ti˗a
+red: bura
+red: tɔyəŋ
+right: ˗ɗə\ga
+river: pɔ
+river: teːli
+road: aːma
+road: aːma
+root: addawa
+root: ad\dəwa
+rope: kʊl˗ʊa
+rotten: buːdi
+rub: abbɛɟe
+salt: kaːko
+sand: cɛːŋa ~ ky˗cɛːŋa
+sand: kɛrɛŋ(g)a
+say: ʊlli
+say: ɪlli
+say: wanza
+scratch: ɗyeɗyɛne
+see: aːr˗
+see: aːri
+seed: aɟɟɛnɛ
+seed: teːrəb
+see: əːy
+sew: muːdi ~ moːde
+sharp: pʊrrɔ
+short: ɓʊdullu
+shoulder: ɛl˗bɔr
+sister: mɔːne
+sister: mɔːyɛ
+sit: aːbbɪzi
+sit: (ʔ)ɛbbɛ\si
+skin: kɔkɔːne
+skin: səːba
+sky: yəmbʊm ~ yʊmbʊm
+sleep: ɗɛːɗɗɛse
+sleep: ɗeːsi
+small: eːgiə
+small: giːa
+smoke: bʊru
+smoke: pʊyu
+smooth: tɔːdi
+snake: maːla
+snake: maːla
+spit: aːbbesia
+spit: təʔal
+squeeze: ɗɛmɪsiyə
+stand: aːmmi
+stand: kʷəʔi
+star: maceːra
+star: maːɟu˗w(ey)a
+stone: bela
+stone: beːla ~ bɛla
+straight: adiːl
+sun: ɓiːdi
+sun: ɓiːdi
+sweet: kɛydi
+swell: ɛssəi
+swim: pɔŋgui
+swim: uːmaŋ
+tail: pɔi
+tail: pʊri
+take: tiːbəⁿ ~ t\iːɓa
+that: ˗i(gai)
+that: ʔiʔi
+there: tiː
+thin: ɓəɗɔyə
+thin: ɓɔdʊlu
+thin: ɗeːɗe
+think: fəkkərəŋ
+this: ˗eʔ
+this: ɛgəi
+this: ˗ʔi
+thorn: kiːʔi
+thou: in
+thou: ɪni
+thou: uː
+thou: uːsu
+three: eːdɛ
+three: əːdə
+throw: pʊrsi
+tie: mɔːe
+tomorrow: assaba
+tongue: kəla
+tongue: kəla
+tooth: ɲi˗di
+tooth: ɲiː˗di
+tree: kəca
+tree: kəca
+turn: ɟiŋidən
+turn: ŋaːbi
+two: wadi
+two: waːdi
+vagina: ŋaːy˗ə
+walk: ɓa ~ ɓi
+walk: ɓəi
+walk: ɓeːri ~ bɛria
+warm: lua
+warm: luːi
+water: kiː
+water: kiʔi
+weep: geːʔɟɛne
+we: əy
+we: iːɟe
+wet: aɓɓu\ɟɛnəm
+wet: t\ɛt\ai
+what: ɲi ~ nani
+what: ɲine
+when: ɲuːre
+when: ʊyu
+where: intə
+where: ɪnda
+white: bɔ
+white: eːbo
+who: ka˗
+who: na˗ŋai
+who: ŋai
+wind: ɔːbɔ
+woman: amelɛːmɛn
+woman: amɔlɔʔɪŋ
+woman: baː˗imi
+woman: faː˗miŋ
+wood: kɔdi˗a
+year: ɛssəna
+yellow: beːbɛ
+yellow: kɛriyə
+yesterday: mɔːɟəŋ
+yes: wəlle ~ wiːli

@@ -1,0 +1,101 @@
+all: yuya
+arm: ata
+ashes: kwaagïta
+bark: (yï)kïlaaka
+belly: munya/sïwalïka
+big: naanga
+bird: yuta
+bite: lïka da-\mwa\
+black: jïqïnya
+blood: tawe
+bone: yagïnya
+breast: aa(ng)wïnya
+burn: yïdïwa
+claw: parya
+cloud: yïraaya
+cold: lïku\ja
+come: b-twa\
+die: bai-mwa\
+dog: jïlïko
+drink: aalya n-ïwa\
+dry: yaalïka
+ear: kadïka
+earth: kwaaka
+eat: n-ïwa\
+egg: (yu)kwaraka
+eye: tïnna
+fat (n.): sïgunya
+feather: pïvya
+fire: sïka
+fish: jawïnya
+fly (v.): pïlaku-wa\
+full: maanga yeku\nïwa\
+give: nyi-jaa-wa\
+good: tewaanya
+green: yïjuza
+hair: mïjata
+head: mïnyagïnya
+hear: kdïka wï\nïwa\
+heart: pawe
+horn: saanya
+I: nïmï(no)
+kill: tam-wa\
+knee: kwanna
+know: kunya yawï\mwa\
+leaf: kïwata
+leg: sïvïla
+lie: war-ï\
+liver: kale
+long: saamïnya
+louse: yïle
+man: kwala
+many: pïjaako
+meat: mï(q)wïta
+moon: langwe
+mountain: mïgunya
+mouth: maanga
+name: yay (yavya)
+neck: tïlïnna
+new: mudïka
+night: sa(q)wïta
+nose: sïnna
+not: ma- -ymiko
+one: pïrï\(na)
+person: a\mwe
+rain: burïka
+red: wayaaka
+road: tuta
+root: pwipula
+round: tïqwaqunya
+sand: weka
+say: (yagaala)d-ïwa\
+seed: wia
+see: tïnna wanga-mwa\
+sit: mwaalï\
+skin: kïlaaka
+sleep: se warï\
+small: maalïka
+smoke: jïto
+stand: daa\mwa\
+star: sïlïngaamïnya
+stone: sïla
+sun: nyïla
+swim: lï\nïwa\
+tail: suya
+that: sa-
+this: da-
+thou: gïmï (no)
+tongue: taalïta
+tooth: maanga
+tree: ita
+two: pïrïwaai(na)
+walk: kaanya w-ïwa\
+walk: l-yamaryï-wa\
+warm: dïka
+water: aalya
+we (incl.): nemï(na)
+what: baa(rïva\)
+white: yaaka
+who: aalo
+woman: bala
+yellow: aawi\ja

@@ -1,0 +1,283 @@
+all: auopa
+all: auopa
+arm: iri
+arm: iri
+ashes: omori
+ashes: omori
+ashes: ʔuḷoki
+bark: kubi maporo
+bark: kubi maporo
+belly: bauri
+belly: bauri
+belly: bʌkuri
+big: bɛʲtɛṛo
+big: iwari
+big: iwari
+bird: barikere
+bird: barikere kumo
+bird: kumí
+bite: mabi
+bite: mabi
+bite: ßɛʲkɛro
+black: epui
+black: epui
+blood: paru
+blood: paru
+bone: wei
+bone: wei
+breast: ʔɛʲ
+breast: ei
+breast: ei
+burn: patiwo
+burn: patiwo
+claw: tupiri
+claw: tupiri
+cloud: bari eporo
+cloud: bari eporo
+cloud: ʔuwobi
+cold: kunami
+cold: kunami
+come: poʷ
+come: pou
+come: pou
+day: bari
+day: bari
+die: mariraboro
+die: mariraboro
+dog: kabui kumi
+dog: kavui kumi
+dog: kumi
+drink: ubi ko
+drink: ubi ko
+dry: amei
+dry: amei
+ear: aboi
+ear: eboi
+ear: oboki
+earth: ei
+earth: ei
+eat: ʔi ʔi ko
+eat: ko
+eat: ko-
+egg: mui
+egg: mui
+egg: muru
+eye: ipiri
+eye: ipiri
+eye: ɪpiri
+fat (n.): maḷi
+fat (n.): mari
+fat (n.): mari
+feather: kumi pauma
+feather: kumi pauma
+fire: ʔɛlɛʲ
+fire: elei
+fire: elei
+fish: koribi
+fish: koribi
+fly (v.): bai bure
+fly (v.): bai bure
+foot: kʌkʌpu
+forehead: pai-kara
+forehead: pai-kara
+full: kumurabu
+full: kumurabu
+give: apa wau
+give: apa wau
+give: koßo
+good: oparo
+good: oparo
+green: ßiburo
+green: viburo
+hair: kikɪmi kulo
+hair: kimi kuro
+hair: kimi kuro
+hand: ʔili
+head: kikimʌ
+head: kimi
+head: kimi
+hear: pio
+hear: pio
+heart: pumi
+heart: pumi
+he/she: da
+he/she: da
+he/she: d̪o
+horn: kebari
+horn: kebari
+I: amo
+I: amo
+I: a͂mo
+kill: do okoa
+kill: do okoa
+knee: muri
+knee: muri
+knee: muri kʌla
+know: da umoba
+know: da umoba
+leaf: ʔolʌ
+leaf: ori
+leaf: ori
+leg: kapui
+leg: kapui
+lie: ei neika
+lie: ei neika
+liver: imakari
+liver: imakari
+long: teteri
+long: teteri
+louse: nei
+louse: nei
+louse: pʌt̪i
+man: moʲ
+man: moi
+man: moi
+man: moida
+many: koipau
+many: koipau
+meat: bobi
+meat: nori
+meat: nori
+moon: ʔɛri t̪ɛro
+moon: umeri
+moon: umeri
+mountain: aburi
+mountain: aburi
+mouth: ara mui
+mouth: ara wui
+mouth: (dʌ)pori
+name: aru
+name: aru
+neck: abei
+neck: abei
+neck: ʌbɛʲkɛro
+new: mapi oriora
+new: mapi oriora
+new: mui
+new: mui
+night: bui
+night: bui
+nose: urubi
+not: waiba
+not: waiba
+one: wakoa
+one: wakoa
+one: wʌkʷʌ
+person: kari
+person: kari
+rain: dei
+rain: dei
+rain: neʲ
+red: puri
+red: puri
+road: meri
+road: meri
+road: meṛi
+root: kubi apa
+root: kubi apa
+root: ʌpʌ
+round: korori
+round: korori
+round: muro
+round: muro
+sand: peiri
+sand: peiri
+say: uru
+say: uru
+seed: kei
+seed: kei
+see: eire
+see: eire
+see: ʔikierɛ
+sit: ibitimaro
+sit: ibitimaro
+sit: ʔimʌl ro
+skin: kʌmi
+skin: mapori
+skin: mapori
+sleep: ʔid̪o
+sleep: i (doa)
+sleep: i(doa)
+small: eteaurimi
+small: eteaurimi
+small: mʌʲʌ t̪ɛro pɛʲyawao
+smoke: uobi
+smoke: uobi
+smoke: wobi
+stand: bai
+stand: bai
+stand: ʔɛt̪ɛbʌʲ
+star: ʔoʷʷɛiri
+star: oiri
+star: oiri
+stone: aburi upo
+stone: aburi upo
+stone: kumʌpi
+sun: eri
+sun: eri
+sun: ʔißʌt̪iro
+swim: ei (doa)
+swim: ei(doa)
+tail: kumi duro
+tail: kumi durp
+that: da
+that: da
+they: abo͂
+they: abõ
+they two: abokai
+they two: abokai
+they two: abuakai
+they two: abuakai
+this: ida
+this: ida
+thou: a
+thou: do
+thou: do
+tomorrow: ope
+tomorrow: pemera
+tongue: bei
+tongue: bei
+tongue: bɛḷi
+tooth: koropi
+tooth: koropi
+tooth: koropi
+tree: kubi
+tree: kubi
+tree: kubi
+two: ʔʌbirʌʲ
+two: buakei
+two: buakei
+walk: oe
+walk: pe-
+walk: pɛ
+walk: po
+warm: ukari
+warm: ukari
+water: ubi
+water: ubi
+water: ʔubi
+we: amõ
+we (incl.): amo
+we (incl.): amo͂
+we two: amai
+we two: amokai
+we two (incl.): amai
+we two (incl.): amokai
+what: nei
+what: nei
+white: banouni
+white: banouni
+who: daweiro
+who: daweiro
+woman: ʔɛd̪i
+woman: eri
+woman: eri
+yellow: ekeribare
+yellow: ekeribare
+yesterday: ope
+yesterday: peiba
+you: a
+you two: aiakai
+you two: aikai
+you two: akai
+you two: akai

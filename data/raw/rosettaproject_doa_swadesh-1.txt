@@ -1,0 +1,283 @@
+arrow: simul el
+arrow: simul el
+ashes: haːl
+ashes: ugul
+ashes: ugul
+back: muna
+back: mune
+back: mune
+bad: ki
+bad: ki
+big: bil
+big: bil
+big: bilh
+bird: hawuwa
+bird: kabnakova
+bird: kabnakova
+black: haːma
+black: ka:ma
+black: kaːma
+blood: meam
+blood: meam
+blood: meanǯ
+bone: yovela
+bone: yovela
+bone: yóvela
+breast: ame-na
+breast: ame-ne
+breast: ame-ne
+brother: a:la
+brother: aːla
+brother: aṛa
+burn: galo
+burn: gaḷo
+burn: gaṛo
+butterfly: kuime gaime
+butterfly: kuime gaime
+butterfly: kuime haime
+cassowary: evi
+child: kamegi
+child: yal gakave
+child: yal gakeve
+cold: gwi inggoka
+cold: gwi iŋgoka
+cold: gwi iŋgoka
+day: tana
+day: tanan
+day: tánan
+dog: al
+dog: aːl
+dog: a.lh
+drink: hibi harumuna
+drink: kubukariga
+drink: kubu káriga
+ear: hira-na
+ear: kina-ne
+ear: kina-ne
+earth: gava
+earth: gava
+earth: gava
+earth: maiŋgarwa
+eat: neka
+eat: neːka
+eat: noguŋga
+egg: mile
+egg: mile
+egg: mile
+emu: evi
+emu: evi(h)
+eye: omulna
+eye: ómulna
+eye: omulnain
+face: gumane
+face: gumane-girane
+father: abo
+father: abo
+father: habu
+fear: huril piriga
+fear: kuril pika
+fear: kuril pika
+fire: edn dongwa
+fire: edn doŋwa
+fire: ere deri ndoŋgwa
+fish: bili mbale
+fish: bili mbale
+fish: biri bari
+fly (n.): diuin
+fly (n.): diuin
+fly (n.): diúin
+foot: hau-nain
+foot: kau-ne
+foot: kau-ne
+fruit: mile
+fruit: mile
+fruit: mile
+girl: gi
+girl: ngge
+girl: ŋge
+give: tega
+give: teiga
+give: teiga
+good: wai
+good: wai
+good: wai
+guts: de-na
+guts: de-ne
+guts: de-ne
+hair: igo
+hair: igo
+hair: yigin
+hand: o-na
+hand: o-na
+hand: o-nain
+head: bil-na
+head: bil-na
+head: gibra
+hear: hod piriga
+hear: kod piʎku
+hear: kod pilyka
+here: yel
+here: yire
+he/she: yai
+he/she: yali
+he/she: ye
+house: ogu
+house: yige
+house: yige
+husband: wi
+husband: wi
+husband: wi
+I: na
+I: na
+know: na piluo
+know: piluo
+know: piriwe
+leaf: erari
+leaf: er ari
+lie: pabiŋga
+lie: paingga
+lie: paiŋga
+live: kwi molka
+live: kwi molka
+live: kwi muepeŋga
+long: aluain
+long: aluain
+long: aruain
+louse: niman
+louse: niman
+louse: nimán
+man: ival
+man: ival
+man: iva.lh
+meat: mi:
+meat: miː
+meat: miː
+moon: ba
+moon: ba
+moon: ba
+mother: mëna
+mother: məna
+mother: məna
+mountain: hul mauŋgwa
+mountain: kul mongwa
+mountain: kul moŋwa
+mouth: gira-na
+mouth: nggila-ne
+mouth: ŋgila-ne
+name: ha-na
+name: ka-ne
+name: ka-ne
+night: are yam benggwa
+night: are yam beŋgwa
+night: ari abiŋgwa
+night: erueri
+night: erueri
+night: gəruŋwa
+one: taran
+one: taran
+rain: au
+rain: au
+rain: eruain
+rat: dua
+rat: dua
+rat: dua
+red: ba
+red: ba
+red: ba
+road: holmbil
+road: kolmbil
+road: kolmbi.lh
+root: aul
+root: aul
+root: eruain
+rope: eruane
+rope: eruane
+rope: haːn
+rope: ka:n
+rope: kaːn
+say: ndi-a
+say: ndi-ga
+say: ndi-ga
+see: hanubin
+see: karibun
+see: karibun
+sister: aricim
+sister: arisim
+sister: árisim
+sit: amendiga
+sit: amendiga
+sit: amendiga
+small: hebil
+small: kebil
+small: kebi.lh
+smoke: eri no
+smoke: eri no
+smoke: eri no
+snake: garigiri
+snake: garigiri
+snake: garigiri
+stand: álungwa
+star: hul moŋwa
+star: kul mongwa
+star: kul moŋwa
+stone: hobure
+stone: kobule
+stone: kobule
+sun: are
+sun: are
+sun: are
+there: mala
+there: mara
+they: yai
+they: ye
+they: ye
+thou: en
+thou: ene
+thou: i
+three: čuita
+three: čuweta
+today: eleme
+today: ereme
+tomorrow: hwimoḷ
+tomorrow: kwimoḷ
+tongue: gira-bune
+tongue: gira:bune
+tongue: giraːbune
+tooth: čigi-na
+tooth: cigi-na
+tooth: čigi-rain
+tree: eri
+tree: eri
+tree: eri
+two: ču
+two: čuo
+water: nil
+water: nil
+water: nil
+weep: alindiga
+weep: alíndiga
+weep: gaṛan-dubeŋga
+weep: omul nile
+weep: omul nile
+weep: omul nire
+we: nere
+we: no
+we two (incl.): na čuo
+we two (incl.): na u
+what: nale
+what: taʎene
+where: aːl
+where: are
+who: enalaue
+who: nanawe
+wife: nebena
+wife: nebena
+wife: nebena
+wind: gwi
+wind: gwi
+wind: gwi
+woman: aval
+woman: aval
+woman: avalh
+yesterday: geraŋwa
+yesterday: giriŋgwa

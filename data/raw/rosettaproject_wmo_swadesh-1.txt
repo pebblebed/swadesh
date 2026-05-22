@@ -1,0 +1,304 @@
+all: iata sebekenehei
+arrow: pɛriŋgɛlɛ
+arrow: singoumbo
+ashes: nuhukeimbe
+ashes: nuhum geimbe
+back: arroʷbwa
+back: erombo
+back: rrombɛ
+bad: ɛlkʰa
+bad: kaihile
+bark: (lowote) erkesi
+belly: sembe
+belly: sɛmbɛ
+big: umbahi
+big: umbaihinɛmɛ
+bird: altakalɛ
+bird: atekele
+bird: atɛkɛlɛ
+bite: ana
+bite: nane
+black: ninkerineme
+blood: ʊmbalm
+blood: nimbalme
+blood: nimbañme
+blood: umbálmë
+bone: nangɛñe
+bone: nanggále
+bone: naŋgalɛ
+bone: nengele
+boy: ningal elmel
+boy: niŋal ɛlmɛl
+boy: nɪŋgal ɛlmɛl
+breast: numandil
+breast: numantil
+brother: sʊmal
+brother: warrhɪnɛʔ
+brother: wilhɪnɛmɛ
+brother: wirhineme
+burn: setiele
+child: ningal
+child: nʊmbiaumo
+chin: nonguñhe
+chin: nunkelehe
+claw: wɛtiŋge
+claw: wotinge (altekele)
+cloud: walel
+cloud: waliyɛl
+cold: numobo
+come: hɛnɛ nalo
+come: nalo
+day: andieʲ
+day: andiei
+die: anetanu
+dog: bɛtɛ
+dog: pete
+dog: pɛtɛ
+drink: nane
+dry: kukurati
+ear: atʰaha
+ear: atáha
+ear: etaha
+ear: ɛtaha
+earth: tuhalmbe
+earth: tuhalmbe
+earth: tuhalmbe
+earth: tuhalmbɛ
+eat: namine
+eat: nane
+egg: ihelmbe
+egg: i hɛlmbe
+elbow: ɛñhɛmbɛ
+elbow: (talhu) emuke
+emu: nambekele
+emu: nambɛkɛlɛ
+eye: barite
+eye: barrite
+eye: perite
+eye: perrite
+fall: netuke nai
+father: akel
+father: akɛñ
+father: yakäl
+fat (n.): bernute ambe
+fat (n.): pɛrrmute
+feather: elhe (altekele)
+feather: eñhe
+fingernail: tʰʌkɪlɪha
+finger: nomuhɛ
+finger: numuhe
+finger: wʊtʰɪŋgɛ
+fire: sutehe
+fire: sutehe
+fire: sutɛhɛ
+fire: sutɛhɛ
+fish: eʲɛ
+fish: eile
+fish: elɛ
+fly (v.): nintetehule
+foot: sahitɛ nangalɛ
+foot: sehite
+foot: seʲitɛ
+forehead: ekke
+forehead: sambaha
+four: nʊtʰantalɛ
+four: tetentele
+full: naser
+girl: ningawɪ ɛlmɛsiə
+girl: ningawi elmesie
+girl: nɪnawi ɛlmɛsiɛ
+give: netihe ume
+give: nɛti homo
+good: bai
+good: bai
+grass: wotɛ
+green: sinamuneme
+hair: walhel
+hair: walhel
+hair: walhɛl
+hair: walhil
+hand: talhi
+hand: talhi
+hand: tali
+head: erke
+head: erke
+head: ɛrrke
+head: ɛrrkʰɛ
+hear: nati
+heart: elhe
+heart: ɛñhɛ
+heavy: manitehe
+he/she: umei biel
+hit: narhe
+horn: erke palike
+horn: paliŋge
+house: enembele
+house: nɛmbɛlɛ
+I: ine
+kill: namerehel
+knee: ɛl hɛmbe
+knee: (sehite) elhembe
+know: nente
+laugh: naluwe
+leaf: sume
+leaf: sume
+leg: sahitɛ
+leg: sehite
+leg: sɛhitɛ
+lie: natehi
+lie: natehi takemel
+liver: elhe wonembe
+liver: ɛt hɛn tañme
+long: kolkolneme
+louse: nʊmɛlɛ
+louse: numele
+man: elmel
+man: ɛlmɛl
+man: sambɛ
+many: wasineme
+meat: maihite
+meat: nahite
+moon: anisi
+moon: anisi
+moon: anisi
+moon: hanisi
+morning: nʊwambɛl
+morning: uhambel
+mother: akɛñ
+mother: ni
+mountain: samʊŋgwɛ
+mountain: semunge
+mountain: sɛmunge
+mountain: tahɛndɛ
+mouth: eitumbwa
+mouth: eʲumbwa
+mouth: tumbe
+mouth: tumbe
+name: nalel
+name: nañeñ
+neck: wangɛlɛ hil
+neck: wankelehel
+new: mulineme
+night: hambel
+night: hambɛl
+nose: nyinggershi
+not: imbe
+not: imbe
+old: ɛlmɛsiə ʊlapɛ
+old: sambɛ ʊlapɛ
+old: sambeni ulape
+old: sambe ulape
+old: tɛlhinɛmɛ uñapɛ
+old: tɛlhumu uñape
+old: towekineme
+one: isili
+one: isili
+one: (nakan)ɪsɪli
+person: sambe
+person: sambɛ
+rain: anɛhɛ
+rain: enehe
+rain: ɛnɛhɛ
+rat: mandehɛ
+rat: mandɛhɛ
+rat: mandeihe
+rat: tɛlɛhɛ
+red: naʷ
+red: namo
+road: ahate
+road: ahate
+root: lɛpɛhɛ
+root: (lowete) lebehe
+root: nambɛlɛ
+round: namenike
+sand: sahal
+sand: sahañ
+say: nenatel
+seed: (lowote) halhi
+see: netali
+see: nɛtali
+short: birihenem
+shoulder: welhe
+shoulder: wɛlhɛ
+sister: erhumo
+sister: ɛrrhumu
+sit: nari takemel
+sit: rri
+skin: séndihe
+skin: sɛndihɛ
+skin: sɛndihɛ
+skin: sentihe
+sleep: natehi
+small: bitai
+small: pitaʲo
+smoke: nisul
+smoke: nusun
+smoke: nusut
+snake: sʊmbʊnʊha
+snake: sumbunaha
+snake: sumbunahe
+spit: nesuke
+stand: nɛndantu
+stand: netandu irauko
+star: wasuwe
+star: wasuwe
+stone: amaha
+stone: ɛmaha
+sun: yal
+sun: yaʊn
+sun: yaul
+sun: yaun
+swim: naluwo irankeri
+tail: einumo
+tail: ɛnʊmwɛ
+that: naha
+they: nati nimbile
+they two: uberi
+this: nihi ke
+thou: ehene
+thou: wanteheneme
+three: minei
+three: mɪneʲ
+tomorrow: namenke
+tongue: elinde
+tongue: ɛllinde
+tooth: nalhi
+tooth: nalhi
+tree: lawɛtɛ
+tree: lewete
+tree: lɛwɛtɛ
+tree: lowete
+two: biel
+two: (nakan)biɛl
+two: piɛñ
+walk: nambise
+walk: nambisɛ
+walk: natekuhi
+wallaby: eimbel
+wallaby: embɛñ
+warm: ambeli
+water: ambisi
+water: ambɪsi
+water: nambisil
+water: nambisil
+we (excl.): ime
+wet: nambisi
+we two (excl.): ime biel
+what: nemene
+when: melime
+where: iame
+white: eʲdɛna
+white: einteneme
+who: mie
+wind: sahandiwɛ
+wind: sahanduwo
+wing: wɛlhe
+wing: wolhe (altekele)
+woman: elmesie
+woman: ɛlmɛšiə
+woman: ɛñmɛsiɛ
+wood: pangele
+yellow: sirinbeneme
+yes: auhe
+yesterday: embuse
+you two: ehi biel

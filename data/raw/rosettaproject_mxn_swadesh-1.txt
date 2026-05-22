@@ -1,0 +1,1545 @@
+all: kamleindik
+all: kamleindik
+all: kamleindik
+all: kamleindik
+all: kam-leindík
+all: lemdik
+all: neindik
+all: neyeindik
+all: neyeindik
+all: neyeindik
+all: neyeindik
+all: neyeindík
+all: (we)indik
+and: wakafu
+and: wakafu
+and: wekafu
+and: wekafu
+animal: kam
+animal: kam
+animal: kaːm
+animal: kaːm
+ankle: ɛlik kouk
+ankle: ɛlik kouk
+ankle: ɛlik kouʔk
+ankle: ɛlik kouʔk
+ankle: èlík kóuk
+arm: òluti
+arm: ɔluti
+arm: ɔluti
+arm: wehin
+arm: wehin
+arrow: senɑn
+arrow: senɑn
+ashes: yakibi
+ashes: yakibi
+ashes: yakibi
+ashes: yakibi
+ashes: ya-kibi
+ashes: ya-kibi
+ashes: ya-kibi
+ashes: yaʔk kamun
+ashes: yak kamun
+at: awí
+at: awí
+back: babageri
+back: kèdibu
+back: kɛdibu
+back: kɛdibu
+back: kɛdibu
+back: kɛdibu
+back: kɛdibu kɔdus
+back: kɛdibu kudus
+back: keriborei
+back: te-kedibu
+bad: bobok-dau
+bad: obatdau
+bad: wa-botsuwao
+bad: wobok dau
+bad: wobok dau
+bad: wobok dau
+bad: wobok dau
+bad: wobok dau
+bark: megesik
+bark: ouk kɛsik
+bark: ouk kɛsik
+bark: ouk kɛsik
+bark: ouk kɛsik
+bark: ouk kèsík
+bark: o-uskesik
+bark: pekesek
+because: wawimana
+because: wawimana
+because: wawimana
+because: wawimana
+because: wawisɔ
+because: wawisɔ
+because: wawisɔ
+because: wawisɔ
+belly: sini
+belly: sini kisik
+belly: sini kisik
+belly: síní kìsik
+belly: sini kɪsik
+belly: sini kɪsik
+belly: talan
+belly: (ti)sini
+big: beten
+big: betɛn
+big: betɛn
+big: betin
+big: betin
+big: betìn
+big: biten
+big: pali
+big: pali
+big: palì
+big: pavele
+big: pëbele
+big: peli
+big: peli
+big: pelì
+big: peli ~ pali
+big: peli ~ pali
+big: wetum
+big: wetum
+bird: kalɛm
+bird: kalɛm
+bird: kalɛm
+bird: kalɛm
+bird: kelem
+bird: kelem
+bird: kelem
+bite: w-àn
+bite: wɑn
+bite: wɑn
+bite: wɑn
+bite: wɑn
+bitter: (pa)hal
+bitter: wɑ
+bitter: wɑ
+bitter: wɑ
+bitter: wɑ
+bitter: wà
+bitter: waa
+bitter: waak
+black: igit
+black: igit
+black: pigic
+black: pigic
+black: p-igik
+black: wigik
+black: wigik
+black: wigik
+black: wigik
+black: w-igík
+blood: saram
+blood: saram
+blood: sdam
+blood: sdam
+blood: sedam
+blood: sedam
+blood: sedàm
+blood: sëdan
+blood: sedɑm
+blood: sedɑm
+blow: w-ulu
+bone: kodus
+bone: kodus
+bone: kòdus
+bone: kɔdus
+bone: kɔdus
+bone: korus
+bone: to-kodos
+bone: wo-kurus
+boy: mijì (miemòlò)
+boy: miyi
+boy: miyi
+branch: kasham
+branch: makasan
+branch: oukma
+branch: oukma
+branch: ouk-ma
+branch: ouk-ma
+branch: ouk-ma
+branch: pëme
+breast: jo-su
+breast: no-su
+breast: sapi wusu
+breast: sapi wusu
+breast: su
+breast: su
+breast: su
+breast: su
+breast: su
+breast: suwun
+breast: su-wun
+breast: su-wun
+breast: tu-su
+breathe: wemàk
+breathe: wewin
+breathe: wewin
+breathe: wewìn
+breathe: wewɪn
+breathe: wewɪn
+brother: aluk
+brother: aluk
+brother: aluʔk
+brother: ebɑ
+brother: ebɑ
+brother: ebà
+brother: kalue
+brother: t-alug
+brother: t-alukiem
+brother: t-ëbak
+burn: talukaus
+burn: talukaus
+burn: talu-kaus
+burn: talupak
+burn: talu-pak
+burn: talupaʔk
+burn: wakaus
+burn: wakaus
+burn: wa-káus
+butterfly: bawaga
+butterfly: buwɔwaga
+butterfly: buwɔwaga
+butterfly: kalɛm(buaga)buwɔwaga
+butterfly: kalɛm(buaga)buwɔwaga
+butterfly: kalem bu(wò)waga
+butterfly: kam-bowaga
+calf: ɛfik
+calf: ɛfiʔk
+calf: elik kasu
+calf: elik kasu
+calf: elik kasu
+calf: elik kasu
+calf: élík kásu
+calf: elik mugu
+calf: elik mugu
+calf: élík mugu
+cassowary: kalè bále
+cheek: kamukba
+cheek: kamukba
+cheek: kamukba
+cheek: kamukba
+cheek: kámukba
+cheek: kawamun
+cheek: ta-kaikba
+chest: ba-bafin
+chest: bafin
+chest: bafin
+chest: bafin
+chest: báfin
+chest: bafɪn
+chest: bafɪn
+chest: ta-bafin
+child: kampɛ miyɛ
+child: kampɛ miyɛ
+child: maga-nyam
+child: mie
+child: mie
+child: mie
+child: mie
+child: mie
+child: mie
+child: miyam
+chin: gɑŋ
+chin: gɑŋ
+chin: gɑŋ
+chin: gɑŋ
+chin: na-gasoyok
+chin: ta-gan
+chin: wa-gal
+claw: felɪs
+claw: felɪs
+claw: isewik
+claw: isewik
+claw: isewik
+claw: isewik
+claw: isewik
+claw: yen
+claw: yen
+claw: yen felis
+claw: yen felis
+claw: yen felìs
+cloud: mandèk
+cloud: mandɛk
+cloud: mandɛk
+cloud: mandɛk
+cloud: mandɛk
+cloud: metim
+cloud: metim
+cloud: metìm
+cloud: metɪm
+cloud: metɪm
+cloud: mòraelas
+cloud: mɔraelas
+cloud: mɔraelas
+cloud: mɔrdelas
+cloud: mɔrdelas
+cold: iskumun
+cold: kebilɪ
+cold: kebilɪ
+cold: kebilì
+cold: kibili
+cold: kibili
+cold: meskumun
+cold: peoxelibili
+come: nama
+come: nama
+come: na-ma
+come: na-ma!
+come: nani-matu!
+come: wafedɪn
+come: wafedɪn
+come: wefedin
+come: wefedin
+come: wìlík
+correct: mɔlɔ
+correct: mɔlɔ
+crocodile: anisa
+crocodile: anisa
+crocodile: anisa
+crocodile: anisa
+crocodile: anisa
+crocodile: anse
+crocodile: kamkelawa
+crocodile: kamkelawa
+crocodile: kamkelawa
+crocodile: kamkelawa
+crocodile: kam-kelawa
+crocodile: wonggor
+crocodile: woŋgor
+crocodile: woŋgor
+crocodile: woŋgor
+crocodile: woŋgor
+cut: narik!
+cut: w-álà
+dance: awelìk
+dance: sararà
+dance: wò
+dark: tɔdun
+dark: tɔdun
+dark: tɔdun
+dark: tɔdun
+day: dewe
+day: dewe
+day: dewe
+day: dewè
+day: dewɛ
+day: dewɛ
+day: dewɛ gɑsa
+day: dewɛ gɑsa
+day: dewi
+day: gàsá
+die: sawòlò
+die: wagi
+die: wagi
+die: wagi
+die: wagi
+die: wagi
+die: w-ági
+die: wumuk
+dig: wak
+dig: wak
+dig: wak
+dig: wak
+dig: wák
+dig: weguyuk
+dig: weguyuk
+dig: weguyuk
+dig: weyin
+dig: weyin
+dig: weyìn
+dig: weyɪn
+dig: weyɪn
+dog: ofun
+dog: ofun
+dog: ofun
+dog: ofun
+dog: ofun
+dog: ofun
+dog: owen
+drink: nao
+drink: -o
+drink: ook
+drink: wawoo!
+drink: wò
+drink: wɔ
+drink: wɔ
+drink: wɔ
+drink: wɔ
+dry: djerek
+dry: fí
+dry: (pë)tie
+dry: tie
+dry: tie
+dry: tíe
+earth: agès
+earth: agès
+earth: agɛs
+earth: agɛs
+earth: eges
+earth: eges
+earth: hin
+earth: ibin
+earth: legi
+earth: malawìn
+ear: touk
+ear: touk
+ear: touk
+ear: touk
+ear: touk
+ear: touk-ba
+ear: toutba
+ear: towba
+ear: towut
+eat: -ak
+eat: -ak
+eat: -ak
+eat: inak
+eat: -k
+eat: n-at
+eat: wa-dòlòk
+eat: wak
+eat: wak
+eat: wak
+eat: wak
+eat: wawit!
+egg: tolok
+egg: tòlòk
+egg: tɔlɔk
+egg: tɔlɔk
+egg: tɔlɔk
+egg: tɔlɔk
+elbow: ninsasi
+elbow: ninsasi
+elbow: nín-sási
+elbow: teningkou
+elbow: wasus
+elbow: winim-tasha
+emu: kalɛ bale
+emu: kalɛbalɛ
+excrement: ugus
+excrement: ugus
+eye: sɪgɪk gɪn
+eye: sigik gin
+eye: sigik gin
+eye: sowo
+eye: suo
+eye: suwo
+eye: suwo
+eye: suwò
+eye: suwɔ
+eye: suwò gin
+eye: suwɔ gin
+eye: suwo gɪn
+eye: suwo kɛsik
+eye: suwɔ kɛsik
+eye: suwò kèsík
+eye: we-siwon
+face: sata
+face: sata
+face: sata
+face: sátá
+fall: w-alaun
+far: bajis
+far: beis
+far: beis
+far: (beli)beis
+father: -mam-
+father: mom
+father: mum
+father: mum
+father: tumun
+fat (n.): du
+fat (n.): menik
+fat (n.): meník
+fat (n.): po-monik (?)
+feather: kàlém wegín
+feather: kɑlem wegin
+feather: kɑlim wegin
+feather: pigim
+feather: wádin
+few: kiàm tan
+few: kiɑm an
+few: kiɑm tan
+finger: elìk tòwò
+finger: elik tɔwɔ
+finger: elik tɔwɔ
+finger: intokla
+fingernail: gerif
+fingernail: kedi
+fingernail: kidi
+fingernail: ninikidi
+fingernail: nin kédí
+fingernail: nin kidi
+fingernail: winim-gerif
+finger: nin dímè
+finger: nin dimɛ
+finger: nin dimɛ
+finger: nín tòwò
+finger: nin tɔwɔ
+finger: nin tɔwɔ
+finger: tokla
+finger: -towo
+finger: wilik-tokla
+finger: winim-tokla
+fire: kewaksɔr
+fire: kewaksɔr
+fire: yàk
+fire: yap
+fire: yap
+fire: yɑk
+fire: yɑk
+fish: komen
+fish: komòn
+fish: kòmòn
+fish: kɔmɔn
+fish: kɔmɔn
+fish: komun
+five: mafuk
+five: mafuʔk
+five: mafúk
+five: mafut
+five: mafut
+flower: filik
+flower: filik
+flower: filík
+flow: ìlík
+fly (n.): bɔluk
+fly (n.): buluk
+fly (n.): melit
+fly (n.): milit
+fly (v.): mefelik
+fly (v.): me-felík
+fly (v.): ne-felik
+fly (v.): wefelik
+fog: tuwòn kínik
+fog: wum
+fog: wum
+fog: wum
+foot: du
+foot: ɛfik
+foot: ɛkik diwi
+foot: ëlik
+foot: èlík
+foot: elík bàgálàk
+foot: elik bɑgalɑk
+foot: ɛlik bɑgalɑʔk
+foot: ɛlik diwi
+foot: ɛlik du
+foot: t-elek
+forehead: bablai
+forehead: lai
+forehead: lawi
+forehead: lawi
+forehead: láwí
+forest: kao
+forest: malakelim
+forest: malamoi
+forest: malamoi
+forest: malamói
+forest: oúk dèk
+forest: utilik
+four: fa
+four: faat
+four: fak
+four: fak
+four: fak
+fruit: besim
+fruit: uns-pun
+fruit: wisin
+fruit: wɪsin
+full: tòbò
+full: wàkíbí
+full: wefuyun
+full: welowò
+full: welowɔ
+full: wòfòn
+full: wɔfɔn
+full: wɔfɔn
+girl: mie gebang
+girl: mie gebaŋ
+girl: mie gebaŋ
+give: musuana-matu
+give: nusu
+give: su
+give: su
+give: suwunin
+give: wesuwu
+give: wesuwu
+give: we-suwu
+good: pobok
+good: po-bok
+good: wa-bot
+good: wò-bòk
+good: wɔbɔk
+good: wɔbɔk
+good: wo-bot
+grass: dèk
+grass: dɛk
+grass: dɛk
+green: bala
+green: bala
+green: bála
+green: kuasi
+green: wara
+guts: sini
+guts: sini
+guts: sini
+hair: kesik gin
+hair: késik gin
+hair: kɛsik gɪn
+hair: ne-gim
+hair: ne-gin
+hair: o-sa-gin
+hair: sa-djin
+hair: sagin
+hair: sagin
+hair: sa-gin
+hair: sá-gin
+hair: ta-sa-gin
+hand: nin
+hand: nin
+hand: nín
+hand: nin bakalak
+hand: nín bákálak
+hand: nin bakalɑʔk
+hand: nin kamuk
+hand: nin kamuk
+hand: nín kámuk
+hand: (we-)nin
+hand: winin
+head: sá-gámbuk
+head: sàgien
+head: sa-gusu
+head: sawa
+head: sawa
+head: sáwá
+head: sàwòk
+head: ta-sa-wapa
+hear: ingganedemetu!
+hear: m-oani
+heart: kasu
+heart: kasu
+heart: kásu
+hear: wewani
+hear: wewani
+hear: we-wání
+heavy: dosok
+heavy: (pë-)dosok
+heavy: wegesɔk
+heavy: wegesɔk
+heavy: we-gosòk
+heel: du
+heel: èlík díwí
+here: maing-ko
+here: mainku
+here: mainku
+here: main-ku
+here: sagugu
+here: walemiti
+he/she: anio
+he/she: dewe
+he/she: m-
+he/she: m-
+he/she: ma
+he/she: ma
+he/she: ma
+he/she: ma
+he/she: ma
+he/she: naayandji
+he/she: w-
+he/she: wa
+he/she: wa
+he/she: wa
+he/she: wa
+he/she: wa
+he/she: wa/ma
+he/she: wò-
+he/she: wɔ
+he/she: wɔ-
+hit: wedim
+hit: wedim
+hit: wedím(-so)
+hit: we-kutuk fás
+hit: wobin
+hit: wobìn
+hit: wobìn
+hit: wobɪn
+hold: waweti
+hold: waweti
+hold: waweti
+hold: wawetí
+hole: kali
+hole: káli
+hole: kam-pekele
+hole: pegele
+horn: esamagak
+horn: esamagak
+horn: esamágak
+house: keik
+house: keik
+house: keik
+house: keik mòlò
+house: keit
+house: keit
+how: uasëna
+how: wasela
+how: wasena
+how: wɔnɔsewɑ
+how: wɔnɔsewɑ
+hunt: wabɛ ofun
+hunt: wabɛ ofun
+husband: dàlà
+husband: dɑlɑ
+husband: dɑlɑ
+if: di
+if: duya
+if: duya di
+in: awi
+in: awí
+in: lunggí
+I: t-
+I: tiku
+I: tit
+I: tit
+I: tit
+I: tit
+I: tit
+I: tita
+I: tita
+I: tita
+kill: talbun!
+kill: wubun
+kill: wubun
+kill: w-ubun
+knee: duwu
+knee: élík fàtow
+knee: elik fɑtow
+knee: elik fɑtow
+knee: ɛlik sasi
+knee: ɛlik sasi
+knee: èlík sásí
+knee: élík tówò
+knee: elik towɔ
+knee: elik towɔ
+knee: masi
+knee: sisa
+knee: welik-samanggesik
+know: féin
+know: wik
+know: wìk
+know: wɪk
+lake: kalawu
+lake: kalawu
+lake: kala-wu
+lake: samanas
+lake: samanas
+lake: samanas
+laugh: wesedi
+laugh: wesedi
+laugh: w-esedì
+leaf: kedinlas
+leaf: kediɪn(-las)
+leaf: llas
+leaf: malas
+leaf: palas
+left: aingedi
+left: ain-gedi
+left: aiŋedi
+leg: èlík
+leg: telek
+lie: w-aw(e)bà
+lie: wawetesu kesik
+lie: wawetesu kesik
+lie: w-awetesu kesìk
+lightning: elek
+lightning: jelek
+lightning: lek
+lightning: lèk
+lightning: lɛk
+lip: gik kèsik
+lip: gik kɛsik
+lip: gɪk kɛsɪk
+lip: ti-gik-kesik
+lip: we-gib-kesik
+lip: we-kesik
+liver: uguk
+liver: uguk
+liver: uguk
+live: uo-loni
+live: wò-lòm
+live: wɔlɔm
+live: wɔlɔm
+long: kewesik
+long: samigi
+long: samigi
+long: samigi
+long: weinak
+long: weìnák
+long: weɪnak
+long: wi
+long: wi
+long: wí
+long: wii
+louse: sayam
+louse: sayam
+louse: sayam
+louse: sayem
+louse: yam
+louse: yam
+louse: yamlas
+louse: yamlas
+louse: yam-las
+louse: yam mòk
+louse: yam mɔk
+louse: yam mɔk
+man: dala
+man: dala
+man: dàlà
+man: dɑlɑ
+man: (ne-)dala
+man: (ne)dala
+man: nè-dàlà
+man: nɛ-dɑlɑ
+man: nɛdɑlɑ
+many: limo
+many: lìmòk
+many: limɔk
+many: lɪmɔk
+many: nsalnsilmoko
+many: safi
+many: safi
+many: safi
+many: safí
+meat: dagim
+meat: kem
+meat: kim
+meat: kim
+meat: kim
+meat: kìm
+meat: kìm
+meat: kɪm
+meat: (we)gem
+moon: sana
+moon: sanan
+moon: senɑ
+moon: senɑ
+moon: senà
+moon: sënë
+morning: lauk
+morning: lauk
+morning: lauʔk
+morning: lau kamgibi
+morning: lauk(waei)
+morning: lauk-wale
+morning: sikága
+morning: sikpaga
+mosquito: djono
+mosquito: djonof
+mosquito: gònòs
+mosquito: gɔnɔs
+mosquito: gɔnɔs
+mosquito: gunos
+mother: amɪ
+mother: ami
+mother: amì
+mother: dimɛ
+mother: t-eme
+mountain: halaysa
+mountain: malɑ
+mountain: malɑ
+mountain: malà
+mountain: mala(wesi)
+mountain: malɑ kɛdibu
+mountain: malɑ kɛdibu
+mountain: meli
+mountain: meli
+mountain: melí
+mouth: babegit
+mouth: gik
+mouth: gik
+mouth: gik
+mouth: gík
+mouth: samìlí
+mouth: wegep
+name: kɛdi
+name: kɛdi
+name: wëxedi
+nape: màbun
+nape: mɑbun
+nape: mɑbun
+narrow: tedò
+narrow: tedɔ
+narrow: tedɔ
+navel: sinibuk
+navel: sinibuk
+navel: sini-buk
+navel: ti-sine-buk
+near: narube
+near: narune
+near: paduok
+near: wadawòk
+near: wadawɔk
+near: wadawɔk
+neck: makodu
+neck: makòdu
+neck: makɔdu
+neck: makuru
+neck: mokuru
+neck: salpuk
+neck: saluwok
+neck: sàluwòk
+neck: sɑluwɔk
+neck: tasalwëk
+new: liwi
+new: liwi
+new: liwi
+new: liwi
+new: liwi
+new: nelibi
+new: nesagujati
+new: pilibi-sagu
+new: pilivi
+new: sagu
+new: sagu-mijo
+night: leim
+night: leim
+night: leim
+night: lein
+night: lein
+night: lein
+night: yewun
+night: yewun
+night: yogun
+night: yowun
+nose: babalagala
+nose: lábà
+nose: laba kali
+nose: lába kálì
+nose: labɑ kalɪ
+nose: lakalín
+nose: lalaba
+nose: lau
+nose: lau
+nose: lau
+nose: talaba
+nose: waraba
+not: dau
+not: dau
+not: dau
+not: dau
+not: dau
+not: eyì
+not: filiwò
+not: fílowu
+old: beis
+old: kaum
+old: kaun
+old: kaun
+old: kaun
+old: megaden
+old: né-dàlà kaung
+old: ne-dɑlɑ kauŋ
+old: nedɑlɑ kauŋ
+old: ne-gau
+old: nè-lagi kaung
+old: nɛ-lagi kauŋ
+old: nɛlagi kauŋ
+old: wa-gaungsu
+old: waxaun
+old: weinak
+one: kedɪ malɪ
+one: male-wì
+one: mali
+one: mali
+one: máli
+one: mele
+one: mele
+one: mèli
+one: mɛli
+one: mɛli
+person: egelìk
+person: naa-molo
+person: na-molo
+person: ne
+person: nè-mòlò
+person: nɛmɔlɔ
+person: nɛmɔlɔ
+play: webiʔk
+play: webìk
+play: webɪk
+rain: oulik
+rain: u
+rain: uelik
+rain: un
+rain: u-u
+rat: kajes
+rat: lábèk
+rat: mafòn
+rat: mafɔn
+rat: mais
+rat: mais
+rat: mayis
+rat: mayis
+rat: mayís
+rat: mofon
+red: pem
+red: weem
+red: weem
+red: wèm
+red: wɛm
+red: wɛm
+right: ain-kalèk
+right: ainkalɑk
+right: ainkalɑk
+right: ankalak
+ripe: kanas
+ripe: kanas
+ripe: kánas
+ripe: lee
+ripe: me-lebe
+ripe: pe-lebe
+river: kala-walam
+river: kbasalu
+river: kela
+river: kela
+river: kela
+road: wo
+road: wo
+road: wò
+root: belih
+root: pelek
+root: wɛlik
+root: wɛlik
+root: wèlík
+root: werik
+rope: ki
+rope: ki
+rope: ki
+rope: kí
+rope: síyè
+rotten: (pa-)muk
+rotten: wamuk
+rotten: wamuk
+rotten: wa-muk
+round: bum
+round: bum
+round: dɔlɔ
+round: dɔlɔ
+round: kamuk
+salt: gasi
+salt: gasi
+salt: gási
+sand: bain
+sand: bain
+sand: bain
+sand: bain
+sand: bain
+sand: bain megík
+say: fai legin
+say: fai legin
+say: fai legín
+say: mamema!
+say: mnaligin!
+say: wemenɑ
+say: wemena
+say: wemenà
+sea: mɔbak
+sea: mɔbak
+sea: tasi
+sea: tasik
+sea: tasik
+sea: tasík
+seed: puwun
+seed: uwun
+see: -eger
+see: -gen
+see: negertus-uwatu
+see: n-o
+see: no-wo
+see: w-agèn
+see: wagɛn
+see: wagɛn
+see: wò-wò
+see: wɔwɔ
+see: wɔwɔ
+sew: wekidin
+sew: wekidin
+sew: wetalu
+sharp: salàk
+sharp: w-àk
+sharp: wɑk
+sharp: wɑk
+short: kabu
+short: kabu
+short: kabu
+short: kediam
+short: kediam
+short: kediam
+short: keri
+short: kotomat
+shoulder: kebèk
+shoulder: kebɛk
+shoulder: kebɛʔk
+shoulder: olu
+shoulder: olu
+shoulder: òlu
+shoulder: t-olo
+sing: nuklanmetu
+sing: walɛ
+sing: walɛ
+sing: wutlan!
+sister: aluk
+sister: aluk
+sister: aluʔk
+sister: ebɑ
+sister: ebɑ
+sister: ebà
+sister: kalue
+sister: t-alug
+sit: nolomali!
+sit: nolon
+sit: olom
+sit: w-òlòm
+sit: wɔlɔm
+sit: wɔlɔm
+skin: kesik
+skin: -kesik
+skin: kèsik
+skin: kɛsik
+skin: kɛsik
+skin: sedɪk
+skin: te-gesik
+skin: wegen
+sky: juk
+sky: málasò
+sky: naa
+sky: naa
+sky: wilím
+sky: yuk
+sky: yuk
+sky: yuk
+sleep: -eba
+sleep: nau
+sleep: -u
+sleep: wasu
+sleep: w-ásu
+sleep: wau
+sleep: wau
+sleep: wa-usàbòn
+sleep: w-awetesu kesìk
+small: djam
+small: dòlò
+small: dɔlɔ
+small: kiàm
+small: kiem
+small: kiɑm
+small: kiɑm
+small: kujam
+smell: wamuk
+smell: wamuʔk
+smell: w-ásum
+smoke: sagam
+smoke: sidjam
+smoke: sun
+smoke: yak sun
+smoke: yɑk sun
+smooth: lewɪ
+smooth: lewi
+smooth: lewì
+snake: owun
+snake: owun
+snake: owun
+snake: ul(ung)
+snake: wul
+some: málè alidè
+sour: laai
+sour: lai
+sour: pavi
+sour: (w)awi
+sour: (w)awi
+sour: (w)awí
+spit: gosu
+spit: kosu
+spit: kosu
+spit: kòsu
+spit: kɔsu
+spit: toxosu
+spit: wegie
+spit: wegie
+spit: wegòsu
+squeeze: wɔgik
+squeeze: wɔgik
+squeeze: wògík
+stab: saa
+stand: nusuom
+stand: swon
+stand: w-ebílí
+stand: w-esewòn
+stand: wesewɔn
+star: so
+star: toon
+star: tuwòn
+star: tuwɔn
+star: tuwɔn
+stick: ouk-ma
+stone: hot
+stone: kawak
+stone: kewàk
+stone: kewɑk
+stone: kewɑk
+stone: kot
+stone: kwak
+straight: metusu
+straight: wetusu
+straight: wetusu
+suck: masu
+suck: -wagetà
+suck: waselòs
+suck: we-su
+suck: wè-su
+suck: win
+suck: win
+suck: wín
+sun: dewe
+sun: dewe
+sun: dewì we-siwò
+sun: dewi wesiwɔ
+sun: dewi wesiwɔ
+sun: dewu-suwun
+sweet: labam
+sweet: labam
+sweet: (pë)bam
+sweet: sibin tuwɔ
+sweet: tuwɔ
+sweet: wòs
+swim: kinie
+swim: le-gini
+swim: nugam
+swim: wekini
+swim: wekini
+swim: we-kíní
+tail: (i)yèn
+tail: (i)yɛn
+tail: (i)yɛn
+tail: pakowk
+tail: pien
+tail: (p)ien
+tail: wadin
+take: wasegɑ
+take: wasegɑ
+take: wasegà
+take: wawetí
+take: wesik
+take: wesik
+take: w-esík
+that: anayò
+that: anayɔ
+that: anayɔ
+that: ano
+there: anayɔ
+there: andi
+there: anegi
+there: anegi
+there: anegí
+there: mainana
+they: l-
+they: meeya
+they: mèeya/mie-ma
+they: mie-djí/mie-ma
+they: miedyi
+they: miema
+they: miema
+they: miema
+they: miema
+they: mieya
+they: mieǯi
+they: naajandji
+they: najana
+they: nasana
+they two: nejali
+they: w-
+they: y-
+they: y-
+thick: wedɔkɔk
+thick: we-kòdòk
+thick: wekɔdɔk
+thigh: ɛlik tuwun
+thigh: ɛlik tuwun
+thigh: èlík tuwun
+thigh: etunggeri
+thigh: t-elek-tuun
+thigh: welik-tunggeri
+thin: bayèk
+thin: kaun
+thin: kaun
+thin: kaun
+think: wnuk
+think: wunuk
+thin: menɪ
+thin: menì
+thin: meyòk
+this: ko
+this: ku
+this: ku
+this: ku
+thorn: ginik
+thorn: ginik
+thorn: gíník
+thou: n-
+thou: n-
+thou: nan
+thou: nan
+thou: nana
+thou: nana
+thou: nin
+thou: nin
+thou: nin
+thou: nin
+thou: nin
+thou: nina
+thou: nina
+thou: nina
+three: tolu
+three: toluk
+three: tɔluk
+three: tɔluk
+three: tòlúk
+throat: makòdu
+throat: sàluwòk kásik-ba
+throat: sɑluwok kasikbɑ
+throat: sɑluwɔk kasikbɑ
+throw: webilik
+throw: webilìk
+throw: webilɪk
+throw: wegàlák
+throw: wegɑlak
+throw: wegɑlak
+thunder: lugu
+thunder: lugu
+thunder: lugu
+thunder: lugu
+thunder: lugu
+tie: sàk
+tie: sàk
+tie: sɑk
+tie: sɑk
+today: dewe-gu
+today: dewè-ku
+today: dewɛku
+today: dewɛ-ku
+today: diwe-go
+today: duwë
+tomorrow: dedɛ lauk
+tomorrow: dewe
+tomorrow: dewè lauk
+tomorrow: dewɛ lauʔk
+tomorrow: lauk
+tomorrow: lauk
+tongue: adin
+tongue: adin
+tongue: adin
+tongue: ádín
+tongue: n-arin
+tongue: wa-del
+tooth: afik
+tooth: áfìk
+tooth: afik diwi
+tooth: afɪk
+tooth: afɪk dewɪ
+tooth: déwì
+tooth: efek
+tooth: -evek
+tooth: n-epek
+tooth: udun
+tooth: we-fek
+tree: kɛdi
+tree: ouk
+tree: ouk kɛdi
+tree: ouk wolo
+tree: ouk wolo
+tree: ouk (wolo)
+tree: owut
+tree: wout
+two: ali
+two: ali
+two: ali
+two: ali
+two: ali
+two: kedɪ ali
+unripe: kasi
+unripe: kasi
+unripe: kási
+vagina: ibilik
+vagina: ibilik
+vagina: ibiliʔk
+vagina: mapɛli
+vagina: ma-pèlì
+vagina: mepɛli
+vomit: wedɔ
+vomit: wedɔ
+walk: -ana
+walk: naa-mu-matu
+walk: na-mo
+walk: na-mu
+walk: ta-mu
+walk: umu
+walk: wamu
+walk: wamu
+walk: wamu
+walk: wamu
+walk: w-amu
+walk: wa-mu
+warm: lebòk
+warm: lebɔk
+warm: lebɔk
+warm: loboh
+warm: lobok
+warm: (pë)lobok
+wash: bam
+wash: suwò
+wash: suwo waseli
+wash: swo waseli
+wash: swo wá-seli
+wash: waseli
+wash: waseli
+wash: wa-seli
+water: kala
+water: kala
+water: kala
+water: kalawisiwɔ
+water: kalawisiwɔ
+water: kelɑ
+water: kelɑ
+water: kelà
+we: aliw(a)u
+weep: i
+weep: ni
+weep: suwò kàlà
+weep: suwo kɑlɑ
+weep: suwɔ kɑlɑ
+weep: wesi-kala
+weep: wi
+weep: wi
+weep: wí
+weep: wisi-gala
+we (excl.): mam
+we (excl.): mam
+we (excl.): mama
+we (excl.): mama
+we (incl.): mam
+we (incl.): tit
+we (incl.): w-
+we (incl.): waw
+we (incl.): waw
+we (incl.): waw
+we (incl.): wawa
+we (incl.): wawa
+we: kawi-inaik
+we: m-
+we: mam
+we: mam
+we: mama
+wet: kubuk
+wet: kubuk
+wet: kubuk
+wet: (pë)gubok
+wet: pelim
+wet: pelìm
+wet: selek
+wet: tie
+we two (incl.): ne-ut-ali
+we two: mama-ali-kai
+we: wawa
+what: kam-sawa
+what: kamsewɑ
+what: kamsewa
+what: kam-sewà
+what: sewɑ
+when: wetilisewa
+when: wetɪlisewa
+where: sewɑ
+where: sewɑ
+where: sewà
+where: wauseba
+where: wauseba
+where: wau-seba
+white: (pë)so
+white: so
+white: sò
+white: sɔ
+white: sɔ
+white: sowo
+who: main
+who: nemasewɑ
+who: nemasewa
+who: ne-(ma)-sewà
+who: nem-saua
+who: nesewa
+who: nɛsewa
+who: ne-sua
+who: wò
+who: yana
+wide: luwu
+wide: luwu
+wide: sebɛk
+wife: lagi
+wife: lagi
+wife: lági
+wind: dewér
+wind: hoo
+wind: mò
+wind: mɔ
+wind: mɔ
+wind: mo(o)
+wing: òlu
+wing: ɔlu
+wing: ɔlu
+wing: polu
+wing: wage
+wing: wo-we
+with: wakafu
+woman: lagi
+woman: lagi
+woman: lagi
+woman: lagi
+woman: (ne-)lagi
+woman: nɛlagi
+woman: nɛ-lagi
+woman: nè-lági
+wood: ouk
+wood: ouk
+wood: ouk
+wood: ouk taluk
+wood: ouk taluk
+wood: ouk taluʔk
+wood: owk
+wood: wo-ut
+worm: louk
+worm: louk
+wrist: nín màsèk
+year: dawakmali
+year: dawakmali
+yellow: labɛ
+yellow: labɛ
+yellow: poa
+yellow: pox
+yesterday: leindi
+yesterday: leiŋgi
+yesterday: leiŋgi
+yesterday: leinggí
+yesterday: leinwana
+yesterday: lina
+yes: you
+yes: you
+you: n-
+you: najinano
+you: nan
+you: nan
+you: nan-
+you: nana
+you: nasinano

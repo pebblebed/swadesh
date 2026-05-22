@@ -1,0 +1,147 @@
+ashes: taga
+ashes: taga
+back: masa
+back: masa
+bad: kolea
+belly: robaː
+belly: robaː
+big: adaː
+big: adaː
+bird: yáː
+bird: yáː
+bone: kuli
+boy: naːki
+boy: naːki
+breast: adu
+breast: adu
+brother: ame
+brother: ame
+chin: yagaː
+chin: yagaː
+come: ipu
+come: ipu
+cut: warea
+die: koma
+dry: kaːpu ta
+dry: kaːpu ta
+ear: kale
+earth: su
+earth: su
+eat: na
+eat: na
+eye: le
+father: aːpa
+father: aːpa
+foot: a~ː
+foot: ange
+forehead: weno
+forehead: weno
+give: gi
+give: gi
+good: epe ta
+good: epe ta
+hair: iri
+hair: iri
+hand: ki
+hand: ki
+hear: paga
+hear: paga
+heavy: kedaː pea
+heavy: kedaː pea
+he/she: (n)ipu
+he/she: (n)ipu
+hit: tya
+hold: sapira
+hold: sapira
+house: ada
+house: ada
+I: ni
+I: ni
+knee: rumu
+knee: rumu
+lake: ipa kumi
+lake: ipa kumi
+lake: ipa kumi
+laugh: giri ta
+laugh: giri ta
+leaf: kara
+leg: a~ː
+leg: ange
+lie: patya
+liver: pu
+liver: pu
+louse: lema
+man: ali
+meat: midi
+meat: midi
+moon: eke
+mother: ama
+mother: ama
+mountain: kari
+name: ibi
+neck: má
+neck: má
+new: pena
+not: dia
+not: dia
+root: pitya
+root: pitya
+salt: aipa
+salt: aipa
+sand: ipa mu
+sand: ipa mu
+say: la
+say: la
+see: ada
+see: ada
+shoulder: pasa
+shoulder: pasa
+sister: bali
+sit: pira
+sit: pira
+smell: pugu pia
+smell: pugu pia
+spit: koro ta
+stone: kana
+sun: nare
+sun: nare
+that: mo
+that: mo
+they: (n)imu
+they: (n)imu
+they two: (n)ipu
+they two: (n)ipu
+this: go
+this: go
+thou: ne
+thou: ne
+thou: (n)imi
+thou: (n)imi
+three: repo
+three: repo
+tongue: kek
+tongue: kek
+two: laːpo
+two: laːpo
+walk: pu
+walk: pu
+warm: riripu
+water: ipa
+water: ipa
+we: naː
+we two (incl.): saː
+we two (incl.): saː
+what: ali
+when: a rabo
+when: a rabo
+white: kaːke pia
+white: kaːke pia
+who: api
+who: api
+woman: winya
+yellow: ambu
+yellow: ambu
+yesterday: abala
+yesterday: abala
+you two: (n)ipi
+you two: (n)ipi

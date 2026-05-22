@@ -1,0 +1,184 @@
+all: adok
+and: ado
+animal: gar
+ashes: yã āsu
+back: agara
+bad: sane
+bark: ā gabari
+because: nigin
+belly: tē
+bird: nina
+bite: i-rase-ya
+black: karos
+blood: naud
+blow: wese
+bone: tuwa
+breast: su
+breathe: nese
+burn: tõ φi-ya
+child: kesu
+cloud: budun
+cold: medir
+come:  -palu i-se-ya
+correct: biya
+count: i-wese-ya
+cut: bogõ
+die:  la ɸi-ya
+dig: mekuy-ale-ya
+dirty: ganam ado
+dog: gãũ
+drink: nānu y-õ-ya
+dry: gerere
+dull: waila odu
+dust: āsu
+earth: teneb
+ear: weder
+egg: ɸātu
+empty: daku
+eye: mala
+fall: təriʔ
+far: gerō
+father: tama
+fat (n.): gigiɯ
+fear: kumī
+few: musei sã
+fingernail: kalupa
+fire: yã
+fish: gau
+five: imatekelei (ku-ɸesi-ya)
+float: solĩ
+flower: muni
+flow: kokō
+fly (v.): фatuti i-le-ya
+fog: budun
+foot: ye bala
+forest: omura
+four: aiwa-ado-do
+frog: фrlĩ
+fruit: biya
+full: i-soko-se-ya
+give:  i-фenẽ-ya
+good: biya
+grass: yeye
+green: mata
+guts: tē
+guts: tē
+hair: φatiya
+hand: ima
+head: mudur
+hear: karĩ
+heart: ka-abal utēne
+heavy: morõ
+he: ĩ
+hit:   y-u-ya
+horn: karātu
+how: naig
+hunt: koira
+husband: aiwa (monog)
+I: aya
+if: ere
+in: name-n
+kill: y-ũ-di la ɸi-ya
+knee: ibor
+know: kelēī
+lake: daliyou
+large: odug
+laugh: kasã
+leaf: arau
+left: kile
+leg: ye
+lie:  -ansin
+live: mata
+liver: wau
+long: meluk
+louse: ut
+man: tamo
+many: musei
+meat: muda
+moon: ogõ
+mother: sina
+mountain: arei
+mouth: awa
+name: yana
+narrow: nālu
+near: melsa
+neck: ula
+new: mata
+night: bõ
+nose: uyu
+old:   tubau
+one: tekelei
+play: kodē
+pull: dī
+push: subo
+rain: uyë
+red: giriya
+right: biya
+river: nānu
+road: nābu
+root: warĩ
+rope: malum
+rotten: wai
+round: obu
+rub: oroko
+salt: mā̃ĩ
+sand: kulum
+say: i-rõ-ya
+sea: mā̃ĩ
+sea: mā̃ĩ
+seed: ɸātu
+sew: i-wa-ya
+sharp: waila ado
+short: tobeya
+sing: seg y-ale-ya
+sit:  i-bodõ-ya
+skin: bowa gabari
+sky: sā
+sleep: mulai y-enë-ya
+small: nālu
+smell: sumei karî y-e-ya
+smoke: kau
+smooth: didi sā
+snake: gogōra
+snow: [ais]
+some:  tuni
+spit: i-sisi-ya
+split: mareb
+stab: borũ
+stand: i-фare-ya
+star: barisa
+stick: sīrī
+suck: dũ
+sun: gā
+tail: ibu
+they: idi
+thick: odug
+think: kisi
+thin: nālu
+thou: ã
+thou: õ
+three: towo
+throw: i-rã̃-ya
+tie: i-ɸo-kele-ya
+tongue: bale
+tree: ā
+turn: ɸalei
+two: uru
+vomit: l-lu-ya
+warm: uruwa ado
+wet:  lumi ado
+what: ere
+when: ere sain
+which: ereb
+white: lalau
+who: ai-m
+why: ere nigin
+wide: odug
+wife: aiwa (gober)
+wind: yau
+wing: waye
+woman: kayau
+worm: kililid
+wrong: to biya
+year: [yar]
+yellow: bailu

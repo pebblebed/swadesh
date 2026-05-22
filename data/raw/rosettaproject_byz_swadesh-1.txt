@@ -1,0 +1,211 @@
+ashes: ßitʰam
+back: mapíni
+back: mʌpʰɪni͂
+belly: mamú
+belly: mʌmu͂
+big: ɛɲɛmbu͂
+big: enyeimbu
+bird: ŋgoraʔ
+bird: ŋgora͂
+bird: nggóra\
+bite: ndama ndïghakàsy-et
+bite: ndama ndɨɣʌkʰasyɛt
+black: pep
+black: pʰɛp
+blood: mavín
+blood: mʌßɪn
+bone: maí
+breast: enjo
+breast: ɛnɟo
+breast: mʌnyo͂
+brother: -ái
+brother: ŋoa͂ʲ
+burn: aŋ mɪnyot
+burn: minyó-
+butterfly: mbembëlala
+cassowary: mbon
+cloud: pʰɨɲiŋ
+cloud: pïnyíng
+cold: ram
+come: ma pʰʌyɛt
+come: payét
+die: kr-
+die: ma krɛt
+dog: kas
+dog: kʰas
+ear: mʌkʰowa͂
+earth: mbïng
+earth: mbɨŋ
+earth: ndop
+earth: ndop
+eat: ma mbosyɛt
+eat: mbo-
+egg: mo
+egg: mo͂
+emu: mbon
+eye: marú
+eye: mʌru͂
+father: -áte
+father: ceca
+father: ceca
+father: ŋʌa͂tʰe͂
+fat (n.): maró
+fat (n.): mʌro͂
+finger: masyíman
+finger: mʌsyiman
+fire: a͂ŋ
+forehead: mapáni
+forehead: mʌpʰani͂
+four: ßɛndok
+full: poghasyèt
+full: pʰoɣʌsyɛtʰ
+good: leßaŋ
+good: levang
+hair: masyí-na
+hair: mʌsyinʌßɛs
+hair: ves
+hand: mʌa͂ɣʌro͂
+head: masyí
+head: mʌsyi
+hear: ma prasyɛt
+hear: pra-
+heart: mawónggarò
+heart: mʌwɔŋgʌro͂
+heavy: tʰoßʌsyi͂
+heavy: tovasyì
+he/she: ma
+he/she: ma
+he/she: ma
+hit: i-
+hit: ma i͂t
+house: tïng
+house: tʰɨŋ
+I: nggu
+I: ŋgu
+I: ŋgu͂
+laugh: krea-
+laugh: ma kre͂ʌsyɛt
+leaf: pa-pá
+leaf: pʰʌpʰa͂
+leg: manggán
+leg: mʌŋgan
+long: pasyík
+long: pʰʌsyik
+louse: mat
+louse: mat
+man: wïka
+man: wɨkʰa͂
+many: top
+many: tʰop
+meat: amá
+meat: ʌma͂
+moon: marí
+moon: mʌri͂
+mother: -ámaro
+mother: ŋʌa͂mʌro
+mountain: lam
+mountain: ram
+mountain: ram ~ lam
+mouth: mamáng
+mouth: mʌmaŋ
+name: mayé
+name: mʌye͂
+neck: matám
+neck: mʌtʰam
+new: nggom
+new: ŋgom
+night: im
+night: i͂m
+nose: maóng
+not: a... (se)rang
+not: a... (se)raŋ
+not: waran
+not: waran
+old: na`mïn
+old: wa nʌmɨn
+one: wone
+one: wone͂
+rain: ta´wïn
+rain: tʰʌwɨn
+rat: kawóra
+rat: kʰʌwora
+red: manúp
+red: mʌnup
+road: mban
+road: mban
+root: paká-ma´nggïn
+root: pʰʌkʰamʌŋgɨn
+say: ma wosyɛt
+say: wo-
+see: ma mbit
+see: mbit
+short: makúny
+short: mʌkʰuɲ
+shoulder: maávaràm
+shoulder: mʌa͂ßʌram
+sister: -nághandom
+sister: ŋʌnaɣʌndom
+sit: is-
+sit: ma i͂sɛt
+skin: mambúko
+skin: mʌmbuʰo͂
+small: kambop
+small: kʰambop
+smoke: a͂ŋmʌ kʰus
+snake: akún
+snake: ʌkʰun
+stand: ma tʰʌkʰarʌmɛt
+stand: takáramét
+star: akúny
+star: ʌkʰuɲ
+stone: me
+stone: mɛ͂
+sun: ya
+sun: ya͂
+tail: manggún
+tail: mʌʲgun
+they: nda
+they: nda͂
+they two: nda nin
+they two: nda nin
+thou: nu͂
+thou: u
+thou: u
+thou: u͂
+three: ngïnawò
+three: ŋɨnʌwo͂
+tongue: mʌyoŋan
+tooth: mʌo͂
+tree: pa-ká
+tree: pʰʌkʰa
+two: ngïna´kïn
+two: ŋɨnʌkʰɨn
+wallaby: patá
+wallaby: pʰʌtʰa͂
+warm: tom
+warm: tʰom
+warm: tʰom
+water: mo
+water: mo͂
+we: a-ßat
+we: a(-vat)
+we (excl.): a͂
+wet: mogharòng
+wet: moɣʌroŋ
+we two: á-\nggo\án
+we two (excl.): a͂ŋgo͂a͂n
+what: syiman
+what: syíman
+white: ayé
+white: ʌye͂
+who: aman
+who: a͂man
+wind: kawó
+wind: kʰʌwo͂
+wing: nggora masyé
+wing: ŋgora mʌsye͂
+woman: manékïn
+woman: mʌnɛkʰɨn
+you: nu
+you two: u͂ŋgo͂a͂n
+you two: ú-\nggo\án

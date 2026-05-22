@@ -1,0 +1,98 @@
+all: ǝik.1
+ashes: -ju.B.1
+bark: hluʔ.B.2
+belly: kǝʔtǝl.4
+big: hɔn.35
+bird: sim.35
+bite: ket.33
+black: lɔŋ.33
+blood: nham.51
+bone: ka ʔaŋ
+breast: йaʔ.33 pɨʔ.35
+claw: ŋhim.35
+cloud: mhut.35
+cold: kɔt.35
+come: huik.35
+die: jǝm.4
+dog: soʔ.35
+drink: χɨp.33
+dry: kǝʔoh
+ear: jhuk.35
+earth: kǝte.35
+eat: som.35
+egg: tɔm.1
+eye: ŋai.35
+fat (n.): laʔ ulh.1
+fire: ŋɔl.31
+fish: kaʔ.35
+fly (v.): pǝh.35
+foot: čuŋ.31
+full: nuk.51
+give: kaʔ.33
+good: nhɔm.35
+green: kheu.35
+hair: hɨk
+hand: tiʔ.35
+head: ntɔŋ.35
+hear: moŋ.35
+heart: mhul.35
+horn: xǝŋ.35
+I: ʔɨʔ.35
+kill: njǝm.31
+knee: -khxoŋ.31
+know: jɔŋ.31
+leaf: lhaʔ.35
+liver: kǝtom.1
+long: laŋ.35
+louse: siʔ.35
+man: kǝ meʔ.33
+many: hǝn.35
+meat: pɔn.35
+moon: khaŋ.31 khiʔ.35
+mountain: ŋkoŋ.31
+mouth: nduiŋ.31
+name: mɨlh.2
+neck: ŋok.33
+new: čhuʔ.55
+night: nsum.1
+nose: mhul.33
+not: ʔun.35
+one: tiʔ.33
+person: pǝi.31
+rain: lheʔ.35
+red: sǝkhrak.35
+road: khxaʔ.35
+root: xelh.33
+round: lul.4 liel.1
+sand: sai.31
+say: laʔ.1
+seed: nhoi.35
+see: juʔ.2
+sit: mok.35
+skin: hak.1
+sleep: ʔit.35
+small: ʔiat.35
+small: nɔi.31
+smoke: tuʔ.51
+stand: cuŋ.31
+star: kǝmǝiŋ
+stone: kǝmuʔ.33
+sun: ŋai.35 ŋiʔ.33
+swim: lɔi.31
+tail: kǝtaʔ.1
+that: ʔɔn.35
+this: ʔian.35
+thou: miʔ.33
+tongue: kǝtak.35
+tooth: xaŋ.35
+tree: khuʔ.1
+two: lal.35
+walk: hǝl.35
+warm: kǝ ʔǝh.1
+water: ʔum.35
+we: ʔeʔ.35
+what: kǝ nha.35
+white: paiŋ.2
+who: nǝn.35
+woman: kǝpǝn
+yellow: lhǝŋ.1

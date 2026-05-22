@@ -1,0 +1,144 @@
+all:  chijunil
+ashes:  cha
+bark:  rix
+big:  nim
+bird:  tz\ic
+bite:  ti\
+black:  k\ek
+blood:  quiq\uel
+blow:  rapunquil
+bone:  b\ak
+breast:  wach  a k\ox
+burn:  humuc
+child:  al
+cloud:  chok
+cold:  k\ojyi·n
+come:  cha·lk
+cut:  yoc\oc
+day:  cutan
+die:  cam
+dig:  b\e·coc
+dog:  tx\i\
+drink: uc\a
+dry:  tzaj
+dust: -
+earth:  ch\och\
+ear:  xic
+eat:  wa\ac
+egg:  mol
+eye:  nak\ a·wu
+fall:  -
+far:  najt
+fat (n.):  mante·c
+fear:  naxuwac
+feather:  xic\
+fingernail:  xi\ij
+fire:  xam
+fish:  car
+five:  o·b\
+fly (v.):  rupupic
+fog:  xchu\que
+foot:  kok
+four:  ca·hib\
+fruit:  ru qui\il k\e·n
+full:  nujenak
+give:  tinq\ue
+good:  cha·b\ileb\
+green:  raxi
+hair:  cuismal
+hand:  wuk\
+head:  jolom
+heart:  ch\o·l
+hear:  wab\
+heavy:  a·l
+here:  arin
+hit:  toch\oc
+horn:  xucub\
+how?:  ani
+husband:  b\e·lom
+I: in
+kill:  camsi
+knee:  b\e·n wak
+know:  canau
+lake:  palau
+laugh:  se\ec
+leaf:  xak
+left:  tz\e
+lie:  yocyo
+liver:  ch\och\
+long:  najt rok
+louse:  uc\
+man:  wi·nk
+meat:  tib\el
+moon:  po
+mountain:  tzu·l
+mouth:  re
+name:  c\ab\a\
+near:  nach\
+neck:  cux
+new:  ac\
+night:  chi k\ek
+nose:  wu\uj
+one:  jun
+other:  jun chic
+person:  cristia·n
+pull:  quelo·nc
+rain:  hab\
+red:  cakeb\
+right:  nim
+river:  nimha\
+road:  ch\ina b\e
+root:  xe\
+rope:  c\am
+rope:  c\am
+rotten:  k\aynak
+round:  sursu
+sand:  samahib\
+say:  yehoc
+seed:  iyaj
+see:  il
+sing:  b\icha·nc
+sit:  c\ojc\o
+skin:  tz\umal
+sleep:  war
+smell:  coc\o
+smoke:  sib\
+stab:  hopoc
+stand:  xakxo
+star:  chahim
+stone:  ca\
+stone:  pec
+suck:  tz\ub\uc
+sun:  sak\e
+swell:  sipoc
+swim:  numxic
+tail:  ye
+that:  a\an
+there:  aran
+thick:  pim
+thin:  pi\ pam
+this:  a\in
+thou:  at
+tongue:  ru\uj wak\
+tooth:  ca\
+tooth:  ruch ke
+tree:  che\
+two:  ca\ib\
+walk:  b\e·c
+warm:  tikwal
+wash:  ch\aj
+wash:  puch\
+water:  ha\
+we:  o
+wet:  ťakťak
+what:  c\a\ru
+when?:  jo\k\e
+where?:  b\ar
+white:  sak
+who:  ani
+wife:  ixakil
+woman:  ixk
+woman:  mo·s
+year:  chihab\
+ye:  la.ex
+yellow:  k\an

@@ -1,0 +1,15 @@
+blood: óngkwin
+bone: pipitanggal
+ear: pulis
+earth: ítap
+eye: ámpo
+fire: ingkeyu
+hair: áuwi
+head: hwaunggwe
+mouth: map
+nose: mi
+skin: mahes
+stone: teiowoë
+sun: aun
+tree: kauwas
+water: ómpo

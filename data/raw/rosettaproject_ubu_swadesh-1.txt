@@ -1,0 +1,224 @@
+arrow: egl moŋku
+arrow: opa
+ashes: jeb gik
+ashes: ǯeb gik
+back: bugl
+back: bugl
+back: mbugñu
+bad: kʰeri
+bad: kiruwe
+bad: kiruwe
+big: aul
+big: aulh
+bird: ibiri
+bird: kera
+bird: kera
+black: pombaram
+black: pombarám
+blood: mem
+blood: mem
+bone: ombedlim
+bone: ombeglim
+boy: kʰaŋgo
+breast: ami
+breast: ami
+brother: anggini
+brother: aŋgini
+burn: tebi nogum
+burn: tebi nogum
+butterfly: gogumi
+butterfly: gogumi
+cassowary: gerag.lh aima
+child: gangga nanan
+child: gaŋga nanan
+chin: ai
+cloud: kʰubʷa
+cold: ailh kon.goru
+cold: ail konguru
+cold: ali
+come: o-
+day: ibubßini
+day: tangilyum
+day: taŋiʎum
+dig: aku-
+dog: oua
+dog: oua
+dog: owa
+drink: no gorum
+drink: no gorum
+ear: kumu
+ear: kumu
+earth: mai
+earth: mai
+earth: mai
+eat: gorum
+eat: gorum
+eat: no-
+egg: mugl
+egg: mugl
+emu: geragl aima
+eye: mongum
+eye: moŋum
+face: gunbi geri
+face: gunbi geri
+father: tara
+father: tara
+fear: mondrmon onggu cent
+fear: mondrmon ongu čent
+fire: cebe
+fire: čebe
+fish: oma
+fish: omá
+flower: kunjip
+flower: kunǯip
+fly (n.): gomoi
+fly (n.): gomoi
+fly (n.): gomoi
+foot: gyi:mpum
+foot: gyiːmpum
+fruit: unji monggum
+fruit: unǯi moŋgum
+girl: ambogla
+girl: ambogla
+give: na nu cigir
+give: nu čigir
+give: nu cigir kalyem
+give: ti-
+good: kai
+good: kai
+good: pʰabu
+guts: nanggogl
+guts: naŋgogl
+hair: peng indi
+hair: peŋ indi
+hand: ki
+hand: ki
+hand: kʰi
+head: peng
+head: peŋ
+hear: pincu
+hear: pinču
+heavy: ndo
+he/she: yuŋgʷa
+hit: to-
+house: gur
+house: gur
+husband: yem
+husband: yem
+know: na pili mol
+know: pili mol
+laugh: tae
+leaf: nggom
+leaf: ŋgom
+lie: penč
+lie: uru penc
+lightning: kariyapo-digiyapo
+live: wian.gilyim
+long: sugl
+long: sugl
+long: sug.lh
+louse: kyema
+louse: kyema
+man: iyampu
+man: iyampu
+man: jie
+man: yʲ
+man: ǯie
+meat: minc
+meat: minč
+moon: kalimp
+moon: kalimp
+mother: ama
+mother: anu-m
+mother: anu-m
+mountain: koba gumuga
+mountain: koba gumuga
+mouth: keri gubugla
+mouth: keri gubugla
+name: bi
+name: bi
+name: imbi
+night: cumbugl
+night: čumbugl
+night: ibugñʷet̪ñi
+night: koʎa nabugum
+night: kolya nabugum
+not: molo
+not: naː
+one: te
+person: yambo
+rain: gño
+rain: kola togum
+rain: kola togum
+rat: gloi
+rat: glui
+red: kʰondod̪ñi
+red: nega
+red: nega
+road: aulka
+road: gubu glanina
+road: kairin
+root: bu
+root: by
+rope: el
+rope: ka doghon
+rope: ka doɣon
+salt: kʰud̪z̪a
+say: ɲint
+say: na nyint
+say: ni-
+see: gane gorum
+see: na gane gorum
+sister: a:ya
+sister: aːya
+sit: manyo mogum
+sit: maɲu mogum
+skin: ganyim
+skin: ganyim
+small: ke:gl
+small: keːgl
+small: walo
+smoke: jegum
+smoke: ǯegum
+snake: jina:bua
+snake: ǯinaːbua
+stand: agili-
+stand: gai mindu jamun
+star: mibidl
+star: mibigl
+stone: koi
+stone: kou
+stone: ku
+stone: ku
+sun: era
+sun: erá
+this: i
+thou: nuŋgʷa
+tongue: animbigl
+tongue: animbigl
+tooth: nggu
+tooth: ŋgu
+tooth: uŋgu
+tree: ondju
+tree: onǯu
+tree: onǯu
+vomit: megu
+water: no
+water: nogl
+water: nogl
+weep: monggum ce
+weep: moŋgum če
+weep: wi tobum
+weep: wi tobum
+we: olio
+we two (incl.): ol̪d̪o
+wife: amb-om
+wife: amb-om
+wind: aldjigum
+wind: alǯigum
+woman: abo
+woman: amp
+woman: amp
+wood: kʰobe
+wood: un̪t̪s̪u ~ un̪d̪z̪u
+you two: el̪d̪e

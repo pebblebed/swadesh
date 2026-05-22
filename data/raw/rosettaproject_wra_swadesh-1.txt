@@ -1,0 +1,202 @@
+all: aokoka
+arm: aute
+arrow: roma
+arrow: rómá
+ashes: aikukum
+back: horébʌ
+bad: ndaépó
+bad: nevei
+bark: aitao~
+belly: aː
+belly: ri~
+big: tupʌnae
+bird: nru
+bite: gaɣiːa
+black: potíto~
+blood: noó
+bone: reßʌ~
+boy: bia~ métai~
+breast: to
+brother: nrae~mʌnae~
+burn: aía~ goßʌríri~
+butterfly: apoipoi
+chest: to
+child: ma
+child: wia~ mɛnta~n
+child: wià mentàn
+chin: nro~káo~
+claw: rukoo~m
+cloud: úté
+cold: marírí
+come: nʌkáme
+day: mbariri
+day: mbariri~
+die: garaéßeɛ~n
+dog: lapa
+dog: nrapa~
+drink: pia nʌnʌto~n
+dry: orópe~
+ear: dee~ßen
+ear: teve
+earth: meni
+eat: nama
+elbow: ɤntaa~po~
+emu: mbiyó
+eye: ine
+eye: ine~
+fall: gëreèm
+fall: gʌreɛ~m
+father: kani
+father: taeta~
+fat (n.): aorére~
+feather: rupe~
+finger: eno
+finger: ɛnopee~
+fire: aka
+fire: akerao~
+fish: mba~
+fish: va
+five: enu pra moiki
+five: pao~ko
+fly (v.): goßʌriri gonoo~m
+foot: karo
+foot: mbora
+forehead: luru
+forehead: ruːru
+four: mou~ mou~
+four: moù moù
+four: riempi na riempi
+full: roßʌkureu~
+girl: mia mapóßa~
+give: namóna
+good: avora
+good: konéßae~
+grass: auma
+grass: buus
+green: mbuto guto~
+hair: tape
+hair: (tia-)pe
+hand: aute
+hand: hee~nu
+head: taiigu
+head: tia
+hear: gʌnʌrißußeɛ~n
+heart: oʔo~
+heavy: gonae~
+he/she: bebou~
+hit: kʌyíya~
+horn: t̪iána~
+horn: tiánà
+house: uru~
+I: nenʌ
+kill: nʌmīrʌ~ gʌɣae~
+knee: bʌrʌtao~
+know: gënëyeraveèn
+know: gʌnʌyɛraßeɛ~n
+lake: pi vei
+laugh: ʌßo~tonʌmao~
+leaf: aipe
+leg: karo
+leg: mbora~
+lie: gaína
+liver: t̪aíri
+long: nririßʌ~
+louse: mii~
+man: arvi
+man: biám
+many: mou~ mou
+meat: rao~
+moon: urʌ
+moon: ura
+morning: rurunaé
+morning: ruru-naé
+morning: ruru-nai
+mother: mo
+mother: moo~
+mountain: too~
+mouth: eu
+mouth: ndotao
+name: aboo~
+neck: poko
+neck: poːko~
+new: taa~ri
+night: bariri
+night: ruru~
+not: mbau~ri
+not: moáo~ni
+old: bom bei~
+old: bom beì
+old: kʌtóga~
+old: ßia bei
+old: via bei
+one: mʌkerao~
+person: bia~
+rain: a
+rain: a
+rat: nʌßɔ́ru~
+red: mbiríri~
+road: nrara
+root: aeka~
+round: gußou~bou~
+salt: nau
+sand: nramátʌ~
+say: ʌmaireka~m
+seed: ayíri~
+see: gonegi raowe~
+short: korámʌ~
+shoulder: toóm
+sister: nro bei~
+sit: ŋgaké
+skin: nreka~ ~ ndeka~
+sky: tau (?temtem)
+sleep: nʌmai~nʌ
+small: metai~(n)
+smoke: aikoßo~
+snake: uu~
+spit: ʌmútu~
+stand: garóː
+star: kamo
+star: nßʌrúe~
+stick: aikeke
+stone: do~pa
+sun: umo
+sun: umɔ~ŋ
+swim: pia nʌnii~
+tail: ruu~
+take: nëmabià
+that: kuína~n
+they: arupaa~to
+they two: riepim
+this: mbepoo~
+thou: mema~
+thou: moópu
+three: rie~pimɔe~ke~
+tomorrow: guriraa~
+tongue: piruta
+tooth: éːu
+tree: ae~
+two: riyɛ́pi~n
+walk: gararao
+walk: maúteu~
+wallaby: ʌ~ßúru~
+warm: ii~m
+water: pei
+water: pi
+we (excl.): mémi
+wet: pita~ka
+we two (excl.): memʌni ripiparopoo~
+what: aßora~pe
+when: mbarírí be~n
+when: mbarírí bèn
+where: urura~
+white: kaßútu~
+who: mbiro~pe
+wind: puu~
+wing: ʌltʌpe~
+woman: mbom
+woman: vumbei
+wood: aikeke
+yellow: opoo~po~
+yes: nora~pe
+yesterday: mbaririraa~
+you two: momarixe~pin

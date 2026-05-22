@@ -1,0 +1,123 @@
+arm: fet
+arm: sika\al
+arm: tai
+arm: taikunn
+arm: teŋ
+ashes: kutub
+bad: mafaq [T]
+bark: ka\al
+bird: uːn
+blood: kaim
+bone: kun
+bone: kun
+boy: tan
+breast: mu\uk
+brother: ba\abnak
+brother: veghasi
+brother: za
+cassowary: bia
+chest: tup
+come: tara(lo)! [T]
+dog: man
+dog: mayan
+dog: mayaːn
+ear: kalun
+ear: karu\un
+earth: tawaːl
+eat: ung
+egg: win
+eye: di
+eye: ki\in
+eye: kin
+eye: kiːn
+eye: tin [T]
+fingernail: buduŋ
+fire: as
+fire: waiŋ
+foot: ya\an
+full: wainbu
+hair: gubem
+hair: guː kalim
+hand: teng
+hand: teŋ
+head: dibob [T]
+head: gu
+head: gubo\om
+he/she: a
+he/she: qop
+he/she: u
+hole: te\em
+house: um
+I: na
+I: nala
+I: na- [T]
+knee: katu\un
+leaf: ko\on
+leg: serip
+leg: yaːn
+long: kimisim
+long: tamitum [T]
+louse: kim
+louse: kim
+man: fegel
+man: kinum
+moon: kaiop
+moon: kayo\ob
+moon: qaiop [T]
+mother: neŋ
+mouth: bo\ontem
+name: win
+neck: fu
+neck: getak
+neck: kum [T]
+new: kiki-so
+nose: mit [T]
+nose: mutumgum
+rain: waib
+rain: weip
+rain: wep [T]
+river: wok
+road: laib
+road: leip
+rope: taoko [T]
+short: dumak [T]
+skin: ka\al
+skin: kaːl
+sleep: akal
+small: qatip [T]
+smoke: atlaik
+smoke: lek
+spit: nenebas [T]
+star: abil kayak
+stone: tum
+stone: tuːm
+sun: ata\an
+sun: atan
+sun: ataːn
+tail: waimsan
+that: sfjsadlfjsadlfkj
+they: i [T]
+thigh: aingun
+thin: koot
+thin: takok
+thou: ib
+thou: ilib
+thou: kab
+thou: kub
+thou: qap [T]
+tongue: falaŋ
+tooth: kail
+tooth: kail
+tree: as
+tree: as
+walk: us
+water: ok
+water: oːk
+water: wok [+T]
+we: nu
+we: nulu
+we: nu [T]
+wind: gerul
+wind: yarul
+wing: bal
+you: ip [T]

@@ -1,0 +1,199 @@
+arm: hal
+arrow: ʔɪnaba
+ashes: ya si
+ashes: ya si
+back: bolu
+back: bɔlu
+belly: law
+belly: law
+big: bado
+big: bʌdo
+bird: wabo
+bird: wabo
+black: kʰiː
+black: ki:
+blood: mahëlë
+blood: mahələ
+bone: habi
+bone: hʌbi
+boy: ima yen
+boy: ʔɪma yɛn
+breast: mosu
+breast: mosu
+brother: bado
+brother: bʌdo
+cassowary: fyulu
+chin: yɛkhiː
+chin: yekï
+claw: (wabo) siː
+claw: wabo sï
+cloud: dobul
+cloud: dobul
+cold: kani
+cold: kʰʌni
+come: diyayu
+come: di-yayu
+crocodile: yey mugulu
+crocodile: yey mugulu
+dog: yo
+dog: yo
+ear: basiya
+ear: bʌsiya
+earth: bobu
+earth: bobu
+eat: diyaw
+eat: diyaw
+egg: (wabo) mu
+egg: wabo mu
+elbow: hal ba-kasiya
+elbow: hʌl bakʰʌsiya
+emu: φyulu
+eye: niya
+eye: niya
+father: mahuwa
+father: mahuwa
+fat (n.): gwalïl
+fat (n.): gwʌliːl
+finger: hal bi-tifi
+finger: hʌl bitʰɪfi
+fire: ya
+fire: ya
+fish: ila
+fish: ʔɪla
+five: hal-bafu
+five: hʌlbaφu
+forehead: nɪbʌgi
+forehead: nibagi
+four: gada
+four: gʌda
+girl: dafi
+girl: dʌφi
+give: diyu
+give: di-yu
+hair: tu-naba
+hair: tʰunʌba
+hand: hal
+hand: hël-ba-dufa
+hand: həlbʌduφa
+head: tu
+head: tʰu
+heart: yuw
+heart: yuw
+heavy: yisiy
+heavy: yisiy
+house: ina
+house: ʔɪna
+I: ʔani
+I: a-ni
+knee: yakasi
+knee: yakʌsi
+leaf: mi sinowa
+leaf: mi sɪnowa
+leg: lowa
+leg: lowa
+lie: muhwi
+lie: muhwi
+liver: wafu
+liver: waφu
+long: miya
+long: miya
+louse: namu
+louse: nʌmu
+man: ima
+man: ʔuma
+meat: nam
+meat: nʌm
+moon: yamal
+moon: yamal
+mosquito: yuw
+mosquito: yuw
+mother: tanmay
+mother: tʰanmay
+mountain: biga
+mountain: biga
+mouth: gom
+mouth: gom
+name: wufa
+name: wuφa
+nape: bakanal
+nape: bakʌnal
+night: namuli
+night: nʌmuli
+not: mbaya
+not: mbaya
+one: dabata
+one: dʌbatʰa
+rain: hagi isuwa
+rain: hagi isuwa
+rat: fio bito
+rat: φio bitʰo
+red: mahiyo
+red: mahiyo
+road: yo
+road: yɔ
+root: mi nabi
+root: mi nabi
+sand: nogu
+sand: nogu
+see: da-nowey
+seed: habi
+seed: hʌbi
+see: dʌnowey
+short: bota
+short: bɔtʰa
+shoulder: tala
+shoulder: tʰʌla
+sister: namda
+sister: nʌmda
+sit: di-yal
+sit: diyʌl
+skin: tabi
+skin: tʰʌbi
+small: anhayta
+small: ʔʌhaytʰa
+smoke: ya sifi
+smoke: ya siφi
+snake: no
+snake: no
+stand: da-tayisi
+stand: dʌtʰayɪsi
+star: dul
+star: dul
+stone: ba
+stone: ba
+sun: tiniya
+sun: tɪniya
+tail: yini
+tail: yɪni
+thou: ʔini
+thou: i-ni
+three: humëli
+three: huməli
+tongue: tolu
+tongue: tʰɔlu
+tooth: pi
+tooth: pi
+tree: mi
+tree: mi
+two: husi
+two: husi
+walk: da-titey
+walk: dʌtʰitʰey
+wallaby: fyubisï
+wallaby: φyubɪsiː
+water: hagi
+water: hagi
+we: nam
+we: nʌm
+white: gay
+white: gay
+wind: gafu
+wind: gaφu
+wing: sifi
+wing: sɪφi
+woman: swani
+woman: swani
+yellow: gwudi
+yellow: gwudi
+yes: ey
+yes: ʔey

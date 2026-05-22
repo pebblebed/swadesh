@@ -1,0 +1,430 @@
+all: maeakoko
+all: maeakoko
+arm: mai
+arm: mai
+arm: mai
+ashes: afurae
+ashes: a-koera
+ashes: aφurae
+ashes: ikoera
+bad: heaba
+bad: heaiai
+bark: tola hiru
+bark: tola hiru
+belly: ere
+belly: ére
+belly: ére
+big: eapapu
+big: kakaiapu
+big: kakaiapu/milorimilori
+big: milorimilori
+bird: ori
+bird: ori
+bird: ori
+bite: burovo
+bite: mulaßa
+bite: mulava
+black: maea uru
+black: maea uru
+black: mai-uru
+black: uruka
+blood: opu
+blood: oro (?)
+blood: oßo
+blood: ovo
+blood: ovu
+bone: uki
+bone: uti
+bone: uti
+boy: akure
+breast: aßaihi
+breast: avaihi
+breast: avaihi
+burn: a sara
+burn: a sara
+butterfly: pipi
+butterfly: pipi
+calf: roa-hae
+chest: arahu
+child: aturea
+claw: mai haro
+claw: mai haro
+claw: mora haro
+cloud: mea-e
+cloud: mea-e
+cloud: mea\e
+cold: hahaita
+cold: mai\rir
+cold: memesere
+cold: memesere
+cold: vevekoko
+come: ekeki/avakeki
+come: ete
+come: ete/ukote
+come: kotira
+come: ukote
+crocodile: aitahe
+crocodile: isafea
+dark: muru
+dark: murumuru
+day: avava
+day: hare
+day: meafilo
+day: meaφilo
+day: ovava
+day: sare
+die: apaki
+die: api
+die: opa
+die: opa
+dig: hiaki
+dig: hihepaki
+dig: iseira
+dig: viopai
+dog: aße
+dog: ave
+dog: ave
+dog: avi
+drink: lari-vie
+drink: lela
+drink: ma lara
+drink: ma lara
+dry: arara
+dry: arara
+ear: aßato
+ear: ava-ku
+ear: ava-to
+earth: kekere
+earth: mea
+earth: mea
+earth: mea
+earth: mea
+earth: tetere
+eat: lara
+eat: lara
+eat: lari-vie
+eat: lela
+egg: fae
+egg: hae
+egg: ori fare
+egg: tori φare
+elbow: mai-are
+elbow: mai-iare
+eye: ofae(fae)
+eye: ovohae
+eye: oφae
+face: oropape
+face: ovo-ape
+father: oa
+father: oa
+fat (n.): tapare
+fat (n.): tapare
+fear: oauka
+fear: uaoua
+feather: ori mehe
+feather: ori mehe
+feather: oriri-hahereva
+feather: ori tolo
+feather: ori tolo
+finger: mai-lakoka
+finger: mai-lakoka
+fingernail: mai-haro
+fire: a
+fire: a
+fire: a
+fire: ha-hari
+fire: ha-hari
+fish: ekaka
+fish: taßa
+fish: tava
+flower: kaupa
+flower: pupure
+flower: tola-fae
+fly (n.): oro
+fly (n.): orope
+fly (v.): ßißila
+fly (v.): uraurai
+fly (v.): ururukaki
+fly (v.): vivila
+foot: roa
+forehead: evere
+forehead: harihari
+fruit: hae
+fruit: kaupa
+fruit: tola-fae
+full: ape furira
+full: ape φurira
+girl: mori
+girl: mori
+girl: mori
+give: avaraki
+give: miara
+give: miara
+give: miari
+good: meikakure
+good: metaka
+good: metaka
+green: maea porika
+green: maea porika
+guts: eholou
+guts: holou
+hair: haro toro
+hair: haro toro
+hair: koru
+hair: utu
+hand: mai-eahoru
+hand: mai(-hara)
+head: haro
+head: haro
+head: haro
+hear: iapai
+hear: mapa
+hear: mapa(ira)
+heart: saife
+heart: saiφe
+horn: kea
+horn: kea
+house: elamo
+house: uvi
+house: uvi
+husband: vira
+I: ara
+I: ara
+kill: arivie
+kill: loiaselai
+kill: paea
+kill: paea
+kill: sare
+kill: sare
+knee: arikaka
+knee: arikaka
+know: ore
+know: ore lai
+know: ore (lai)
+leaf: koro
+leaf: tola-iru
+leaf: tolotolo
+leaf: tolotolo
+leg: mora
+leg: mora
+leg: roa
+lie: eropai
+lie: uaßa
+lie: uava/eropai
+lip: ape-iru
+lip: ape-iru
+live: harai
+live: makuri
+live: ovokaki
+live: pave
+liver: iki
+liver: iti
+liver: iti
+liver: koro
+long: saikapo
+long: saikopa
+louse: lia
+louse: lia
+louse: sarula
+louse: sarula
+man: haiera
+man: haihava
+man: kea
+man: loiea
+man: mea
+man: ßilaikae
+man: vailaikae
+many: piroriapo
+many: piroriapo
+meat: haivao
+meat: harava
+meat: ßiairi
+meat: viairi
+meat: visiri
+moon: papare
+moon: papare
+moon: papare
+mosquito: efalea
+mosquito: heare
+mother: lou
+mother: papure
+mountain: kela
+mountain: raepa
+mountain: raepa
+mouth: ape
+mouth: ape
+mouth: ape
+name: lare
+name: lare
+name: lare
+name: rare
+navel: ekore
+navel: lokore
+neck: kerave-aulape
+neck: koßore
+neck: kovore
+new: áre
+new: áre
+night: eloa
+night: eloa
+night: fila\a
+night: oroa
+nose: ara
+nose: haraha
+nose: overa
+not: harokari
+not: harokari
+not: leaßi
+not: leavi
+one: fareapo
+one: φareapo
+person: karu
+person: karu
+person: laea
+person: laea
+rain: lai
+rain: lai
+rain: lai
+rat: aire
+rat: aire
+rat: airi
+rat: airi
+red: maea oßoka
+red: (maea) ovo-ka
+red: ovo-ka
+river: mai
+river: mai(-ape)
+road: okiharo
+road: otiharo
+road: otiharo
+root: elele
+root: tusu
+root: tusu
+rope: ela
+rope: ela
+rope: horou
+round: maea koauka
+round: maea kouaka
+salt: kaikara
+salt: mato
+sand: kekere
+sand: mea tetere
+sand: mea tetere
+sand: miri
+sand: miri (folo)
+sand: miri φolo
+say: maiaki
+say: o ara
+say: o ara
+say: oharo meai
+say: oharo meai
+say: omioi
+scratch: karira
+scratch: kariraki
+sea: kaikara
+sea: kikara
+seed: tola mere
+seed: tola mere
+see: ofae eava(i)
+see: ovohae-eavaki
+see: oφae eaßa
+sit: aßa
+sit: ava(-ira)
+sit: haiavai
+sit: ori-ava
+skin: hi\iru
+skin: iru
+skin: maea hiru
+skin: maea hiru
+sky: kaea
+sky: kauri
+sleep: avuku
+sleep: ißutu uaßa
+sleep: ivutu (uava)
+small: ekai
+small: keako
+small: keako/kaakaa
+small: keaku
+smoke: a\aro
+smoke: abahubu
+smoke: akoera
+smoke: akoera
+snake: ekaroa
+snake: ikaroa
+spit: apea
+spit: apea-koakivie
+stand: urai
+stand: uroi
+stand: uroi
+stand: urouki
+star: koru
+star: koru
+star: kou
+stone: fave
+stone: have
+stone: φaße
+sun: hare
+sun: sare
+sun: sare
+sweet: kapare
+sweet: tapare
+swim: ma sorera
+swim: ma sorera
+tail: aue
+tail: aue
+that: laiʔe
+that: laié
+thick: parula
+thick: pisosoro
+thigh: mauki
+thin: heheroro
+thin: seseraka
+thin: veveroro
+this: meʔe
+this: meé
+thou: a
+thou: a
+tomorrow: opoa sare
+tomorrow: opoa sare
+tongue: airitupa
+tongue: uri
+tongue: uri
+tongue: uri
+tooth: kao
+tooth: tao
+tooth: tao
+tree: kora
+tree: tola
+tree: tola
+two: helakere
+two: helakere
+walk: auki
+walk: aurai
+walk: mora loi
+walk: mora loi
+wallaby: pitoru
+wallaby: pitoru
+warm: hahea
+warm: hahea
+warm: ha(i)hea
+water: ma
+water: ma(-huhu)
+water: ma(-rorora)
+weep: fiera
+weep: hiarivie
+we (incl.): ereʔioru
+we (incl.): ereíoru
+what: le
+what: le
+white: maea selaka
+white: maea selaka
+who: leia
+who: leia
+woman: ußa
+woman: uva
+yellow: maea porika
+yellow: maea porika
+yes: ahae
+yes: ahae
+yesterday: faira sare
+yesterday: φaira sare

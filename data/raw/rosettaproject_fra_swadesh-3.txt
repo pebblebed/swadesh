@@ -1,0 +1,257 @@
+all: tous
+all: tout
+and: et
+animal: bête, animal
+ashes: cendre
+ashes: cendres
+at: à
+back: dos
+bad: mauvais
+bad: pas bien
+bark:  écorce
+because: parce que
+belly: ventre
+big: grand
+big: grand
+big: gros
+bird: oiseau
+bite: mordre
+black: noir
+blood: sang
+blow: souffler (v.)
+bone: os
+breast: poitrine
+breast: sein
+breathe: respirer (v.)
+burn: brûler
+child: enfant
+cloud: nuage
+cold: froid
+come: venir
+count: compter (v.)
+cut: couper (v.)
+day: jour
+day: journée
+die: crever
+die: mourir
+dig: creuser (v.)
+dirty: sale
+dog: chien
+dog: chien
+drink: boire
+drink: (n.) boisson
+dry: sec
+dry: (v.) sécher
+dust: poussière
+ear: oreille
+earth: terre
+eat: manger
+egg: oeuf
+eye: oeil
+fall: tomber (v.)
+far: loin
+father: père
+fat (n.): graisse
+fat (n.): (le) gras (e.g. "du jambon" : of ham
+fear: peur
+feather: plume
+few: peu de
+fight: bagarre
+fingernail: griffe
+fingernail: ongle
+fire: feu
+fish: poisson
+fish: (v.) pêcher
+five: cinq
+float: flotter (v.)
+flow: circulation
+flower: fleur
+fly (v.): voler
+fog: brouillard
+fog: (le) fog
+foot: pied
+forest: forêt
+four: quatre
+freeze: geler (v.)
+fruit: fruit
+full: plein
+give: donner
+good: bon
+good: (n.) (le) bien
+grass: herbe
+green: vert
+guts: entrailles
+hair: cheveu
+hair: cheveux
+hair: poil
+hand: main
+head: tête
+hear: entendre
+heart: coeur
+heavy: lourd
+he: lui,il
+here: ici
+hit: frapper (v.)
+hold: tenir (v.)
+horn: corne
+how: Comment
+hunt: chasser (v.)
+husband: mari, époux
+ice: glace
+if: si
+I: je
+I: je
+in: dans
+kill: tuer
+knee: genou
+know: savoir
+lake: lac
+laugh: rire (v.)
+leaf: feuille
+left: gauche
+leg: jambe
+lie: être couché
+lie: se coucher
+lie: s\étendre
+liver: foie
+live: vivre (v.)
+long: long
+long: long
+louse: pou
+man: homme
+man: homme
+many: beaucoup
+many: nombre (de)
+meat: chair
+meat: viande
+moon: lune
+mother: mère, maman
+mountain: montagne
+mouth: bouche
+name: nom
+name: (v.) nommer
+narrow: étroit
+near: proche
+neck: cou
+new: nouveau
+night: nuit
+nose: nez
+not: ne… pas
+not: pas (in "not here" : "pas là"
+old: agé
+old: ancien
+old: vieil
+old: vieux
+one: un
+one: un
+one: une
+other: autre
+person: personne
+play: jouer (v.)
+pull: tirez
+push: poussez (v.)
+rain: averse
+rain: pluie
+rain: (v.) pleuvoir
+red: rouge
+right: droite
+river: fleuve
+river: rivière
+road: chemin
+road: "on the roaf" : "en route"
+road: route
+road: rue
+root: racine
+rope: corde
+rotten: pourri
+round: rond
+rub: frotter (v.)
+salt: sel
+sand: sable
+say: dire
+scratch: gratter (v.)
+sea: mer
+seed: graine
+seed: semence
+see: voir
+sew: coudre
+short: petit
+sing: chanter (v.)
+sit: être assis
+sit: s\asseoir
+skin: écorcher (verb to skin)
+skin: peau
+sky: ciel
+sleep: dormir
+small: petit
+small: petit
+smell: sentir (v.)
+smoke: fumée
+smoke: (v) fumer
+snake: serpent
+snow: neige
+some: quelque, quelques
+spit: cracher (v.)
+split: fente=split wood
+squeeze: serrer (v.)
+stab: coup de couteau (n.)
+stand: être debout
+stand: rester
+stand: se tenir
+star: étoile
+star: (une) star
+stick: bâton
+stone: pierre
+suck: sucer (v.)
+sun: soleil
+swim: nager
+tail: queue
+that: ce...là (that bird : "cet oiseau-là"; cela.
+that: celui-là
+there: là
+they: ils
+thick: gros
+think: penser (v.)
+thin: mince
+this: celui-ci
+this: ce (this bird) cette (id. fem.), ceci (this thing here)
+thou: tu
+thou: tu
+thou: vous
+three: trois
+throw: jeter, lancer
+tie: attacher (v.)
+tongue: langue
+tooth: dent
+tree: arbre
+turn: tourner
+two: deux
+vomit: vomir (v.)
+walk: marcher
+warm: chaud
+wash: laver (v.)
+water: eau
+we: nous
+we: nous
+wet: mouillé
+what: que
+what: quoi?
+when: quand
+where: Où...?
+white: blanc
+who: qui
+who: qui?
+wide: large
+wife: épouse
+wind: vent
+wing: aile
+wipe: essuyer (v.)
+with: avec
+woman: femme
+woman: femme
+worm: ver
+year: an
+year: année
+yellow: jaune
+you: vous
+you: vouz

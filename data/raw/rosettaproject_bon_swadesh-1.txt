@@ -1,0 +1,2739 @@
+all: ʔamlaʔamle
+all: amla\amle
+all: ieta
+all: ieta
+all: ieta
+all: ieta
+all: ieta
+all: ieta
+all: ieta
+all: ietata
+all: ieteta
+all: is:e:ta
+all: iseːta
+all: iyela
+all: iyela
+all: iyeta
+all: iyeta
+all: iyeta
+ankle: me\en
+arm: imbe-wabo
+arm: ime
+arm: ime
+arm: ime
+arm: ime
+arm: ime
+arm: ime
+arm: ime
+arm: ime
+arm: ime
+arm: ime
+arm: ime
+arm: ime-fitu
+arm: imo
+arm: imo
+arm: imo
+arm: imo
+arm: imwe
+arm: imwe
+arm: pednita
+arrow: bali
+arrow: bali
+arrow: biːgu
+arrow: biːgu
+arrow: kose
+arrow: ʔose
+arrow: ʔose
+arrow: ʔose
+arrow: ʔose
+arrow: osi
+arrow: ʔosi
+ashes: bula
+ashes: bulu
+ashes: bulu
+ashes: bulu
+ashes: bulu
+ashes: bulu
+ashes: mirbe
+ashes: mirbe
+ashes: mirrbe
+ashes: mri:be
+ashes: mriːbe
+ashes: pri:be
+ashes: priːbe
+ashes: tuemribe
+ashes: tue-mribe
+ashes: tuwe
+ashes: tuwe
+ashes: tuwo
+ashes: tuwo
+ashes: tuwo
+ashes: tuwo
+ashes: tuwo
+back: kake
+back: kake
+bad: nia
+bad: ni:a
+bad: ni:a
+bad: ni:a
+bad: ni:a
+bad: ni:a
+bad: ni:a
+bad: niːa
+bad: niːa
+bad: niːa
+bad: niːa
+bad: niːa
+bad: niːa
+bad: niːa
+bad: niːa
+bad: niːa
+bad: ni(:)a(-ge)
+bark: uli ta:pa
+bark: uli ta:pa
+bark: ulitape
+bark: uli ta:pe
+bark: uli täːpe
+bark: uli täːpe
+bark: uli täːpe
+bark: uli-tape
+bark: uli tä:pe
+bark: uli tä:pe
+bark: uli täːpo
+bark: uli täːpo
+bark: uli tä:po
+bark: uli tä:po
+bark: uli täːpwe
+bark: uli tɑːpa
+bark: uli tɑpe
+bark: uli tɑːpe
+belly: \amo
+belly: ʔamo
+belly: amuge
+belly: amuge
+belly: amuge
+belly: amuge
+belly: amuge
+belly: amuge
+belly: ʔamuge
+belly: amugo
+belly: ʔamugo
+belly: kame
+belly: kame
+belly: kamuge
+belly: kamuge
+belly: kamuge
+belly: kamuge
+belly: kamuge
+belly: uge-amuge
+big: babe
+big: babe
+big: babo
+big: babo
+big: babo
+big: babo
+big: babo
+big: babo
+big: babo
+big: babo
+big: babo
+big: babo
+big: babo
+big: babo
+big: mage
+big: mage
+big: mage
+big: mage
+big: mago
+big: mago
+big: mago
+big: mago
+big: mago
+big: niane
+big: niani
+big: uduba
+big: uduba
+big: uduba
+big: uduba
+big: uduba
+bird: ee
+bird: ele
+bird: ele
+bird: ele
+bird: ele
+bird: ele
+bird: ere
+bird: ere
+bird: ere
+bird: ere
+bird: ere
+bird: ere
+bird: ere
+bird: ere
+bird: ere
+bird: ere
+bird: ere
+bite: aguta
+bite: aguta
+bite: elui
+bite: iguti
+bite: iguti
+bite: nagutenige
+bite: nägutenige
+bite: nägutenige
+bite: nägutenige
+bite: nägutenige
+bite: nagute-nige
+bite: nägute-nige
+bite: nägute-nige
+bite: nägute-nige
+bite: nagutige
+bite: nagyutanenige
+bite: nagyutane-nige
+bitter: boe
+bitter: kwap
+black: ʔaguʔaga
+black: agu-\aga
+black: ʔäsäʔäsä
+black: ʔäsäʔäsä
+black: ʔäsäʔäsä
+black: asa-asa
+black: asa\asa
+black: \äsä-\äsä
+black: äsä-\äsä
+black: kiriakiria
+black: kiriakiria
+black: kiriakiria
+black: kiria-kiria
+black: kiria-kiria
+black: sisisisi
+black: sisi-sisi
+black: usi ta:to
+black: usi taːto
+blood: udi
+blood: udi
+blood: u:di
+blood: u:di
+blood: u:di
+blood: u:di
+blood: u:di
+blood: u:di
+blood: u:di
+blood: uːdi
+blood: uːdi
+blood: uːdi
+blood: uːdi
+blood: uːdi
+blood: uːdi
+blood: uːdi
+blood: uːdi
+blood: uːdi
+bone: ʔaːʔe
+bone: a:\e
+bone: kake
+bone: kake
+bone: ka:ke
+bone: ka:ke
+bone: ka:ke
+bone: ka:ke
+bone: kaːke
+bone: kaːke
+bone: kaːke
+bone: kaːke
+bone: kaːke
+bone: ka:ko
+bone: ka:ko
+bone: kaːko
+bone: kaːko
+bone: kaːko
+boy: bagra
+boy: imä bägrä
+boy: imä bägrä
+boy: (imä) bagra
+boy: imä bägrä
+boy: im bagra
+boy: im bɑgra
+boy: lo:ri bagra
+boy: loːri bagra
+boy: loːri bɑgrɑ
+boy: mamie rorie
+boy: roːrie bägrä
+boy: roːrie bägrä
+boy: roːrie bägrä
+boy: roːrie bägrä
+boy: ro:rie bägrä
+boy: ro:rie bägrä
+boy: ro:rie bägrä
+boy: ro:rie bägrä
+branch: ipe
+branch: ipe
+breast: ngame
+breast: ngame
+breast: ngame
+breast: ŋame
+breast: ŋame
+breast: ŋame
+breast: ŋame
+breast: ŋame
+breast: ngamo
+breast: ngamo
+breast: ngamo
+breast: ŋamo
+breast: ŋamo
+breast: ŋamo
+breast: ŋsmo
+breast: nono
+breast: nono
+brother: eli
+brother: eli
+brother: igane
+brother: igane
+brother: igane
+brother: na:ne
+brother: na:ne
+brother: na:ne
+brother: na:ne
+brother: na:ne
+brother: na:ne
+brother: naːne
+brother: naːne
+brother: naːne
+brother: naːne
+brother: naːne
+brother: naːne
+brother: naːne
+brother: nani
+brother: nani
+brother: na:ni
+brother: naːni
+brother: naːni
+brother: nanigomea
+brother: nani-gomea
+burn: abnenige
+burn: abne-nige
+burn: aiyonige
+burn: aiyo-nige
+burn: akrenige
+burn: akre-nige
+burn: ayenige
+burn: ayenige
+burn: aye-nige
+burn: aye-nige
+burn: ayonige
+burn: dekwanenige
+burn: dekwane-nige
+burn: de\we-nige
+burn: deʔwenige
+burn: embonige
+burn: embo-nige
+butterfly: papiwa
+butterfly: papiwa
+butterfly: papiwa
+butterfly: yerimbra
+calf: erengeole
+calf: erengeole
+calf: olemadzu
+calf: olemadzu
+cassowary: wi:a
+cassowary: wi:a
+cassowary: wi:a
+cassowary: wi:a
+cassowary: wi:a
+cassowary: wi:a
+cassowary: wi(:)a
+chest: dare
+chest: dare
+child: bagra
+child: bagra-matikolo
+child: bagra-matikolo
+chin: iguae
+chin: mipe
+claw: gaba\o
+claw: gabaʔo
+claw: gabaʔo
+claw: garegare
+claw: gare-gare
+claw: gargale
+claw: gargale
+claw: garrgale
+claw: garrgale
+claw: gube
+claw: gube
+claw: kukluta
+claw: kukluta
+claw: kukluta
+claw: kukluta
+claw: kuse ka:ke
+claw: kuse kaːke
+claw: ruwa kaake
+claw: ruwa kaːke
+cloud: aɹbe
+cloud: aɹbo
+cloud: aɹbo
+cloud: aɹbwe
+cloud: arbe
+cloud: arbe
+cloud: arrbe
+cloud: ar(r)be
+cloud: arrbo
+cloud: arrbwe
+cloud: dume
+cloud: dume
+cloud: dume
+cloud: egimope
+cloud: esaesa
+cloud: esaesa
+cold: gabu
+cold: gabu
+cold: gabu
+cold: gabu
+cold: gäbu
+cold: gäbu
+cold: gäbu
+cold: gäbu
+cold: gäbu
+cold: gäbu
+cold: gäbu
+cold: gäbu
+cold: gäbu
+cold: gäbu
+cold: gäbu
+cold: yage
+cold: yage
+cold: yagle
+cold: yagle
+cold: zugi-zugi
+come: aie
+come: aie
+come: aio
+come: aio
+come: opwenige
+come: opwe-nige
+come: tädenige
+come: tade-nige
+come: täde-nige
+come: tɑdebuge
+come: teteranenige
+come: teterane-nige
+come: teterinige
+come: teterinige
+come: teterinige
+come: teterinige
+come: teterinige
+come: teteri-nige
+come: teteri-nige
+come: teteri-nige
+come: teteri-nige
+correct: onoaʔo
+crocodile: sible
+crocodile: si:ble
+crocodile: si:ble
+crocodile: si:ble
+crocodile: si:ble
+crocodile: si:ble
+crocodile: si:ble
+crocodile: si(:)ble
+crocodile: siːble
+crocodile: siːble
+crocodile: siːble
+crocodile: siːble
+crocodile: siːble
+crocodile: siːble
+crocodile: siːble
+crocodile: siːble
+crocodile: siːble
+cut: jijute
+cut: jijuti
+cut: ǯiǯuti
+dance: gire
+dance: gi:re dewädi-nige
+dance: gi:re dewädi-nige
+dance: gi:re dewädi-nige
+dance: gi:re dowade-nige
+dance: gi:re dowade-nige
+dance: gi:re dowädi-nige
+dance: gi:re dzhewädze-nige
+dance: jewaji
+dark: krokeia
+dark: seböbe
+dark: seburb
+daughter: ŋule-bagra
+day: bimu
+day: bimu
+day: mamele
+day: mamle
+day: mamle
+day: mämle
+day: mämle
+day: mämle
+day: mämle
+day: mämle
+day: mamne
+day: mamne
+day: mamne
+day: mamne
+day: mämne
+day: mämne
+day: mämne
+day: mämne
+day: memli
+day: mnamne
+day: mnamne
+day: page
+day: page
+day: sewalige
+day: taze
+day: zorzor
+die: budere
+die: budere
+die: budre
+die: budrege
+die: budre-ge
+die: budre geye
+die: budre geye
+die: budre geye
+die: budre geye
+die: budre geye
+die: budre geye
+die: budre geye
+die: budre gye
+die: budre gye
+die: budro geye
+die: budro geye
+die: budro gye
+die: budro gye
+die: budro gye
+die: igluminige
+die: iglumi-nige
+dig: gapebora
+dig: gope-yarenten
+dig: yeske
+dog: drego
+dog: drego
+dog: drego
+dog: drego
+dog: drego
+dog: drego
+dog: drego
+dog: drenggo
+dog: drenggo
+dog: drenggo
+dog: drenggo
+dog: dreŋgo
+dog: dreŋgo
+dog: dreŋgo
+dog: dreŋgo
+dog: dreŋgo
+dog: dreŋgo
+dog: terego
+drink: enanenige
+drink: enane-nige
+drink: ena-nige
+drink: ena-nige
+drink: enefi
+drink: enefi
+drink: enen
+drink: enenige
+drink: enenige
+drink: enenige
+drink: enenige
+drink: enenige
+drink: enenige
+drink: enenige
+drink: enenige
+drink: ene-nige
+drink: ene-nige
+drink: ene-nige
+drink: ene-nige
+drink: ene-nige
+dry: apetni
+dry: apetni
+dry: apetni
+dry: apetni
+dry: apona
+dry: apona
+dry: arere
+dry: arere
+dry: beponige
+dry: beponige
+dry: ma:de
+dry: maːde
+dry: ma:nde
+dry: ma:nde
+dry: maːnde
+dry: maːnde
+dry: tu:e
+dry: tuːe
+dry: tu:o
+dry: tuːo
+dry: tuːo
+ear: daburamu
+ear: tablam
+ear: tablam
+ear: tablame
+ear: tablame
+ear: tablame
+ear: tablame
+ear: tablame
+ear: tablame
+ear: tablame
+ear: tablame
+ear: tablame
+ear: tablame
+ear: tablamo
+ear: tablamo
+ear: tablamo
+ear: tablamo
+ear: tablamo
+earth: bija
+earth: ewe
+earth: ewe
+earth: gawe
+earth: gawe
+earth: gawe
+earth: gawe
+earth: gawe
+earth: gawe
+earth: gawe
+earth: gawe
+earth: gawe
+earth: gawe
+earth: gawe
+earth: gawo
+earth: gawo
+earth: gawo
+earth: gawo
+earth: gawo
+earth: gawo
+earth: gawo
+eat: elui
+eat: erowagi
+eat: erowagi
+eat: errwädi-nige
+eat: errwe-nige
+eat: errwe-nige
+eat: eruwe-ni
+eat: eruwi
+eat: eruwi
+eat: erwädinige
+eat: erwenige
+eat: erwenige
+eat: mitagli
+egg: iapau
+egg: iapau
+egg: ku
+egg: ku
+egg: ku
+egg: ku
+egg: ku
+egg: ku
+egg: ku
+egg: ku
+egg: ku
+egg: ku
+egg: ku
+egg: ku
+egg: ku
+egg: ku
+egg: ku
+egg: u
+egg: ʔu
+egg: webou
+egg: webou
+elbow: ngawe-ngawe
+elbow: totofia
+elbow: totofia
+emu: wia
+emu: wiːa
+emu: wiːa
+emu: wiːa
+emu: wiːa
+emu: wiːa
+emu: wiːa
+emu: wiːa
+emu: wiːa
+emu: wiːa
+excrement: lia
+eye: ireku
+eye: ireku
+eye: ireku
+eye: ireku
+eye: ireku
+eye: ireku
+eye: ireku
+eye: ire-ngali
+eye: ire-ŋali
+eye: ire-tape
+eye: ireu
+eye: ireu
+eye: ire\u
+eye: ire\u
+eye: ire\u
+eye: ire\u
+eye: ireʔu
+eye: ireʔu
+eye: ireʔu
+eye: ireʔu
+eye: ireʔu
+face: olo-obe
+face: opo
+face: opo
+fall: bekirige
+fall: bekiri-ge
+fall: bitramige
+fall: bitrami-ge
+fall: egenda
+fall: itramige
+fall: itraminige
+fall: itrami-nige
+fall: sitramenige
+fall: sitramenige
+fall: sitrame-nige
+fall: sitramige
+fall: sitraminige
+fall: sitraminige
+fall: sitraminige
+fall: sitraminige
+fall: sitrami-nige
+fall: sitrami-nige
+fall: sitrami-(ni)ge
+far: udeeve
+far: ude\eve
+father: ada
+father: ada
+father: babe
+father: babe
+father: babe
+father: babe
+father: babe
+father: babe
+father: babe
+father: babe
+father: babo
+father: babo
+father: babo
+father: babo
+father: babo
+father: babo
+father: babo
+father: babwe
+father: babwe
+father: uda
+fat (n.): tore
+fat (n.): tore
+fat (n.): tore
+fat (n.): tore
+fat (n.): tore
+fat (n.): tore
+fat (n.): tore
+fat (n.): tore
+fat (n.): tore
+fat (n.): tore
+fat (n.): tore
+fat (n.): tore
+fat (n.): tore
+fat (n.): tore
+fat (n.): toro
+fat (n.): toro
+fat (n.): toro
+fear: moga
+fear: walu
+feather: ele ngali
+feather: ele ŋali
+feather: ele ŋäli
+feather: ele-ngele
+feather: ele-ŋele
+feather: ele ŋəli
+feather: eli ngäli
+feather: ere ngari
+feather: ere ŋäri
+feather: ere ŋäri
+feather: ere ŋäri
+feather: ere ŋäri
+feather: ere ŋäri
+feather: ere ngäri
+feather: ere ngäri
+feather: ere ngäri
+feather: ere ngäri
+feather: ere ŋɑri
+feather: ngeli
+feather: wea-ngele
+fight: ubu
+finger: ali
+finger: kukuluta
+finger: mage-kukuluta
+finger: mage-kukuluta
+fingernail: gabae-kukuluta
+fingernail: gabae-kukuluta
+finger: padnita
+finger: potnami
+finger: puman
+finger: wimlam
+fire: muie
+fire: muie
+fire: muye
+fire: muye
+fire: olabe
+fire: olobe
+fire: ulikobe
+fire: ulikobɛ
+fire: ulikobo
+fire: ulikobo
+fire: ulikobo
+fire: ulikobo
+fire: uliobo
+fire: uliobo
+fire: uliobo
+fire: uliobo
+fire: uliobo
+fire: ulobe
+fire: ulobo
+fire: urikobe
+fire: urikobe
+fish: ibu
+fish: ibu
+fish: (\)ibu
+fish: \ibu
+fish: \ibu
+fish: \ibu
+fish: ʔibu
+fish: ʔibu
+fish: ʔibu
+fish: ʔibu
+fish: ʔibu
+fish: ʔibu
+fish: kibu
+fish: kibu
+fish: kibu
+fish: kibu
+fish: kibu
+fish: kopae
+fish: kopae
+fish: kopae
+fish: kopäi
+fish: kopäi
+fish: kupya
+fish: kupya
+fish: upya
+fish: upya
+fish: upya
+fish: upya
+fish: ʔupya
+fish: ʔupya
+fish: ʔupya
+flower: (ouwame-)popo
+flower: ouwame-popo
+fly (n.): idreba
+fly (n.): idreba
+fly (v.): u:de-nige
+fly (v.): u:de-nige
+fly (v.): u:de-nige
+fly (v.): uːdenige
+fly (v.): uːdenige
+fly (v.): uːdenige
+fly (v.): u:dzhe-nige
+fly (v.): ujana
+fly (v.): uji
+fly (v.): undanenige
+fly (v.): unda-nenige
+fly (v.): u:nde-nige
+fly (v.): u:nde-nige
+fly (v.): uːndenige
+fly (v.): uːndenige
+fly (v.): undonige
+fly (v.): u(:)ndo-nige
+fly (v.): uːndonige
+fly (v.): uǯana
+fly (v.): uːǯenige
+fly (v.): uǯi
+foot: er(e)nge
+foot: erŋe
+foot: erŋe-ope
+foot: ernge-wabo
+foot: erŋe-wabo
+foot: wabo
+forehead: mangae
+forehead: maŋae
+forehead: rare
+four: neani
+fruit: kuu
+fruit: ku\u
+full: apanäːndede
+full: apanä:ndede
+full: apanänede
+full: apanänede
+full: apanänede
+full: pu:we ge(i)ye
+full: puːwe geiye
+full: puːwe geye
+full: tapanige
+full: tapanige
+full: tapanige
+full: tapanige
+full: tapanige
+full: tapa-nige
+full: tapa-nige
+full: tapa-nige
+full: tapa-nige
+girl: ...-bägrä
+girl: kona-bagra
+girl: ŋule bafra
+girl: ngule bagra
+girl: ngule-bagra
+girl: ŋule bägrä
+girl: ŋule bägrä
+girl: ŋule bägrä
+girl: ŋule bägrä
+girl: ngule bägrä
+girl: ngule bägrä
+girl: ngule bägrä
+girl: ŋule bɑgrɑ
+girl: ŋulo bägrä
+girl: ŋulo bägrä
+girl: ngulo bägrä
+girl: ngure bagra
+girl: ŋure bagra
+girl: ŋure bɑgrɑ
+give: eari
+give: eari
+give: näʔärenige
+give: n-ä\äre-nige
+give: näʔärinige
+give: n-ä\äri-nige
+give: n-akari-nige
+give: nɑkarinige
+good: mi:dnzhi
+good: mi:dnzhi
+good: mi:dzhi
+good: mije
+good: miji
+good: mi:ndzhi
+good: mi:ndzhi
+good: mi:ndzhi
+good: miːnǯi
+good: miːnǯi
+good: miːnǯi
+good: miːnǯi
+good: miːnǯi
+good: miːnǯi
+good: miːnǯi
+good: mi:zi
+good: miːzi
+good: mizi-g
+good: miːǯi
+good: miǯi
+grass: terb
+guts: ame
+guts: komo
+guts: komo
+guts: nini
+guts: nini
+hair: ede ngali
+hair: ede ngali
+hair: ede ŋali
+hair: ede ŋali
+hair: ede ŋäri
+hair: ede ŋäri
+hair: ede ŋäri
+hair: ede ngäri
+hair: ede ngäri
+hair: edi-ngali
+hair: ediŋali
+hair: edi ŋäli
+hair: edi ngäli
+hair: edi ŋɑli
+hair: mopo ŋäri
+hair: mopo ngäri
+hair: ŋäri
+hair: ngäri
+hand: ime
+hand: ime
+hand: ime-wabo
+hand: imm.e
+head: mope
+head: mope
+head: mope
+head: mope
+head: mope
+head: mope
+head: mope
+head: mopè
+head: mopɛ
+head: mopo
+head: mopo
+head: mopo
+head: mopo
+head: mopo
+head: mopo
+head: mopo
+head: mopo
+head: mopo
+head: unae
+hear: ateija
+hear: ateiǯa
+hear: hateiza
+hear: hateiza agesi
+hear: intekindenige
+hear: intekinde-nige
+hear: kindenige
+hear: kinde-nige
+hear: nate\ide-nige
+hear: näːteʔidige
+hear: näte\idige
+hear: näte\idzhe-nige
+hear: näteʔindenige
+hear: näteʔindenige
+hear: nateʔindenige
+hear: näte\inde-nige
+hear: näteʔiǯenige
+hear: natekindenige
+hear: natekinde-nige
+hear: natekinde-nige
+hear: natekindenike
+heart: geneu
+heart: geneu
+heart: ngeneku
+heart: ngeneku
+heart: ngeneku
+heart: ŋeneku
+heart: ŋeneku
+heart: ŋeneku
+heart: ŋeneku
+heart: ngene\u
+heart: ngene\u
+heart: ngene\u
+heart: ngene\u
+heart: ŋeneʔu
+heart: ŋeneʔu
+heart: ŋeneʔu
+heart: ŋeneʔu
+heart: ŋeneʔu
+heavy: mapu
+heavy: mapu
+heavy: mapu
+heavy: mapu
+heavy: mäpu
+heavy: mäpu
+heavy: mäpu
+heavy: mäpu
+heavy: mäpu
+heavy: mäpu
+heavy: mäpu
+heavy: mäpu
+heavy: mäpu
+heavy: mäpu
+heavy: mäpu
+heavy: mepu
+heavy: mepu
+heavy: mepu
+heavy: mɑpu
+heel: ernge-ope
+here: agesina
+here: agesina
+he/she: ta
+he/she: tabe
+he/she: tabe
+he/she: tabe
+he/she: tabe
+he/she: tabe
+he/she: tabwe
+he/she: tabwe
+he/she: tambe
+he/she: tambe
+he/she: tambe
+he/she: tambo
+he/she: tambo
+he/she: tambo
+he/she: tambo
+he/she: tambo
+he/she: tambo
+he/she: tambo
+he/she: teme
+he/she: temetanbe
+he/she: teme/teme-we
+hit: epula
+hit: iorori
+hit: yorori
+hold: irene
+horn: ga:le
+horn: ga:le
+horn: ga:le
+horn: ga:le
+horn: ga:le
+horn: ga:le
+horn: ga:le
+horn: gaːle
+horn: gaːle
+horn: gaːle
+horn: gaːle
+horn: gaːle
+horn: gaːle
+horn: gaːle
+horn: gaːle
+horn: ga:re
+horn: gaːre
+horn: glola
+horn: glola
+horn: glola
+horn: glola
+house: mete
+house: mete
+house: mete
+house: mete
+house: mete
+house: mete
+house: mete
+house: mete
+house: mete
+house: mete
+house: mete
+house: mete
+house: mete
+house: mete
+house: mete
+house: mete
+house: mɛtɛ
+how: lipulipu
+how: rededave
+hunt: piǯa
+husband: rega (?)
+husband: regu
+husband: rorie
+I: ame
+I: ame(-ia)/e-ame-ia
+I: ane
+I: ane
+I: ane
+I: (\)ane
+I: ʔane
+I: ʔane
+I: ʔane
+I: ano
+I: ʔano
+I: ʔano
+I: kane
+I: kane
+I: kane
+I: kane
+I: kane
+I: kane
+I: kane
+jaw: iguwae
+jaw: iguwae
+kill: argli
+kill: eglenige
+kill: eglenige
+kill: eglenige
+kill: eglenige
+kill: eglenige
+kill: eglenige
+kill: eglenige
+kill: egle-nige
+kill: egle-nige
+kill: egle-nige
+kill: egle-nige
+kill: egle-nige
+kill: egle-nige
+kill: egli
+kill: egranenige
+kill: egra-ne-nige
+kill: egra-nige
+kill: egrenige
+knee: koko ka:ke
+knee: koko kaːke
+knee: koko kaːke
+knee: koko ka:ko
+knee: koko kaːko
+knee: kokorare
+knee: koko ra:re
+knee: koko ra:re
+knee: koko raːre
+knee: koko raːre
+knee: koko raːre
+knee: koko-ra(:)re
+knee: koko ra:ro
+knee: koko raːro
+knee: kokoraːro
+knee: ʔoʔoraːre
+knee: o\ora:re
+know: ainemitidoro (?)
+know: gyene
+know: mai umre
+know: umele
+know: umle
+know: umle ge
+know: umle ge
+know: umle ge
+know: umle ge
+know: umle ge
+know: umle ge
+know: umle geye
+know: umle geye
+know: umlo gye
+know: umlo gye
+know: umlo gye
+know: umre
+know: umre geye
+know: umre geye
+laugh: naŋe opnenige
+laugh: nganga umane-nige
+laugh: ŋaŋa umanenige
+laugh: ŋaŋe
+laugh: ŋaŋe äbitinige
+laugh: ngange äbiti-nige
+laugh: ngange geye
+laugh: ŋaŋe geye
+laugh: ŋaŋe geye
+laugh: ngange (o:pane-nige)
+laugh: ŋaŋe oːpanenige
+laugh: ngange opne-nige
+laugh: ngango o:pani-nige
+laugh: ngango o:pani-nige
+laugh: ŋaŋo oːpaninige
+laugh: ŋaŋo oːpaninige
+laugh: ŋaŋo oːpaninige
+leaf: lame
+leaf: lame
+leaf: la:me
+leaf: laːme
+leaf: la:mo
+leaf: la:mo
+leaf: la:mo
+leaf: la:mo
+leaf: laːmo
+leaf: laːmo
+leaf: laːmo
+leaf: laːmo
+leaf: laːmo
+leaf: la:mwe
+leaf: laːmwe
+leaf: ra\me
+leaf: raʔmɛ
+leaf: ra:mo
+leaf: raːmo
+left: sawai
+left: sawai-ime
+leg: eɹŋe
+leg: eɹŋe
+leg: eɹŋe
+leg: eɹŋe
+leg: eɹŋe
+leg: eɹŋe
+leg: eɹŋe
+leg: eɹŋe
+leg: eɹŋe
+leg: er(e)nge
+leg: ernge
+leg: ernge
+leg: ernge
+leg: ernge
+leg: ernge
+leg: ernge
+leg: ernge
+lie: ätwitenige
+lie: ätwite-nige
+lie: ätwite-nige
+lie: ätwitinige
+lie: ätwitinige
+lie: ätwiːtinige
+lie: ätwi:ti-nige
+lie: ätwiti-nige
+lie: gudadare
+lie: gudadare ätwitenige
+lie: hatuwiti
+lie: hatuwiti
+lie: ire karrte
+lie: irɛ kaɹte
+lie: ogrene-nige
+lie: ogrenige
+lie: ogrenige
+lie: ogre-nige
+lie: ogre-nige
+lie: opare ogrenige
+lie: opare ogre-nige
+lie: ute-eogiri
+lie: ute-eogiri
+lightning: pamle pamle
+lip: lame
+lip: mipe
+lip: tagemipe
+lip: (tage-)mipe
+live: omonte
+liver: owa-la:me
+liver: owalaːme
+liver: owe-lame
+liver: owe-la(:)me
+liver: owelaːme
+liver: owelaːmo
+liver: owo-la:mo
+liver: owo-la:mo
+liver: owo-la:mo
+liver: owo-la:mo
+liver: owolaːmo
+liver: owolaːmo
+liver: owolaːmo
+liver: owolaːmo
+liver: uwe-ra:me
+liver: uweraːme
+liver: uweraːme
+live: yirkokaro
+long: lea
+long: lealea
+long: lealea
+long: lealea
+long: lealea
+long: lea-lea
+long: lea-lea
+long: surusuru
+long: surusuru
+long: surusuru
+long: surusuru
+long: surusuru
+long: suru-suru
+long: suru-suru
+long: suru-suru
+long: suru-suru
+long: suru-suru
+louse: ngame
+louse: ngame
+louse: ngame
+louse: ŋame
+louse: ŋame
+louse: ŋame
+louse: ŋame
+louse: ŋame
+louse: ngamo
+louse: ngamo
+louse: ngamo
+louse: ŋamo
+louse: ŋamo
+louse: ŋamo
+louse: ŋamo
+louse: ngamwe
+louse: ŋamwe
+man: binam
+man: binamo
+man: ima
+man: lo:ri
+man: loːri
+man: loːri
+man: rorie
+man: rorie
+man: rorie
+man: ro:rie
+man: ro:rie
+man: ro:rie
+man: ro:rie
+man: ro:rie
+man: roːrie
+man: roːrie
+man: roːrie
+man: roːrie
+man: roːrie
+man: roːrie
+man: roːrie
+man: ro(:)rie/biname
+many: buku
+many: buku
+many: buku
+many: buku
+many: burage
+many: bu-rage
+many: b\u trage
+many: bu\u
+many: bu\u
+many: bu\u
+many: buʔu
+many: buʔu
+many: buʔu
+many: buʔu
+many: buʔu trage
+many: kuku drage
+many: kuku drage
+many: lolwo
+many: lolwo
+many: rago
+many: rago
+many: rago
+meat: ʔibu mädu
+meat: ibu madu
+meat: \ibu mädzhu
+meat: ʔibu mäǯu
+meat: kibu
+meat: (kibu) madu
+meat: kibu mädu
+meat: kibu mɑdu
+meat: madu
+meat: madu
+meat: mädu
+meat: mädu
+meat: mädu
+meat: mädu
+meat: mädu
+meat: madzu
+meat: madzu
+meat: mɑdu
+meat: mɑdu
+meat: möre
+meat: murr
+moon: armenuta-mabie
+moon: brepo
+moon: brepo
+moon: kire-emabie
+moon: mabie
+moon: mabye
+moon: mabye
+moon: mabye
+moon: mabye
+moon: mabye
+moon: mabye
+moon: mabye
+moon: merepe
+moon: merpe
+moon: merpe
+moon: mrepe
+moon: mrepe
+moon: mrepe
+moon: mre:pwe
+moon: mreːpwe
+morning: korokerage
+morning: kroke
+morning: kroko
+morning: kroko
+morning: kroko
+morning: lo\we
+morning: loʔwe
+morning: yage
+morning: yage re\a
+morning: yage reʔe
+morning: yagewale
+morning: yagewale
+morning: yagewale
+morning: yago
+morning: yago
+mosquito: bag(g)i
+mosquito: bagi
+mosquito: bagi
+mosquito: bagi
+mosquito: bagi
+mosquito: bagi
+mosquito: bägi
+mosquito: bägi
+mosquito: bägi
+mosquito: bägi
+mosquito: bägi
+mosquito: bägi
+mosquito: bägi
+mosquito: bägi
+mosquito: bägi
+mosquito: bägi
+mosquito: bägi
+mosquito: bɑgi
+mother: gite
+mother: mage
+mother: mage
+mother: mage
+mother: mage
+mother: mage
+mother: mage
+mother: mage
+mother: mage
+mother: mage
+mother: mage
+mother: mago
+mother: mago
+mother: mago
+mother: mago
+mother: mago
+mother: mago
+mother: mago
+mountain: doro
+mountain: doro
+mountain: doro
+mountain: doro
+mountain: doro
+mountain: doro
+mountain: doro
+mountain: doro
+mountain: doro
+mountain: doro
+mountain: doro
+mountain: doro
+mountain: pdo
+mountain: podo
+mountain: podo
+mountain: podo
+mountain: podo
+mountain: podo
+mountain: podo
+mountain: podo
+mountain: podo
+mountain: podo
+mountain: podo
+mountain: podo
+mountain: podo
+mountain: podo
+mountain: podo
+mountain: podo
+mountain: wabu
+mountain: wabu
+mouth: tage
+mouth: tage
+mouth: tage
+mouth: tage
+mouth: tage
+mouth: tage
+mouth: tage
+mouth: tage
+mouth: tage
+mouth: tagɛ
+mouth: tage-boro
+mouth: tage(-boro)
+mouth: tago
+mouth: tago
+mouth: tago
+mouth: tago
+mouth: tago
+name: ngi
+name: ngi
+name: ngi
+name: ngi
+name: ngi
+name: ngi
+name: ngi
+name: ŋi
+name: ŋi
+name: ŋi
+name: ŋi
+name: ŋi
+name: ŋi
+name: ŋi
+name: ŋi
+name: ŋi
+name: ŋi
+navel: opolo
+navel: opolo
+neck: ada
+neck: ada
+neck: ada\e
+neck: adaʔe
+neck: anda\o
+neck: andaʔo
+neck: kande ka:ke
+neck: kande kaːke
+neck: kande ka:ko
+neck: kande ka:ko
+neck: kande kaːko
+neck: kande kaːko
+neck: kande kaːko
+neck: signi-\a\o
+neck: singi \a\e
+neck: singi-ae
+neck: siŋiae
+neck: siŋi ʔaʔe
+neck: siŋiʔaʔo
+new: ireni
+new: ʔireni
+new: karrte
+new: karte
+new: kerkar
+new: kire(\)e
+new: kire\e
+new: kire\e
+new: kireʔe
+new: kireʔe
+new: kiriʔe
+new: mamie
+new: mamie
+new: mamte
+new: mamye
+new: mamye
+new: mamye
+new: mamye
+new: mamye
+new: mamye
+night: (\)ie
+night: i:e
+night: ʔiya
+night: iye
+night: iye
+night: iye
+night: ʔiye
+night: ʔiye
+night: ʔiye
+night: ʔiye
+night: keyi
+night: kiye
+night: kiye
+night: kiye
+night: kiye
+night: kiye
+night: kiye
+night: le
+night: memele
+night: memelo
+nose: e\e
+nose: keke
+nose: keke
+nose: keke
+nose: keke
+nose: keke
+nose: keke
+not: gi\a
+not: giʔa
+not: giʔa
+not: le\a
+not: leʔa
+not: lia
+not: li\a
+not: liʔa
+not: lika
+not: lika
+not: lika
+not: lika
+not: lu\a
+not: luʔa
+not: rika
+not: rika
+not: rika
+old: moda
+old: moda
+old: sasa
+old: sasa
+old: sasa
+old: sasa
+old: sasa
+old: sasa
+old: sasa
+old: sasa
+old: sasa
+old: sasa
+old: sasa
+old: sasa
+old: sasa
+old: sasa
+old: sasa
+old: sasa
+old: sasa
+one: iepa
+one: iepa
+one: naska
+one: ne:tera
+one: ne:tera
+one: ne:tera
+one: neːtera
+one: neːtera
+one: neːtera
+one: neːtera
+one: ne:to
+one: neːto
+one: yepä
+one: yepä
+one: yepä
+one: yepä
+one: yepä
+one: yepä
+one: yepä
+person: bimamo
+person: binam
+person: binam
+person: biname
+person: biname
+person: biname
+person: biname
+person: biname
+person: biname
+person: biname
+person: binamo
+person: binamo
+person: binamo
+person: binamo
+person: binamo
+person: binamo
+play: balena
+pull: sugremaliti
+rain: ngupe
+rain: ngupe
+rain: ngupe
+rain: ŋupe
+rain: ŋupe
+rain: ŋupe
+rain: ŋupe
+rain: ŋupe
+rain: ngupo
+rain: ngupo
+rain: ngupo
+rain: ŋupo
+rain: ŋupo
+rain: ŋupo
+rain: ŋupo
+rain: ngupwe
+rain: ŋupwe
+rat: ki:namo
+rat: kiːnamo
+rat: kubi
+rat: kubi
+rat: kubi
+rat: kubi
+rat: kubi
+rat: ubi
+rat: ubi
+rat: ubi
+rat: ubi
+rat: ubi
+rat: ʔubi
+rat: ʔubi
+rat: ʔubi
+rat: u(:)bi
+rat: uːbi
+red: ʔobeʔobe
+red: obe\obe
+red: udi
+red: u:di
+red: u:di
+red: uːdi
+red: udiudi
+red: u:di-u:di
+red: uːdiuːdi
+red: udi-udi
+red: udi-udi
+red: uːdi ~ ududi
+red: ududi
+red: ududi
+red: ududi
+red: ududi
+red: ududi
+red: udui
+red: udui
+red: udu-udi
+ripe: ŋade
+river: alame
+river: alame
+river: baduge
+river: baduge
+road: gabe
+road: ga:be
+road: ga:be
+road: ga(:)be
+road: gaːbe
+road: gaːbe
+road: gaːbe
+road: gabɛ
+road: ga:bo
+road: ga:bo
+road: ga:bo
+road: gaːbo
+road: gaːbo
+road: gaːbo
+road: gaːbo
+road: ga:bwe
+road: gaːbwe
+root: brädzhu
+root: brando
+root: brando
+root: brando
+root: brando
+root: brando
+root: brando
+root: brändo
+root: brändo
+root: brändo
+root: brazu
+root: bräǯu
+root: dradsu
+root: dradsu
+root: marando
+root: m(a)rando
+root: mrando
+root: mrando
+root: mrando
+rope: monde
+rope: seia
+round: ʔaːle
+round: awagroma
+round: kaːle
+round: kaːle
+round: lubu
+round: paːpeta
+round: paːpeta
+round: paːpita
+round: tipaku
+salt: bosabosa
+salt: trai
+salt: wite
+sand: aba
+sand: dodo
+sand: korio
+sand: korio
+sand: korio
+sand: korio
+sand: korio
+sand: korio
+sand: korio
+sand: korio
+sand: korio
+sand: korio
+sand: malu
+sand: maru
+sand: maru
+sand: maru
+sand: maru dodo
+sand: sekre
+sand: sekre
+sand: se\re
+sand: seʔre
+sand: tuwe
+sand: tuwe
+sand: tuwe
+sand: tuwe
+sand: tuwe
+sand: wiere
+sand: wiere
+sand: wiere
+sand: wiere-doro
+say: dedenige
+say: dedenige
+say: dedenige
+say: de-de-nige
+say: de-de-nige
+say: de-de-nige
+say: dikanenige
+say: dika nenige
+say: ditranenige
+say: ditra-nenige
+say: dzhe-dzhe-nige
+say: dzhi\e-nige
+say: dzhike-nige
+say: jii
+say: jii
+say: mene
+say: zii
+say: zii
+say: zi\i
+say: ǯeǯenige
+say: ǯiʔenige
+say: ʒ̣iʔenige
+say: ǯi\i
+say: ǯikenige
+scratch: api
+sea: babo-bawe
+sea: babo-ule
+sea: bawe
+sea: bawe
+sea: malunie
+sea: malu-nie
+sea: malu-unapu
+sea: ugle-nie
+see: depa-nenige
+see: depäninige
+see: depäninige
+see: depä-ninige
+see: depɑnenige
+seed: ku
+seed: ku
+seed: ku
+seed: ku
+seed: ku
+seed: ku
+seed: ku
+seed: ku
+seed: ku
+seed: ku
+seed: ku
+seed: ku
+seed: ku
+seed: ku
+seed: u
+seed: ʔu
+see: dzhep nenige
+see: ire gie
+see: ire gie
+see: napanine (?)
+see: ǯepani
+see: ǯep nenige
+short: tube
+short: tube
+short: tu:be
+short: tuːbe
+short: tuberage
+short: tube-rage
+short: tubu
+short: tubu
+short: tubu käli
+short: tubu käli
+short: tubu tubu
+short: tubu tubu
+short: tugi
+short: tugi
+short: tumbe
+short: tumbe
+short: tumbe
+short: tumbo käli
+short: tumbo käli
+short: tumbo käli
+shoulder: abuae
+shoulder: ebaue
+shoulder: ebuae
+shoulder: palae
+shoulder: palae
+sing: upera
+sister: ngule
+sister: ngule
+sister: ngule
+sister: ngule
+sister: ngule
+sister: ngule
+sister: ŋule
+sister: ŋule
+sister: ŋule
+sister: ŋule
+sister: ŋule
+sister: ŋule
+sister: ŋule
+sister: ngulo
+sister: ŋulo
+sister: ŋulo
+sister: ngure
+sister: ŋure
+sit: adnatenige
+sit: adnatenige
+sit: adnatenige
+sit: adnatenige
+sit: adnatenige
+sit: adnatenige
+sit: adnatenige
+sit: adnatenige
+sit: adnatenige
+sit: adnate-nige
+sit: adnate-nige
+sit: adnate-nige
+sit: adnate-nige
+sit: adnate-nige
+sit: adnate-nige
+sit: adnate-nige
+sit: adnati
+sit: adnati
+skin: tape
+skin: tape
+skin: ta pe
+skin: ta:pe
+skin: ta:pe
+skin: täːpe
+skin: täːpe
+skin: täːpe
+skin: tä:pe
+skin: tä:pe
+skin: täːpo
+skin: täːpo
+skin: tä:po
+skin: tä:po
+skin: täːpwe
+skin: tä:pwe
+skin: tɑːpe
+skin: tɑːpe
+sky: dumeabo
+sky: dume(-abo)
+sleep: ogiri
+sleep: ogrenige
+sleep: ogrenige
+sleep: ogre-nige
+sleep: ogre-nige
+sleep: ute
+sleep: ute ge
+sleep: ute ge
+sleep: ute ge
+sleep: ute geye
+sleep: ute geye
+sleep: ute geye
+sleep: ute geye
+sleep: ute geye
+sleep: ute geye
+sleep: ute geye
+sleep: ute ge(ye)
+sleep: ute gyene
+sleep: ute (gyene)
+sleep: uto gye
+sleep: uto gye
+sleep: uto gye
+small: geglo
+small: gɛglo
+small: matiali
+small: matiali
+small: matikäli
+small: matikäli
+small: matikäli
+small: matikäli
+small: matikäli
+small: matikari
+small: matikari
+small: matikari
+small: matikola
+small: matikola
+small: matikola
+small: matikola
+small: matikola
+small: matikolä
+small: matikolä
+small: matikolä
+small: matik(o)lä
+smell: leŋo
+smoke: asa
+smoke: kloka
+smoke: kloka
+smoke: kloka
+smoke: kloka
+smoke: kloka
+smoke: kloka
+smoke: kloka
+smoke: kloka
+smoke: kloka
+smoke: kloka ~ kokla
+smoke: kokla
+smoke: kokla
+smoke: kokla
+smoke: kokla
+smoke: kroka
+smoke: kroka
+smoke: kroka
+smoke: lo\a
+smoke: loʔa
+snake: kobyame
+snake: kobyame
+snake: kobyame
+snake: kobyame
+snake: kobyame
+snake: kobyamo
+snake: kobyamo
+snake: obiame
+snake: obiam(e)
+snake: obiamo
+snake: obiamo
+snake: obiyamo
+snake: ʔobiyamo
+snake: obyame
+snake: \obyame
+snake: ʔobyame
+snake: ʔobyame
+snake: obyamo
+snake: ʔobyamo
+snake: sawa
+snake: undawale
+son: bagra
+son: bagra
+sour: trae
+spit: kloklamu geye
+spit: koklämo gyene
+spit: kokrämuge
+spit: kokrämu geye
+spit: kokrämu geye
+spit: kokrämugyene
+spit: kokrämu gyene
+spit: loklamu geye
+spit: oʔramu geye
+spit: ovia
+spit: wísgiéna
+stand: abodängri-nige
+stand: abodäŋtinige
+stand: abudzhäte-nige
+stand: abuzangiti
+stand: abuǯäŋtenige
+stand: adangite-nige
+stand: adängite-nige
+stand: adaŋitenige
+stand: adaŋitenige
+stand: adäŋitenige
+stand: adobäŋtinige
+stand: imyemutenige
+stand: imyemute-nige
+stand: i:remite-nige
+stand: iːremitenige
+stand: uɹkemutenige
+stand: urrkemute-nige
+star: griga
+star: griga
+star: griga
+star: gugie
+star: gugie
+star: wale
+star: wale
+star: wale
+star: wale
+star: wale
+star: wale
+star: wale
+star: wale
+star: wale
+star: wale
+star: wale
+star: walo
+star: walo
+stick: suru
+stick: suru
+stick: suru
+stick: suru
+stick: suru
+stick: suru
+stick: suru
+stone: kula
+stone: kula
+stone: kula
+stone: kula
+stone: kula
+stone: kula
+stone: kula
+stone: kula
+stone: kula
+stone: kula
+stone: kula
+stone: kula
+stone: kula
+stone: kura
+stone: kura
+stone: kura
+stone: kuta
+stone: magezuli
+stone: tederei
+straight: onoao
+sun: abedzhi
+sun: abedzhi
+sun: abeii
+sun: abezi
+sun: abezi~ abeǯi
+sun: abeǯi
+sun: abeǯi
+sun: abudzhi
+sun: abuǯi
+sun: abwedzhi
+sun: abweǯi
+sun: bimu
+sun: bimu
+sun: bimu
+sun: bimu
+sun: bimu
+sun: bimu
+sun: bimu
+sun: bimu
+swim: atuwaga
+swim: atuwaga
+swim: atwange-nige
+swim: atwange-nige
+swim: atwange-nige
+swim: atwange-nige
+swim: atwange-nige
+swim: atwaŋenige
+swim: atwaŋenige
+swim: atwaŋenige
+swim: atwaŋenige
+swim: atwaŋenige
+swim: atwaŋenige
+swim: goni
+swim: goni
+tail: kira
+tail: ki:ra
+tail: ki:ra
+tail: ki:ra
+tail: ki(:)ra
+tail: ki(:)ra
+tail: ki(:)ra
+tail: kiːra
+tail: kiːra
+tail: kiːra
+tail: kiːra
+tail: kiːra
+tail: kiːra
+tail: kiːra
+tail: kiːra
+tail: tra:nge
+tail: tra:nge
+tail: traːŋe
+tail: traːŋe
+take: eati
+take: eati
+take: ero-aiati
+that: pede
+that: pede
+that: pede
+that: pede
+that: pei
+that: pei(-ne)
+that: pende
+that: pende
+that: pende
+that: pende
+that: pende
+that: pende
+that: pende
+that: pendi
+that: pendi
+that: pendi
+that: piene
+that: pui
+there: pesemi
+there: pesemi
+they: tebe
+they: tebe
+they: tebebine
+they: tem babamutasa
+they: teme
+they: teme
+they: teme
+they: tepe
+they: tepe
+they: tepe
+they: tepe
+they: tepe
+they: tepe
+they: tepe
+they: te:pe
+they: teːpe
+they: tepi
+they: tepi
+they: tepi
+they: tepi
+they: te(:)pi
+they: teːpi
+they two: pui neneni
+they two: tepite
+they two: tepi-te
+they two: tepi-temi
+thick: ebo-ebo
+thick: pone
+thick: pone
+thigh: wawe
+thigh: wawe
+thin: bloala
+think: ŋene-ǯituani
+thin: loba tatu
+thin: loba tatu
+thin: paple
+thin: paple
+thin: popla
+this: ada
+this: ada
+this: adi
+this: adi
+this: ai
+this: ai
+this: aine
+this: ai-ne
+this: anda
+this: anda
+this: andi
+this: andi
+this: andi
+this: andi
+this: andi
+this: andi
+this: andi
+this: andi
+this: ei
+thou: mame
+thou: mame
+thou: mane
+thou: ma:-ne
+thou: ma:-ne
+thou: ma:-ne
+thou: ma:-ne
+thou: ma:-ne
+thou: ma(:)-ne
+thou: maːne
+thou: maːne
+thou: maːne
+thou: maːne
+thou: maːne
+thou: maːne
+thou: maːne
+thou: ma:-no
+thou: maːno
+thou: maːno
+thou: wane
+thou: wane
+thou: weme
+thou: wene
+thou: wene
+thou: wene
+thou: wene
+thou: wene
+thou: wene
+thou: wene
+thou: wene
+three: nasae
+three: nasae
+three: nasae
+three: nentu:tu:
+three: nentuːtuː
+three: nesae
+three: nesae
+three: nesae
+three: nesae
+three: nesae
+three: nesae
+three: nesa:e
+three: nesaːe
+three: nesaie
+three: nesaie
+three: nesayo
+three: nesayo
+three: nesayo
+throat: derae
+throat: derae
+throat: klalawata
+throat: klalawata
+throat: siniaesa
+throat: siniaesea
+thunder: madubi
+tie: zetai
+tie: ǯubuŋelimuti
+tomorrow: ieia
+tomorrow: ieia
+tomorrow: \iye\iye
+tomorrow: ʔiːyeʔiːye
+tomorrow: ʔiːyeʔiːye
+tomorrow: ʔiyeʔiye
+tomorrow: ʔiyeʔiye
+tomorrow: ʔiyeʔiye
+tomorrow: i:ye-\i:ye
+tomorrow: i:ye-\i:ye
+tomorrow: iye-\iye
+tomorrow: kiyekiye
+tomorrow: kiyekiye
+tomorrow: kiye kiye
+tomorrow: kiye kiye
+tomorrow: kiye kiye
+tomorrow: kiye kiye
+tomorrow: kiye-kiye
+tongue: warrta
+tongue: wärtä
+tongue: wärtä
+tongue: wata
+tongue: wata
+tongue: waɹta
+tongue: wätä
+tongue: wätä
+tongue: wätä
+tongue: wätä
+tongue: wätä
+tongue: wätä
+tongue: wätä
+tongue: wätä
+tongue: wätä
+tongue: wate
+tongue: weta
+tongue: wɑɹtɑ
+tongue: wɑte
+tooth: giriku
+tooth: giriku
+tooth: giriku
+tooth: giriku
+tooth: giriku
+tooth: giriku
+tooth: giriku
+tooth: giriu
+tooth: giriu
+tooth: giri\u
+tooth: giriʔu
+tooth: giru\u
+tooth: giru\u
+tooth: giru\u
+tooth: giruʔu
+tooth: giruʔu
+tooth: giruʔu
+tooth: giruʔu
+tooth: kiru\u
+tree: uli
+tree: uli
+tree: uli
+tree: uli
+tree: uli
+tree: uli
+tree: uli
+tree: uli
+tree: uli
+tree: uli
+tree: uli
+tree: uli
+tree: uli
+tree: uli
+tree: uli
+tree: uli
+tree: uri
+tree: uri
+two: neneni
+two: neneni
+two: neneni
+two: neneni
+two: neneni
+two: neneni
+two: neneni
+two: neneni
+two: neneni
+two: neneni
+two: neneni
+two: neneni
+two: neneni
+two: neneni
+two: neneni
+two: ne:no
+two: neːno
+vomit: megi
+walk: adenige
+walk: ädenige
+walk: ädenige
+walk: ade-nige
+walk: äde-nige
+walk: äde-nige
+walk: ate
+walk: ate
+walk: ato
+walk: ato
+walk: biri
+walk: deterenige
+walk: deterinige
+walk: deterinige
+walk: deterinige
+walk: deterinige
+walk: deterinige
+walk: deteri-nige
+walk: deteri-nige
+walk: deteri-nige
+walk: deteri-nige
+walk: oːaminige
+walk: oini
+walk: oteneja
+walk: oteneǯa
+walk: otini
+walk: ot(i)ni
+walk: oːwaminige
+walk: oːwaminige
+walk: oːwaminige
+walk: oːwaminige
+walk: uami
+walk: uːwamenige
+walk: uːwamenige
+walk: uwami
+walk: uːwaminige
+walk: uːwemanige
+wallaby: ʔaːme
+wallaby: a:me
+wallaby: ka:me
+wallaby: kaːme
+wallaby: kaːme
+wallaby: seba
+wallaby: se:ba
+wallaby: se:ba
+wallaby: se:ba
+wallaby: se:ba
+wallaby: se(:)ba
+wallaby: seːba
+wallaby: seːba
+wallaby: seːba
+wallaby: seːba
+wallaby: seːba
+wallaby: seːba
+warm: hunu(-ge)
+warm: mumu
+warm: nunu
+warm: nu:nu
+warm: nu:nu
+warm: nu:nu
+warm: nu:nu
+warm: nu:nu
+warm: nu:nu
+warm: nu(:)nu
+warm: nuːnu
+warm: nuːnu
+warm: nuːnu
+warm: nuːnu
+warm: nuːnu
+warm: nuːnu
+warm: nuːnu
+warm: nuːnu
+warm: nuːnu
+wash: aiːdesa
+wash: goni
+wash: ǯi\isaǯi
+water: baduge-nie
+water: malu-nie
+water: nie
+water: niye
+water: niye
+water: niye
+water: ni:ye
+water: ni:ye
+water: ni:ye
+water: ni:ye
+water: ni:ye
+water: ni(:y)e
+water: niːye
+water: niːye
+water: niːye
+water: niːye
+water: niːye
+water: niːye
+water: niːye
+weep: ele
+weep: ele
+weep: ele
+weep: elemau
+weep: elemau
+weep: suru
+we (excl.): ine
+we (excl.): ʔine
+we (excl.): ʔine
+we (excl.): ʔine
+we (excl.): ʔine
+we (excl.): kine
+we (excl.): kine
+we (excl.): kine
+we (excl.): kine
+we: ime
+we: ime
+we (incl.): mine
+we: ine
+we: i-ne
+we: i-ne
+we: i-ne
+we: i-ne
+we: ki-ne
+we: ki-ne
+we: ki-ne
+wet: bɹädä
+wet: bäɹdä
+wet: bärrdä
+wet: brädä
+wet: bubobubo
+wet: bubo-bubo
+wet: buda
+wet: budu
+wet: mandamanda
+wet: mandamanda
+wet: manda-manda
+wet: nebo
+wet: nebo
+wet: nebo
+wet: nebo
+wet: nebonebo
+wet: nebo(-nebo)
+we two: imetemi
+we two (incl.): inete
+we two (incl.): maneine
+we two (incl.): mine neneni
+we two: ine neneni
+we two: ine-te
+what: lasine
+what: luige
+what: nge-na
+what: nge-na
+what: nge-na
+what: nge-na
+what: nge-na
+what: nge-na
+what: nge-na
+what: ŋena
+what: ŋena
+what: ŋena
+what: ŋena
+what: ŋena
+what: ŋena
+what: ŋena
+what: ŋena
+what: ŋena
+what: ŋena
+when: liba
+when: liba
+when: liba
+when: liba
+when: liba
+when: liba
+when: liba
+when: liba
+when: liba
+when: liba
+when: liba
+when: liba
+when: limba
+when: limba
+when: rimba
+when: rimba
+where: luiee
+where: luwie
+where: luwie
+white: bulu
+white: bul(u)
+white: bulubulu
+white: bulubulu
+white: bulubulu
+white: bulubulu
+white: bulubulu
+white: bulubulu
+white: bulubulu
+white: bulubulu
+white: bulu-bulu
+white: bulu-bulu
+white: bulu-bulu
+white: bulu-bulu
+white: bulu-bulu
+white: bulu-bulu
+white: bulu-bulu
+white: buruburu
+white: buru-buru
+who: lasine
+who: lasi-ne
+who: late
+who: late
+who: la:te
+who: la:te
+who: la:te
+who: laːte
+who: laːte
+who: laːte
+who: latete
+who: latete
+who: latetɛ
+who: la(:)ti
+who: laːti
+who: la:to
+who: laːto
+who: laːto
+wife: oga
+wife: oga
+wind: adiri buwe
+wind: buwe
+wind: buwe
+wind: buwe
+wind: buwe
+wind: buwe
+wind: bu:we
+wind: bu:we
+wind: bu(w)e
+wind: buːwe
+wind: buːwe
+wind: buwo
+wind: buwo
+wind: buwo
+wind: buwo
+wind: buwo
+wind: buwo
+wind: buwo
+wind: kamage(e)(-buwe)
+wind: ule
+wing: ka:ke
+wing: kaːke
+wing: ta:ma
+wing: taːma
+wing: tame
+wing: ta:me
+wing: ta(:)me
+wing: taːme
+wing: taːme
+wing: taːme
+wing: ta:mo
+wing: ta:mo
+wing: ta:mo
+wing: ta:mo
+wing: taːmo
+wing: taːmo
+wing: taːmo
+wing: taːmo
+wing: taːmo
+woman: magebe
+woman: magebe
+woman: magebe
+woman: magebe
+woman: magebi
+woman: magebi
+woman: magebi
+woman: magebi
+woman: magebi
+woman: magebi
+woman: magobe
+woman: magobe
+woman: magobe
+woman: magobe
+woman: magobe
+woman: magobo
+woman: magobo
+woman: oga
+woman: oga
+woman: oga
+woman: oga
+wood: suru
+wood: suru
+wood: suru
+wood: suru
+wood: suru
+wood: suru
+wood: suru
+wood: suru
+wood: suru
+wood: uli
+wood: uli
+yellow: mulimuli
+yellow: mulimuli
+yellow: mulimuli
+yellow: mulimuli
+yellow: mulimuli
+yellow: mulimuli
+yellow: mulimuli
+yellow: mulimuli
+yellow: mulimuli
+yellow: muli-muli
+yellow: muli-muli
+yellow: muli-muli
+yellow: muli-muli
+yellow: muli-muli
+yellow: muli-muli
+yellow: muli-muli
+yellow: murimuri
+yellow: muri-muri
+yes: io
+yesterday: birie
+yesterday: biri(\)e
+yesterday: biri\e
+yesterday: biri\e
+yesterday: biriʔe
+yesterday: biriʔe
+yesterday: biriʔe
+yesterday: biriʔe
+yesterday: birike
+yesterday: birike
+yesterday: birike
+yesterday: birike
+yesterday: birikiye
+yesterday: birikiye
+yesterday: birikiye
+yesterday: biri\ye
+yesterday: biriʔye
+yesterday: emabe
+yesterday: emabe
+yesterday: totom
+yes: ya
+yes: ya
+yes: ya
+yes: ya
+yes: ya
+yes: yo
+yes: yo
+yes: yo
+yes: yo
+yes: yo
+yes: yo
+yes: yo
+yes: yo
+yes: yo
+yes: yo
+yes: yo
+you two: wene neneni
+you two: wenete
+you two: wene-te
+you two: wene-temi
+you: wane
+you: weme
+you: wem-pe neneni
+you: wene
+you: wene
+you: wene
+you: wene
+you: wene
+you: wene
+you: won

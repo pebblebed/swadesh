@@ -1,0 +1,200 @@
+all: paurō
+and: ʔe
+animal: manu
+ashes: ʔeo-ʔeo
+back: tuaʔivi
+bad: rake-rake
+bark: kiri miro
+because: ʔo ira
+belly: kōpū
+big: nui
+bird: manu
+bite: ŋau
+black: ʔuri-ʔuri
+blood: toto
+blow: puhi
+bone: ivi
+breast: ʔoʔone
+breathe: haŋu-haŋu
+burn: tutu
+child: poki
+cloud: raŋi
+cold: takeʔo
+come: oho mai
+correct: tano
+count: ta-taku
+cut: hore
+die: mate
+dig: keri
+dirty: ʔoʔone
+dog: paiheŋa
+drink: unu
+dry: paka
+dull: puni-puni
+dust: puŋaʔehu
+ear: tariŋa
+earth: henua
+eat: kai
+egg: mamari
+empty: tahaŋa
+eye: mata
+far: roa
+father: pāpā
+fat (n.): morī
+fear: mataku
+feather: huruhuru
+feather: kura
+few: taʔerahi
+fingernail: maʔikuku
+fire: ah
+fire: ahi
+fish: ika
+five: rima
+float: raŋa-raŋâ
+flower: tiare
+flow: hiho
+fly (v.): rere
+fog: kapua
+foot: vaʔe
+four: hā
+fruit: haʔa ʔapu
+full: ku ʔī ʔā
+give: vaʔai
+good: riva-riva
+grass: mauku
+green: rito mata
+guts: kokoma
+guts: kokoma
+hair: puʔoko
+hand: rima
+head: puʔoko
+hear: ŋaroʔa
+heart: mahatu
+heavy: paŋahaʔa
+he: ia
+hit: ti-tiŋi
+how: pe hē
+hunt: aʔuaʔu
+husband: kenu
+I: au
+ice: papetoʔe-toʔe
+if: ana
+in: ?i roto
+kill: tiŋaʔi
+knee: turi vaʔe
+know: ʔite
+large: nui-nui
+laugh: kata
+leaf: raupā
+left: maui
+leg: vaʔe
+lie: moe
+live: ora
+liver: ʔate
+long: roa
+louse: kutu
+man: taŋata
+many: rahi
+meat: kiko (taŋata)
+moon: mahina
+mother: māmā
+mountain: maʔuŋa
+mouth: haha
+name: ʔiŋoa
+narrow: vako-vako
+near: hahine
+neck: ŋao
+new: ʔāpĩ
+night: Pō
+nose: ihu
+old: tuai
+one: tahi
+person: taŋata
+play: kori
+pull: haro
+push: tono
+rain: ua
+red: mea-mea
+right: mataʔu
+road: ara
+root: aka
+rope: taura
+rotten: piro
+round: ʔohu
+rub: haroʔi
+salt: miti
+sand: ʔone
+say: kī
+sea: vai-kava
+sea: vai-kava
+seed: karu
+see: kite
+see: ui
+sew: kaui
+sharp: kaʔi-kaʔi
+short: poto-poto
+sing: [himene]
+sit: noho
+skin: kiri (taŋata)
+sky: raŋi
+sleep: haʔuru
+small: ʔiri-ʔiti
+smell: hoŋi
+smoke: ʔau
+smooth: pororeko
+some: te-tahi
+spit: ʔa-ʔanu
+split: ʔavahi
+stab: ʔoʔoka
+stand: maroa
+star: hetuʔu
+stick: toko-toko
+straight: ti-tika
+suck: ʔomo-ʔomo
+sun: raʔā
+swim: kau
+swim: kaukau
+tail: hiku
+that: taua
+that: tena
+that: tera
+they: rātou
+thick: peŋo-peŋo
+think: haka topa
+thin: rai-rai
+this: tenei
+thou: koe
+thou: korua
+thou: korua
+thou: koutou
+three: toru
+throw: tau
+tie: here
+tongue: ʔarero
+tooth: niho
+tree: tumu
+turn: haka taviri
+two: rua
+vomit: rua
+warm: veʔa-veʔa
+water: vai
+we: matou
+we: maua
+we: tatou
+we: taua
+wet: rari
+what: he aha
+when: a hē
+which: kohē
+white: kwalam
+who: ko ai
+why: mo aha
+wide: ʔa\ano
+wife: viʔe
+wind: tokerau
+wing: karä
+woman: viʔe
+worm: koreha ʔoʔone
+wrong: taʔe tano
+year: matahiti
+yellow: toua mamari

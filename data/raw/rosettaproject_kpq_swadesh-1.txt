@@ -1,0 +1,80 @@
+arm: lambare
+arm: lambare
+arm: lambare
+ashes: asul
+ashes: asul
+ashes: asul
+bird: winang
+bird: winaŋ
+bird: winaŋ
+black: pirinap
+black: pʰirinap
+black: pʰirinap
+blood: ining
+blood: iniŋ
+blood: iniŋ
+bone: iang birin
+bone: iaŋ birin
+bone: iaŋ birin
+come: yulam
+come: yulam
+come: yulam
+dog: kam
+dog: kʰam
+dog: kʰam
+earth: soxu
+earth: soxu
+egg: wangga
+egg: waŋga
+egg: waŋga
+eye: ising
+eye: isiŋ
+feather: ʌsʌŋ
+fingernail: (se:) luk
+fingernail: (seː) luk
+fire: uk
+fire: uk
+give: na totndulum
+give: na totndulum
+good: salep
+good: salep
+hair: asung
+hair: asuŋ
+head: asak
+head: asak
+I: na
+I: na
+leg: yan sang
+leg: yan saŋ
+louse: wutnavu
+louse: wutnavu
+man: nimi
+man: nimi
+name: utnimi
+name: ut-nimi
+night: imbe͂l
+night: imbenhl
+one: toxunok
+one: tʰoxunok
+see: ivap
+see: ivap
+sit: abenak buklom
+sit: abenak buk-lom
+skin: boxa
+skin: boxa
+sleep: asing mamundi
+sleep: asiŋ mamundi
+stone: kirik
+stone: kʰirik
+sun: ising
+sun: isiŋ
+tooth: si
+tooth: si
+tree: kal
+tree: kʰal
+two: bisini
+two: bisini
+water: mak
+water: mak
+we: siknu
+we: siknu

@@ -1,0 +1,103 @@
+all: newa
+arm: aaha
+ashes: hwaakuva
+bark: (iya)paaha
+belly: zïmeha
+big: inga
+bird: yïhuva
+bite: taha hawïravaa-rav-aha
+black: zïkuna´mïya
+blood: yaa\mpaza lsaahana
+bone: yakana
+breast: aamna
+burn: ha-zïsa-haha
+claw: taapanga
+cloud: katahuya
+cold: sapaaha
+come: ha-pa-haha
+die: ha-pe\n-kaha
+dog: zïwasa
+drink: aaya ha-n-kaha
+dry: zaataya
+dry: zazaatïya
+ear: haaraha
+earth: hwaaha
+eat: ha-n-kaha
+egg: mïna
+eye: tïma
+fat (n.): aavava
+feather: tehwa/veverhana
+fire: tïha
+fish: samïnga
+fly (v.): vekwaaravaha
+full: maanga hupanaha
+full: maankaaku\nya
+give: hant-aapa-haha
+good: hilwaampe
+good: tewaana
+green: zankatasa
+hair: mïsa
+head: mïnakïna
+hear: hawï-paa\n-kaha
+heart: mehwa
+horn: zïhwaana
+I: nka
+kill: ha-vansa-a-ha-raha
+knee: haamïhwaanga hwaama
+know: ntapaa\ninkana
+leaf: uranga
+leg: zïve
+lie: ha-vïya-a weh-a
+liver: he
+long: zaawema
+louse: iyaa
+man: hwe
+many: haraya
+meat: nukuva/maasïve
+moon: haamna
+mountain: hwaana
+mouth: maanga
+name: yave
+neck: tïwaanga
+new: zanga
+night: zïkuna
+nose: zamaana
+not: ma-/-\maaha
+one: ingavana
+person: aa\maamïya
+rain: nahaza
+red: aahasa
+road: haanankaana
+root: (i)pavanga
+round: kwoime
+sand: wazaha
+say: ha-ra-haha
+seed: izavïya/uya
+see: hawï-hwan-kaha
+sit: ha-humaa-ha
+skin: (aa\ma)paaha
+sleep: zaaha ha-vïya-a-we-ha
+small: we\na
+smoke: zavya
+stand: harakav-a-humaah-a
+star: zïnakwaaria
+stone: zasa
+sun: mape
+swim: ha-yaatakun-kaha
+tail: zïme
+that: aza
+this: ara
+thou: kïka
+tongue: meraanya
+tooth: maanga
+tree: iya
+two: huvaa\u
+walk: haana waa-ravaha
+warm: tïhamtnaa
+water: aaya
+we (incl.): naakwa
+what: peha(te)
+white: hwavaasa
+who: tîhwa(re)
+woman: ape
+yellow: waahasa

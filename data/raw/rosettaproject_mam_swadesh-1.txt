@@ -1,0 +1,144 @@
+all:  cycyaki·l
+ashes:  tza\j
+bark:  co·mal
+big: ma\
+bird: ch\it
+bite:  tx\ya·n
+black:  k\ak tί\j
+blood: chc\e
+blow:  ẍu·pin
+bone:  b\a·k
+breast:  ke \i·mj
+burn:  c\ant
+child:  c\wa\l
+cloud:  mu·j
+cold:  che\w
+come:  \u·l
+cut:  jilin
+day:  k\i·j
+die:  cyim
+dig:  Icu·ne
+dog:  tx\ya·n
+drink:  c\a·na
+dry:  tzki·j
+dust:  puklaj
+earth:  tx\otx\
+ear:  xcyin
+eat:  wa\n
+egg:  jos
+eye:  b\ak\ cywitze
+fall:  cu\tz tz\ak
+far:  nakchak
+fat (n.):  mante·c
+fear:  xob\
+feather:  t-sma·l
+fingernail:  t-xc\yak
+fire:  k\a·k\
+fish:  cyix
+five:  jwe\
+fly (v.):  li·pan
+fog:  k\ak mu·j
+foot:  kkan
+four:  cya·j
+fruit:  lob\j
+full:  nojn
+give:  k\o\ne
+good:  b\a\n ke
+green:  cha\ ẍ
+hair:  sma·l
+hand:  nk\ab\e
+head:  nwi\ye
+hear:  olt
+heart:  ta·nmiya
+heavy: a·l
+here:  tzalu\
+hit:  b\u·jine
+horn:  tca·ch
+how?:  ti
+husband:  tchmi·l
+I:  a·yine
+kill:  tb\yo\n
+knee:  nch\e·cye
+know:  tb\i·ya
+lake:  njab\
+laugh:  in tze/n
+leaf:  ẍa·k
+left:  tna·yaj
+lie:  coxl
+liver:  ttx\o·tx\
+long:  ẍyu·kb\i
+louse:  xkuc\
+man:  ẍi·nak
+meat:  chib\
+moon:  ẍja·w
+mountain:  witz
+mouth:  ttzi\
+name:  tb\i
+near:  nika·yin
+neck:  tkula
+new:  ac\aj
+night:  koni·c\an
+nose:  ttxa\na
+one:  jun
+other:  ju·ntl
+person:  ẍja·l
+pull:  njawo\ne
+rain:  jb\a·l
+red:  cyak
+right:  tb\a·nk\ab\
+river:  ni\ma
+road:  tk\ab\b\e
+root:  tloc
+rope:  ch\e\ch
+rope:  d\yja·j
+rotten:  k\ayn
+round:  tulin ti\j
+sand:  pokla·j
+say:  al
+seed: \i·yaj
+see:  tx\ya·n
+sing:  b\i·tzuna
+sit:  k\ukl
+skin:  tz\u·mile
+sleep:  ta·nẍa
+smell:  ko\
+smoke:  sib\
+stab:  ẍayu·ne
+stand:  wa\l
+star:  che\w
+stone:  cya\
+stone:  ẍak
+suck:  tz\u·n
+sun:  k\i·j
+swell:  ẍi ma·l
+swim:  ẍnu\ïne
+tail:  tje\
+that:  cbi·ẍ
+there:  ma  chi·ẍ
+thick:  pi·m
+thin:  xax
+this:  lu\
+thou:  a·ya
+tongue:  wa·k\e
+tooth:  ke tcya\ya
+tooth:  twitz ke\
+tree:  tze\
+two:  cab\
+walk:  b\e·t
+warm:  cyka\
+wash:  cytx\jo\n
+wash:  cytx\jo\n
+water: \a\
+we: ko\
+wet: \ac\naj
+what:  ti
+when?:  jtoj b\an
+where?:  ja ta\ya
+white: sak
+who: \alcye·
+wife:  t-ẍu\jil
+woman:  txi·n
+woman:  ẍu\j
+ye: \a·keye
+year: \ab\k\i
+yellow:  xk\an

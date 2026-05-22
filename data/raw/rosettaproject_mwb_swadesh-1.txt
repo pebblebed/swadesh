@@ -1,0 +1,263 @@
+all: kɨtɪßeŋgɨn
+all: kutɛwɛŋgɪnarak
+arrow: yirʌ
+arrow: yirra
+bad: nambrrɨp
+bad: ŋambɨlɨf
+bark: kurʊm
+bark: kurrum
+belly: saʷ
+belly: sao
+big: peyɛt
+big: piyap
+bird: ɲuɲuwon
+bird: ɲɪɲʊwʌn
+bite: bɛrr
+bite: wɛr
+black: kɨfɨrɨkwarɨn
+black: koφʰrru φʰrrarrɛm
+blood: kutrrika
+blood: kwutɨrɨkʌ
+bone: ɲuŋgʷɛm
+bone: yiŋgwem
+boy: undu mar
+boy: wɛrɛMgɨn
+breast: mɨɲambwe
+breast: meːy
+breast: mɨn
+brother: matuʷɪn
+brother: tʌtʌ
+burn: (unde) narr
+burn: wunde narr
+child: weliwɪn
+chin: ɲam
+chin: ɲaːmɨnɨ
+cloud: ɲaŋɪr
+cloud: nyaŋʊr
+cold: kɨsɨmarɛn
+cold: kusimarɛmp
+come: ni
+come: ni
+crocodile: wʊŋayʌ
+crocodile: wuŋoya
+day: kɨfɛrr
+day: koφoromb
+die: nanatik
+die: -tik
+dog: umbarkar
+dog: yimbakʌ
+drink: (wiyʌ) nar
+dry: korʊwarf
+dry: wiyʌŋu trikar
+ear: mutakʊrr
+ear: mutʰakur
+earth: tɨrɨmbori
+earth: trrumborri
+eat: narr
+eat: narr
+egg: toːɲɛ
+egg: tʰon
+elbow: sɨpokwiyʌ
+elbow: suφʰokʷiya
+emu: kaːt
+emu: kaːt
+eye: yarɨtiʔi
+eye: yayuri
+fall: noričɪn
+fall: -oreče ~ -orʌče
+father: ŋoʲʌ
+father: ŋoya
+fat (n.): tɪmbeyʌ
+fat (n.): tɨmbeya
+feather: tɨtäm
+feather: tutɛm
+finger: piyaŋkʷin
+finger: piyangwen
+fire: watɪr
+fire: wʌt
+fish: aymbo
+fish: ŋaʲimbʷoʔ
+five: nembat nembat traf
+fly (v.): frokʌ ßʌ
+fly (v.): prokuwɛr
+foot: raːmp
+foot: rramp
+four: ɲɛmiɲa ɲɛmiɲem
+four: nembaf nembaf
+full: piyakačuwa
+full: piyakočuwo
+girl: tɨmbwinaʷ
+girl: undu čoŋekaw
+good: ɲɨßɨkai
+good: yuφokaʲ
+hair: yɨrr
+hand: yuwam
+hand: yuwam
+head: maːt
+head: maːt̪ʰ
+hear: naʲi
+heavy: rifarɛm
+heavy: riφar
+he/she: (k)wo
+he/she: (k)wo
+he/she: n-
+he/she: na
+he/she: na
+he/she: ŋa
+he/she: w-
+he/she: wok
+hit: net
+hit: nit
+house: pas
+house: pas
+I: nak
+I: ŋak
+I: ŋak
+I: ø-
+kill: nanatik
+kill: nina natik
+knee: tɪtɨmwa
+knee: tɨtumʷo
+laugh: urrorr
+laugh: wʊrorr
+leaf: kas
+leaf: kas
+lie: nyarʌ
+lip: (ŋɨrɨ-)pwʌ
+lip: ŋuruφʷo
+long: nafɨnɨm
+long: ŋamφunɨm
+louse: pitʌ
+louse: φʷitʌŋ
+man: čɨrɪmarr
+man: undumar
+meat: krrawon
+meat: sɨnʌŋgʌ
+moon: kʰirreawa
+moon: kɨreyawʌk
+morning: koskworʌ
+morning: kuskʷorok
+mosquito: ŋʊrɨkatʌ
+mosquito: nurrukota
+mother: numo
+mother: numʷo
+mountain: sɛmi
+mountain: tutɨŋ
+mouth: ŋɨrɨ(-pwʌ)
+name: čaːf
+name: čaφ
+new: tʌkiɲam
+new: (uŋɛr) ɲuφokaŋgo
+night: kɨfɨrɛŋgwa
+night: koφoroŋgʷom
+not: kurroŋ
+old: kɨri wʊrʌt
+old: kɨrɨ wʊrʌn
+old: kurura
+old: (uŋɛr) wurikaŋgo
+old: wʊrikai
+one: traf
+one: tɨrafɨrʌ
+one: trrambrran
+one: trraporok
+rain: ɲiɲam
+rain: ŋiɲam
+rat: wuteße
+rat: wutɛvi
+road: tɨßoya
+road: tʰuφʷoya
+sea: hlirɨ
+sea: rrirr
+seed: ɲimwoʲ
+seed: ɲumoʲ
+see: nɨmbarɨf
+see: numbarrɨp
+short: pɨtʊkʊnɛm
+short: putukomunɛmbe
+shoulder: ŋɨndɨkɨn
+shoulder: wundikun
+sister: matuʷɪnɪk
+sister: tʌtʌ
+sit: putuφɛkar
+sit: tɨkʌrɨ
+skin: kɨrom
+skin: kurom
+sleep: irokwo tinarʌ
+sleep: tinoroŋ
+small: tɨkwaʲ
+small: tuwemorɛmp
+smoke: (watɪr) unde nagar
+smoke: wayi
+spit: tɨkek
+spit: yukeka
+stand: nyarʌ
+stand: pʌtaʲ
+star: tɪrɨmɨngway
+stone: weʌt
+stone: wɛt̪
+sun: ɲimbe
+sun: nɨmbe
+they: kwo
+they: mak
+they: ma-k/kwo
+they: m-/k-
+they: ŋam kʷatek
+they two: man ɲemɲʌ
+they two: manɛmyim
+they two: m-/k-
+thou: mak
+thou: noʷ
+thou: nok
+thou: nok
+thou: nom (kɨtɨßwßfɨnʌ)
+three: ɲɛmiɲɛ trra
+three: nembaf traf
+throat: tʌkʌ
+throat: trʌkʌ
+tomorrow: kusokʷo
+tomorrow: yifukʌnʌ
+tongue: ɲarɨko
+tongue: ɲarrkʷo
+tooth: taʷ
+tooth: tao
+tree: ɲɪmi
+tree: ɲɪmi
+two: ɲɛmɲɛ
+two: nɛmbaf
+two: nɛmiɲɛm
+walk: sabigʊ-
+walk: sapikunowa
+walk: ßʌ
+wallaby: yingaʲ
+wallaby: yiŋgaʲ
+warm: mɨßat
+warm: muwɛtikaʲ
+water: wiyʌ
+water: wiya
+we (excl.): nam (kɨtɨßwßfɨnʌ)
+we (excl.): yam kutuwɛŋ gimɛrrok
+we: na-m
+we: p-
+wet: wiŋgwar
+wet: wiyʌ kirrarr
+we two (excl.): ŋa (newʌ)
+we two (excl.): ŋɛmyim
+we two: m-
+we two: na
+white: sambrru prrarrɛp
+white: sɨmbʊrʌfarɨ
+wing: rand
+wing: rran
+woman: aniŋgimarr
+woman: naŋgimar
+wood: wʌtarr
+yes: aek kirʌ
+yes: ok
+yesterday: werʌ
+yesterday: werraŋ
+you: no-m
+you: p-
+you two: m-
+you two: nu
+you two: num (newʌ)
+you two: ßab beyuwo

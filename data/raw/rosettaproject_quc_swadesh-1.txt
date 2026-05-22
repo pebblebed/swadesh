@@ -1,0 +1,25 @@
+all: conojel
+big: nim
+bird: tz\iquin
+dog: tz\i
+fat (n.): manteca\
+fish: cär
+I: yin
+leaf: uxak
+long: nim
+louse: uc\
+man: achi
+meat: tij
+one: jun
+person: winak
+seed: ija\
+small: ch\uti\n
+that: le\
+this: we…ri\
+thou: at
+tree: che\
+two: queb\
+we: uj
+what: jas
+who: jachin
+woman: ixok

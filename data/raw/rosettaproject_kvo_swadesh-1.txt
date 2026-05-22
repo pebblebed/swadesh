@@ -1,0 +1,184 @@
+all: da-ʔa’may
+and: sa
+animal: tabul
+ashes: kʷaʔu
+back: muru-m фiфin
+bad: ʔatay
+bark: ʔay ʔalay
+because: kʷaŋu
+belly: kwola
+bird: man
+bite: ʔa-ʔara
+black: ʔolay
+blood: kʷudu
+blow: ʔa-so
+bone: tul
+breast: ɸola
+breathe: ʔa-so yari-n
+burn: ʔa-waw
+child: kʷakʷa
+cloud: ʔudum
+cold: sekʷar-ni
+come: kadu-k
+correct: toŋar-ni
+count: ʔa-saw
+cut: ʔa-so
+die: ʔa-kʷoʸ
+dig: ʔa-ʔei
+dirty: ʔaseta
+dog: kʷoyar
+drink: nan
+dry: maray
+dull: kʷulam-ni
+dust: kʷaʔu
+ear: taʔar
+earth: rasa
+egg: man tulir
+empty: walay
+eye: mata-m
+fall: [mʷelu]
+far: saw
+father: sama-m
+fat (n.): mila
+fear: ʔa-babar
+few: [ʔɯ¯an]
+fingernail: kuku
+fire: say
+fish: siʔa
+five: lima
+float: ʔa-men
+flower: kʷoɸi
+flow: na-r-tar
+fly (v.): ʔa-niw
+fog: yawun
+foot: yaba-m
+forest: wunay
+four: ʔawa
+frog: kʷayŋara
+fruit: ʔay ɸusi
+full: sali
+give: nal yaʔa
+good: loʔarni
+grass: kʷuru
+green: kʷalrakʷun
+guts: tubur leŋuy
+guts: tubur leŋuy
+hair: ɸuʔu
+hand: lima-m
+head: kʷul ʔala-m
+hear: ʔa-rrŋin
+heart: ɸukʷa εɸo
+heavy: ŋeŋan-ni
+he: nay
+hit: ʔa-tomal
+horn: ʔay laŋay
+how: naŋa-’ba
+hunt: na-r-kʷoŋa
+husband: yakʷa-m
+if: kʷotu
+in: yabil
+I: saʔu
+kill: ʔa-ɸun
+knee: yaba-m tuna-y
+know: na-r-taʔa
+lake: bal
+large: bari
+laugh: ʔa-mel
+leaf: rakʷun
+left: ŋaфa
+leg: yaba-m
+lie: bage
+liver: sata
+live: yari-n
+long: sayi
+louse: ʔutu
+many: betay
+man: yil
+meat: tama
+moon: ɸulan
+mother: sina-m
+mountain: фuʔar
+mouth: ɸaɸa-m
+name: tam
+narrow: manikʷay
+near: ren
+neck: sadal
+new: tu’bay
+night: ɸi’ʔay
+nose: suran
+old: ta\ɸar
+one: y℮
+person: tamatu
+play: nam sinakʷalar
+pull: ʔa-talay
+push: ʔa-rir
+rain: kʷusan
+red: kʷudi
+right: mila
+river: mar
+road: sala
+root: kʷaʔir
+rope: yal
+rotten: saŋal-di
+round: kʷalabuway
+rub: ʔa-yasir
+salt: masin
+sand: ʔula
+say: ʔa-wuli
+sea: tay
+sea: tay
+seed: ɸeray
+sew: ʔa-sela
+sharp: maŋan-ni
+short: фaфay
+sing: nal yaba
+sit: ?a-talar
+skin: ʔala-m
+sky: ma’ŋar
+sleep: nen
+small: biteŋay
+smell: ʔa-surun ʔay\kʷa
+smoke: ʔabun
+smooth: luray
+snake: yakʷa
+some: ʔa’ye
+spit: ʔa-nar yebir
+split: ʔa-ɸeta
+stab: ʔa-wur
+stand: na-r-tama\rer
+star: takʷun
+stick: tila
+suck: ʔa-kʷutaw
+sun: laru
+tail: suʔar-di
+they: ʔiri
+thick: ɸunay
+think: ʔa-laɸa yaʔa
+thin: kʷariŋay
+thou: ʔa
+thou: ʔemi
+three: lay
+throw: ʔa-yayi
+tie: ʔa-ʔakʷay
+tongue: ʔabelar
+tree: ʔay
+turn: ʔa-kʷatu ɸaʔa
+two: ro
+vomit: ʔa-loŋa
+warm: nanay
+wet: bitay
+what: ya
+when: ʔiba\ren
+which: ba
+white: delay
+who: ba-ni
+why: yaʔa ya
+wide: labay
+wife: yakʷa-m
+wind: saŋin
+wing: dekʷal-di
+woman: ʔodar
+worm: labi
+wrong: yala
+year: naraʔu
+yellow: na-r-ʔuŋul-ni

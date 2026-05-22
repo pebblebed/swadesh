@@ -1,0 +1,510 @@
+all: amanoko
+all: turu-
+all: turuge/turugogo
+all: turugo-
+and: -ogo
+arm: aku
+arm: aku
+arrow: moko
+arrow: moko
+at: -ge
+at: -ge
+at: -(g)ere
+at: -(g)ere
+at: -o
+at: ro-(po)
+back: mure
+back: mure
+bad: kiroge
+bad: mara
+belly: kuge
+big: okenua
+big: okenua
+bird: perekupa
+bird: perekupa
+bite: kakutarei
+bitter: abarasi
+bitter: abarasi
+bitter: ibantsi
+black: mumkasi
+black: mumkesi
+blood: ina
+blood: ina
+bone: kana
+bone: kana
+breathe: numapie
+brother: baːraro
+brother: baːromoru
+brother: loːromoŋ
+brother: taːitanu
+brother: taitanu/doromoru
+child: ise
+child: ise/ise kene
+child: ite
+child: ite
+cloud: komuŋ
+cold: kamara(mui)
+cold: murirasi
+cold: murir-asi
+come: kami-
+come: mui
+come: patag-oti
+come: ui
+come: ungun.gu
+come: uo
+crocodile: ubaibo
+cut: toki
+cut: toki s-
+cut: tokit-
+cut: tokitarei
+dance: unu
+dance: unu-
+dark: mumusurum
+dark: mumusurum
+daughter: boːro
+daughter: dungemi/dongemi/porumi/deung emi/da-uromi/pa-uromi(-nai)
+daughter: duro/doro/-uro
+daughter: luːro
+day: luːan
+day: murogino
+day: murogino
+day: toge
+day: toge
+die: puagasi
+die: puag-asi
+dirty: kumi
+dirty: moːrake
+dog: maikuna
+dog: maikuna
+dog: maikuna
+dog: maikuna
+drink: dr-oib-
+drink: roi-
+drink: roibarei
+dry: tupario
+ear: num
+earth: mo
+eat: hato(v)-
+eat: oib-
+eat: oip-
+eat: oiv-
+eat: tamu-
+eye: noine/ii
+far: esigou
+far: isigo
+far: umaine
+father: moːka
+father: mo-kanu/-umo
+father: -uːmo
+fear: oruki-
+fear: o tavai
+fear: ou(mui)
+fire: oguai
+fire: oguai
+fish: iaana
+fish: topi
+five: ubugami
+five: ubu-gami
+five: upugami
+five: upu-gami
+forest: musi
+forest: musi
+four: korigami
+four: korigami
+four: kori-gami
+girl: piniai
+give: dropa ob-
+give: o-
+give: oːbotsi
+give: omio
+good: dana-guba
+grass: karasi
+grass: karasi
+grass: matsi
+grass: matsi
+guts: kou
+hair: hi
+hair: his
+hair: sisipu
+hair: sisipu
+hand: aku
+head: pure
+head: pure
+hear: druget-(osi)
+heavy: mokinasi
+heavy: mokinasi
+here: e
+here: ege
+here: etano
+here: ia
+here: ia
+he/she: ako
+he/she: ako
+he/she: ako
+he/she: ako
+he/she: boːgoma
+he/she: boːgoma
+he/she: ei
+he/she: ei(e)
+he/she: ei(e)
+he/she: -g-om
+he/she: ia
+he/she: la(i)
+he/she: la(i)
+he/she: po-
+he/she: pogoma
+he/she: pogoma
+he/she: po-goma
+he/she: ta
+he/she: -ui
+hit: ropa-
+hit: ropa te-
+hole: nuinui
+house: hobo
+house: hobo
+house: obo ~ opo
+house: opo
+house: opo
+house: opo
+how: omoto
+husband: (bo)m
+I: (ë)ne
+I: (ë)n-koma
+I: -kanu
+I: -m-om
+I: ne(ge)
+I: ne(ge)
+I: ŋkoma
+I: ŋkoma
+I: nne
+I: nne
+I: -(o)si
+I: -ui
+kill: pua (goto)
+kill: te
+know: morok-
+know: moru-
+laugh: aker-
+leaf: otooto
+leaf: oto-oto
+left: mana nu
+leg: gaga
+leg: kaga
+leg: kaga
+lie: nau-
+lightning: sinaba
+lightning: sinaba
+lightning: sinaba arabitong
+live: numatu
+liver: kou
+liver: kou
+live: tuntunu
+live: tuo-
+long: isiguba
+long: isiguba
+long: itsi-gagi
+long: itsi-guba
+man: dugang
+man: dugaŋ
+man: eru
+man: loi ~ roi
+man: lugaŋ
+man: roikene
+man: rugam
+man: rugam/doi-kene
+man: rugaŋ
+many: amanoko
+meat: kaku
+moon: hekio
+moon: hekio
+mosquito: tamuka
+mosquito: tamuka
+mother: ana
+mother: anaka-
+mother: ana(-kanu)
+mother: -gu
+mother: -oːgu
+mountain: menu
+mountain: menu
+mountain: menu
+mountain: menu
+mountain: menu
+name: miŋ
+name: pogoma
+near: momugo
+new: diroguba
+new: diro-guba
+new: koːne
+new: riroguta
+night: mureui
+night: muro
+night: muro
+night: uremuː
+nose: keng-
+not: no
+not: tou
+not: touno
+old: aige
+old: maːtu
+old: uniguba
+old: uni-guba
+one: noke
+one: nonumai
+one: nonumoi
+one: nonumoi
+one: nonumoi
+one: nuko
+one: ureiŋke
+person: loi
+person: -nai
+person: -nke
+person: roi
+person: roi
+rain: maru
+rain: muru
+rain: muru
+rain: onguru
+rat: inakia
+red: ibitasi
+red: ibitasi
+right: maimaku
+ripe: nameu
+road: monare
+road: monare
+road: monareː
+salt: takanagui
+sand: takanagui
+sand: uːtia
+say: kai
+say: kai-
+say: kaikai
+say: ono-
+say: tab(o)-
+sea: asiga
+sea: asiga
+sea: atiga
+sea: tugupu
+see: ng-
+see: ŋgotsi
+short: momu-
+short: momugoko
+short: momukai
+short: momunai
+short: momu-nai
+sing: akalu
+sing: akaru-
+sister: boiroina
+sister: noːnoi
+sit: ko-(mui)
+sit: kookoog-
+skin: katua
+skin: katua
+skin: ko
+sky: ho
+sky: ho
+sky: lakutaro
+sleep: at-
+sleep: aːtutsi
+small: koanai
+small: kuanai
+small: kuanai
+small: kuanai
+small: kuanake
+smell: kunag-
+smoke: ito
+smoke: iːto
+snake: bogiago
+snake: pogiago
+snake: pogiago
+snake: pogiago
+snake: pogiago
+son: boːm
+son: (d)rum/drong/-um
+son: dunkagi/dong etu/-ong etu
+son: lum
+stand: isu(-si)
+star: kaiba
+star: kaiba
+star: kaibu
+star: kugunia
+stone: aruere
+stone: haru
+stone: haru
+stone: makasiru
+stone: makasiru
+stone: makatsiru
+sun: perepa(na)
+sun: ru
+sun: rua
+sun: rua
+sun: rua
+sweet: isuasi
+tail: tonigu
+tail: tonigu
+take: okutotsi
+that: ako
+that: ako(i)
+that: emiko(i)
+that: ia
+that: ia-
+that: igoko
+that: igoko(i)
+that: ta
+there: ako
+there: igo
+there: igo
+there: te
+there: tege
+there: tege
+they: baːigoma
+they: emi
+they: emi(e)
+they: emi(e)
+they: -g-oim
+they: ibau(e)
+they: ibau(e)
+they: igo/ibau
+they: igo-ko
+they: pai-
+they: paigoma
+they: pai-goma
+they two: iaro(i)
+they two: iaro(i)
+they two: iaro(i) [m]
+they two: iaro(i) [m]
+they two: iaro/ito
+they two: ito(i)
+they two: ito(i)
+they two: ito(i) [f]
+they two: ito(i) [f]
+they: -ui
+this: ei(e)
+this: ia(i)
+thou: daigoma
+thou: dogoma
+thou: do-goma
+thou: dro
+thou: -ei
+thou: lai(ge) ~ rai(ge)
+thou: lai(ge) ~ rai(ge)
+thou: laːigoma
+thou: lo
+thou: lo(ge) ~ ro(ge)
+thou: lo(ge) ~ ro(ge)
+thou: loːgoma
+thou: r-
+thou: ro
+thou: -r-om
+thou: -ui
+three: baigami
+three: baigamiŋke
+three: buigani
+three: paigami
+three: pai-gami
+throw: logibotsi
+throw: moko-
+thunder: ine
+thunder: ine
+thunder: ine kururugui
+tie: urotosi
+today: emu
+today: emu
+tomorrow: togeino
+tomorrow: togetogeugu
+tomorrow: togetogeugu
+tongue: mere
+tongue: mere
+tooth: kainope
+tooth: kombe
+tooth: kombe
+tooth: kompe
+tree: kui
+tree: kui
+tree: kui
+two: kitako
+two: kitako
+two: kitako
+two: kiːtako
+two: kitakoŋke
+vagina: nang
+vagina: naŋ
+vagina: naŋ
+vagina: rape
+walk: bi
+walk: biarei
+walk: mei/pei
+walk: mim/pim/upei
+walk: pempempe
+walk: rugor-
+warm: dakavasi
+warm: dakav-asi
+warm: rakav-
+wash: uːbarei
+wash: uːbotsi
+water: tu
+water: tu
+water: tu\u
+we: di-goma
+we: dre
+we: dre-
+weep: miarei
+we (incl.): digoma
+we (incl.): digoma
+we (incl.): dre
+we (incl.): le(ge)
+we (incl.): le(ge)
+we (incl.): le(ge)
+we (incl.): le(ge)
+we (incl.): nere(ge)
+we (incl.): nere(ge)
+we (incl.): nere(ge)
+we (incl.): nere(ge)
+we (incl.): re
+we (incl.): re
+we: le
+we: liːgoma
+we: -m-oim
+we: nere
+we two (incl.): le(ge)
+we two (incl.): le(ge)
+we two (incl.): le(ge)
+we two (incl.): le(ge)
+we two (incl.): nere(ge)
+we two (incl.): nere(ge)
+we two (incl.): nere(ge)
+we two (incl.): nere(ge)
+we two: le
+we two: nere
+we: -um
+what: bage
+what: oi
+what: oi ~ ai
+white: kakata
+white: kakata
+who: ba ~ bai
+who: pa
+who: paa
+who: pa\a
+wind: amuamu
+wind: kakagu
+wind: kakagu
+woman: konegu
+woman: konegu
+woman: konegu/konegu-ra
+woman: kongkeng
+woman: konogu
+wood: kui
+yesterday: togega
+you: dai-goma
+you: dra-
+you: drai
+you: lai
+you: rai
+you: -r-oim
+you two: lai
+you two: lai(ge) ~ rai(ge)
+you two: lai(ge) ~ rai(ge)
+you two: lai(ge) ~ rai(ge)
+you two: lai(ge) ~ rai(ge)
+you two: rai
+you: -um

@@ -1,0 +1,293 @@
+all: bomoti
+all: bomotí
+arm: beno
+arm: hána
+arm: hána
+ashes: paßo
+ashes: pawo
+ashes: tái
+ashes: tái/pavo
+bark: de
+bark: dɛ
+belly: uti
+belly: uti
+big: ráuo
+big: ráuo
+bird: dimɛ́me
+bird: dipeme
+bird: waio
+bite: ßahwí
+bite: vahwi
+black: búbu
+black: búbu
+blood: íßo
+blood: ivó
+bone: hawro
+bone: horo
+bone: hɔro
+branch: ogo
+breast: hóbo
+breast: hóbo
+breast: hovo
+breast: viviomu
+brother: ñïmi
+burn: omo hɛ͂bo déno
+burn: omo hebo déno
+butterfly: goma
+cassowary: hinia
+chest: bita
+child: kaviri
+claw: tipe muhana
+claw: tipe muhana
+cloud: páßo
+cloud: pávo
+cold: kóbuwʌ
+cold: kóbuwë
+come: amá
+come: amá
+crocodile: obona
+day: hive
+die: mafúamo
+die: mápuamo
+dog: gáho
+dog: gáho (ihyó)
+drink: ogoi me
+drink: ogoí mɛ
+dry: káni
+dry: (moga\)káni
+earth: gawto
+earth: gawto
+earth: goto
+earth: goto
+earth: gotʰo
+ear: t.hú
+ear: tu
+ear: tʰú
+eat: emé
+eat: ɛmɛ́
+egg: áni
+egg: áni
+egg: vamaw
+elbow: una
+eye: uhíno
+eye: uhinó
+eye: uwhino
+face: awiadihi
+father: aga
+fat (n.): aiho
+fat (n.): aiho
+feather: aru
+feather: dipe u
+feather: dipe ú
+finger: viomu
+fire: tái
+fire: tái
+fish: omegi
+fish: tʰópe
+fish: topé
+five: dive
+flower: hiduwami
+fly (v.): madabi
+fly (v.): mada-(bi)
+foot: hana
+forest: havo
+four: mamaihi
+full: ogoma hagape
+full: ogoma hagápe
+give: mogunago ma
+give: mogunago ma
+good: (ba)hato
+good: ßaháto
+good: vaháto
+green: begáma
+green: begáma
+hair: u
+hair: ú
+hair: u-u
+hand: hana
+head: ábe ~ a͂bɛ͂
+head: abi
+head: óbeabe
+hear: tel(te) mugiarati
+hear: té ~ tɛ́ mugiarati
+heart: mámo
+heart: mámo
+he/she: wo
+he/she: wo
+hit: iahi
+horn: mahá
+horn: mahá
+house: aho
+I: fo
+I: geta
+I: wó ~ ßó
+I: wó/vo
+kill: mairupi
+kill: mairupi
+knee: époi ~ aípoi
+knee: époil aípoi
+know: o moróne
+know: o moroné
+leaf: héne
+leaf: hɛ́nɛ
+leaf: peha
+leg: bawho
+leg: tepére
+leg: tɛpɛ́re
+lie: máni
+lie: máni
+lip: imutupo
+liver: líya
+liver: liyá
+liver: mumwi
+long: debe yége
+long: dɛbe yɛ́ge
+louse: raika
+louse: ?raika
+louse: ? wáni
+louse: wáni
+louse: wanimi
+man: anime
+man: animɛ
+man: gibi
+many: máhine
+many: máhine
+many: ron\oni
+meat: tope
+meat: topé
+moon: ubiyn
+moon: ußiyń
+moon: uvia
+mosquito: nanigemi
+mother: aigi
+mountain: núa
+mountain: nu͂Úa͂
+mouth: imutúpu
+mouth: imutúpu
+mouth: tata
+name: higá
+name: higá
+navel: dumawni
+neck: hó ~ hɔ́ ~ hóʔo
+neck: hólhó/ho\o
+neck: moga
+new: ahó gáro
+new: ahó gáro
+night: bápo
+night: bápo
+night: mudumo
+nose: bahí
+nose: dahi
+nose: dehí
+not: kaumáni
+not: kaumáni
+one: dápo
+one: dápo
+person: hanemy´n
+person: hanemyń
+rain: wúha
+rain: wúha
+rat: genho
+red: ípamu
+red: ipámu
+river: arugi
+river: awromo
+road: nábe
+road: náße
+road: navi
+root: de-tiki
+root: titi
+root: tití
+round: aupóimera
+round: aupóimɛra
+sand: bïó
+sand: ßió
+say: démóopoi
+say: démóopoi
+seed: de ane
+seed: de ane
+see: te muterati
+see: te mutɛrati
+shoulder: awda
+shoulder: beno
+sister: ñïmi
+sit: máni
+sit: máni
+skin: kapuni
+skin: oípo
+skin: oipó
+sleep: téno
+sleep: tɛ́no
+small: bóne
+small: bónɛ ~ bóne
+smoke: ahúto
+smoke: ahúto
+snake: nei
+spit: pau-u
+stand: témo riate
+stand: temo riate
+star: opópo
+star: opópo
+star: opopu
+stone: méno
+stone: mɛ́no
+sun: hivé
+sun: nißɛ́
+swim: manohi
+swim: manohi
+tail: gaho ihyó
+tail: gaho ihyó
+that: anóto
+that: anóto
+they: ni\i
+they: niʔi
+they two: ?me͂a͂hi
+they two: meã hi
+this: aha norobo
+this: aha norobo
+thou: nõ
+thou: no͂Ú ~ nɔ͂Ú
+thou: ro
+thou: wawno
+three: mepa
+throat: ba-po\ole
+tongue: ãhã
+tongue: a͂Úha͂
+tongue: haha
+tooth: ta
+tooth: tá
+tooth: tapi
+tree: dé
+tree: dɛ́
+tree: de-i
+two: mehi
+two: meyahi
+two: mɛ͂ya͂hi
+walk: ubá
+walk: ubá
+wallaby: damuha
+warm: ba báto
+warm: ba báto
+water: ógo
+water: ógo
+we (incl.): ni
+we (incl.): ni͂Ú
+we: nĩ
+we two (incl.): ?ßonino
+we two: vo ni no
+what: ai/ae
+what: a͂i͂ ~ a͂e͂Ú
+white: arúma
+white: arúma
+who: ßa hai
+who: va hai
+wife: numuanumu
+wind: kavaia
+woman: anumu
+woman: anumu
+woman: ivawri
+yellow: rakorako
+yellow: rako-rako
+you: ro
+you two: ?me͂a͂hi
+you two: meãhi

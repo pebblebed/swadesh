@@ -1,0 +1,315 @@
+all: kopëpwoi\
+all: korəpwoɪʔ
+arrow: wopiʔ
+ashes: i-tokwi\
+ashes: i-tokwiʔ
+back: kunë\
+back: kunəʔ
+bad: nëmbëra\
+bad: nəmbəraʔ
+bark: kawulira
+bark: kawu-lira
+belly: arie\
+belly: arië\
+belly: arieʔ ~ ariəʔ
+big: rangë\
+big: rangəʔ
+bird: tatë\
+bird: tatəʔ
+bite: bäräri
+bite: bäräri
+black: mëgidu\
+black: məgiduʔ
+blood: wëliro\
+blood: wəliroʔ
+bone: kwëdidu\
+bone: kwədiduʔ
+boy: aredu\
+boy: areduʔ
+breast: tutu\
+breast: tutuʔ
+brother: apë\
+brother: apəʔ
+burn: irinilëli
+burn: irɪniləlɪ
+cassowary: kwa(y)l\
+child: aritëkwira\
+child: aritəkwiraʔ
+chin: rakətorɪʔ
+chin: rakë-tori\
+claw: (tatë) kërëpola\
+claw: (tatə)kərəpolaʔ
+cloud: nase(mo\)
+cloud: nase(moʔ)
+cold: mëwo\
+cold: məwoʔ
+come: ritario\
+come: ritarioʔ
+dance: sëwë\
+day: paipərɪ
+day: papëri
+die: tapwitərɪʔ
+die: tapwitëri\
+dog: mëwu\
+dog: məwuʔ
+drink: pwio
+drink: pwio
+dry: fufuri
+dry: φuφuri
+ear: putäni
+ear: putäni
+earth: bukwae\
+earth: bukwaeʔ
+eat: taiyälio
+eat: taiyärio
+eat: taiyärioʔ ~ taiyälioʔ
+egg: tuwëro
+egg: tuwəroʔ
+elbow: amukëro\
+elbow: amukəroʔ
+emu: kwa(y)lʔ
+eye: u\
+eye: uʔ
+fall: geperarëlio
+fall: geperarəlɪo
+father: ayäʔ
+father: ayä\
+fat (n.): wëliëro\
+fat (n.): wəliəroʔ
+feather: tipiru\
+feather: tɪpiruʔ
+finger: amekëbu\
+finger: amekëpu\
+finger: amekəpuʔ ~ amekəbuʔ
+fire: i\
+fire: iʔ
+fish: rëwi
+fish: rəwi
+five: ifu\
+five: iφuʔ
+fly (v.): pərarəlɪ
+fly (v.): përarëli
+foot: kuri
+foot: kuri
+forehead: këli\
+forehead: kəliʔ
+four: knwuwari\
+four: knwuwariʔ
+full: mui\
+full: muiʔ
+girl: ëtamodu\
+girl: ətamoduʔ
+give: fana(y)o\
+give: φana(y)oʔ
+good: wërira\
+good: wəriraʔ
+green: (w)usèridu\
+green: (w)usɛriduʔ
+hair: wutißi
+hair: wutivi
+hand: ame\
+hand: ameʔ
+head: ipora
+head: ipora
+heart: inëku\
+heart: inəkuʔ
+heavy: ritira\
+heavy: rɪtiraʔ
+he/she: itë
+he/she: itə
+hit: funërio
+hit: φunərɪo
+house: itɪʔ
+house: iti\
+I: ine\
+I: ineʔ
+kill: balälio
+kill: balälio
+knee: tëmairo\
+knee: təmairoʔ
+know: ramèdio
+know: ramɛdio ~ ramɛlio
+know: ramèlio
+laugh: gëreo
+laugh: gəreo
+leaf: dëfu\
+leaf: dəφuʔ
+leg: kwënëpo\
+leg: kwənəpoʔ
+lie: durara\
+lie: turare\
+lie: turareʔ ~ duraräʔ
+liver: ridu\
+liver: riduʔ
+long: wëmëru\
+long: wəməruʔ
+louse: yäpiʔ
+louse: yäpi\
+man: dopwai\
+man: lopwai\
+man: lopwaiʔ ~ dopwaiʔ
+man: ndupway
+many: masëmbi
+many: masəmbi
+meat: rëmorë\
+meat: rəmorəʔ
+moon: wësi
+moon: wəsi
+morning: dëputa
+morning: dəputa ~ ləputa
+morning: lëputa
+mother: miyäʔ
+mother: miyä\
+mountain: apunè\
+mountain: apunɛʔ
+mouth: rako\
+mouth: rakoʔ
+neck: aikwo\
+neck: aikwoʔ
+new: riɪʔ ~  riyɪʔ
+new: ri(y)i\
+night: kəriɪʔ
+night: kërii\
+nose: tipu\
+not: kafani\
+not: kaφanɪʔ
+not: kəriɪʔ
+not: kërii\
+old: inësake\
+old: inəsakeʔ
+old: mëti\
+old: mətiʔ
+old: muma\
+old: mumaʔ
+old: nëpwë-sake\
+old: nəpwəsakeʔ
+one: mëmo\
+one: məmoʔ
+person: dëpwai\
+person: dəpwaiʔ
+rain: aro\
+rain: aroʔ
+rat: uräʔ
+rat: urä\
+red: məßipəʔ widu
+red: mëvipë\ widu
+road: usädi
+road: usädi ~ usäli
+road: usäli
+root: (këwë)n.giya
+root: (kəwə)ngiya
+round: wëpinè\ (?)
+round: wəpinɛʔ
+sand: wëpinè\ (?)
+sand: wəpinɛʔ
+say: unëkëkëneo
+say: unəkəkəneo
+seed: kəwuwarɪʔ
+seed: këwu-warï\
+see: ßɪta(y)oʔ
+see: vita(y)o\
+short: tarira\
+short: turira\
+short: turɪraʔ ~ tarɪraʔ
+shoulder: ambëti\
+shoulder: ambətiʔ
+sister: atëda\
+sister: atədaʔ ~ atəlaʔ
+sister: atëla\
+sit: damäri
+sit: damäri ~ lamäri
+sit: lamäri
+skin: lido\
+skin: lilo\
+skin: liloʔ ~ lidoʔ
+sleep: duraio\
+sleep: duraioʔ
+small: tëkwiro\
+small: təkwiroʔ
+smoke: upu\
+smoke: upuʔ
+smoke: yi
+smoke: yi
+snake: ti(y)aßeʔ
+snake: ti(y)ave\
+spit: tuφuruo
+stand: puləʔräri
+stand: pulë\räri
+star: limafu\
+star: limaφuʔ
+stick: kafani\
+stone: ti\
+stone: tiʔ
+sun: liyë\
+sun: liyəʔ ~ liyɪʔ
+sun: liyi\
+swim: dəpualɪo
+tail: kumoru\
+tail: kumoruʔ
+take: bäräelio
+that: piso\
+that: pisoʔ
+they: gipopë\
+they: gipopəʔ
+they two: munëo\
+they two: munəoʔ
+this: tëmënggo
+this: təməŋgo
+thou: itəpəoʔ
+thou: onë\
+thou: onəʔ
+three: kawulira
+three: kawulira
+tomorrow: këtu\
+tomorrow: kətuʔ
+tongue: dië\
+tongue: diəʔ ~ diyɪʔ
+tongue: diyi\
+tooth: nënë\
+tooth: nini\
+tooth: nɪnɪʔ ~ nənəʔ
+tree: këwu\
+tree: kəwuʔ
+two: arë\
+two: arəʔ
+walk: wəraräʔ
+walk: wërarä\
+walk: φɪφinənərɪo
+wallaby: wëifo\
+wallaby: wəiφoʔ
+warm: ikipa\
+warm: ikipaʔ
+water: wëli
+water: wəli
+we (excl.): inəpəäʔ
+we: inëpëä\
+wet: apunè\
+wet: apunɛʔ
+we two (excl.): unəwnipəoʔ
+we two: unëwnipëo\
+what: wopi\
+what: wopiʔ
+when: itɪʔ
+when: iti\
+where: bukwae\
+where: bukwaeʔ
+white: konambëru
+white: konambəru
+who: aikëpa\
+who: aikəpaʔ
+wind: fufuri
+wind: φuφuri
+wing: (tatë)tipira\
+wing: (tatə)tɪpiraʔ
+woman: enari
+woman: enari
+wood: kaφanɪʔ
+yellow: sukwëridu\
+yellow: sukwəriduʔ
+yes: paipərɪ
+yes: paipëri
+yesterday: təworɪʔ
+yesterday: tëwori\
+you: itëpëo\
+you two: ërëo\
+you two: ərəoʔ

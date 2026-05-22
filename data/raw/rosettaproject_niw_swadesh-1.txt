@@ -1,0 +1,346 @@
+all: wafu siëpeih
+all: waφu siəpeih
+arm: inʌ
+arm: inë
+arrow: na
+arrow: na
+ashes: peyi
+ashes: peyi
+ashes: tanisouk pëyësi
+ashes: tanɪsouk pʌyʌsi
+back: ateyami
+back: ateyami
+back: ateyami
+back: ateyëmi
+back: nëmi
+bad: fesëku
+bad: φesəku
+bad: φesʌku
+bark: a-tëbõ
+bark: atəbɔ͂
+belly: panʌ
+belly: panʌ
+belly: panë
+big: huauh
+big: huauh
+big: huauh
+bird: uë
+bird: uə
+bird: wʌ
+bird: wë
+bite: fra-
+bite: φra-
+black: pri
+black: pri
+black: pri
+blood: iwʌ
+blood: iwë
+blood: iwə
+bone: mi
+bone: mi
+bone: mi
+boy: nò
+boy: nɔː
+breast: nò
+breast: nɔ
+breast: nɔ
+brother: auwa
+brother: auwa
+brother: au wa
+brother: au wa
+calf: fëri
+calf: φəri
+calf: φʌri
+cassowary: awani
+child: arua so
+child: arua tai
+child: aruwa
+child: aruwa
+child: aruwa rapontai
+child: aruwa rapontai
+chin: ami
+chin: ami
+chin: ami
+claw: frëpi
+claw: φrəpi
+cloud: kakri
+cloud: kakri
+cloud: kakri
+come: nò momowamo
+come: nɔ momowamo
+come: nɔ momowamo
+crocodile: sirapi:
+crocodile: sirapi:
+crocodile: sirapih
+crocodile: sirapih
+day: susuwauwò
+day: susuwauwɔ
+dog: au
+dog: ʔau
+dog: ʔau
+dry: asi sië
+dry: asi siə
+ear: ò
+ear: ɔ
+ear: ɔ
+earth: isiː
+earth: isih
+earth: isi(h)
+eat: pano
+eat: pano
+eat: pa-no
+egg: i
+egg: i
+egg: i
+elbow: në-tu
+elbow: nətu
+elbow: nʌtu
+emu: awani
+emu: awani
+eye: mo
+eye: mo
+eye: mò
+eye: mɔ
+father: apòuk
+father: apɔuk
+father: apɔuk
+feather: wë-so
+feather: wəso
+finger: inë-mò
+finger: inəmɔ
+finger: inʌmɔ
+fire: ta
+fire: ta
+fire: ta
+fish: le
+fish: le
+fish: le ~ re
+fish: re
+fish: re
+five: nomu
+five: no͂mu
+foot: fëri
+foot: humë
+foot: humə
+foot: φʌri
+forehead: nòmi
+forehead: nɔmi
+forehead: nɔmi
+four: eyɨ
+four: eyɨ
+four: eyï
+girl: nia͂
+girl: niã
+give: pa nò
+give: pa nɔ
+good: wëresi:
+good: wëresih
+good: wəresih
+good: wʌresi:
+hair: (\ami-)so
+hair: (ʔami)so
+hair: ʔami-so
+hand: inʌ
+hand: ina
+hand: inë
+head: ami
+head: ʔami
+head: ʔami
+heart: mëri
+heart: məri
+heart: mʌri
+he/she: tu
+he/she: tu
+house: nuna
+house: nuna
+house: nuna
+I: e
+I: e
+knee: imʌbuwo
+knee: imebuwo
+knee: imebuwo
+knee: imëbuwo
+leaf: asò
+leaf: asɔ
+leaf: asɔ
+lie: o͂sih
+lie: õsih
+liver: te
+liver: te
+liver: te
+long: kaku
+long: kaku
+louse: amiò˜
+louse: amiɔ͂
+louse: amiɔ͂
+man: no:
+man: nɔː
+man: nɔː
+many: wafu
+many: waφu
+meat: no
+meat: no
+meat: no
+moon: imë
+moon: imə
+morning: sòmi
+morning: sɔmi
+mosquito: wa͂
+mosquito: wa͂
+mosquito: wã
+mother: anouk
+mother: anɔuk
+mother: anɔuk
+mountain: you
+mountain: you
+mountain: you
+mouth: itabò
+mouth: itabɔ
+mouth: itabɔ
+nape: nëpërëba
+nape: nʌpʌrʌba
+neck: notafa
+neck: notaφa
+new: i tamʌ
+new: (i) tamë
+new: tamʌ
+new: tëbò˜frësih
+new: təbɔ͂ φrəsih
+night: pimi
+night: pimi
+night: pimi
+nose: imë
+not: pa
+not: pa
+not: pa
+old: (i) waih
+old: i waih
+old: nia͂ waih
+old: niã waih
+old: nò waih
+old: nɔː waih
+old: təbɔ͂ pesʌ
+old: tëbò˜ pesë
+one: sië-esë
+one: sië ësë
+one: siə əsə
+one: siʌesa
+rain: sʌ
+rain: së
+rain: sə
+rat: teifë
+rat: teiφə
+red: fira
+red: φira
+road: arih
+road: arih
+road: aril
+road: ?aril
+root: atiti
+root: atiti
+root: a-titi
+sand: upwei:
+sand: upwei:
+sand: upweih
+sand: upweih
+seed: abuma
+seed: a-buma
+short: poutai
+short: poutai
+shoulder: nëmami
+shoulder: nəmami
+shoulder: nʌmami
+sister: nawa͂i͂:
+sister: (na)wãi˜
+sister: nawa͂i͂h
+sister: wa͂i͂
+sit: pësiau
+sit: pəsiau
+sit: sësiau
+sit: sʌsiau ~ pʌsiau
+skin: abu
+skin: abu
+skin: abu
+small: tëpontai
+small: təpontai
+small: tʌpontai
+smoke: mani-ta ~ tawouk
+smoke: monita
+smoke: monita
+smoke: tawouk
+smoke: ta-wouk
+snake: nòu
+snake: nɔu
+snake: nɔu
+stand: pëtëratu
+stand: pətəratu
+stand: pʌtʌratu
+star: amò
+star: amɔ͂
+star: amɔ͂
+stick: a-bòwa
+stone: tëpei
+stone: təpei
+stone: tʌpei
+sun: u
+sun: u
+tail: nikou
+tail: nikou
+tail: nikou
+they two: ti
+they two: tiː
+thou: ni
+thou: ni
+three: tò:tò(:)
+three: tɔːtɔ
+three: tɔː tɔː
+tomorrow: awena
+tomorrow: awena
+tongue: isa:pe
+tongue: isaːpe
+tongue: isaːpe
+tooth: i
+tooth: i
+tooth: i
+tree: a
+tree: a
+tree: a
+two: ti:
+two: tiː
+two: tiː
+walk: sanʌ
+walk: sanʌ
+walk: sanë
+walk: sekənə mɔːna
+wallaby: paki
+wallaby: paki
+wallaby: paki
+water: wi
+water: wi
+water: wi
+we (excl.): ore sire
+we: ore sire
+wet: pësi ku
+wet: pəsi ku
+we two (excl.): e ni
+we two: Qe ni
+white: fomuwo
+white: φomuwɔ
+white: φomuwɔ
+wind: umëni
+wind: uməni
+wind: umʌni
+wing: nounʌ
+wing: nounë
+wing: nounə
+woman: nia͂
+woman: niã (nò)
+woman: nia͂ (nɔ)
+wood: abɔwa
+yesterday: fowe
+yesterday: φowe
+yesterday: φowe
+yes: wëresih
+yes: wəresih
+you two: w-ëti
+you two: wəti

@@ -1,0 +1,535 @@
+all: wulayi
+all: wulgulya
+animal: yiɟa
+ankle: guṇḍi
+ankle: ŋaraŋgaḷɲin
+arm: ṇuŋguṇa
+arm: wumuninɟi
+arm: wunuŋgu
+ashes: buḷŋu
+ashes: wubulŋo
+back: ɟanda
+back: malir
+back: marulbu
+back: marulbu
+back: mundur
+bad: nagarw̄uḷmain
+bad: wirɟu
+bark: ɲaḍin
+bark: wuyulwai
+because: aru
+belly: mala
+belly: ŋanɟa
+belly: ŋanɟa
+belly: wuŋanɟa
+big: balwayi
+big: nabalwayi
+big: ɹ̣uŋgal
+bird: aṛayi
+bite: ɟag
+bite: gal-ɟa-
+bite: ḷir
+bite: liri\ŋaiaŋani
+bitter: balgiɲ
+bitter: wubalgi
+black: nawagwag
+black: waŋguraɲɟa
+blood: maŋuliɟ
+blood: ŋuliɟi
+blow: bo ŋamini
+blow: weabani
+bone: muḷiriɲ
+bone: ŋayigan
+bone: wuŋaɹ̣aga
+bone: wuŋaṛaga
+boy: namaɲagu
+boy: namanur
+boy: waḷya
+branch: maɹ̣baɹ̣ba
+branch: ṇuŋguṇa
+branch: wumalbaṛba
+breast: wambibi
+breathe: ŋiɹ̣
+breathe: ŋir\ŋiŋamani
+brother: -ɹ̣aga
+brother: ŋaniṛaga
+brother: ŋawa\i
+brother: -wayi
+burn: ɟaḍɟaḍ
+burn: anaŋimani
+burn: bu
+burn: dain ŋurgi
+burn: guṇiɟ
+burn: -naŋi-
+burn: ŋanaŋ\ŋimani
+calf: nduru
+cheek: wuguḷman
+chest: maḍaŋar
+chest: ṇaɹ̣uma
+chest: wuruma\ŋini
+child: abaḍaḍa
+child: baḍaḍa
+chin: wuɟawanda
+cloud: mala
+cloud: wumala
+cold: dog ŋaraya
+come: yaː ŋarani
+correct: gunadiṛ\diṛ
+crocodile: abaɟaŋi
+crocodile: ḍaḍaɟara
+crocodile: ṇaŋguru
+crocodile: waḷaɟandama
+cut: ɟar
+cut: galg-ɟa-
+cut: -ilama-
+cut: lar ŋagini
+cut: luru ŋagaia
+dark: -mugami
+dark: waŋguraɲɟa
+daughter: ŋaniɟa
+day: marɟaŋaŋa
+day: wururgmirargmin
+die: ŋaba
+die: ŋabaɹ̣
+die: ŋabaṛami
+die: ŋambul\ŋagaɲi
+die: ṛamamini
+dig: gaḷ
+dig: galg ŋidaŋani
+dig: ɲil
+dig: ŋur
+dirty: buɹ̣ŋguɹ̣
+dirty: gugarayara
+dog: awuŋgan
+dog: garwiɹ̣i
+dog: wuŋgan
+drink: guḷ
+drink: gul ŋaɟani
+dry: bunɟi
+dry: wuṛugu
+ear: maganam
+earth: wanbaḷgur
+earth: wanbaḷgur
+ear: wanam
+eat: -ŋa-
+eat: ŋaŋamani
+egg: waɹ̣ugu
+egg: wawad̪ugu
+egg: wulaba
+elbow: murunɟi
+elbow: wumíruɟi
+emu: ŋiwurugain
+emu: ŋi-wurugan
+emu: wuragayin
+eye: ɟaminɟamin
+eye: mamaguɹ̣
+eye: mamaguṛ
+eye: ŋaral(ba)
+face: maguɹ̣
+face: mamaguṛ
+fall: ḍalag
+fall: dalag ŋinaɟi
+fall: yar
+father: -baba
+father: ŋababa
+fat (n.): ɹ̣aŋaɟba
+fat (n.): ɹ̣aŋaɟba
+fat (n.): maŋaiɟba
+fear: yaguḷ
+fear: yagul\ ŋaɟanu
+fear: yagul\ŋaɟanu
+feather: aṛaman
+few: muluŋuy
+few: murgu
+few: wulumurgu
+fight: -ɟanayaɟima
+fight: ṛaŋga gaiimani
+fingernail: -ɹ̣aba
+finger: wiyin\ma
+finger: wumaṛbur
+fire: ŋambur
+fire: wuŋambar
+fish: awalaɲan
+fish: ŋuṇu
+flower: wurugugu
+fly (n.): awamun
+fly (n.): awamun
+fly (n.): guṇḍil
+fly (v.): bunɟi
+fly (v.): di waṛani
+fog: wunurunuru
+foot: wiyin\ma
+foot: yidma
+forehead: ɟanamba
+forehead: maguɹ̣
+forehead: wumiḷindi
+forest: ŋalaŋin
+forest: wuyúliba
+full: labalabaia
+full: yur biŋuḷabalabaia
+girl: maḷamaḷaba
+girl: ŋimaɲagu
+girl: ŋiwarangar
+give: -wa
+give: -wi-
+good: gabaɟa
+good: -rirmul
+good: -ɟurumbul
+grass: wiɟi
+grass: wuwiɟi
+green: -gulgul
+hair: ma(mudur)
+hair: mudurmudur
+hair: ŋulumurun
+hand: maba
+hand: maɹ̣bur
+hand: murɟi
+hand: wumaṛbur
+head: gululu
+head: maraŋuɹ̣u
+head: wadamuru
+head: wirɟu
+head: wugululu
+hear: -gaia-
+hear: -gayama
+hear: -gayama
+heart: bulbul
+heart: ŋiɹ̣ŋiɹ̣
+heart: wulbulbul
+hear: wiɹ̣
+hear: wiɹ̣
+hear: -wini
+heavy: guḷgmin
+heavy: (wu)walbwayin
+he/she: agi
+he/she: agi
+he/she: (ɹ̣)iwa
+he/she: miwa
+he/she: ŋadba
+he/she: ŋiwa
+he/she: niwa
+he/she: ṇiwa
+he/she: wiwa
+hit: ɹ̣aŋ
+hit: -ba-
+hit: ṛaŋ ŋagini
+hold: dil\ ŋidaŋani
+hole: yilba
+house: wubaḍan
+hunt: ɟaŋgai ŋara
+husband: -liŋali
+husband: ŋabuɟin
+I: ŋiŋa
+I: ŋiŋa
+I: ŋini
+jaw: ɟawal
+jaw: ŋayala
+kangaroo: agirmo
+kangaroo: mulbia
+kill: ɹ̣aŋ
+kill: gal\ ŋaɟa
+knee: ŋaɹ̣aŋaɹ̣a
+knee: wumiḍimal
+know: -wabal
+know: yalya
+lake: buliɟiḍimiɲga
+lake: ŋaɟal
+lake: wuŋargu
+laugh: wirg ŋarani
+leaf: ɹ̣imbir
+leaf: wularin
+left: wubalɟagu
+leg: arawur
+leg: ndula
+leg: yabara
+leg: yula
+lie: gula-ŋaw
+lie: mulg ŋiŋa
+lightning: miṇimgani
+lightning: yaminɟi
+lip: wuŋaːndal
+live: ŋad
+liver: waḍuwaḍu
+liver: wu(waḍu)
+live: wainma
+long: gudayi
+long: -rulgara
+long: ɹ̣ugalara
+long: ɹ̣ugalara
+man: nɟalguyi
+man: ṇaŋgiwar
+man: nawaɹ̣iyi
+man: nawaṛiyi
+man: waḷya
+many: maḷgayayi
+many: nɟaɹ̣i
+many: wulunɟari
+meat: ɟalbiɟ
+meat: wangubi
+meat: wangubi
+meat: wuwalŋi
+meat: wuwangubi
+moon: na(daŋa)
+moon: nadaŋadaŋa
+moon: waḍaŋarin
+morning: miŋaiɲiɲia
+morning: ŋiliŋiliwayi
+morning: yara\bani
+mosquito: amula
+mosquito: a(wuna)
+mosquito: muḷa
+mother: -bibi
+mother: -gara
+mother: -yibi
+mountain: -ḷiŋḷiŋ
+mountain: maligar
+mountain: maligar
+mouth: ŋaṇḍal
+mouth: wuŋaːndal
+name: ɲiyin
+name: wuɲi\ingu\agi
+nape: ndagi
+nape: wiyagi\
+navel: mamala
+near: digai
+near: ḍigay
+neck: biḷbar
+neck: wiyagi\
+new: -ɟaminɟi
+night: ṇamiri
+not: gu
+not: wuyagu
+old: -gudar
+old: ṇa-ɟawulba
+old: naɟawulba
+old: ŋi-ɟawulba
+one: -waŋgin
+other: mawurgayi
+other: -waiara
+person: nawariyi
+person: waɹ̣iyi adj
+play: gaɹ̣
+play: garu ŋamama
+pull: ɟaɹ̣
+push: ɟuḷuḷu
+rain: gubiɟiɟi
+rain: ŋinɟula
+rain: nɟuḷa
+rat: a(buṛud)
+red: baruwa
+red: buḍilbuḍil
+red: -gilwirmain
+right: wudunbur
+ripe: dunburbugi
+ripe: gabul
+ripe: maramara
+river: balba
+river: gabɔlami
+river: wubalba
+road: maŋgaṇ
+road: wiyin\ma
+road: yilgiṇ
+root: maligar
+root: muṇḍa
+rope: maiibar
+rope: mamunda
+rope: ŋaḍugu
+rotten: maŋaḍugu
+round: duɲul ami
+rub: wala\mayin
+rub: wur
+salt: miṇiɟar
+sand: guɟan
+sand: wuguɟan
+say: ŋaḷ
+say: ŋaḷ\ŋamamani
+scratch: garɟ
+scratch: wiɹ̣ɟ
+scratch: yai ŋabani
+sea: malaban
+sea: ma(luru)
+seed: ŋaralba
+seed: wuŋaralba
+see: waɹ̣
+see: waɹ̣
+see: waṛ\ ŋawindimani
+sharp: -mandarara
+short: babŋalan
+short: -rirmul
+shoulder: ayawiḷi
+shoulder: ŋabaḷa
+sing: war
+sing: war ŋagini
+sister: -daga-
+sister: -daga-
+sister: ŋandaga
+sister: ŋandala
+sit: ḍaɟ
+sit: -malɟuɹ̣a
+sit: -nani
+skin: ɲaḍin
+skin: warála räiɟa
+skin: wawarála
+sky: wugunduru
+sleep: mulg
+sleep: mulg aɟani
+small: -maɲagu
+small: maɲagu
+small: yigu
+smell: ŋarg ŋaia
+smell: ŋgarwa
+smell: ɲuŋ-ra-
+smell: yumar
+smoke: ṇḍuḷar
+smoke: wundular
+smooth: wumuɲur
+snake: awaiwai
+snake: wayway
+son: ŋaniɟa
+spit: guɹ̣guɹ̣
+spit: nɟagaɹ̣
+stand: bai ŋaɟani
+stand: bay
+star: diliŋa
+star: gamirinɟi
+star: ŋigamirinɟi
+stone: ḷigar
+stone: maligar
+stone: maḷigar
+stone: manuga
+stone: wubalba
+straight: dunbur
+straight: maṇɟurɟur
+suck: ɟi ŋgaɟani
+sun: ŋinguŋaru
+sun: ŋinguŋaru
+sun: warŋiwarŋi
+sweet: bunɟi
+sweet: ŋulawar
+sweet: wubunɟi
+sweet: wuŋulaːwar
+swim: ŋɔi\ ŋaṛani
+swim: ŋuy
+tail: ɹ̣abara
+tail: maɟigur
+tail: nɟigur
+take: -ga-
+take: gur
+take: gur\ŋidaŋani
+take: -wagini-
+that: -ni
+that: -niɲi
+that: -wa
+there: -dɲaya
+there: wuniɲi
+they: alagi
+they: (ɹ̣)iwa
+they: miwa
+they two: argi
+they two: (ɹ̣)iwa
+they two: miwa
+they two: wiwa
+they two: wurayi
+they: wiwa
+they: wudbur
+they: wulayi
+thigh: magaṇḍa
+thigh: yarbiɟ
+thin: -\(?)ɟirbirin
+think: gwaḍa ra ŋagini
+think: waḍara
+thin: wirɟu
+this: -niya
+thou: ɲigi
+thou: ɲiɲu
+thou: ŋudbur
+thou: ŋudugi
+three: yiriwudŋɔinagayi
+throat: biḷbar
+throat: mɛṛaɲu
+throw: diu ŋiɟa
+throw: ḍiw
+throw: ḍub
+thunder: gululami
+thunder: yaminɟi
+tie: ḍira
+today: nala
+today: ṇala
+tomorrow: ɟilgɲi
+tomorrow: ɟilɲi
+tongue: wuɟiyil
+tongue: wu-nɟiyilŋ
+tooth: ɹ̣aba
+tooth: wuguyuru
+tree: ḍabaliya
+tree: wiyulba
+tree: yulba
+turn: guɹ̣id-ga-
+turn: guɹ̣id-ra-
+turn: guṛidu ŋagiɲu
+turn: guṛin\ ŋiŋa
+two: wudŋoi
+unripe: gangima
+vagina: maḷabaŋu
+vagina: nɟaḷbar
+vomit: ŋaɟani
+vomit: wi
+walk: -ɹ̣a-
+walk: gi
+walk: ṇad
+walk: -ṛani
+walk: wari yaː ŋaraŋani
+walk: wuṛ\ŋabani
+wallaby: aŋargulambɛ
+warm: win ŋamaŋi
+wash: ḷib
+wash: lib ŋarani
+wash: lib -ŋarani
+water: ɟilbi
+water: ŋaḷaɟa
+water: wuŋalaɟa
+water: wuŋargu
+weep: ḷuḷ
+weep: lul\ŋamanani
+weep: ŋaral-ɟililiɟ
+we (excl.): ɲidbur
+we (excl.): ɲidigi
+we (incl.): ŋala
+we (incl.): ŋalagi
+wet: waɟa
+we two (excl.): ɲirayi
+we two (excl.): ɲirgi
+we two (incl.): ɲaɲa
+we two (incl.): ɲagi
+what: -ngaŋa
+what: wungaŋa?
+when: mala-wunga
+when: wumalawungu?
+where: wu-ngiŋa
+where: wungiŋa?
+white: -buralgmin
+white: maŋunga
+who: naŋani?
+who: ŋani
+wife: -buɟin
+wife: ŋabuɟi-
+wind: walulu
+wind: wuwálulu
+wing: wunuŋgu
+woman: ŋiwoibi
+woman: ŋiwuibi
+woman: wuybi
+wood: ḍabaliya
+wood: ḍabaliya
+wood: wiyulba wuṛugu
+wood: wuŋambur
+wood: yulba
+woomera: baḷya
+woomera: mabargu
+woomera: maŋgal
+woomera: wuɟula
+yellow: gilwir
+yellow: -waṛabmain
+yes: yoː
+you two: ŋurayi
+you two: ŋurgi

@@ -1,0 +1,461 @@
+arm: embe
+arm: ɛmbɛ
+arrow: gʌful
+ashes: hëmu
+ashes: hʌmu
+back: mokote
+back: mokotɛ
+bad: yër
+bad: yʌr
+belly: u:la
+belly: uːla
+belly: ula ɛmbɛkʌ
+belly: ula embekë
+belly: ula hunang
+belly: ula hunaŋ
+big: mëwi
+big: mʌwi
+bird: mungga
+bird: muŋga
+bite: -paken-
+bite: -pakɛn-
+black: ululumek
+black: ululumɛk
+blood: he:tu
+blood: hɛːtu
+blow: gume fi-
+blow: gumɛ fi-
+bone: genëp
+bone: gɛnʌp
+boy: hilev
+boy: hilɛv
+boy: tëvil
+boy: tʌvil
+breast: mi
+breast: mi
+brother: imʌ
+brother: imë
+brother: -mbëb
+brother: -mbʌß
+burn: gum-
+burn: gum-
+butterfly: mambu:mbu
+butterfly: mambuːmbu
+calf: alumunang
+calf: alumunaŋ
+cassowary: kë:ki
+chest: do:mun
+chest: doːmun
+child: hoßu
+child: hovu
+chin: henang gumba
+chin: hɛnaŋ gumba
+cloud: hetëim
+cloud: hɛtʌim
+cold: hësimbek
+cold: hʌsimbɛk
+come: bi-
+come: bi-
+crocodile: tuën
+crocodile: tuʌn
+cut: helimbik-
+cut: hɛlimbik-
+cut: himalm-
+cut: himalm-
+cut: huk-
+cut: huk-
+dance: uw-
+day: hetët
+day: ulëwëlna
+day: ulʌwʌlna
+die: um-
+dig: olulum-
+dig: olulum-
+dig: u:v
+dig: uːv
+dirty: tembik
+dirty: tɛmbik
+dog: eman
+dog: ɛman
+dry: elelekeba
+dry: ɛlɛlɛkɛba
+ear: imë:men
+ear: imʌːmɛn
+earth: ëlekë
+earth: ʌlekʌ
+eat: bikal(m)-
+eat: en-
+eat: ɛn-
+egg: minangk
+egg: minaŋk
+elbow: tukumang
+elbow: tukumaŋ
+emu: kʌːki
+excrement: imbu
+eye: mudënggumu
+eye: mudʌŋgumu
+face: semang genëng
+face: sɛmaŋ gɛnʌŋ
+fall: ok-
+fall: ok-
+fall: ok-
+fall: wal-
+far: halamun
+far: halamun
+far: holak
+far: holak
+father: -ta
+father: -ta
+fat (n.): hëvil
+fat (n.): hʌvil
+fear: bimbik-
+fear: bimbik-
+few: kowana
+few: kowana
+fight: galomb-
+fight: huk-
+fingernail: inggen
+fingernail: iŋgɛn
+finger: unen
+finger: unɛn
+fire: mundu
+fire: mundu
+fish: ombo aringgor
+fish: ombo ariŋgor
+fly (n.): dunduruk
+fly (n.): hëndoulung
+fly (n.): hʌndouluŋ
+fly (n.): unduruk
+fly (v.): selelek indi:v-
+fly (v.): sɛlɛlɛk indiːv-
+forest: hë:sin
+forest: hʌːsin
+fruit: ëruka
+fruit: ʌruka
+full: tanek
+full: tanɛk
+full: un-
+full: un-
+girl: tuëng
+girl: tuʌŋ
+give: -wʲ
+give: -wi-
+good: fek
+good: fɛk
+grass: se:wëp
+green: nenomo
+green: nɛnomo
+guts: ula ɛmbɛkʌ
+guts: ula embekë
+guts: ula hunang
+guts: ula hunaŋ
+hair: imi
+hair: imi
+head: ikwëk
+head: ikwʌk
+head: munumu
+hear: -huluw-
+hear: -huluw-
+heart: embe kaluka
+heart: ɛmbɛ kaluka
+heavy: pi:nan
+heavy: piːnan
+here: ovongga
+here: ovoŋga
+he/she: e-
+he/she: ɛ-
+he/she: ɛ-
+he/she: ø-
+he/she: wo
+he/she: wo
+he/she: wo
+he/she: wo-
+he/she: wo-
+he/she: wo-
+hit: galomb-
+hit: galomb-
+hit: huk-
+hit: huk-
+hold: buka-l-
+hold: bukal-
+hold: buka-ng-
+hold: bukaŋ-
+house: fʌ
+house: fë
+how: kelengkep
+I: e-we-
+I: ɛ-wɛ-
+I: i-
+I: i-
+in: isate
+I: y-
+I: y-
+I: ye
+I: yɛ
+kill: ulëm-
+kill: ulʌm-
+knee: (teke) më:mun
+knee: (tɛkɛ) mʌːmun
+laugh: helakal-
+laugh: hɛlakal-
+left: fëya
+left: fʌya
+leg: humba
+leg: humba
+lightning: momo law-
+lightning: momo law-
+liver: mumun
+liver: mumun
+long: eniën
+long: ɛniʌn
+louse: ɔːnʌ
+louse: o:në
+man: mande amun
+man: mande ende
+man: mandɛ ɛndɛ ~ amun
+man: nggëp
+man: ŋgʌp
+many: ilikil
+many: ilikil
+meat: nggus
+meat: ŋgus
+moon: nëkiëp
+moon: nʌkiʌp
+morning: pekindëk
+morning: pɛkindʌk
+morning: sumbëkia
+morning: sumbʌkia
+mosquito: mëmbusen
+mosquito: më:sen
+mosquito: mʌmbusɛn
+mosquito: mʌːsɛn
+mother: -imi
+mother: -imi
+mountain: hëmbin
+mountain: hʌmbin
+mouth: hɛmbɛl ʌːbu
+mouth: hembel ë:bu
+name: unim
+name: unim
+nape: huma (kete)
+nape: huma (kɛtɛ)
+navel: o:sok
+navel: ɔːsɔk
+near: halik
+near: halik
+neck: dë:gol
+neck: dʌːgɔl
+new: no:mu
+new: noːmu
+night: hëulu
+night: hʌulu
+nose: mbusik
+not: merep
+not: mɛrɛp
+old: hole
+old: hole
+old: këlen
+old: kʌlɛn
+one: tëko:lik
+one: tʌkoːlik
+pull: puka- huw-
+pull: puka- huw-
+rain: simbik
+rain: simbik
+rat: ënggi:neng
+rat: ʌŋgiːnɛŋ
+red: hetët
+red: hɛtʌt
+right: ende
+right: ɛndɛ
+ripe: bi:liv
+ripe: bumbusel
+ripe: bumbusɛl
+ripe: iːliv
+road: bele
+road: bɛlɛ
+root: ëkil
+root: ʌkil
+rope: gʌmboːsip
+salt: i:vel
+salt: iːvɛl
+sand: bang selep
+sand: beng erelëp
+sand: bɛŋ sɛlɛp
+say: hembe kal
+say: hɛmbɛ kal-
+say: -hengg-
+say: -hɛŋg-
+scratch: buka mangg-
+scratch: buka maŋg-
+sea: beng
+sea: bɛŋ
+see: haŋgiŋgo-
+see: -ngg-
+see: -ŋg-
+sharp: awera
+sharp: hekew-
+short: sukuw
+shoulder: hena
+shoulder: hɛna
+sing: indu wal-
+sister: bëwem
+sister: bʌwɛm
+sister: -imasay
+sister: -imasay
+sister: -imem
+sister: imɛm
+sit: bukʌ-
+sit: bukë-
+skin: huku
+skin: huku
+sleep: in-
+sleep: in-
+small: ho:wu
+small: hoːwu
+smell: induw-
+smoke: kë:wuk
+smoke: kʌːwuk
+snake: mɛːka
+snake: me:kë
+spit: huw-
+spit: së:piëk
+spit: sʌːpiʌk
+split: humbik-
+split: humbik-
+stand: fikirumbo-
+stand: gesi-
+stand: gesi-
+star: me:nggam
+star: mɛːŋgam
+stick: i:le
+stone: nomon
+stone: nomon
+straight: keinggen
+straight: keiŋgɛn
+sun: hëmu
+sun: hʌmu
+swell: hirim-
+swell: hirim-
+swell: huk-
+swell: huk-
+tail: helep
+tail: hɛlɛp
+tail: titum
+tail: titum
+take: ew-
+take: ew-
+there: indaungate
+there: indauŋatɛ
+they: e-
+they: ɛ-
+they: ike-
+they: ikɛ-
+they: wuk
+they: wuk
+they: wuk-
+they: wuk-
+thigh: nonggo:bu
+thigh: noŋgoːbu
+think: gembik-
+think: gɛmbik-
+this: ob
+this: ob
+this: oŋgʌ
+this: onggë
+thou: n-
+thou: n-
+thou: ne
+thou: ne-
+thou: ne-
+thou: nɛ
+thou: nɛ-
+thou: nɛ-
+thou: nik
+thou: nik-
+thou: nikɛ-
+thou: nu-
+thou: nu-
+throat: dënggel hena
+throat: dʌŋgɛl hɛna
+throw: mandiw-
+throw: mandiw-
+thunder: haula elekand-
+thunder: haula ɛlɛkand-
+tie: buka huw-
+tie: buka huw-
+tomorrow: ele
+tomorrow: ineng
+tomorrow: inɛŋ
+tongue: në:viëk
+tongue: nʌːviʌk
+tooth: henang
+tooth: hɛnaŋ
+tree: ɛlɛk
+tree: hɛna
+tree: nʌ
+tree: në
+turn: gilɛmbik-
+turn: gulembik-
+two: elep
+two: ɛlɛp
+vagina: i:mbe
+vagina: iːmbɛ
+vomit: milil-
+walk: ëk-
+walk: ëkav
+walk: indiw-
+walk: indiw-
+walk: ʌk-
+walk: ʌkav-
+walk: tutu ʌk-
+wallaby: sɔbolʌ
+wallaby: sobolë
+warm: hëleua
+warm: hʌleua
+wash: ombo si-
+wash: ombo si-
+wash: ombo siete-
+wash: ombo siɛtɛ-
+water: o:mbo
+water: ɔːmbɔ
+weep: om-
+weep: om-
+we: i-
+we: i-
+we: ike-
+we: ikɛ-
+wet: i:pas
+wet: iːpas
+we: yik
+we: yik
+we: yik-
+we: yik-
+what: miëya
+what: miʌya
+where: genate
+where: gɛnatɛ
+white: fua
+white: fua
+who: miʌ
+who: mië
+wind: nëmenëm
+wind: nʌmɛnʌm
+wing: manggar
+wing: maŋgar
+woman: mande menggem
+woman: mandɛ mɛŋgɛm
+woman: unen
+woman: unɛn
+wood: iːlɛ
+yellow: mesëwël
+yellow: mɛsʌwʌl
+yesterday: hinonëngna
+yesterday: hinonʌŋga
+yesterday: mindukënë
+yes: woa
+yes: woa
+you: ne-
+you: nik
+you: nik-
+you: nike-

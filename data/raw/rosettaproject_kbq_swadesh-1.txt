@@ -1,0 +1,355 @@
+all: mikaʔ
+arm: tokorote\a
+arm: tokoroteʔa
+arrow: kebe
+arrow: keve
+ashes: taʔnefaʔ
+back: (ä)mägena
+bad: häviya
+bad: hevizana
+bad: hevizana
+bark: akruʔa
+belly: (ä)rimpa
+belly: nerimpa
+belly: nerimpa
+big: ra
+big: rusiʔa
+big: tusi
+bird: näma
+bird: namai\
+bird: namaiʔ
+bite: (ne)mpri(a)
+black: ägänumpa
+black: haningke
+black: haniŋke
+black: hani(nkeʔ)
+blood: kora
+blood: kora
+blood: kora
+bone: neferina
+bone: neferina
+bone: yäferina
+boy: mofa vere
+boy: mofa vere
+boy: neʔ mofrave
+breast: ami
+breast: ami
+breast: ami(maʔa)
+brother: naganaso
+brother: naganaso (o.
+brother: (ne)mpu(ʔamoʔ)
+brother: nemupusu
+brother: nemupusu
+brother: y.)
+burn: (ne)re(a)
+calf: nedzia
+calf: nedzia
+cassowary: manani
+chest: nemimiya
+chest: nemimiya
+child: osiʔ mofrave
+chin: (ä)gemäyampa
+claw: (äya)nko
+cloud: hämpo
+cloud: koriempaʔna
+cold: yasiʔ
+come: eno!
+come: (ne)e(a)
+come: neue
+come: neue
+daughter: osesi\ mofa\nia
+daughter: osesiʔ mofaʔnia
+day: fera
+day: fera
+day: kinäga
+die: feri\ne
+die: feriʔne
+die: (ne)fri(a)
+dog: kəraʔ
+dog: kërá\
+dog: kra
+drink: (ne)ne(a)
+dry: ähu (huʔnea)
+dry: hoʔmu (huʔnea)
+ear: (ä)gesa
+ear: nagesa
+ear: nagésa
+earth: mofoa
+earth: mofoa
+earth: mopa
+eat: (ne)ne(a)
+eat: neue
+eat: neue
+egg: ämuʔ
+elbow: (äya) vuʔa
+emu: manani
+emu: mänani
+eye: (a)vuräga
+eye: noburuga
+eye: nobúruga
+fall: träka (ne)hi(a)
+father: na\fa
+father: naʔfa
+father: (ne)fa
+fat (n.): (ä)fovaʔa
+fat (n.): nehefova
+fat (n.): nehe\fova
+feather: (ä)yokaʔ
+finger: (ä)yafa
+fire: tebe
+fire: tebe
+fire: teve
+fish: noyaʔ
+fly (v.): hrenoʔ (ne)vi(a)
+foot: (ä)gia
+foot: nagamerumpa
+foot: nagame-rumpa
+forehead: (ä)seni
+forehead: naseːni
+forehead: nasé:ni
+forest: terámpingga
+forest: terampiŋga
+fruit: zaf araga
+fruit: zaf áraga
+full: vite(ʔnea)
+girl: mofaʔ
+girl: osesi\ mofa
+girl: osesiʔ mofa
+give: minue
+give: minue
+give: (nenä)mi(a)
+good: kanare\
+good: kanareʔ
+good: känarere
+green: yafasiʔnageʔ
+hair: (ä)yokaʔ
+hair: nazoka
+hair: nazoka
+hand: (ä)ya
+hand: nalagusa
+hand: nalagusa
+head: (ä)nu
+head: nage\nupa
+head: nageʔnupa
+hear: (ne)ntähi(a)
+heart: tumo(ʔa)
+heavy: käna (huʔnea)
+he/she: agara
+he/she: ä(gära)
+he/she: -i
+hit: heue
+hit: heue
+hit: (ne)he(a)
+horn: väyive(ʔa)
+house: no
+house: no
+house: no
+husband: nenabe
+husband: nénabe
+I: nagara
+I: nä(gära)
+kill: (ä)he(genoʔ nefria)
+knee: (ä)rena
+knee: narena
+knee: narena
+know: (ne)ntähi(a)
+laugh: kiya (nerea)
+leaf: (ä)niʔna
+leaf: zafa nina
+leaf: zafa nina
+leg: (ä)gia
+lie: mäse(ʔnea)
+lip: nagi\morena
+lip: nagiʔnireba
+liver: (ä)sumäna
+long: yanára
+long: yaya
+long: yaʔyare
+louse: hinamä
+man: ve
+man: vehe
+man: vehe
+many: mafäkaʔ
+many: makaʔ
+meat: (ä)meʔa
+meat: me\a
+meat: meʔa
+moon: ika
+moon: ika
+moon: ika
+morning: nänterane
+mother: änta
+mother: antako
+mother: antako
+mother: (ne)rera
+mountain: (ä)gona
+mountain: kona
+mountain: kona
+mouth: (ä)giʔ
+mouth: nagika
+name: (ä)gi(ʔa)
+name: negi(ʔa)
+name: negí(\a)
+nape: nagetu
+nape: nagetu
+neck: (ä)gena
+new: kähefaʔ
+new: käsefaʔ
+night: kenägere
+night: kenege
+night: kénege
+nose: nogóna
+not: aʔo
+not: o-
+old: koʔ
+old: oyafa
+old: peye
+old: tävava
+one: mägo(keʔ)
+one: nägokeʔ
+person: väheʔ
+rain: ko\
+rain: koʔ
+rain: koʔ
+rat: käfa
+red: kora-ngke
+red: koraŋke
+red: kora(nkeʔ)
+river: ti ru
+river: ti ru
+road: ka
+road: kuna
+road: kuna
+root: (ä)räfuʔna
+rope: kari
+round: tupo
+sand: äntama
+sand: käsepa
+say: miue
+say: miue
+say: (ne)hi(a)
+seed: (yafa)räga
+see: genoe
+see: ge\noe
+see: (ne)ge(a)
+see: negoe
+see: negoe
+short: tupa
+short: tupa
+short: upare
+shoulder: (ä)fu
+shoulder: (a)yoʔna
+shoulder: nezo\na
+shoulder: nezoʔnaorisate
+sister: nagana\nimo
+sister: naganaʔnimo
+sister: nuna(ʔamoʔ)
+sit: mäni(ʔne)ø(a)
+sit: meni\noe
+sit: meniʔnoe
+skin: (ä)vufäga
+sky: mona
+sky: mona
+sleep: mäse(ʔnea)
+small: onenaʔ
+small: onima
+small: onima
+small: osi
+small: osi
+small: osi
+smoke: ku
+smoke: (to)kiʔ
+snake: osifaʔve
+son: mofa vereni\a
+son: mofa vereniʔa
+spit: kugo (nehia)
+stand: oti(ʔnea)
+stand: otiue
+stand: otiue
+star: hanafi
+star: hänafi
+star: hanáfi
+star: ofu
+stick: azóhano
+stone: have
+stone: have
+stone: have
+sun: yäge
+sun: zege
+sun: zegé
+swim: (timpi) fre(no nevia)
+tail: (ä)risona
+take: musufa erinue
+take: musuf erinue
+take: nebue
+take: nebue
+that: äna
+they: -a
+they two: -a\
+they two: yanagara
+they two: yänä(gära)
+they: yamagara
+they: yämä(gära)
+thigh: namo\
+thigh: namoʔ
+this: amaʔne
+thou: kagara
+thou: kä(gära)
+thou: tamagara
+thou: tämä(gära)
+three: tägufa
+throat: nenángke
+throat: nenaŋke
+tomorrow: oki
+tongue: (ä)gänefuʔna
+tongue: neefuʔna
+tongue: negefu\na
+tooth: (ä)veʔ
+tooth: neve\
+tooth: neveʔ
+tree: yafa
+tree: zafa
+tree: zafa
+two: tare
+walk: (äga)r(enoʔ nevia)
+walk: korewue
+walk: vano (nehia)
+walk: vuo
+walk: vuo
+wallaby: kämintampa
+wallaby: veho
+warm: amuho (nehia)
+water: ti
+water: ti
+we: tagara
+we: tä(gära)
+wet: ti me(ʔnea)
+we two (incl.): täʔä(gära)
+we two (incl.): tatagara
+we two: -u\
+we: -un
+what: ina yupe
+what: naʔane
+when: ina yupe
+where: ine
+white: efeke
+white: efeke
+white: efekeʔ
+who: ayaʔe
+wife: are
+wife: are
+wind: yähoʔ
+wing: (ä)gekoʔna
+woman: aʔ
+woman: a\nene
+woman: aʔnene
+wood: yanara
+wood: yaya
+wood: yota
+yellow: kaninkru(keʔ)
+yes: oyo
+yesterday: aki
+you: -a
+you two: -a\
+you two: tanagara
+you two: tänä(gära)

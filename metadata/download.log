@@ -1,0 +1,15 @@
+  100/1229  {'done': 48, 'skip': 52, 'fail': 0}
+  200/1229  {'done': 147, 'skip': 52, 'fail': 1}
+  300/1229  {'done': 243, 'skip': 52, 'fail': 5}
+  400/1229  {'done': 342, 'skip': 52, 'fail': 6}
+  500/1229  {'done': 441, 'skip': 52, 'fail': 7}
+  600/1229  {'done': 541, 'skip': 52, 'fail': 7}
+  700/1229  {'done': 641, 'skip': 52, 'fail': 7}
+  800/1229  {'done': 740, 'skip': 52, 'fail': 8}
+  900/1229  {'done': 839, 'skip': 52, 'fail': 9}
+  1000/1229  {'done': 936, 'skip': 52, 'fail': 12}
+  1100/1229  {'done': 1032, 'skip': 52, 'fail': 16}
+  1200/1229  {'done': 1131, 'skip': 52, 'fail': 17}
+
+DONE: {'done': 1160, 'skip': 52, 'fail': 17} total_swadesh=1229
+Failures logged to C:\Users\kma\src\swadesh\metadata\download_failures.tsv

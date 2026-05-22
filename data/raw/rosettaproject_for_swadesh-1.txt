@@ -1,0 +1,233 @@
+all: aʔyaːʔma
+arrow: ire
+ashes: kagu
+back: (a)ka
+bad: aːta
+bark: ari
+belly: (a)ntaː
+big: anosaː
+big: tabe
+bird: kabaraʔ
+bite: (a)ba na(ye)
+black: tunuʔ
+blood: koraːʔ
+bone: (a)yaːmpu
+boy: anente
+boy: masi
+breast: nonoʔ
+brother: (a)gaː(nto)
+burn: kae(ye)
+burn: ta(ye)
+calf: gaine
+child: inaːmuʔ
+chin: (a)maːgiʔ
+claw: (ayaː)beso
+cloud: ibinaʔ
+cloud: iraːgi
+cold: esibaː (piye)
+cold: tani(tani ʔpiye)
+come: kana(ye)
+day: ataːmaiʔ
+day: yaga
+die: puri(ye)
+dog: karaː
+dog: kwaraː
+drink: na(ye)
+dry: aːsa (waye)
+ear: (a)geh
+ear: (a)genaː
+earth: ma
+eat: na(ye)
+egg: amuʔ
+elbow: (ai nk)aoʔ
+emu: amamaːniʔ
+eye: (a)o
+fall: (a)egu(ye)
+fall: aʔwareʔna(ye)
+father: (a)baː
+fat (n.): (a)paː
+fat (n.): masawe
+feather: (a)yaːʔ
+finger: moso
+fire: yakuʔ
+fish: inoyaːnta
+fish: tariʔ
+fly (v.): para(ye)
+foot: (a)gisaː
+forehead: (a)iʔne
+full: awaita(ye)
+full: pumau(waye)
+girl: araga
+give: (a)mi(ye)
+good: aogi
+good: kanaːraʔ
+green: yaːntaː
+guts: ntaːwe
+hair: (a)biyaːʔ
+hair: (a)raː
+hair: (a)yaːʔ
+hand: (a)yaːʔ
+head: (a)ʔno
+hear: (a)bi(ye)
+heart: (a)mako
+heavy: kuntaː (piye)
+he/she: ae
+he/she: a(ge)
+he/she: -iy
+hit: (a)egu(ye)
+hit: aruti(ye)
+horn: (a)gasunaː
+horn: (a)wa
+house: naːʔ
+house: naːmaʔ
+how: ayaː
+I: nae
+I: na(ge)
+I: -uw
+kill: (a)egu(yegina puriye)
+knee: (a)raː
+knee: (a)raːwoʔ
+know: (a)bi(ye)
+laugh: kagi (piye)
+laugh: kwagi (iye)
+leaf: anaː
+leaf: aʔyeʔ
+leg: (a)gisaː
+lie: wai(ye)
+liver: (a)uʔ
+long: eʔeroʔ
+long: yaːʔeroʔ
+louse: numaː
+louse: umaː
+man: wa
+many: aːtaru
+many: uwa(ena)
+many: uwomaʔ
+meat: (a)wase
+moon: oʔ
+morning: aːbayaː
+mother: (a)no
+mountain: amuʔ
+mouth: (a)waːmuʔ
+name: (a)ge
+neck: (a)nampi
+neck: (a)naʔmu
+new: aosoʔ
+new: ibaː(sa)
+new: kaːsaːʔ
+night: ase(kaːʔ)
+night: tare
+not: aːʔ
+not: aʔa
+not: kampa
+not: kampa
+old: aentaː
+old: anaːsa
+old: karenaː
+old: oyaːpaː
+old: pai(sa)
+old: pari(sa)
+one: kaːʔ
+one: kaːnoʔ
+person: kinaʔ
+person: wana
+person: wasana
+rain: aguwa
+rain: ka
+rat: umu
+red: tete
+road: keʔ
+root: aiʔana
+root: aubu
+round: abaru(so)
+round: aroguʔ
+sand: kepaː
+say: i(ye)
+say: kai(ye)
+say: si(ye)
+see: (a)ga(ye)
+seed: aːʔ
+short: aroʔ
+shoulder: (a)bo
+sister: (a)nona(nto)
+sit: (maraʔ) mi(ye)
+skin: (a)bare
+skin: (a)uʔ
+sleep: (a)uwai(ye)
+small: amanaʔ
+smoke: arabuntaʔ
+smoke: kunkaː
+smoke: kuntaː
+smoke: nampo
+snake: kuraː
+snake: kuyaː
+spit: kagai (naeguye)
+spit: kuʔmo (iye)
+stand: asi(ye)
+stand: asori(ye)
+star: imaːreya
+star: nori
+star: obu
+stone: ebaːʔ
+stone: yabaːʔ
+sun: paʔ
+swim: (wanipi) nasi(ye)
+tail: aːʔwa
+tail: (a)yaːwa
+that: piʔ
+they: -a:w
+they: i(ge)
+they two: -a:s
+they two: isi(ge)
+this: maːʔ
+thou: -a:n
+thou: kae
+thou: ka(ge)
+thou: ti(ge)
+three: kakaga
+three: tarawa kaːnakiʔ
+today: ibaːba
+tomorrow: ai
+tongue: (a)ntebu
+tooth: (a)wa
+tree: yaː
+two: tara
+walk: karusi(ye)
+walk: nasi(ye)
+walk: pigosu(ye)
+wallaby: esaː
+wallaby: puwesaː
+warm: muʔmu (piye)
+water: aina
+water: waniʔ
+we: tae
+we: ta(ge)
+wet: ipabaː (piye)
+wet: tani(tani piye)
+we two (incl.): tasi(ge)
+we two: -us
+we: -un
+what: ae
+what: aː(na)
+what: naː(na)
+when: ayaːntaga
+where: ae(taʔ)
+white: tabe(rabe)
+white: waeʔ
+who: ke
+wide: tabe
+wind: esibaː
+wing: (a)gagaʔ
+woman: wayaːʔ
+wood: asaː
+wood: esaːʔ
+yellow: mopaiʔ
+yellow: yaːgigu(mpaʔ)
+yes: e
+yes: o(we)
+yesterday: ai
+yesterday: aʔi
+yes: ye
+you: -a:w
+you two: -a:s
+you two: tisi(ge)

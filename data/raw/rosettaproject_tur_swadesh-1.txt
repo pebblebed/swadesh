@@ -1,0 +1,300 @@
+all: hepsi
+all: tüm
+and: ve
+and: ve
+animal: hayvan kaba kişi
+ashes: yakılmış cesedin külleri
+at: -de, -da
+at: -de, -da
+back: sırt arka
+bad: kötü bozuk çürük
+bark: agac kabugu
+bark: ağaç kabuğu
+bark: kabuk
+because: çünkü -dığı için
+belly: göbek
+belly: karın
+big: buyuk
+big: büyük
+big: büyük
+bird: kus
+bird: kus
+bird: kuş
+bird: kus kuş
+bite: ısırım
+bite: ısırmak
+bite: ısırmak
+black: kara
+blood: kan
+blood: kan
+blow: esmek üflemek uçurmak
+bone: kemik
+bone: kemik
+breast: göğüs
+breast: meme
+breathe: solumak fısıldamak
+burn: yanmak yakmak yanık
+child: çocuk
+child: çocuk
+cloud: bulut karaltı gölge küme
+cold: soğuk
+come: gelmek ulaşmak
+correct: doğru yanlışsız
+count: saymak içermek
+cut: kesmek dilimlemek kesilmek
+day: gün
+day: gün
+die: ölmek
+dig: kazmak anlamak
+dirty: savruk pis kirli çirkin
+dog: kopek
+dog: köpek
+dog: köpek, it
+drink: içmek
+drink: içmek
+dry: kuru
+dull: sönük donuk boğuk
+dust: toz
+ear: kulak
+ear: kulak
+earth: yer dünya toprak doğa
+eat: yemek
+eat: yemek
+egg: yumurta
+egg: yumurta
+eye: göz
+eye: göz
+fall: düşmek azalmak inmek
+far: uzakta uzağa çok
+father: baba
+fat (n.): yag
+fat (n.): yağ
+fat (n.): yağ
+fear: korkmak ürkmek çekinmek telaşlanmak
+feather: tüy
+feather: tüy
+few: az birkaç
+fight: savaşmak çarpışmak dövüşmek
+fingernail: tırnak
+fire: ates
+fire: ateş
+fire: ateş
+fish: balık
+fish: balık
+five: bes
+five: beş
+float: yüzmek yüzdürmek
+flow: akma akış akmak dolaşmak
+flower: çiçek
+fly (v.): uçmak tüymek
+fog: sis
+foot: ayak
+foot: ayak
+forest: orman
+four: dört
+four: dört
+freeze: donmak dondurmak
+fruit: meyve sonuç ürün
+give: vermek tanımak eğilmek
+good: iyi, güzel
+good: iyi, güzel
+grass: çimen ot çayır
+green: yeşil ham
+guts: bağırsaklar bağırsaklar azim iäşerik öz
+hair: saç
+hair: saç kıl
+hand: el
+hand: el işçi yardım
+head: baş
+head: baş kafa
+head: kafa
+hear: bilmek
+hear: duymak
+hear: duymak
+heart: kalp
+heart: kalp yürek gönül kararlılık
+heart: yürek
+heavy: ağır yoğun şiddetli
+he: on
+he: on
+here: burada
+hit: vurmak çarpmak
+hold: tutmak almak yapmak
+horn: boynuz
+how: ne
+how: ne
+hunt: avlamak araştırmak
+husband: koca eş
+I: ben
+I: ben
+ice: buz kek dondurma
+if: eğer ise
+in: -de, -da
+in: -de,-da
+kill: öldürmek av
+knee: diz
+know: bilmek
+know: bilmek
+lake: göl
+laugh: gülmek gülüş
+leaf: yaprak
+leaf: yaprak
+left: sol
+leg: but bacak bölüm
+lie: yatmak uzanmak durmak
+liver: ciğer
+liver: karaciğer
+liver: karaciğer
+live: yaşamak oturmak diri canlı
+long: uzun
+long: uzun
+louse: bit
+louse: bit
+man: adam
+man: adam
+man: erkek
+man: erkek
+many: bir çok
+many: cogu
+many: çoğu
+meat: et
+meat: et
+mother: anne
+mother: anne
+mountain: dağ
+mouth: ağız
+mouth: ağız
+name: isim
+narrow: dar sınırlı az
+near: yakın
+neck: boyun
+neck: boyun yaka dil kıstak
+neck: ense
+new: yeni
+night: aksam
+night: akşam
+nose: burun
+nose: burun
+not: deghil
+not: degil
+not: değil
+not: değil
+not: değil
+old: eski
+one: bir
+one: bir
+other: diğer öteki öbür
+person: kisi
+person: kişi
+person: kişi
+play: oyna-
+pull: çek-
+push: it-
+rain: yağmur
+red: al kırmızı
+right: sağ
+river: ırmak
+road: yol
+root: kök
+root: kök
+rope: ip
+rotten: çürük
+rub: ovmak ovalamak sürtmek
+salt: tuz çeşni
+sand: kum
+say: demek söylemek okumak
+scratch: tırmalamak çizmek kaşımak eşelemek
+sea: deniz
+sea: deniz
+seed: tohum
+seed: tohum
+see: görmek
+see: görmek
+sew: dikmek
+sharp: keskin sivri
+short: kısa parasız az kıt
+sing: söylemek ötmek şakımak vızıldamak çınlamak uğuldamak
+sit: oturmak oturtmak
+skin: deri
+skin: deri
+sky: gök
+sleep: uyumak
+sleep: uyumak
+small: kucuk
+small: küçük
+small: ufak küçük
+smell: koklamak sezmek iz eser
+smoke: duman
+smooth: düz
+snake: yılan
+snow: kar kokain
+some: biraz birkaç kimi
+spit: şiş dil
+split: yarmak yarılmak sökülmek
+squeeze: sıkmak ezmek sığdırmak
+stab: bıçaklama deneme
+stand: dikelmek
+star: yıldız
+stick: sopa değnek baston saplamak
+stone: taş
+straight: düz dürüst
+suck: emmek
+sun: güneş
+swell: şişmek kabarmak
+swim: yüzmek dölmek
+tail: kuyruk
+tail: kuyruk
+that: su
+that: şu
+that: şu
+there: orada
+they: onlar
+thick: kalın katı yoğun
+thin: ince zayıf cılız sulu cıvık
+think: düşünmek sanmak
+this: bu
+this: bu
+thou: sen
+thou: sen
+three: üç
+three: üç
+throw: atmak fırlatmak
+tie: bağlamak bağlanmak
+tongue: dil
+tongue: dil
+tooth: diş
+tooth: diş
+tree: agac
+tree: ağaç
+tree: ağaç
+turn: çevirmek döndürmek çevrilmek
+two: iki
+two: iki
+vomit: kusmak
+walk: yürümek gezdirmek gezinmek
+warm: ılık
+wash: yıkamak
+water: su
+we: biz
+we: biz
+wet: ıslak yaş
+what: ne
+what: ne
+when: ne zaman
+where: nere
+white: beyaz
+who: kim
+who: kim
+wide: geniş iyice tamamen
+wife: kari eş hanim
+wind: rüzgar yel nefes soluk
+wing: ek bina
+wipe: silmek
+with: ile nedeniyle sayesinde
+woman: kadin
+woman: kadın
+woman: kadın
+worm: kurt solucan korkak ödlek
+year: yıl sene
+yellow: sarı ödlek
+you: siz

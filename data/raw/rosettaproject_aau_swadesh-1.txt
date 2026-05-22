@@ -1,0 +1,133 @@
+arm: yiha
+arm: yiha
+bad: përiyap
+bad: pəriyap
+belly: swaro
+belly: swaro
+bird: ahne
+bird: ahnɛ
+black: or
+black: ɔr
+blood: nyoh
+blood: nyoh
+blow: ro
+bone: ayo
+bone: ayo
+breast: mu
+breast: mu
+child: ne
+child: ne
+come: re
+come: rɛ
+crocodile: ot
+cut: ri
+cut: ri
+dog: nwëhë
+dog: nwəhə
+dog: nwoho
+ear: nwek
+ear: nwɛk
+earth: ki
+earth: ki
+eat: hauwetebin
+eat: ra
+eat: ra
+egg: ne
+egg: ne
+excrement: rë
+eye: nane
+eye: nanɛ
+eye: ri
+father: ayo
+father: ayo
+fire: ya
+fire: ya
+give: ko
+give: ko
+good: yapre
+good: yapre
+head: makwe
+head: makwe
+he/she: hë(-kwe)
+he/she: həkwe
+he/she: hi ~ hikwe
+he/she: hi(-kwe)
+house: a
+house: a
+I: ha ~ hakwe
+I: ha(-kwe)
+leg: sune
+leg: sunɛ
+louse: mapru
+louse: mapru
+man: ʊr
+man: ur
+moon: yeny
+moon: yeny
+mother: yipe
+mother: yipe
+night: arahw
+night: arahw
+nose: kasan
+nose: kasau
+old: hnap
+old: hnap
+one: prin
+one: pr-in
+rain: swari
+rain: swari
+red: o
+red: o
+see: rira
+see: rira
+sit: ruwaka
+sit: ruwaka
+skin: ohi
+skin: ohi
+smoke: yakw
+smoke: ya-kw
+spit: mefa
+star: napwar
+star: napwar
+stone: mëny
+stone: məny
+sun: e
+sun: e
+they: hom ~ həmkwe
+they: ho-m(-kwe)
+they two: həhkwe
+they two: ho-h(-kwe)
+thou: hom ~ həmkwe
+thou: hun ~ hunkwe
+thou: hun(-kwe)
+tongue: sane
+tongue: sanɛ
+tooth: nas
+tooth: nas
+tree: no
+tree: no
+tree: nou
+tree: nou
+two: pris
+two: pris
+vagina: e
+vagina: ɛ
+walk: re
+walk: re
+walk: re
+water: hu
+water: hu
+we: hrom ~ hrəmkwe
+we: hro-m(-kwe)
+we two: hro-r(-kwe)
+we two (incl.): hrəkwe
+white: wes
+white: wes
+wind: anhoh
+wind: anhɔh
+woman: sa
+woman: sa
+you: ho-m(-kwe)
+you two: hëh(-kwe)
+you two: həhkwe
+you two: ho-h

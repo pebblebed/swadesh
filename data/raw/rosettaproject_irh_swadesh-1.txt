@@ -1,0 +1,179 @@
+all: temεbε
+and: εru
+animal: ɸeiǰε
+ashes: tuguanə
+back: фague
+bad: kabia
+bark: εritə
+belly: ɸeta
+bird: man
+bite: nəgɔrə
+black: garəmutənə
+blood: waməsə
+blow: guɸə ɸena
+bone: rurə
+breast: susə
+breathe: sague
+burn: somətə
+child: mɔ
+cloud: taĵe
+cold: rid ən ə
+come: ʔa-ma
+correct: ɸeitu
+count: neɸə
+cut: mətiɸənə
+die: nəmatə
+dig: [nəgarə]
+dirty: nəserə
+dog: ɸunə
+drink: ninə
+dry: mamua
+dull: kumə
+dust: tiguam
+ear: təgəra
+earth: wirom
+egg: təru
+empty: nati
+eye: matie
+fall: topa
+far: nεrɔ
+father: anǰe
+fat (n.): məterə
+fear: namεtatə
+few: mεtətu
+fingernail: kuku
+fire: ɸeηa
+fish: somə
+five: rεɸidə
+float: nabɔrə
+flower: ɸu
+flow: nəфəфɔ
+fly (v.): manə sora
+fog: wεnɔbə
+forest: witu
+four: gegəte
+frog: wagari
+fruit: ɸo
+full: nəɸonə
+give: nane
+good: derə
+grass: samuinə
+green: məmatə
+guts: ɸəta nətatu
+guts: ɸəta nətatu
+hair: ragunə φaru
+hand: ɸəra
+head: rəgunə
+hear: naɸarogərə
+heart: Puŋ
+heavy: remənə
+he: i
+hit:  matəbε
+how: nano
+hunt: nəɸanaɸətə
+husband: a məran
+I: ǰa
+in: ganə
+kill: na-ɸunə
+knee: wiɸu
+lake: tāma
+large: nabadə
+laugh: nabariɸə
+leaf: rɔ
+left: batƏ
+leg: ɸa
+lie: nen
+live: du nami wεnumə
+liver: bərəɸɔtə
+long: mərərɔ
+louse: utə
+man: maranə
+many: mogə
+meat: ǰe
+moon: seba
+mother: adεnə
+mountain: tarɔ
+mouth: gānə
+name: no
+narrow: sotə
+near: nəbabərə
+neck: dərəbonə
+new: bunatə
+night: gisiε
+nose: wεgurə
+old:   radi
+one: εso
+person: matu
+play: nεraduεnə
+pull: gesə
+push: nəфəsisə
+rain: siεmə
+red: karəruεrə
+right: tu
+river: nigətə
+road: radэni nabadэ
+root: kakɔakərə
+rope: wara
+rotten: gumerə
+round: ɸuturomə
+rub: nisərə
+salt: tərirə
+sand: inəñεфu
+say: nəɸiεrə
+sea: wεrəɸunə
+sea: wεrəɸunə
+seed: ɸrsubə
+sew: raini
+sharp: rəɸo ǰε kərerə
+short: фutə
+sing: sisə
+sit: nəmətorə
+skin: ritə
+sky: ragətə
+sleep: neenə
+small: kɔsi
+smell: səgəɸɔ
+smoke: bɔbə
+smooth: səruidənə
+snake: sawatə
+some: εsεso
+spit: daɸey
+split: məragəte
+stab: mətəro
+stand: nəmarirə
+star: torə
+stick: tonə
+suck: ninə susə
+sun: ɸimətiє
+tail: su
+they: irə
+thick: ɸata torə
+thin: bəniɸənə
+think: nəɸεtiɸənə nəɸərərɔ rə
+thou: ɔ
+thou: ε
+three: torə
+throw: məti
+tie: nəbεrə
+tongue: mamaǰe
+tree: ɛ
+turn: magarфarə
+two: riɸo
+vomit: nεɯi
+warm: winə ɸəmani
+wet: səruərə
+what: ña
+when: gonə ña
+which: фadə  nεnɔ
+white: baɸutэ
+who: gata
+why: nanɔ
+wide: фariфərə
+wife: a uagə
+wind: nəɸə
+wing: manə ɸariɸərə
+woman: sɔtə
+worm: kʷaytuba
+wrong: səru
+year: taun εso
+yellow:  taɸə

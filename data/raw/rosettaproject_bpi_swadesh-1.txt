@@ -1,0 +1,471 @@
+all: agen
+all: agɛn
+arm: ɛßɛ-
+arm: eve-
+arrow: ʌːgur
+ashes: gauh
+ashes: gauh
+ashes: olim
+ashes: olim
+back: ehe-
+back: ɛhɛ-
+bad: o:li
+bad: oːli
+belly: ihuru- em
+belly: ihuru- ɛm
+belly: si
+belly: si
+big: eme
+big: ɛmɛ
+bird: ëi
+bird: ʌi
+bite: ɛm-
+bite: em-/emo-
+black: pamu
+black: pamu
+blood: ti
+blood: ti
+blow: fumu-
+blow: fumu-
+bone: epe-
+bone: ɛpɛ
+boy: napera me:
+boy: napɛra mɛː
+breast: ë:v
+breast: ʌːß
+brother: abë:ni
+brother: abʌːni
+brother: amëni
+brother: amʌni
+brother: omo-
+brother: omo-
+brother: on-
+brother: on-
+brother: ou-
+brother: ov-
+burn: ma(na)-
+burn: ma(na)-
+butterfly: bobor
+butterfly: bobɔr
+calf: isumagi
+calf: isumagi
+cassowary: iwë:r
+chest: gilipo-
+chest: gilipo-
+child: napera
+child: napɛra
+chin: agʌ-
+chin: agë-
+cloud: tok
+cloud: tok
+cloud: wau
+cloud: wau
+cold: daruh
+cold: daruh
+come: se-
+come: sɛ-
+crocodile: wagëy
+crocodile: wagʌi
+cut: o-
+cut: o-
+cut: ohili-
+cut: oholi-
+cut: oholi-
+dance: abi ila-
+day: dohu fëg
+day: dohu fʌg
+day: oraum
+die: mau-
+die: mau-
+dig: be-
+dig: bɛ-
+dig: fo\me-
+dig: foʔmɛ-
+dirty: dug
+dirty: dug
+dog: pëi
+dog: pʌi
+dry: isihe-
+dry: isihe-
+ear: dahu-
+ear: dahu-
+earth: eb
+earth: ɛb
+eat: dawagu-
+eat: za-
+eat: za-
+egg: musʌ
+egg: musë
+elbow: usʌ- amug
+elbow: usë- amug
+emu: iwʌːr
+excrement: si:
+eye: amu-
+eye: amu-
+face: ura-
+face: ura-
+fall: o-
+fall: toge-
+fall: togɛ-
+far: waurë:g
+far: waurʌːg
+father: aita
+father: aita
+father: meme(ne)-
+father: mɛmɛ(nɛ)-
+fat (n.): tirëg
+fat (n.): tirʌg
+fear: wahitei-
+fear: wahitei-
+few: wate
+few: watɛ
+fight: maro-
+finger: mehe
+finger: mɛhɛ
+fingernail: bili
+fingernail: bili
+fire: imup
+fire: imup
+fish: silau
+fish: silau
+fly (n.): pahura
+fly (n.): pahura
+fly (v.): pißɛra-
+fly (v.): pivera-
+fog: tok
+fog: tok
+forehead: ura-
+forest: ëtu
+forest: ʌtu
+forest: uhë:k
+forest: uhʌːk
+fruit: aug
+fruit: auk
+full: aupse-
+full: aupsɛ-
+full: wete-
+full: wɛtɛ-
+girl: mimino nain
+girl: mimino nain
+give: me-
+give: mɛ-
+good: ilu
+good: ilu
+good: waru
+good: waru
+grass: paspin
+green: waru
+green: waru
+guts: si
+guts: si
+hair: uruk
+hair: uruk
+head: mugupa-
+head: mugupa-
+head: yeluma
+hear: do-
+hear: do-
+heart: ti
+heart: ti
+heavy: ubau
+heavy: ubau
+here: ene
+here: ɛnɛ
+here: ge
+he/she: -əg
+he/she: -əg
+he/she: nug
+he/she: nug
+he/she: nug
+he/she: -ø
+he/she: -ø-
+he/she: -r-
+he/she: -r-
+he/she: -r-
+he/she: -Vg
+hit: maro-
+hit: maro-
+hold: atu-
+hold: atu-
+house: žʌb
+house: zhëb
+how: ari gotek
+I: -l-
+I: -l-
+I: -n
+I: -n
+in: ogag
+I: -ø
+I: seg
+I: sɛg
+I: -y
+I: -y
+kill: pe-
+kill: pɛ-
+knee: dowa- amug
+knee: dowa- amug
+laugh: imi-
+laugh: imi-
+left: naneh
+left: nanɛh
+leg: fa-
+leg: fa-
+lightning: amen pipile-
+lightning: amɛn pipilɛ-
+liver: gege-
+liver: gɛmɛ-
+long: gurup(me)
+long: gurup(mɛ)
+louse: mi
+louse: mi
+man: denah
+man: dɛnah
+man: goh
+man: goh
+many: agen
+many: agɛn
+meat: tihun
+meat: tihun
+moon: azhë:r
+moon: aǯʌr
+morning: ɛßilum
+morning: evilum
+morning: weneil
+morning: wɛneil
+mosquito: kapëni
+mosquito: kapʌni
+mother: ë:n
+mother: ene-
+mother: ɛnɛ-
+mother: ʌːn
+mountain: bahe
+mountain: bahɛ
+mouth: asi-
+mouth: asi-
+name: binʌ-
+name: binë-
+nape: doa- amug
+nape: doa- amug
+navel: ihuru-
+navel: ihuru-
+near: gugir
+near: gugir
+neck: fʌ-
+neck: fë-
+new: yëra
+new: yʌra
+night: otu sem
+night: otu sɛm
+nose: nomusa-
+not: pi
+not: pi
+old: amahoro
+old: amahoro
+old: ë:gu
+old: eyëk
+old: ɛyʌk
+old: ʌːgu
+one: nunuga
+one: nunuga
+pull: oro-
+pull: oro-
+rain: wa
+rain: wa
+rat: pagoi
+rat: pagɔi
+red: titek
+red: titɛk
+right: metul
+right: metul
+ripe: wëlu
+ripe: wʌlu
+road: i:hi
+road: iːhi
+root: silig
+root: silig
+rope: ɔːr
+salt: u:
+salt: uː
+sand: besë:g
+sand: esel
+sand: ɛsɛl
+say: nin \a-
+say: nin ʔa-
+say: ra \a-
+say: ra ʔa-
+scratch: pagere-
+scratch: pagɛrɛ-
+sea: simëh
+sea: simʌh
+see: itɛi-
+see: itei-/ite-
+see: ohugu-
+sharp: augu
+sharp: augu
+sharp: selu-
+short: tutu
+short: tutu
+shoulder: guga-
+shoulder: guga-
+sing: awi veru-
+sister: sotu-
+sister: sotu-
+sit: inane-
+sit: inanɛ-
+skin: fe-
+skin: fɛ-
+skin: garʌ-
+skin: garë-
+sleep: nog-
+sleep: nog-
+small: uhnëg
+small: uhnʌg
+smell: gori do-
+smell: uhuli-
+smoke: kʌ
+smoke: kë
+snake: sur
+snake: surr
+spit: doro-
+spit: imisol
+spit: imisɔl
+split: ahili-
+split: ahili-
+stand: atali-
+stand: oreda-
+stand: oreda-
+star: birum
+star: birum
+stick: banë:r
+stone: ʔiː
+stone: i:
+straight: atebahe
+straight: atebahe
+straight: orovëk
+straight: orovʌk
+sun: u:s
+sun: uːs
+swell: iwirɛ-
+tail: solulug
+tail: solulug
+tail: usig
+tail: usig
+take: au-
+take: au-
+that: egun
+that: ɛgun
+there: yeti
+there: yɛti
+they: egehun
+they: ɛgɛhun
+they: -gəri
+they: -gVri
+they: -rër-
+they: -rər-
+they two: e-y
+they two: tVli
+they two: -tVt
+thigh: igou-
+thigh: igou-
+think: dahu me-
+think: dahu mɛ-
+this: ene
+this: ɛnɛ
+thou: ɛ-g
+thou: -gəri
+thou: neg
+thou: nɛg
+thou: -rər-
+thou: -s-
+thou: -s-
+thou: -un
+thou: -un
+throat: ër pëla
+throat: ʌr pʌla
+throw: taro-
+throw: taro-
+thunder: agër be-
+thunder: agʌr be-
+tie: tati-
+tie: tati-
+tomorrow: ilu
+tomorrow: ilu
+tomorrow: sumahi
+tomorrow: zautën
+tongue: nimëru-
+tongue: nimʌru-
+tooth: au-
+tooth: au-
+tree: im
+tree: mu
+tree: o
+tree: siːg
+turn: ßayɛ-
+turn: vaye-
+two: barërtek
+two: barʌrtɛk
+vagina: fu-
+vagina: fu-
+vomit: pa-
+walk: lalɛßɛ-
+walk: ugu-
+walk: ugu-
+walk: ugu-
+walk: ugu-
+wallaby: ur
+wallaby: ur
+warm: imëg tek
+warm: imʌg tɛk
+wash: di ya-
+wash: di ya-
+wash: di yau-
+wash: di yau-
+water: di
+water: di
+weep: pa-
+weep: pa-
+we: -g-
+we: -g-
+we: -(g)iag
+we: -(g)iag
+we: i-g
+we: i-g
+wet: faume-
+wet: faumɛ-
+wet: fauro-
+wet: fauro-
+we two: -iat
+we two: i-y
+we two: -t-
+what: ëri
+what: ʌri
+where: ëre
+where: ʌrɛ
+white: wëlu
+white: wʌlu
+who: won
+who: won
+wind: oya
+wind: oya
+wing: ë:lu
+wing: ʌːlu
+woman: enëg
+woman: ɛnʌg
+woman: mimino
+woman: mimino
+wood: banʌːr
+wood: tutu
+wood: tutu
+yellow: esenëg
+yellow: ɛsɛnʌg
+yes: io
+yes: io
+yesterday: tu
+yesterday: tu
+yesterday: zautën
+you: e-g
+you: -gVri
+you: -rër-
+you two: e-y
+you two: -tëli
+you two: -tët-

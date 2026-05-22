@@ -1,0 +1,509 @@
+all: dakanda
+all: katum
+all: katum
+all: katum
+all: takarma
+arm: raraŋa
+ashes: kavurua
+back: tagulavan
+back: taguvalan
+back: tona
+back: tona
+bad: kurek
+bad: kurɛka
+belly: ronag
+belly: ronag
+belly: ronban
+belly: ronban
+big: laika
+big: leika
+big: leika
+big: leiki
+big: tuara
+big: tuara
+bird: tula
+bird: tula/tul
+bird: tutul
+bird: tutul
+black: koloa
+black: koloa
+blood: kabarak
+blood: kabarak
+blood: kambarka
+blood: kavarke
+blood: kavarkɛ
+boy: kekoloka/kekolok-patag
+boy: lok bon
+brother: mati
+brother: mati/mati-von
+brother: mativon
+brother: mati-von
+brother: mati-von/mati-vonavula
+brother: tia
+brother: tia
+burn: tuma
+burn: tumang
+child: idila
+child: idila/indulaga
+child: idil-bon
+child: indil-von
+chin: i(r) tobokɛ
+cold: vavare
+cold: vavarɛvror
+cold: vror
+come: let (F)
+come: letma
+come: letma
+dance: mein ≈ nein ≈ tein
+dance: men
+dark: vulvat
+daughter: vila
+daughter: vile
+daughter: vil-ɛ
+day: vanu
+day: vanu
+die: ngap
+dirty: derma
+dirty: derma
+dog: kavov
+dog: kavov-a
+dog: talapa
+dog: talap-a
+dog: talap-ɛ
+ear: ir tamuka
+ear: ir-tamuka
+ear: tamaka
+ear: tamaka
+earth: ibane
+earth: tonovat
+earth: tonovat
+eat: mat
+eat: mata
+eat: mat-mat
+eat: nat
+egg: tuain
+egg: tuaina
+eye: ir muip
+eye: ir muip
+eye: umia
+face: kalvon
+far: gomaik
+far: go-maik
+far: man-maik
+far: meik
+father: mama!
+father: mamu
+father: mam(u)
+father: tia
+father: tia
+fear: timerti
+fear: timerti
+finger: kat
+fingernail: kubite
+fingernail: kubitɛ
+finger: nok
+fire: tiapa
+fire: tia-pa
+fire: tia-pen
+fire: tia-ven
+fire: turine
+fire: turine
+fish: silang/singol (?Sulka)
+five: inogati
+five: limavati
+five: limavati
+five: limbeti
+five: limbet-i (?)
+flower: maraman
+flower: maraman
+foot: ir katapan
+foot: katapan
+foot: markama
+foot: markama
+forest: kavate
+forest: kavatɛ
+forest: tipura
+forest: tipura
+forest: tipure
+four: bilagataria
+four: bilaqataria
+four: valagatana
+four: valagataria
+fruit: maraman
+fruit: maraman
+girl: kekavak(ue)/kekavakove
+girl: vak-bon
+give: tuk
+give: tuk
+good: merek
+good: mereka
+good: mereka
+good: mɛrɛka
+grass: umbake
+grass: umbake
+grass: uvake
+grass: uvakɛ
+hand: )
+hand: "finger
+hand: hand
+hand: i-nokon
+hand: i(r) nokon
+hand: nok
+hand: noka
+hand: noka
+hand: nok (ø
+head: lata
+head: lata
+head: lata
+here: do
+here: do
+he/she: a
+he/she: a
+he/she: a
+he/she: a
+he/she: a-/e-/i-
+he/she: a/e/i
+he/she: a/e/von
+he/she: ata
+he/she: e
+he/she: e
+he/she: e
+he/she: e
+he/she: eta
+he/she: i
+he/she: i
+he/she: inda
+he/she: inda
+he/she: inda
+he/she: ita
+he/she: va
+he/she: va
+he/she: va/ve
+he/she: ve
+he/she: ve
+he/she: von
+he/she: von
+hit: pan
+hit: pan
+hit: van
+hit: van
+hold: tip
+hold: tip
+hold: vo
+house: kalaka
+house: kalaka
+house: pal
+house: pala
+I: ga
+I: ga
+I: ga
+I: ga
+I: gaga
+I: gaga
+I: gaga
+I: gaga
+I: nga
+I: ŋa
+I: ŋana
+I: ŋaŋa
+I: nga(nga)/ngana
+I: vaŋa
+kill: pan
+kill: pan
+kill: van
+kill: van
+know: tam
+know: tama-tam
+lake: toti
+laugh: terek
+laugh: tɛrɛk
+leaf: kavangɛ
+leaf: matavan
+leg: markama
+leg: markama
+live: lama
+live: lama
+live: lelama
+live: tom
+long: kambara
+long: kambara
+long: vigula
+long: vigula
+man: loka/lokuvo
+man: loko
+man: lul-a
+man: lula/lokova
+many: avair
+many: tara
+many: tara
+many: tavutavat
+moon: vagam
+moon: vagamɛ
+moon: vaqame
+morning: manibarui
+mother: nanu
+mother: nan(u)
+mother: tie
+mother: tiɛ
+mountain: vara(-pan)/-ava
+mountain: vara-pon
+mouth: ir-keva
+mouth: ir kɛva
+name: tak
+near: bagamon
+near: baqamom
+neck: ir-kenen
+neck: ir kɛnɛn
+neck: kambanam
+new: lama
+night: bartam
+night: bartam
+night: pulovon
+night: puluvon
+night: tambartam
+nose: ir-koloma
+nose: koloma
+not: kaitu
+not: kori
+one: tagata
+one: tagqata
+one: tagqata
+one: tagta ~ taŋkata
+one: tanqata
+person: molimolita
+pull: ra
+pull: ra
+rain: kamanave
+rain: kamanavɛ
+rain: kavanave
+rain: kavanave
+rain: kavanave
+red: kakalata
+red: kakalata
+river: ngalue
+river: ŋaluɛ
+road: tuka
+road: tuka
+road: tuka
+rotten: tavauna
+rotten: tavauna
+say: bok-bok
+say: bokt
+say: gun par
+say: gun par
+say: gun(-par)
+see: toti
+see: toti
+see: toti
+sing: tavag
+sing: tavag
+sister: a-pon
+sister: a-pon/a-ponavula
+sit: mater
+sit: mater
+sit: mom
+sit: tor
+sleep: maŋap
+sleep: mengap
+small: bon
+small: bon
+small: idila
+small: kekek
+small: kɛkɛka
+son: vila
+son: vil-a
+stand: ton
+star: tandima
+star: tandima
+star: tarima
+star: tarima
+stick: galia
+stone: tipana
+stone: tipana
+stone: tivana
+stone: tivana
+stone: tivere
+straight: magoron
+sun: vanua
+sun: vanua
+sun: vanua
+sun: vanua
+take: kavaon
+take: kavaon
+take: kavaum
+take: kavaun
+take: kavaun
+that: ambat
+that: gakeo
+that: vat
+that: vonbat
+they: bitam
+they: ip
+they: ra
+they: ra
+they: ta
+they: ta
+they: ta
+they: ta
+they: ta
+they: ta
+they: te
+they: te
+they two: bitam
+they two: bitam
+they two: ip
+they two: ip
+they two: ip
+they two: ip
+they two: ip
+they two: ipi
+they two: ipi
+they two: ipi
+they two: ipi
+they two: ip(i)
+think: nan
+think: nan
+this: avi
+this: avi
+this: evi
+this: ira
+this: ra
+this: re
+this: vi
+this: vi
+thou: gan
+thou: gan
+thou: gi
+thou: gi
+thou: gi
+thou: gi
+thou: gigi
+thou: gigi
+thou: gigi
+thou: gigi
+thou: ŋan
+thou: ŋi
+thou: ŋina
+thou: ŋiŋi
+thou: ngi(ngi)/ngina
+thou: nin
+thou: nin
+three: komagrun
+three: komaqrum
+three: mugu vala
+three: mukuvala
+three: muku-vala
+tie: ve
+tie: ve
+today: manqat
+today: manqat
+today: manqat
+today: manqat
+tomorrow: barui
+tomorrow: baru(i)
+tomorrow: maniveni
+tomorrow: manivɛni
+tomorrow: rarui
+tongue: ir kunuma
+tongue: ir-kunuma
+tooth: ir iten
+tooth: ir-iten
+tree: nag
+tree: nag
+tree: nanga
+tree: turina
+tree: turina
+tree: turi-non
+two: makom
+two: mugumip
+two: mukom
+two: mukumip
+two: mukumip
+walk: meren
+walk: pi
+walk: pipi
+walk: pi(pi)
+walk: taleor
+walk: teltel
+walk: tel-tel
+walk: tivi-
+walk: tivi/pi
+warm: kavakati
+warm: lavakati
+warm: loloka
+warm: loloka
+wash: turan
+wash: turan
+water: ioi
+water: ioi
+water: ioivoi
+water: ioivoi
+water: (ioi)voi
+water: ioi(voi)
+we: du
+we: du
+we: du
+we: du
+weep: kakari
+weep: tuar
+we: ir
+we: quau
+we two: gun(u)
+we two (incl.): gun
+we two (incl.): gun
+we two (incl.): gunu
+we two (incl.): gunu
+we two (incl.): qunu
+we two (incl.): un
+we two (incl.): un
+we two: un
+we: undu
+we: undu
+we: undu
+we: undu
+we: ur
+what: gumi
+what: gumi
+what: qu-
+what: qu/qri
+what: (va)gomira
+when: baqapon
+when: baqapon
+when: kavana
+when: kavana
+where: (a)mbi
+where: avi
+where: avi ~ evi ~ vi
+where: evi
+where: -mbi
+where: vi
+white: kavara
+white: kavara
+white: put
+who: gumi
+who: gumi
+who: quri-
+who: quri-
+wind: taubar
+wind: tauvare
+wind: tauvarɛ
+woman: lulɛ
+woman: lule/vakova
+woman: vakue
+woman: vakue/kolotuak
+yesterday: mior
+yesterday: mior
+yesterday: miur
+yesterday: miur
+you: gan
+you: gan
+you: iu
+you: ngan
+you two: iu
+you two: iu
+you two: iu
+you two: iu
+you two: iu
+you two: iu(iu)
+you two: iu(iu)
+you two: iu(iu)

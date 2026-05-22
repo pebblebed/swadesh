@@ -1,0 +1,84 @@
+arm: yanineru
+arrow: sane
+ashes: tiyami sapu
+back: tainaso
+bad: yaiye
+belly: tifʌlawe
+big: fʌri
+bird: auma
+black: tʌsiʔʌre
+blood: teyuowa
+bone: ihuwa
+breast: mama
+brother: manefa
+calf: eriariyai
+chin: tanoʔi
+cloud: sʌri hewa
+come: aiya
+dog: i fau ~ i vau
+ear: afe
+earth: susare
+eat: afaʔunaru
+egg: aumufu
+elbow: yanipaʔaru
+emu: aumʌsi
+eye: nimau
+eye: nimau
+father: aφe ~ aße
+finger: tyami
+fire: tiyami ~ tanuwa
+fish: afitano
+foot: eriariyai
+forehead: tiʔau
+four: riʔiyawa
+good: aiʔʌre hewa
+hair: yei
+hand: yanineru
+head: tipafu
+heart: nʌmau
+house: osapu
+knee: erepaʔaru
+laugh: yɪsuya
+leaf: mwai
+liver: umʌne
+louse: dibafuyei
+man: to
+man: to iːwa
+meat: amiyamiʔ
+mother: ama
+mountain: waʔu
+mouth: tano
+mouth: tano inau
+nape: ɪsɪʔi
+new: usane
+night: tatufiya
+not: yasʌ safiye
+one: arʌsʌbau
+rain: omo
+rain: omo hewa
+road: efʌmowa
+root: yanusoː
+sand: uʔau
+shoulder: yaniso
+sister: auwa
+sit: anu sita
+skin: toefahewa
+small: ɪsi ɪsi
+smoke: tiyam nise
+snake: efarea
+stand: twarita
+star: sʌrifariya
+stone: təbiya
+three: wanapu
+tongue: tanotai
+tooth: nʌfe
+tree: yanu
+two: arʌfri
+walk: anosita
+wallaby: awaruso
+water: utlauwe
+white: wabuʔore
+wind: nʌmʌri
+wing: tautanaru tei
+woman: sauto
+yesterday: auwa

@@ -1,0 +1,178 @@
+ashes: aßeru
+ashes: aßetu
+ashes: avetu
+ashes: avetu
+belly: oti
+belly: oti
+belly: oti
+belly: oti
+big: baina
+big: baina
+big: baina
+big: baina
+bird: ndi
+bird: ndi
+bird: ni
+bird: ni
+boy: mani
+boy: mani
+breast: ami
+breast: ami
+breast: ami
+breast: ami
+cloud: beredze
+cloud: bere(d)ze
+cloud: uditi
+cloud: uditi
+dog: sino
+dog: sino
+dog: sino
+dog: sino
+ear: dago
+ear: dago
+ear: da͂wo
+ear: dãwo
+eye: diti
+eye: diti
+eye: diti
+eye: diti
+fire: iao
+fire: iao
+fire: yao
+fire: yao
+foot: te
+foot: te
+foot: te
+foot: te
+hair: (d)zio ai
+hair: dzio ai
+hair: giti ai
+hair: giti ai
+hand: nago
+hand: nago
+hand: wa͂wo
+hand: wãwo
+head: dzio
+head: gitau
+head: gitau
+head: zio
+he/she: nu
+he/she: nu
+he/she: nu
+he/she: nu
+I: na
+I: na
+I: na
+I: na
+knee: boma
+knee: boma
+knee: boma
+knee: boma
+leaf: gi
+leaf: gi
+leaf: i gi
+leaf: i gi
+man: emo
+man: emo
+man: emo
+man: emo
+moon: ino
+moon: ino
+moon: ino
+moon: ino
+mouth: be
+mouth: be
+mouth: be
+mouth: be
+neck: tamo
+neck: tumo
+neck: tumo
+neck: tumo
+nose: heno
+nose: veno
+rain: wa
+rain: wa
+rain: wa
+rain: wa
+road: nagibo
+road: nagibo
+road: nai
+road: nai
+root: itai
+root: itai
+root: i-tai
+root: i-tai
+skin: ainso
+skin: ainso
+skin: ta͂u
+skin: tãu
+sky: uditi
+sky: uditi
+small: kaka
+small: kaka
+small: kaka
+small: kaka
+smoke: boisa
+smoke: boisa
+smoke: boisa
+smoke: boisa
+star: arasa
+star: arasa
+star: arasa
+star: arasa
+stone: daba
+stone: daba
+stone: daba
+stone: daba
+sun: wari
+sun: wari
+sun: wari
+sun: wari
+they: ago
+they: ago
+they: angwo
+they: aŋwo
+they two: agoto
+they two: agoto
+they two: angwoto
+they two: aŋwoto
+thou: ni
+thou: ni
+thou: ni
+thou: ni
+thou: nie
+thou: nige
+tongue: ewawa
+tongue: ewawa
+tongue: ewawa
+tongue: ewawa
+tooth: di
+tooth: di
+tooth: di
+tooth: di
+tree: i
+tree: i
+tree: i
+tree: i
+water: ou
+water: ou
+water: ou
+water: ou
+we: nae
+we: nae
+we: nage
+we: nage
+we two (incl.): nato
+we two (incl.): nato
+we two: nato
+we two: nato
+woman: bamuno
+woman: bamuno
+woman: bamuno
+woman: bamuno
+you: nie
+you: nige
+you two: nito
+you two: nito
+you two: nito
+you two: nito

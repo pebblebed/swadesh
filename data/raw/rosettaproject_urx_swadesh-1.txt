@@ -1,0 +1,534 @@
+all: kaleneyubʷe
+all: klaui pwe
+all: tɨkwanmoʷi
+arrow: spia [ʟw]
+arrow: yil
+arrow: yill
+arrow: yirɪ
+ashes: ɲapɨl
+ashes: ɲapɨl
+back: tapraka
+back: taφraka
+bad: peleku
+bad: peliaku
+bad: pɪleawo
+bad: preaku
+bark: meŋgul
+bark: (mimɨ) mengra
+bark: (ɲʊmwa) mweyaŋgirʌ
+bark: (ŋnimo) mingal
+belly: gɨba
+belly: kɪmbwa
+belly: kumbʷa
+belly: kumbo
+big: yʊmbwe
+big: yubwe
+big: yubwe
+big: yumbʷe
+bird: wabe
+bird: wabe
+bird: wape
+bird: waːpe
+bite: nari
+bite: nari
+bite: uri
+bite: wʊri
+black: tenkelibin
+black: tɨnfɨrepɛn
+black: tɨŋgɪle
+black: tugelepen
+blood: ŋyawei
+blood: ŋyawei
+blood: yaße
+blood: yawɨ
+bone: laßa
+bone: ŋaːpa
+bone: ŋnapa
+bone: ŋnaφa
+boy: kʷayi wa
+boy: kwai
+boy: kwai
+boy: kway iwʌ
+breast: peʲ
+breast: pei
+breast: pei
+breast: φei
+brother: gɨda
+brother: here dure
+brother: kitʌk
+brother: kuta
+burn: nakamp
+burn: ŋɨnap
+burn: sʌmwɪŋge prɨr nandi
+child: pei wia
+child: wahh
+child: ware wa
+child: wʌrewʌ
+chin: kowitamba
+chin: kwawi tʊgu
+chin: kwetaba
+chin: kwetabo
+claw: tuk
+claw: tuk
+cloud: ɲiŋakɨmbʷa
+cloud: ɲɨɲɪkɨmbʌ
+cloud: ŋɨɲ kae\e
+cloud: ŋɨny kae\e
+cold: kʷɪ-
+cold: kwegelemu
+cold: kwikalimo
+cold: kwoʲele
+come: nande
+come: nandi
+come: nanwe
+come: nauwe
+crocodile: (wiya)iyɛ
+crocodile: (wiya)ye
+day: tuburika
+day: uŋgamp
+day: wʊngeamp
+day: wugeyap
+die: nare
+die: nareplʌ
+die: ŋɨnari
+dog: warʌ
+dog: wara
+dog: wara
+dog: wona
+drink: nera
+drink: ŋɨna
+drink: weʲʌ
+dry: ben
+dry: pen
+dry: pɨn
+dry: pʊrɨnant
+ear: kamaga
+ear: kaːŋgʌ
+ear: kɨmaŋga
+ear: kumaga
+earth: graun
+earth: kɨ
+earth: kɨ
+earth: keu
+eat: nʌ
+eat: nana
+eat: ŋner
+eat: ŋner
+egg: (wape) kʷoya
+egg: (wape) kwie
+egg: (wapiʌ) kweyʌ
+egg: (waφe) kwie
+elbow: (tɨbʌ) gɪyɪru
+elbow: tubakinu
+elbow: tubʷogedu
+elbow: (tupa) kiru
+emu: tulali
+emu: tulali
+emu: turari
+emu: turɛri
+eye: laːle
+eye: lalekwe
+eye: laliguya
+eye: laritɪn
+fall: kareːni
+fall: kelene
+fall: kulini
+father: ani
+father: ni
+father: paφa
+father: yaʲʌ
+fat (n.): kʷoya
+fat (n.): kweyʌ
+fat (n.): kwie
+fat (n.): kwie
+feather: mul
+feather: mul
+feather: (wape) mur
+feather: (wapi) mʊl
+finger: lumbʷak
+finger: rumboke
+finger: rumboke
+finger: rumbwʌk
+fire: ɟamge
+fire: ɟamge
+fire: watʌ
+fire: wata
+fish: pis
+fish: (weya) kuma
+fish: (wiya) gɨma
+fish: (wiya)gʊmwa
+fly (v.): inkula
+fly (v.): yegla
+fly (v.): yiŋgrak wʊtʊwʌ
+foot: ɲiŋgʌ
+foot: ɲiŋga
+foot: ɲiŋga
+foot: ɲɨŋga
+forehead: pakarka
+forehead: φakarka
+four: mlewinʌ nɪŋa mwelwinʌ
+four: mlowekaiklamlowe
+full: tɨbu
+full: tubu
+full: tupu
+girl: ŋubʷagi wa
+girl: nɨmbʌ giwʌ
+girl: numboka
+girl: numvoki
+give: neɨ
+give: neɨ
+give: te
+give: tʰe
+good: napanan
+good: napanawi
+good: napanowi
+good: ŋinaφanawi
+green: salkelepwei
+green: salkulibi
+hair: here
+hair: here
+hair: ɣɨreʔ
+hand: tenapa
+hand: tenaφa
+hand: tiŋyapa
+hand: tɨnapa
+head: kandu
+head: kandu
+head: kɪndu
+head: kɨndu
+hear: ŋɨnerunu
+hear: nurunu
+heart: purr
+heart: purr
+heavy: maßinduwʌ
+heavy: mawei
+heavy: mawi
+heavy: mawi
+he/she: kwai
+he/she: n-
+he/she: ne
+he/she: ni
+he/she: ni
+he/she: ni
+he/she: ni
+he/she: w-
+hit: ŋɨnabi
+hit: nɨmbʌyak
+hit: yagnale
+horn: kom [ʟw]
+horn: kom [ʟw]
+house: melega
+house: melinkw
+house: mɛreyʌŋgwa
+house: mileaŋgʷa
+I: i
+I: k-
+I: ye
+I: yi
+I: yi
+I: yi
+kill: nei nare
+kill: ninare
+knee: (ŋygɨ) bal
+knee: (niŋgi) pal
+knee: niŋgivar
+knee: (nyiŋgi) par
+know: ŋɨnukunpela
+know: nukwantpla
+laugh: walnark
+laugh: wʊlnax
+laugh: wolnak
+leaf: menalaga
+leaf: menalaka
+leaf: mena luka
+leaf: mena raka
+leg: niŋga
+leg: niŋga
+lie: nata
+lie: nata
+lie: naːta
+lie: yikaːtʌ
+lip: mɨm
+lip: mɨm
+lip: mɪrigomwa
+liver: pukaku
+liver: pukaku
+long: wame
+long: wame
+long: wame
+long: waːme
+louse: pet
+louse: pet
+louse: pɛt
+louse: φʰut
+man: kwai
+man: kwai
+man: kwayi
+man: tuwʌrʌ
+man: waʲ
+many: walina
+many: wolina
+meat: kɨmʷa
+meat: kuma
+meat: kuma
+meat: tamʷi
+moon: keleo
+moon: kelio
+moon: kɨliyaʷ
+moon: kurɛn
+morning: yambimuri
+morning: yambulup
+morning: yambumʊre
+mosquito: kʷada
+mosquito: kaːtʌʔ
+mother: imma
+mother: nemwa
+mother: yamu
+mother: yɛma
+mountain: rɨbʷa
+mountain: ruba
+mountain: rupor
+mountain: rupwa
+mouth: mɛm
+mouth: mɨm
+mouth: mɨm
+name: ɲam
+name: ɲamp
+name: nem [ʟw]
+name: ŋysamp
+neck: lamu
+neck: laːmuʔ
+new: kalubʷe
+new: kolupwe
+new: kʌrɨpʷe
+new: kulubi
+new: wa
+night: ɲiɲakɨl
+night: ŋɨny kul
+night: sŋynkul
+night: tɨgɨrɨp
+not: take
+not: take
+not: take
+not: tʌːge
+old: anaɣʌ
+old: kʷayi wɨgɨ
+old: kwai ŋna
+old: kwai ŋna
+old: melemowok
+old: melemowok
+old: merimbo
+old: šuka
+old: waga
+old: wakʌ
+old: wɨgɨ
+one: kalana
+one: kalano
+one: korɨnɨ
+one: kɨrana
+person: tuna
+person: turar
+rain: weya
+rain: weya
+rain: wiyʌ
+rain: wiyɛ
+rat: mori
+rat: mori
+rat: mʷori
+rat: mɔri
+red: kamboke
+red: kuboia
+road: ɲɛriŋk
+road: pagul
+road: paŋgʷo
+road: φangul
+root: kɨtɨnʌ
+root: rarr
+root: rarr
+round: mapkei
+sand: čič
+sand: sesu
+say: nali
+say: ŋɨnali
+seed: ei
+seed: (ɲʊmwa) ge
+seed: (ŋnimo) ɨg
+seed: ni mʷoyge
+see: nʊkwandɨ
+see: nokʷant
+see: nukant
+see: nukant
+short: tabɨ
+short: tabe
+short: tambɨ
+short: tambɨ
+shoulder: lemeŋga
+shoulder: temŋga
+shoulder: timeŋgʷo
+shoulder: tɨmeŋgwa
+sister: here duwas
+sister: kunɨbu
+sister: kwoɲɨmba
+sister: uɲumbu
+sit: nat
+sit: nat
+sit: naːt
+sit: naːt
+skin: meaŋgrɨ
+skin: miyaŋgɨrr
+skin: wabe
+skin: wɨmbɨ
+sleep: laku nata
+sleep: nakwanata
+sleep: nata
+small: taʲaʔ
+small: taibane
+small: taimbune
+small: teriŋaɲe
+smoke: raːmuŋe
+smoke: taikubo
+smoke: tɨgawe
+smoke: tukupo
+snake: hane
+snake: snek [ʟw]
+spit: teblewanuduk
+spit: tekeliwandak
+spit: toliwʌndo
+stand: ɲɛtɛrnu
+stand: kiyaː tɨyʌŋgu
+stand: net yanu
+stand: net yanu
+star: prekiǯ
+star: prekiǯ
+star: prikʌnǯ
+stone: ɲaʷ
+stone: ɲan
+stone: ɲau
+stone: ɲau
+sun: ɲiŋ
+sun: ɲɨn
+sun: ŋɨɲ
+sun: ŋɨny
+swim: (weya) ŋinuapi
+swim: yelenepwi
+tail: ruma
+tail: ruma
+that: wanda
+that: wonda
+they: m-/r-
+they: ne
+they: ne
+they: ne͂
+they: ni
+they: ni
+they two: he mele
+they two: m-/r-
+they two: ni milewine
+they two: nɪmlenʌ
+they two: nukuiaw mulana
+this: nein
+this: ŋɨnian
+thou: nu
+thou: nu
+thou: nu
+thou: nu
+thou: nu
+thou: nu
+thou: nugewo
+thou: nukuɨaw
+thou: nuŋgʷeu
+thou: ø-
+three: milewi kaʲagala
+three: mlewinʌ kɨrʌ
+three: mlowekaikla
+three: mulavi kaiala
+throat: larmu
+throat: lomu
+tomorrow: nenkib
+tomorrow: ŋɨŋgɨp
+tomorrow: nɨŋgɨp
+tomorrow: nuŋgup
+tongue: rɨŋale
+tongue: rɨŋale
+tongue: rrɪŋale
+tongue: rrɨŋaːre
+tooth: tawa
+tooth: tawa
+tooth: tawa
+tooth: tawo
+tree: ɲima
+tree: ɲʊmwʌ
+tree: ŋɨmo
+tree: ŋɨmor
+two: melewina
+two: melewina
+two: milewina
+two: mleßinɛ
+walk: ɲaʲambi nowa
+walk: namnake
+walk: namnale
+walk: nannabe
+walk: nysnapi
+wallaby: aŋge
+wallaby: uanki
+wallaby: yage
+wallaby: yaŋge
+warm: nambɨnam
+warm: nambu-
+warm: ŋɨnaφ naφ
+warm: waku
+water: weya
+water: weya
+water: wiyʌ
+water: wiyɛ
+we (excl.): i biamu
+we (excl.): ɪnbɛm
+we (excl.): yɪbyemo
+we (excl.): yumbemu
+we: ibem
+wet: pɨšɨŋfwyʌk
+wet: (weya) kumbi
+wet: (weya) muli
+wet: wiya
+we two (excl.): i mulana
+we two (excl.): ye mele
+we two (excl.): yi milɛne
+we two (excl.): yɪmlenʌ
+we two: p-
+what: ŋɨnuboma
+what: sŋyumboma
+when: pomataim
+where: mai
+where: mai
+white: kʷɨaʲ
+white: kwoayɪke
+white: kwuaike
+white: waitʌ
+who: teia
+who: teya
+wind: peku
+wind: win [ʟw]
+wing: mindogola
+wing: mɨndagɨrʌ
+wing: mudakula
+wing: mudakula
+woman: ɪmbagi
+woman: ɲɪmbwaːki
+woman: nubkɨ
+woman: numboki
+wood: ŋnuma
+wood: stik
+yellow: kuminkei
+yellow: kumuŋkei
+yes: hawor
+yes: kɨnai
+yesterday: wʊŋgɨ
+yesterday: wuŋgɨ
+yesterday: wuŋgu
+yesterday: wunki
+you: nu
+you two: nu mɪlena
+you two: nu mulana
+you two: vu mele
+you two: w-
+you: w-

@@ -1,0 +1,325 @@
+all: gonap
+all: gonsi
+ankle: gargor
+arm: bes(aa)
+arm: besoɣ
+arrow: ban
+arrow: ɣənat
+ashes: kup(aa)
+ashes: taam(aa)
+ashes: tamoɣ
+at: -nong
+at: tai
+back: kom(aa)
+back: kom taan
+back: kopi-tam
+bad: er
+bad: er(aa)
+bad: er gap
+bad: sain
+bark: watax(aa)
+bark: wətaɣ
+bark: xim(aa)
+bark: yaim(aa)
+belly: aake
+belly: airaap(aa)
+belly: ake
+big: isip
+big: isip
+big: kai
+bird: ner
+bird: ner(aa)
+bite: dataar-
+bite: gaa ar-
+bite: gaa dut por-
+bite: gaa xaptor por-
+bite: goxo-
+bitter: atpai
+bitter: naang
+bitter: xaax(aa)
+bitter: xaax-si
+black: kwi
+blood: koxaar
+blood: xaim(aa)
+blow: en-dai-
+blow: pukaan-dai-
+bone: soxor(aa)
+bone: tam(aa)
+branch: te
+breast: non(aa)
+breathe: nax(aa)
+breathe: nax darxer-
+brother: mon(aa)
+brother: naap(aa)
+brother: naap-ir
+brother: nanggaa
+brother: nanin(-ir)
+brother: nanip(-ir)
+burn: andor-
+burn: taatxa-
+burn: taaur-
+burn: tandor-
+burn: ten-dai-
+burn: xaar(aa)
+burn: xaar xa-
+burn: xaas xa-
+butterfly: kapkap(aa)
+cassowary: ner-sup
+cassowary: piong
+cassowary: putur
+cassowary: suaap(aa)
+cheek: daak(aa)
+chest: kamaa taan(aa)
+chest: rangrang(aa)
+chest: xawaa
+child: barip(aa)
+child: barip(aa)
+child: bəreroɣ
+child: brer
+child: brer(aa)
+child: ixsen
+child: mutux tax
+child: wanang(aa)
+claw: taxaax(aa)
+cloud: awgapar
+cloud: riaan(aa)
+cloud: tisor-
+cold: cool)
+cold: dame(-si)
+cold: girir-si
+cold: ø
+cold: tixix-si (anim.
+come: a-pri-S
+come: əpri
+come: mande-
+come: mara-
+come: wanda-
+count: saapaat
+cut: aarxur-
+cut: aikaar-
+cut: baak-dai-
+cut: barak(aa)
+cut: bopok-dai-
+cut: darke-
+cut: gar-dai-
+cut: gat-dai-
+cut: gater-
+cut: gatong por-
+cut: gatong por-
+cut: kondai-
+cut: kwer-
+cut: peng-dai-
+cut: pusu por-
+cut: rumbup-dai-
+cut: taang por-
+cut: uriaan-dai-
+cut: xraar-dai
+dance: birxi-
+dark: kwi
+dark: kwi xa-
+die: ɣəputpa
+die: hapu-R
+die: həpu
+earth: dokong
+earth: moŋ
+earth: mong dakaar(aa)
+earth: mongorhoraa
+eat: da
+eat: da-M
+elbow: kimin
+elbow: kimin tam
+fear: kas-aa dai-
+fear: kas xa-
+fear: kəs
+fire: irat
+fish: aniŋ
+fog: riaan(aa)
+fog: sox(aa)
+foot: toŋ
+foot: tong wu
+forest: kot(aa)
+forest: puutem
+forest: xaa
+give: aa-pri-S
+give: apri
+good: yah
+good: yəɣa
+hand: besoɣ
+head: kaak(aa)
+head: kaak-dus(aa)
+head: kakmoɣ
+here: mandex
+here: mixan
+he/she: oɣ
+he/she: oxe/orxe
+he/she: ox/orxor/orxaap
+he/she: uɣ
+he/she: uxe/urxe
+he/she: ux/urxor/urxaap
+hit: indai-
+hit: nuntux taha-
+hit: su-M
+hit: su-M
+hole: tem
+hole: tem
+house: aap
+house: ap
+how: kin
+I: noɣ
+I: norxaap
+I: norxor
+I: nox
+I: noxe/norxe
+jaw: ga
+kill: su
+kill: su-M
+lake: xru
+leaf: əpin
+lie: tima-M
+lie: timə
+live: p-
+live: p-M
+long: dok
+man: han(ip)
+man: xaan(aa)
+man: xaanip
+morning: kutwi
+mouth: gaa
+name: winoɣ
+near: kaak-duup(aa)
+not: na
+old: ixsen
+old: ixsen
+old: paser
+old: pəser
+one: tit
+one: tit
+person: han(ip)
+person: xaan
+pull: pe
+rain: awgwe
+rain: tom
+rain: tom
+rat: tərminoɣ
+river: kep(aa)
+river: puptai
+river: tom eng
+river: tom kut
+road: məndap
+round: xoxyaap(aa)
+salt: sər
+say: meng-
+say: po
+say: po-R
+say: ri
+say: ri-M
+shoulder: bar tam
+shoulder: kaat(aa)
+shoulder: kaat tam
+shoulder: kiki tam
+shoulder: xarkaak(aa)-
+sister: naap(aa)
+sister: naap-ir
+sister: nanggaa
+sit: gaxaar-
+sit: gaxaat
+sit: taargaar-
+sit: tongna-M
+sit: toŋnə
+sleep: tima-M
+sleep: timə
+small: garpox
+smell: gapqwe
+son: mon(aa)
+split: be cut by axe or kn.
+split: bok-dai- (cut lengthwise
+split: crack nut)
+split: crack or split by itself
+split: gater-
+split: in two
+split: karkarer-
+split: kwer-
+split: off
+split: split
+split: tuker-
+split: vine in two
+split: xen-dai-
+stone: kwai
+stone: kwai
+suck: non pande-
+take: da-R
+take: də
+that: amaa
+there: andex
+there: a-tai
+they: iɣir
+they: iraair
+they: iraarxe
+they: ire/iraaire
+they: ite/itaaite
+they: ixir
+they two: itaait
+they two: itaarxe
+they two: ixit
+think: aper-
+think: daandaa xa-
+thou: go
+thou: gorxaap
+thou: gorxor
+thou: gwe/gorxe
+tie: tamder-
+tomorrow: kimsi
+tooth: ambaax(aa)
+tooth: gaa
+tree: bek
+tree: iraat
+two: yot
+two: yot
+walk: sə
+walk: s/h-S
+walk: s/p-S
+warm: ator(aa)
+warm: mumun
+warm: xaar(aa)
+warm: xaar-si
+wash: tir-
+water: tom
+we: die
+we: diraadir
+we: dirarxe
+we: dire/diraadire
+we: dite/ditaadite
+weep: ngangaar-
+weep: payima-
+weep: ronxa-
+weep: yima-
+weep: yimə
+we (excl.): nuɣur
+we (incl.): nuraanur
+we (incl.): nuraarxe
+we (incl.): nuxur
+we: nure/nuraanure
+we: nute/nutaanute
+we two: dit
+we two: ditaadit
+we two: ditaarxe
+we two (incl.): nutaanut
+we two (incl.): nutaarxe
+we two (incl.): nuxut
+wife: inəp
+wind: pupukaa
+with: daaptai
+with: -si
+woman: kʊ
+woman: kuu
+wood: iraat
+wood: irat
+yes: -waa
+you: gur
+you: guraagur
+you: guraarxe
+you: gure/guraagure
+you: gute/gutaagute
+you two: gut
+you two: gutaagyt
+you two: gutaarxe

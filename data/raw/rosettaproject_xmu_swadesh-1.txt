@@ -1,0 +1,127 @@
+ankle: meɹ pəɹəm
+back: tetəm
+bad: kuweɹek
+belly: men
+big: aluŋu
+bite: leɹ
+black: wakpara
+blood: cəɹŋuɲ
+bone: pec
+breast: kuyuŋ
+cheek: caŋkuɹ
+child: weɹek
+cloud: peɹk
+crocodile: ŋəɹŋəɹ
+cut: ŋerp
+dig: kuɹcat
+dog: camar
+ear: piyawuɹ
+earth: yuɹu
+eat: ŋak
+egg: muɹ
+elbow: tataɹ
+emu: nəwət
+eye: miyam
+father: paŋu
+fire: yim
+five: palpmuɹu palpmuɹu nempayu
+flower: marka
+foot: meɹ
+forehead: yəməɹ
+four: palpmuɹu palpmuɹu
+full: kaɹiɲanam
+give: aŋ
+good: məʎu
+grass: wen
+hair: puca meɹ
+hand: memek
+head: puca
+heart: mentəlma
+he/she: kunaɹu
+he/she: -nuŋ
+he/she: -nuŋ
+hole: campal
+house: waɹ
+I: -ŋu
+I: ŋuɹu
+kangaroo: cayir
+knee: pəŋkaɹ
+laugh: katma
+leaf: wərər
+leg: keɹeɹ
+liver: teɹkeɹ
+long: kupancali
+man: lakiyi
+meat: piɲa
+moon: nətən
+mosquito: wəɹaŋ
+mother: kilaŋ
+mouth: keɹa
+name: ni
+navel: cəcəɹ
+night: ŋəyk
+not: waɲaŋu ... wetma
+old: ceɹeɹek
+old: mimik
+one: nempayu
+rain: wəŋ
+red: kuɹaɹa
+red: pirpma
+ripe: tamkanin
+river: wuk peteɹ
+road: cal
+rope: pik
+rotten: ŋaiputput
+sand: kelem
+sea: kucuwuy
+sharp: kerwin
+shoulder: teweɹ
+skin: kaɹala
+small: kiyik
+smoke: wuŋkuɹ
+snake: mataɹa
+spit: keʎeŋ
+spit: tak
+stand: pacatcat
+star: naŋu
+stone: pawar
+straight: centeɲma
+sun: pen
+tail: ciɹiɲ
+take: wəmɲi
+they: kunuwuɹu
+they: wuɹ
+thigh: ceɹi
+thou: -ninɟi
+thou: nuŋkuɹ
+thou: nuŋkuɹ
+thou: nuŋkuɹayu
+three: palpmuɹu nempayu
+today: cawuŋu
+tomorrow: pukunuŋ
+tongue: ŋener
+tooth: ŋat
+tree: yim
+two: palpmuɹu
+vagina: cincik
+vomit: wema
+walk: cakat
+wallaby: ŋantiɲ
+wash: kumkac
+water: wuk
+we (excl.): -aɹ
+we (excl.): ŋerə
+we (incl.): -aɹaɹ
+we (incl.): ŋeɹəmaɹaɹ
+we two (incl.): ŋeməru
+we two (incl.): -ŋu
+what: anɟanuŋ
+when: anaɲmiyi
+where: ankin
+white: puŋma
+who: nuwun
+wind: peɹpeɹma
+woman: pamkun
+woomera: lakaɲ
+year: kawut
+yesterday: cacin

@@ -1,0 +1,186 @@
+all: (ia-)ŋaseʔ
+and: na-
+animal: oloʔ-oloʔ
+ashes: ahu
+back: boko
+bad: kodi
+bark: bukkuleŋ kaǰu
+because: ka-
+belly: battaŋ
+bird: ǰaŋaŋ-ǰaŋaŋ
+bite: aŋ-ŋokkoʔ (kokkoʔ)
+black: leʔleŋ
+blood: rara
+blow: am-marruŋ (harruŋ)
+bone: buku
+breast: susu
+breathe: aʔ-ñaha
+burn: aʔ-tunu
+child: anaʔ
+cloud: rammaŋ
+cold: diŋiŋ
+come: pole
+correct: a-naba
+count: aʔ-bilaŋ
+cut: am-moloŋ (poloŋ)
+die: mate
+dig: aŋ-ŋeke (keke)
+dirty: ǰammaŋ
+dog: asu
+drink: aŋŋ-inuŋ
+dry: raŋko
+dull: poʔŋolo
+dust: limbubbuʔ
+earth: tana
+ear: toli
+egg: baĵao
+egg: baĵao
+empty: kosoŋ
+eye: mata
+fall: pʷupʷ
+far: lere
+father: amma
+fat (n.): luηraʔ
+fear: am-mallaʔ
+few: si-kiddi
+fingernail: pilpil-na-lima-
+fire: api
+fish: ǰukuʔ
+five: lima
+float: amm-onaŋ
+flow: aʔ-čoloʔ
+flower: buŋa
+fly (v.): aʔ-ribbaʔ
+fog: salihuʔ
+foot: baŋkeŋ
+forest: boroŋ
+four: appaʔ
+frog: čuppaŋ
+fruit: bua
+full: panno
+give: as-sare
+good: haĵiʔ
+grass: rukuʔ
+green: mončoŋ (bulo)
+guts: parruʔ
+guts: parruʔ
+hair: uhuʔ
+hand: lima
+head: ulu
+hear: al-\laŋŋere
+heart: puso
+heavy: hattala
+he: ia
+hit: am-meppeʔ (peppeʔ)
+horn: tanruʔ
+how: anteʔ-pakua
+hunt: aŋ’ŋ-usiri (usiri)
+husband: buruʔne(-nna)
+if: punna
+I: nakke
+in: i-lalaŋ
+kill: am-muno (huno)
+knee: kulantuʔ
+know: aŋŋ-isseʔ
+lake: tamparaŋ labba
+large: lompo
+laugh: nu’makkala
+leaf: rauŋ
+left: kairi
+leg: baŋkeŋ
+lie: leu
+liver: ate
+live: tallasa
+long: labbu
+louse: kutu
+man: buruʔne
+many: lohe
+meat: assi
+moon: bulaŋ
+mother: anroŋ
+mountain: buluʔ
+mouth: baba
+name: areŋ
+narrow: seppaŋ
+near: ambani
+neck: kalloŋ
+new: beru
+night: baŋŋi
+nose: kaʔmuruŋ
+old: toa
+one: seʔre
+person: tau
+play: aʔ-kareʔ-karena
+pull: an-ruiʔ
+push: añ-ñoroŋ (soroŋ)
+rain: bosi
+red: eǰa
+right: kanaŋ
+river: kaloro
+road: annor-aŋ (annoro)
+root: akaʔ
+rope: tuluʔ
+rotten: huruʔ
+round: boddoŋ
+rub: añ-\ñossoro (sossoro)
+salt: čeʔla
+sand: kassiʔ
+say: aŋ-kua
+sea: tamparaŋ
+sea: tamparaŋ
+seed: lisere
+sew: an-ǰaia
+sharp: taraŋ
+short: bodo
+sing: aʔ-keloŋ
+sit: a?-čidoŋ
+skin: bukkuleŋ
+sky: laŋiʔ
+sleep: tinro
+small: čaddi
+smell: aŋŋ-araʔ
+smoke: ambu
+smooth: alusu
+snake: ulara
+some: si-kura
+spit: aʔ-peʔru
+split: am-mue (pue)
+stab: an-noboʔ (toboʔ)
+stand: amm-enteŋ
+star: biηtoeŋ
+stick: takkaŋ
+suck: aŋŋ-isoʔ
+sun: mata allo
+tail: poti
+they: ia ŋaseʔ
+thick: kapala
+think: aʔ-[\pikkiri]
+thin: nipisi
+thou: kau
+thou: kau ŋaseʔ
+three: tallu
+throw: an-ŉihara (\tihara)
+tie: añ-ñekkoʔ (sekkoʔ)
+tongue: lila
+tree: pokoʔ (kaǰu)
+turn: am-muliηtaʔ (buliηtaʔ)
+two: rua
+vomit: am-miruaʔ (piruaʔ)
+warm: hambaŋ
+we: gitte
+wet: ǰiǰa
+what: apa
+when: si-kura-ya
+which: antere-a
+white: pute
+who: (i)nai
+why: aŋ-ŋura (kura)
+wide: luara
+wife: bahine(-nna)
+wind: aŋiŋ
+wing: kaʔñiʔ
+woman: bahine
+worm: gallaŋ-gallaŋ
+wrong: sala
+year: tauŋ
+yellow: didi

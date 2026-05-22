@@ -1,0 +1,411 @@
+all: kuha
+all: kúha
+all: ɔbobɔkuhʌ
+all: ɔbɔbɔkuhʌ
+animal: bo
+arrow: hɛŋgʌ
+ashes: ɪdɛmɛ
+ashes: ɪd̪ɛmɛ
+ashes: (yɔhɔ) itɛmɛ
+back: pɔkɔnʌ
+back: pɔkɔnʌ
+bad: mʌisʌ
+bark: (ʊma)buga
+belly: rɛgɛ
+belly: rɛgɛ
+big: bigɛ
+big: bigɛ
+big: pite(go)
+bird: monu kuha
+bird: munu
+bird: munu
+bite: aka-
+bite: akare
+bite: ʌgarɛ
+bite: ʌgarɛ
+black: ninirʌ
+black: ninira
+black: nɪnirʌ
+blood: wʌkʊbɛ
+blood: wʌkube
+blow: hukɔre
+bone: ɔnʌ
+bone: ɔnʌ
+boy: gɔbɔbɛ
+breathe: hehe kokehere
+brother: bʌbʌ
+brother: (imʌ)bʌbʌ
+brother: (imʌ)nʌyɔ
+brother: nʌyɔ
+burn: rire
+burn: rʌrɛ
+burn: yɔhɔrɔrɛ
+child: gɔbɔbɛ kʌrihʌ
+chin: mʌgʌgɛ
+claw: huŋgiŋgʌ
+claw: huŋgiŋgʌ
+cloud: gɔbɔrɛ
+cloud: gɔbɔrɛ
+cloud: gɔpɔre
+cold: hʊmbʊgʊrʌ
+cold: hʊmbʊgurʌ
+cold: umbukura
+come: ŋgʊyɔrɛ
+come: -yɔrɛ
+count: amokare
+cut: hokare
+cut: pere
+day: bundʌurʌ
+die: ʊmɛrɛ
+die: umere
+die: umɛrɛ
+dig: yaere
+dog: ɛhʌ
+dog: ɛhʌ
+drink: (sɔhɔ)ɪrɛrɛ
+dry: kʊŋgʊŋgu
+dry: kohere
+dry: kuŋguŋgu
+dry: kuŋguŋkere
+dust: maha kakumu
+ear: ɛbɔ
+ear: ɛhɔ
+earth: maha
+earth: maha ninira
+earth: mʌhʌ
+earth: mʌhʌ
+eat: ilɛlɛ
+eat: ire-
+eat: irere
+eat: ɪlɛlɛ
+egg: gorʌnɛ
+elbow: ɔmʌgumi
+emu: nʌmbiŋgi
+emu: nʌmbiŋgi
+emu: nʌmbɪŋgi
+eye: ɛmɛ
+eye: ɛmɛ
+fall: ʌmikharɛ
+fall: ʌmɪkharɛ
+fall: ororare
+father: bɔɛ
+father: ipo-
+father: ipo-e
+father: (ŋ)guibɔɛ
+fat (n.): b(ʰ)ʌrɪmbɔu
+fat (n.): hʌrimbɔu
+feather: ʌkʌmɔ
+finger: ɔmaimiyɛ
+fire: yɔhɔ
+fire: yɔhɔ
+fire: yɔhɔ
+fish: yʌfʌts
+fish: yʌfʌts
+five: ɔmʌʊk(w)ʊhʌ
+flower: (uma) awehe
+fly (n.): mamaŋgari
+fly (v.): hʊpiyarɛ
+foot: guni
+foot: guni(ɛ)
+forehead: guaginɛ
+four: ʌbʊgɪʊmɔɪ
+four: ʌbugʌmɔi ʌbugʌmɔi
+full: hɔnɔyɔrɛ
+full: hɔnɔyɔrɛ
+girl: yɔmbɛnɛ
+give: ʌbʌrɛ
+give: ɪmʊʌbʌrɛ
+give: ø-
+good: hɔmʌyʌ
+good: hɔmʌyʌ
+good: humaya
+grass: amuku
+green: kɪŋgʌyɛ
+hair: (birʌ) ʌkhamɔ
+hair: ʌkhamɔ
+hand: ɔma
+hand: ɔma
+head: birʌ
+head: birʌ
+hear: ɛparɛ
+heart: kʌmgʊmi
+heart: kʌnngumi
+heavy: ʊfʊwɛ
+he/she: a-/no-/-o-/-ø-
+he/she: -e/-ye
+he/she: gu
+he/she: ŋgu
+he/she: ŋgu
+he/she: ŋgu
+he/she: ŋgu
+hit: arɛ
+hit: arɛ
+hit: ø-
+hold: e-
+hold: o-
+hold: ore
+horn: gʌrʌnai
+house: bʌhɛ
+house: bʌhɛ
+house: pahe
+I: ima
+I: ima
+I: ?na
+I: ?na
+I: -o/yo
+I: ya-/opa-/-ya-
+kill: anɛʔumɛrɛ
+knee: ŋgʊgʌbirʌ
+knee: ŋgʊgʌbirʌ
+know: ɛmapmʊkai
+know: ɛpamukai
+know: epare
+know: ɛparɛ
+know: epawa
+know: ɔmɛ
+lake: gunu
+laugh: makuɪre
+laugh: mʌʊkɔrɛ
+laugh: mʌʊkɔrɛ
+leaf: ʌmɛhʌ
+leaf: ʌmɛhʌ
+leaf: (umɔ) emehe
+left: (oma) kori
+leg: gʊniɛ
+lie: ŋguɪsɛrɛ
+liver: kʌnɛ
+liver: kʌnɛ
+long: guŋgiwa
+long: (ŋ)gʊŋgiyʌ
+long: ŋguŋgiyʌ
+louse: hʊmiŋgi
+louse: humiŋge
+louse: humiŋgi
+man: hámungge
+man: hʌmuŋgɛ
+man: hʌmuŋgɛ
+many: amíe
+many: kʊhʌ
+many: kuhʌ
+meat: mihɛ
+meat: mihɛ
+moon: kɔmbo
+moon: kɔmbɔ
+moon: kɔmbɔ
+morning: ɪmʊhʊ
+mother: guimiyɛ
+mother: ime-ye
+mother: miyɛ
+mountain: gɔnɔ
+mountain: gɔnɔ
+mountain: kɔno
+mouth: morɛ
+mouth: mɔrɛ
+name: ibɛɔ
+name: ibɛ(ɔ)
+neck: bumbʊŋga
+neck: bumɪŋga
+new: bʌi
+new: bʌi pai
+night: bʌriŋgʊni
+night: hariŋgoni
+not: be
+not: -ɔmɛ
+old: bʌikʊbigɛ
+old: hʌmuŋgɛhʌiku
+old: kiri
+old: kiri
+old: kɪri
+one: hʌrʌbɔ́bɛ
+one: hʌrʌbɔhɛ
+person: hʌmuŋgɛ
+pull: huŋgɔre
+push: eperehere
+rain: hɛːpe
+rain: sɔnɔ
+rain: sɔnɔ
+rat: boroi
+rat: (m)bɔ
+rat: (m)bɔ
+red: boŋgai
+red: bɔŋgʌi
+red: bɔŋgʌi
+right: (oma) kori
+ripe: enamora
+road: imisi
+road: ɪmɪsɛ
+road: ɪmɪsɛ
+root: ʌrigʊi
+root: ʌrigui
+root: (uma) arigoi
+round: mʊŋgʊnɪmʌrʌ
+round: muŋgʊnimʌrʌ
+round: muŋguni
+rub: horɔre
+sand: mʌkʰʌbɛgɛ
+sand: mʌkʰʌbɛgʰɛ
+say: gaore
+say: gʌure
+say: gʌurɛ
+scratch: akiri kare
+seed: (uma)umburine
+seed: (um)bʊrinɛ
+seed: umburinɛ
+see: ge-
+see: ŋgɔrɛ
+see: ŋgɔːrɛ
+see: yare
+sew: pipiri yare
+short: kʊmɔʊ
+short: komou
+short: kumɔu
+shoulder: umunʌ
+sister: (imʌ)nɛnɛ
+sister: nɛnɛ
+sit: nʌmʌrɛ
+skin: gʊabʊka
+skin: gʊabʊka
+sky: haŋgum yaŋga\apu
+sleep: gʊisɛrɛ
+sleep: kai
+sleep: ŋgʊɪsɛrɛ
+small: mʌsʌbɔhɛ
+small: mʌsʌbɔhɛ
+small: opo masa
+smoke: (yɔhɔ) muʌ
+smoke: (yɔhɔ)muʌ
+smoke: (yɔhɔ) mua
+snake: hoe
+snake: hɔɛ
+snake: hɔɛ
+spit: gɛharɛ
+spit: maki
+stand: yʌkʰarɛ
+star: hoŋgahi
+star: ɔngʌhi
+star: ɔngʌhi
+stone: bʊhɪ
+stone: buhɪ
+stone: puhi
+straight: hinae
+sun: hʊmiʌ
+sun: humiʌ
+sun: humia
+swell: ukare
+swim: kamaŋguŋgu
+swim: mukure
+swim: (sɔnɔ) mʊgʊrɛrɛ
+swim: (sɔnɔ) mʊgʊrɛrɛ
+tail: gunɛ
+tail: gunɛ
+that: kʌwɛgʌ
+that: kʌwɛgʌ
+they: nɔga
+they: noka
+they: -noka
+they: noka-/noko-/-ke-/-ki-
+they: -nuo
+they two: nɔgʌ
+they two: nɔgʌ
+they two: nua
+they two: nua-/nuo-/-nua-
+this: kʌinɔ
+this: kʌinɔ
+thou: /
+thou: /
+thou: /
+thou: )
+thou: await
+thou: give
+thou: na
+thou: na
+thou: -na
+thou: ?na
+thou: ?na
+thou: na-/no-/-na-/-hi- (free
+thou: nɛgʌ
+thou: obj. "hit
+thou: see
+three: ʌbɔnɔ
+three: ʌbɔrɔ
+throw: nɔkere
+tie: okore
+tomorrow: nəimɪ
+tomorrow: nɔimi
+tomorrow: nuimi
+tongue: morɛmɛ
+tongue: mɔrɛmɛ
+tooth: mʌkinʌŋ
+tooth: mʌkɪnʌŋ
+tree: ʊmɔ
+tree: ʊmɔ
+tree: umɔ
+turn: yamu kerepare
+two: ʌbugi
+two: ʌbugi
+vomit: paukare
+walk: ŋgʊhugɛrɛ
+walk: ŋguʌrʌyarɛ
+wallaby: kabɔrɔ
+warm: kiwi
+warm: (sɔnɔ)ʔuku
+warm: ukɔ
+warm: ʔuku
+wash: gukare
+water: sɔno
+water: sɔnɔ
+water: sɔnɔ
+weep: aipɔre
+we (excl.): nʌidʌ
+we (excl.): nʌidʌ
+we: hita
+we: hita-/hito-/-hita-/-ta-
+we: -(h)ito
+we: -(h)iyo
+wet: bʊkʊ
+wet: bʊku
+wet: buku
+wet: sono koko
+we two (excl.): hiyʌ
+we two (excl.): hiyʌ
+we two: hia
+we two: hiya-/hio-/-heva-/-hiya-
+we two (incl.): niyʌ
+we two (incl.): niyʌ
+what: (y)inɔ
+what: (y)ɪnɔ
+when: gɛmɛgʌ
+where: kʌindo
+white: akararo
+white: ʌkʌrʌrʌ
+white: ʌkʌrʌrʌ
+who: nɪgu
+who: nigu
+wind: ahoi yɔre
+wind: hʌwi
+wind: hʌwi
+wing: ʊbiyɛ
+wing: ubiyɛ
+wing: upi-e
+woman: hʌikʊ
+woman: hʌiku
+wood: giha
+wood: hiko
+wood: ʊmʊmʌsʌwɔhɛ
+yellow: haimbu
+yellow: kʌniri
+yellow: kʌnɪri
+yesterday: gɪbu
+yesterday: gibu
+yesterday: kepu
+yes: ɪyʊ
+you: neka
+you: -neka
+you: neka-/neko-/-ke-/-ki-
+you: -nia
+you two: ?hiyʌ
+you two: hiyʌ
+you two: nia
+you two: nia-/nio-/-nia-
+you two: niyʌ
+you two: niyʌ

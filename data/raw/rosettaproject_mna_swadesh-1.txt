@@ -1,0 +1,181 @@
+all: (ta)bōzomen
+and: mi
+animal: ⁿbili
+ashes: you ka kou
+back: ⁿdeme-
+bad: sananŋa-
+bark: ke kulĩni
+because: pa
+belly: kopo-
+bird: man
+bite:  -ŋa
+black: gabgapŋana
+blood: siŋi-
+blow:  -wi
+bone: tiro-
+breast: zuzu-
+breathe:  -sen
+burn: you ikan
+child: pikin
+cloud: gubur tiene
+cold:  -lomo
+come:  -mar
+correct: dēŋeŋana
+count: -nin
+cut:  -tāra
+die:  -mete
+dig:  -kei
+dirty: mukmukŋa-
+dog: me
+drink:  -win
+dry: rarāzaŋana
+dull: mata ⁿutŋana
+dust: ululu
+ear: talŋa-
+earth: tōno
+egg: man kutulūnu
+empty: kolkolŋana
+eye: mata-
+fall: mo-deʰu
+far: molo
+father: tAmA-
+fat (n.): {m}buyēne
+fear: motoŋana
+few: ri
+fingernail: kunupaʔ
+fire: you
+fish: ye
+five: lamata
+float:  -potpot
+flower: manman
+flow: -rēre
+fly (v.):  -rie
+fog: ŋauŋau
+foot: ku{m}bu-
+forest: su
+four: paŋ
+frog: ⁿgru
+fruit: ŋonōno
+full: bok
+give:  -kampa
+good: a{m}bai
+grass: ⁿbunⁿbūtu
+guts: ka- kau
+guts: ka- kau
+hair: ute- rūnu-
+hand: nama-
+head: ute-
+hear:  -leŋ
+heart: (ŋa-)nip-kalɔp
+heavy: pataŋana
+he: ni
+hit:   -pun
+horn: kaⁿdāra
+how: be padei
+hunt:  -no
+husband: kusi- (tomōto)
+if: so(ⁿbe)
+I: nio
+in: lela
+kill:  -pun ma-mete
+knee: ku{m}bu-mbukūnu
+know:  -ute
+lake: yok tatiliuŋana
+large: bībi
+laugh:  -sēⁿge
+leaf: ke rūnu
+left: nama- ŋas
+leg: ku{m}bu-
+lie:  y-enē-ya
+live: kalaŋa-
+liver: kete-
+long: molo
+louse: kut
+man: tomōto
+many: bōzo
+meat: maza-
+moon: pūlu
+mother: nA-
+mountain: abal
+mouth: kwo-
+name: za-
+narrow: ⁿgomⁿgomŋa-
+near: kolouŋana
+new: popoŋa-
+night: {m}beŋ
+nose: kuzu-
+old:   muŋguŋa-
+one: ta
+person: tomtom
+play:  -ⁿbūlulele
+pull: -yāru
+push:  -pusuk
+rain: yaŋ
+red: siŋsiŋŋana
+right: nama- wōno
+river: yok
+road: zala
+root: ukāna
+rope: wōro
+rotten: buzbūzuŋana
+rub:  -mus
+salt: tai
+sand: magargāra
+say: -so
+sea: tai
+sea: tai
+seed: iwēne
+sew:  -sese
+sharp: matānaŋana
+short: katŋa-
+sing: -ⁿbo
+sit: {m}bule- isu
+skin: kuli-
+sky: sāⁿba
+sleep:  -kēne
+small: musāna
+smell:  -toŋou
+smoke: you ka koi
+smooth: ⁿgēzeŋana
+snake: mōto
+some: pakan
+spit:  -kiziu
+split:  -supāla
+stab:  -kurũmu
+stand:  -meⁿder
+star: pitik
+stick: tete
+suck:  -sem
+sun: zoŋ
+tail: wī- (wīni)
+they: zin
+thick: puŋpuŋŋana
+think:  -kam {ŋ}gar pa
+thin: koŋkoŋŋa-
+thou: niom
+thou: nu
+three: tel
+throw:  -piri
+tie:  -ⁿbit
+tongue: mia-
+tree: ke
+turn:  -tōro
+two: ru
+vomit:  -lulu
+warm: bayouŋana
+wet:  -wizis
+what: sokorei
+when: ŋīzi
+which: iⁿgoi
+white: kokouŋana
+who: asiŋ
+why: paso
+wide: babaŋa-
+wife: kusi- mōri
+wind: mīri
+wing: bege-
+woman: mōri
+worm: amou
+wrong: ŋōbo
+year: ndāma
+yellow: weŋgāra

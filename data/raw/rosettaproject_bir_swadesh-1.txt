@@ -1,0 +1,386 @@
+arrow: somu
+ashes: ʔɛmu
+ashes: seya mumu
+ashes: seya mumu
+ashes: sia-enusi
+ashes: siaɛnusi
+back: mosale
+back: mosale
+back: moṣali
+back: mosase
+back: mosa-se
+bad: osa
+bad: osa
+belly: eimuse
+belly: eimu-se
+belly: ʔi
+belly: imu
+belly: imu
+big: gauwa
+big: gauwa
+big: gauwa
+big: xakai
+big: xakai
+bird: heḍa
+bird: hega
+bird: hega
+bird: nega
+bird: nega
+black: duono
+black: duono
+black: tuma
+black: tuma
+blood: gugußa
+blood: guguwa
+blood: guguwa
+blood: kukuba
+blood: kukuba
+bone: farari
+bone: farari
+bone: soßwi
+bone: tgoboi
+bone: tgoboi
+boy: wabi
+boy: wabi
+breast: adu
+breast: adu
+breast: ʔandu
+breast: aru
+breast: aru (se)
+brother: gauwa
+brother: hambage
+brother: hambage
+brother: kauwari
+brother: kauwari
+cassowary: kubono
+cassowary: raima
+child: wabi hogia
+child: wabi hogia
+child: wabi hogia
+chin: kapina
+chin: kapina
+claw: hibose
+claw: hibo-se
+cloud: moke
+cloud: mole
+cloud: moli
+cloud: yagad
+cloud: yagad
+day: aribo
+dog: weina
+dog: weina
+dog: wena
+dog: wena
+dog: wɪnya
+ear: hak
+ear: hak
+ear: hali
+ear: hari
+ear: hari
+earth: keke
+earth: keke
+earth: yugege
+earth: yu-gege
+earth: yugʌŋgi
+egg: gila
+egg: gila
+egg: hapa
+egg: hapa
+egg: hedaßa
+elbow: logo
+elbow: logo
+emu: kubono
+emu: layma
+emu: raima
+eye: dada
+eye: dada
+eye: le
+eye: tada se
+eye: tada sɛ
+father: arowa
+father: arowa
+father: atowa
+father: atowa
+father: salɪgɛ
+fat (n.): efenega
+fat (n.): eφenega
+fat (n.): howa kʰadaya
+fat (n.): ya
+fat (n.): ya
+finger: yo
+finger: you
+finger: you
+fire: seya
+fire: seya
+fire: seya
+fire: seya
+fire: siya
+fish: laka
+fish: laka
+fish: raɣa
+fish: ragha
+foot: kai
+foot: kai
+forehead: wona
+forehead: wona
+forehead: wono
+forehead: wono
+forehead: wonu
+four: tumɛda
+girl: wida bogiya
+girl: wida bogiya
+good: haila
+good: haila
+good: haila
+good: haila
+hair: yəmndɪdi
+hair: yomoadi idi
+hair: yomoadi idi
+hair: yomodi edi-se
+hair: yomodi ɛdisɛ
+hand: gi
+hand: gi
+hand: gihaßa
+hand: ki-se
+hand: kisɛ
+head: yəmʌdi
+head: yomodi
+head: yomodi
+head: yomodi-se
+head: yomodisɛ
+heart: sirise
+heart: siri-se
+heart: sɪyɛli
+house: anda
+house: ata
+house: ata
+house: ta
+house: ta
+I: lamba
+knee: hagi-se
+knee: hagisɛ
+leaf: siyɛ yʌho
+leaf: yoho
+leaf: yoho
+leaf: yoxo
+leaf: yoxo
+leg: ʔaluma
+leg: giho
+leg: giho
+leg: sirise
+leg: siri-se
+lie: popo
+lie: popo
+long: dosa
+long: dosa
+long: tosa
+long: tosa
+louse: leima
+louse: leima
+louse: mirise
+louse: mirise
+man: gai
+man: gai
+man: gay
+man: wabi se
+man: wabi sɛ
+many: kxoyo
+many: kxoyo
+many: potori
+many: potori
+meat: howa
+meat: huʌmɛndi
+meat: kxowa
+meat: kxowa
+meat: xoa
+meat: xoa
+moon: babume
+moon: babume
+moon: hana
+moon: hana
+moon: hana
+moon: papume
+moon: papumɛ
+morning: pamabi
+morning: pamabi
+mother: ʔama
+mother: mauwa
+mother: mauwa
+mother: mauwa
+mother: mauwa
+mountain: hadi
+mouth: habu
+mouth: habulu
+mouth: habulu
+mouth: habu-se
+mouth: habusɛ
+name: howasu
+name: howasu
+name: ibi
+name: tbi
+neck: masa
+neck: masasi
+neck: masasi
+new: kxado
+new: kxado
+new: oisawi
+new: oisawi
+night: ori
+night: ori
+night: uwele
+night: uwɛle
+nose: dowi
+nose: towi-se
+old: kas kei
+old: kas kei
+old: madi
+old: madi
+old: petei
+old: pɛtei
+old: rira kose kei
+old: rira kosɛ kei
+one: hapila
+one: hapila
+one: hubiya
+one: hubiya
+one: mʌndi
+rain: kegi
+rain: kegi
+rain: kʰiŋkʰɪ
+rat: sibo
+rat: sibo
+rat: yanema
+rat: yanema
+red: mofi
+red: mofi
+red: mofi
+red: moφi
+road: yodo
+road: yodo
+road: yoḍo
+road: yoto
+road: yoto
+root: pfu
+root: pφu
+root: siya feri
+root: siya fɛri
+root: φalihi
+sand: iba kedi
+sand: iba kedi
+sand: kedi
+sand: kedi
+short: ̞̞
+short: sobngiya
+short: sobŋiya
+short: tsobagiya
+short: tsobagiya
+shoulder: ganowa
+shoulder: kanowa
+shoulder: kanowa
+shoulder: konowa
+shoulder: konowa
+sister: humanege
+sister: humanɛge
+sister: wida xa hai
+sister: wida xa hai
+sit: bagama badamo
+sit: bagama badamo
+sit: haruno
+sit: haruno
+skin: habai
+skin: habai
+skin: hapai-se
+skin: hapaisɛ
+skin: hapay
+small: haugiya
+small: hogila
+small: hogila
+small: hogiya
+small: hogiya
+smoke: papahu
+smoke: papahu
+smoke: seya mosu
+smoke: seya mosu
+smoke: syɛmužu
+snake: boya
+snake: mari
+snake: mari
+snake: tsitsiwano
+snake: tsɪtsɪwano
+stand: igiyamo
+stand: igiyamo
+stand: kaiegiu
+stand: kaiegiu
+star: hadeda
+star: hadeda
+star: hareda
+star: hareda
+star: haṭaṭa
+stone: hana
+stone: hana
+stone: hana
+stone: hana
+stone: hana
+sun: yage
+sun: yage
+sun: yage
+sun: yagi
+sun: yagi
+tail: kombo
+tail: yede
+tail: yɛde
+tail: yeri-se
+tail: yɛrisɛ
+three: seßo
+tomorrow: tadi benabi
+tomorrow: tadi benabi
+tongue: gɪda
+tongue: geda
+tongue: geda
+tongue: keda
+tongue: keda
+tooth: ne
+tooth: ne
+tooth: nesi
+tooth: ni
+tooth: nsei
+tree: siyʌ
+tree: siya
+tree: siya
+tree: tseya
+tree: tseya
+two: damo
+two: damo
+two: laßu
+two: rabo
+two: rabo
+walk: yorohu
+walk: yorohu
+wallaby: wasʌia
+wallaby: wesina
+wallaby: wɛsina
+water: iba
+water: iba
+water: ʔiba
+water: zewa
+water: zewa
+white: tsuba
+white: tsuba
+white: yage fauwati
+white: yage fauwati
+wind: howusu
+wind: howusu
+wind: pfabato
+wind: pφabato
+wing: babaɣa
+wing: babagha
+wing: papaga
+wing: papaga
+wing: papagʌla
+woman: wida
+woman: wida
+woman: wida
+woman: wida
+woman: wɪnta
+yesterday: pënabi
+yesterday: pənabi

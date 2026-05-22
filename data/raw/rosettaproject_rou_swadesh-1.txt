@@ -1,0 +1,508 @@
+all: ɟɛ́k
+all: pá(pá)t
+all: tum
+and: ɟɛ́k
+and: wò
+animal: kàda͂m
+animal: ndòbó
+ankle: dɔ̀dí gúːlí
+arm: gámbéːlɔ́
+arm: kàrá
+arm: kɔ̀sɔ̀kɔ́r
+ashes: àwə̀ndí
+ashes: dàt˗ì
+ashes: firgi
+back: àdɔ̀l(ɛ)lɛ̀
+back: gàːta
+back: sìːdá
+bad: tsén
+bark: kàtàpàːɲiŋ
+bark: kɔ̀néi
+because: na
+belly: bùtùlù
+belly: krišé
+big: kùlòlí
+bird: kòsí
+bite: ə̀ti(˗t)
+bite: nɟeŋ(n)
+bitter: čímóà
+bitter: ɗài(˗ndí)
+black: də̀kə́n
+blood: fáːi
+blood: pài
+blow: noːs
+blow: uːk ~ ukn
+bone: ɟìngə̀r
+boy: fòrfór˗í
+branch: dìŋgílí
+branch: rík kɔ̀sɔ̀kɔ́r
+breast: àngòɲi
+breast: ʌ̀ŋgùɲè
+breast: yù˗k
+breathe: uiːs(n)
+brother: ír
+burn: aːt(ŋ)
+burn: ru(n)
+burn: uːt(ŋ)
+butterfly: àdí wɛ́ːɲɜ̀k
+calf: gòmbòmbrə́ŋ
+cheek: àngú
+chest: kòtó
+child: àɲègèr (à)
+child: kài
+child: kày
+chin: nánɟáb˗àŋà
+claw: sə̀ngérmí
+cloud: mone˗mo
+cloud: sahaba
+cloud: sáːp
+cold: atàːndi
+cold: yɛ̀w(indi)
+come: aːr
+come: əsa ~ ɔtŋ
+count: niu(n)
+crocodile: gòrndí
+cut: daːk(n)
+cut: də̀kə̀m aːm
+cut: dèm
+cut: sàkàw
+cut: sɛ̀
+dark: díkín
+daughter: kàtsòwɛ̀i
+daughter: mbà indà
+daughter: sɔ̀wèi
+day: dohor
+die: ɟar ir(ŋ)
+die: i(ː)d
+die: mút
+die: t˗ye
+dig: mbeːr ~ mberŋ
+dig: niːndày
+dig: tomɛ
+dig: uːt
+dirty: miɲindi
+dirty: wàskán
+dog: míɲ
+drink: àŋ ~ aŋn
+drink: nuːr ~ norn
+dry: èbè
+dry: nàbày
+dust: ràːsí
+ear: kàsá
+earth: bà(ː)
+earth: ɓàːɲ˗íŋ
+earth: bàːtí
+earth: kʌsiyʌt
+eat: ɲau ~ ɲaːn
+eat: məs(n)
+eat: nɟen
+egg: kàdɛ̀mɔ̀ŋ
+elbow: bʌ̀ŋg˗álá
+elbow: yèg˗ɛ̀
+emu: kòsí lílí
+eye: kàːsè˗k
+eye: kàsə̀k màɗà
+eye: kàsə̀k tow
+eye: kàːsè˗k yìŋ
+eye: kàːsè˗k yìŋ
+face: àydó
+fall: ləute ~ ləundi
+fall: uːs
+fall: uste ~ usi
+far: dèdì
+father: bá
+father: bàɲá
+father: nóŋ
+fat (n.): brá
+fat (n.): brá
+fear: gùyài
+fear: uik ~ uiaːn
+feather: tòu
+feather: tuw˗úi
+few: díːs
+few: káːkú
+few: nəs
+fight: oːr˗təm
+fight: uddudo(ːn)
+finger: dɔ̀dí tí˗ɲiŋ
+finger: kàrá ti˗ɲíŋ
+fingernail: díːd(i)ŋgì
+fingernail: sə̀ngérmí
+fire: duri
+fire: gèsí
+fire: nə̀sə̀˗k
+fish: kùɲúŋ
+five: kám sɛ́
+five: tòr
+float: ərndɛ ~ raːŋi
+flow: bei(n)
+flow: ɛi(n)
+flower: nàwár
+flow: irs(ŋ)
+flow: sèː
+fly (n.): ʌ̀ɲíɲí
+fly (n.): sə̀u
+fly (v.): ki(n)
+fog: kìy
+foot: dɔ̀dí
+foot: dɔ̀dí díːdiŋgì
+foot: dɔ̀dí kwìy
+foot: itar
+forehead: dìdó
+forest: kòlá
+forest: kútí
+forest: ʌsʌk
+four: árbà
+four: àttèi
+full: bíts
+full: bíyím
+full: biǯàsé
+girl: kàčɔ̀wɛ̀y
+girl: mbàind˗à
+girl: sɔ̀wɛ̀t
+give: nìɲ ~ niɲ(d)
+good: dinǯe
+good: màŋ
+good: sám
+grass: tèr
+grass: yà˗k
+green: bə́lbə́l˗éèn
+green: rànd˗ə́kákádár
+guts: bùtùlù
+hair: tòu
+hair: tuw˗úi
+hand: kàrá
+hand: kàrá kwíy
+hand: tusso
+head: kì(ː)
+hear: ə̀n(ŋ)
+heart: ɟì̀
+heart: ǯì
+heavy: bʌr tɪrre
+heavy: kòdòŋ(˗ndí)
+here: gə̀n
+here: gɪn(se)
+he/she: tànɛ́~tɛ̀nɛ́
+he/she: tànɛ́~tɛ̀nɛ́
+he/she: tì
+he/she: tì
+hit: iɟɟ˗ɔːs
+hit: um
+hold: kánnák
+hole: àgù(yɛ́)
+hole: kúdi
+horn: gʌmd˗í
+house: kàrɛ́
+house: kùdù
+house: tsàkkák
+how: àtɛ̀
+how: ngá(ngà)
+hunt: ɛːs
+hunt: gènís
+hunt: rəgaːs(ŋ)
+husband: ka mɛ́rɛ́́
+husband: mɛ́rɛ
+I: àmɛ́
+I: àmɔ̀
+if: gən
+in: əm(n)
+jaw: nánɟábàŋà
+kill: sàw ~ oːs
+kill: sɔ̀w
+knee: də̀mdí
+know: ɔtɔ
+know: ur
+lake: àr˗ɛ̀
+laugh: tɛi(n)
+leaf: àyó˗k
+leaf: dàrì
+leaf: ndɛ̀rɛ̀
+leaf: sʌŋa
+left: dɛ̀kíá
+leg: dɔ̀dí
+lie: bei˗t ~ bei
+lie: ŋɔnds
+lie: us(t)
+lightning: bàrrák
+lightning: trùgá
+lip: yù˗k (màɗa)
+live: ind(i)
+live: ŋɔnds~ŋondi
+liver: (w)ùró
+long: dèdi
+long: dèdì
+long: tàngá
+louse: mànɟɛ́
+louse: mbìlí
+louse: mɪnǯe
+man: dàpái
+man: fòrfóri
+man: kàŋ kà mɛ́rɛ́
+man: már
+man: mɛ́rɛ́
+many: dàlká
+many: də̀bə̀là
+many: gásí
+many: kwàyɛ́
+meat: dúbò
+meat: mɛ̀sí
+meat: ndòbó
+moon: ànɟék
+moon: medding
+morning: daː
+mosquito: àǯìkíɲí
+mother: bàɲá
+mother: ɲíɲ
+mother: yá
+mountain: kara
+mountain: kòmàːndí kótò
+mountain: kòmàːndí kótò
+mouth: ŋgàbà
+mouth: yù˗k
+name: àdùm
+name: mèːkí
+nape: dìːndé
+nape: gàŋgàn˗i
+narrow: déík
+navel: ə̀dí̀m
+navel: mèːkí
+near: go ~ gɔ
+near: mbay
+near: soti˗se
+neck: kèrmí
+new: kài
+new: làmbwán
+new: wə̀ndí
+night: aɲi˗ndele
+night: dindé
+night: gàngàné
+night: màtàkdɛ́
+nose: mùndú ágú
+not: aise
+not: aːn
+not: ma andi
+not: s(o)
+old: áyándiŋɛ̀
+old: kàŋ mɔ̀nǯɔ̀
+old: minɟaːn˗ndì
+old: mìnǯò
+old: mɔ̀nɟò
+one: kàdɛ́
+one: kàndá
+one: tùwá
+other: dáŋ
+other: kàdɛ́
+person: kà˗ŋ
+play: oai(n)
+play: um
+pull: ɟəbət ir(ŋ)
+pull: òdà(d)
+push: iɟɛ ~ ɔsi
+push: lès˗ɪrim
+push: ndiɲ
+push: ndiːt
+push: siːt ~ siːn
+rain: èn
+rain: enditɛ ~ endi
+rain: tà˗k
+rat: àɟù (múkwíy)
+rat: àwɛ̀tìkɛ̀
+rat: àǯù
+rat: mùmù
+red: ndàláɲ
+right: kɔyiŋga
+right: kwàingɔ́
+ripe: òm(˗t)
+river: awok
+river: bíyà
+river: mèɲá
+river: tà˗k
+road: ɲàŋgwɛ́yɛ́
+root: sòːndí
+rope: kùɲɛ́
+rotten: ɟím(˗ndí)
+rotten: tiyɔye
+rotten: toɲe
+round: ɗóŋɗóŋón
+round: wə́rndi
+rub: buɲa ɪrɪŋ
+rub: niriy
+rub: nisò
+salt: kɔ́mbɔ́
+salt: síyím
+sand: abiy˗ói
+sand: baɲe
+sand: kə̀sìá˗k
+sand: kí(y)á˗k
+sand: saŋe
+sand: wái
+say: ir
+say: ndɛ̀ ~ ndìːs
+say: ndiːs~ndɛn
+say: ndiːs ~ ndɛn
+say: ɪndɪn
+scratch: iɲàs˗on
+seed: wúndítè
+seed: yì˗ŋ
+see: lèt
+see: ɔn(d)
+sew: dà(w)
+sew: ɛrɛt
+sharp: tèrí˗ɲyù˗k
+short: àdíːkɛ́i
+short: adiːsé
+shoulder: də̀mtí
+shoulder: kɔ̀sɔ̀kɔ́r
+sing: ai ~ eli
+sister: úk
+sit: ɲind ~ ɲun
+skin: àr
+skin: màɗà
+skin: párwá
+sky: kayiŋa
+sky: mùnùnù
+sleep: bia
+sleep: ɛn˗anŋ
+sleep: tàn
+small: àdíːkɛ́i
+small: kài
+smell: àbùsí
+smoke: àbróɲí
+smoke: dúːri
+smooth: yèu(˗ndi)
+snake: kɔ̀lɔ́
+snow: tàː˗k kèìɟá
+son: kài (mɛ́rɛ́)
+sour: káyám(˗ndí)
+spit: àdèi
+spit: dòkò(ː)r
+spit: tokor(n)
+split: sìkt
+squeeze: rɛːm(n)
+stand: tàngá
+star: kèìɟá
+stone: dissi
+stone: kómàːndí
+straight: àdíl
+straight: dilʌŋsé
+suck: ɲinaiso(n)
+suck: məs(n)
+suck: ùn
+sun: àɲíŋ
+sweet: àmbə́sàl
+sweet: kèméɲí
+sweet: tuggi
+swell: mèi˗ànt
+swell: tartɛ ~ tari
+swim: ɲɛ́i iriŋ
+tail: àlə̀mdí
+take: amɛ~amndi
+take: aːm(n)
+take: doːr(ŋ)
+take: narisɛ~narndi
+take: ɔːdɔːt(n)
+they: wì
+they: wìníŋ
+thick: kòdòŋ(˗ndí)
+thigh: kàppɔ̀ɲàŋ
+think: nuiː˗sɛ ~ nou˗nyi
+thin: krèìnɟá˗k
+thorn: àdík
+thou: kì
+thou: kìníŋ
+thou: mɔ̀
+thou: nànɛ́~nɛ̀nɛ́
+three: kàsàngà
+throat: ngàbà
+throat: póːré
+throat: póré
+throw: eit (i)
+throw: saŋ(n)
+thunder: kaina
+thunder: trùgá
+tie: ot(ŋ)
+tie: utuŋ
+today: wùsɔ́rɔ́
+tomorrow: ɲámbár
+tomorrow: áy
+tongue: àdìyím
+tooth: sàdí
+tooth: sàdí gól
+tooth: sàdí már
+tooth: sòwátə̀r
+tree: rí˗k
+turn: ads ~ adn
+turn: sál ir(ŋ)
+turn: udɪn
+turn: ùɲìɲ
+turn: uɲiɲ
+two: mbà
+two: mbàràŋ
+unripe: kàlíáfcome
+vagina: àdí
+vagina: àdí ágú
+vagina: àdí kásà
+vagina: àdí tíɲiŋ
+vomit: ət
+walk: ai(k)
+walk: amis(n)
+walk: əsa~ətŋ
+walk: əsa ~ ətŋ
+walk: nɟasm
+walk: ndro(n)
+walk: ornd
+walk: owʌn ~ iun
+walk: yoːn
+warm: bàŋ
+warm: bàŋ(˗ndí)
+warm: bàŋndí
+wash: òːk
+wash: oːk(n)
+wash: òk(˗ò)
+water: àgùyɛ́ ~ àgwìyɛ́
+water: tà˗k
+weep: ai ~ eli
+weep: kàsə̀k yìŋ
+weep: òrò
+weep: t˗am˗na
+we: mì
+we: mìníŋ
+wet: síó
+wet: síɔ̀
+wet: tit ~ tič
+what: àtɛ̀
+what: ngá
+what: ŋgʌ́té˗sɔ̀
+when: ŋgɛddi
+when: ngɔ̀ngɔ̀
+where: ngó
+white: fʌrr
+white: pár
+who: ná˗sò
+wide: wɔ̀sí
+wife: mì
+wife: miyìk
+wind: aguye
+wind: àgwìy
+wind: wi
+wing: kɔ̀sɔ̀kɔ́r
+wipe: tàː˗gə̀s
+with: gən
+with: gon
+with: mba
+woman: kà˗ɲmì
+woman: màts
+woman: mì
+wood: čɔ́d
+wood: rí˗k
+wood: rí˗k
+wood: unǯum
+wood: yɛ̀s
+worm: ŋàyó
+year: àbbánɛ́
+year: kùɗó
+year: sánɛ́
+year: wòšinè
+yellow: áspár
+yesterday: kàndáŋ
+yesterday: kór

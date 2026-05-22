@@ -1,0 +1,32 @@
+child: tama
+ear: hogru
+eat: kanaisini
+eat: kanaisini
+eat: kanaisini
+fire: sare
+fire: sare
+hair: fukura hai
+hair: fukura-hai
+house: ba
+leaf: be
+leg: nie
+leg: nuwe
+man: nepra
+man: nepra
+nose: habu
+rain: nei
+sit: namai parisini
+sit: namai parisini
+sleep: hewrisini
+sleep: hewrisini
+sun: kaberia
+sun: kaberja
+tongue: srumu
+tooth: sebekai
+tooth: sebekai
+tree: bimesini
+tree: bimesini
+walk: katabuisini
+water: bi
+water: bi
+woman: nakamre

@@ -1,0 +1,289 @@
+all:  chunchel
+all:  ke\entero
+ashes:  cha·j
+ashes:  sa\ chahj
+bark:  k\as
+bark:  yoc\oj che
+big:  nim
+big:  nim
+bird:  chicop
+bird:  tz\iquin
+bite:  tiu
+bite:  wahach
+black:  k\ek
+black:  k\ek
+blood:  quic\
+blood:  wic\
+blow: -
+blow:  ahlinic
+bone:  b\ak
+bone:  wak
+breast:  chuch
+breast:  wach  a k\ox
+burn:  c\atom
+burn:  copic
+child:  pi\ ac\on
+child:  q\uisac\un
+cloud:  co\ sutz\
+cloud:  su·tz\
+cold:  c\uxic
+cold:  c\uxic
+come:  chale
+come:  cojic
+cut: -
+cut:  yoc\oj
+day:  k\ij
+day:  k\ij
+die:  kime
+die:  quim
+dig:  -
+dig:  c\ot
+dog:  tz\e\
+dog:  tz\i\
+drink:  uc\
+drink:  uc\
+dry:  chikij
+dry:  chiquic
+dust:  po·k
+dust:  pokolah
+earth:  ac\al
+earth:  ak\a\l
+ear:  xiquin
+ear:  xiquin
+eat:  k\oxom
+eat:  wi\ic
+egg:  maloj
+egg:  miloj
+eye:  nak\ wach
+eye:  nuk\ wa·ch
+fall:  -
+fall:  k\ehb\ίc
+far:  najt
+far:  najt
+father:  rij
+fat (n.):  k\ina·\
+fat (n.):  manteca
+fear:  -
+fear:  yohjic
+feather: pluma
+feather:  rij
+fingernail:  ixcak
+fingernail:  ixkak
+fire:  k\a·k
+fire:  k\ak\
+fish:  car
+fish:  car
+five:  ho\ob\
+five:  ho\wab\
+fly (v.):  purinic
+fly (v.):  rupur
+fog:  -
+fog:  mutz\ jab\
+foot:  ok
+foot:  tuk
+four:  qui\ib\
+four:  quijib\
+fruit: -
+fruit:  wa\ che·
+full:  noajenak
+full:  nujinak
+give:  rula\
+give:  yeu
+good:  atob\
+good:  no\ wajal
+green:  rax
+green:  rax
+hair:  nah
+hair:  rismal nah
+hand:  k\ab\
+hand:  k\ab\
+head:  jalom
+head:  nah
+hear:  b\ir
+heart:  anima
+heart:  chunwalma
+hear:  waraj
+heavy:  ahl
+heavy:  ahl
+here:  ayu\
+here:  riyu\
+hit: -
+hit:  k\oj
+horn:  oc\a\
+horn:  ruc\a·\
+how?: -
+how?:  ch\i
+husband:  b\ahil
+husband:  wahil
+I: bin
+I: hin
+kill:  cans
+kill:  cansa·
+knee:  nah chehc
+knee:  wach chak
+know:  atalim
+know:  ehťal
+lake:  ha\
+lake:  palau
+laugh: -
+laugh:  se\el
+leaf:  xak
+leaf:  xak
+left:  -
+left:  tz\et
+lie:  yocic
+lie:  yok
+liver:  \igado
+liver:  tamat
+long: nim
+long:  niŋ wach
+louse:  tamat
+louse:  uc\
+man:  winak
+man:  winak
+meat:  ch\ac
+meat:  tib\cal
+moon:  ch\um  poh
+moon:  poh
+mountain:  rax che·
+mountain:  yuk\
+mouth:  chi\
+mouth:  chi·
+name:  b\ih
+name:  wih
+near:  loho\ ti
+near:  ma  najt taj
+neck:  alak
+neck:  alak
+new:  ac\
+new:  ac\
+night:  chak\ab\
+night:  chak\ab\
+nose:  jo\
+nose:  ju\
+one:  jinaj
+one:  jinaj
+other: -
+other:  tocom
+person:  cristianu
+person:  maj winak
+pull: -
+pull:  quer
+rain:  jab\
+rain:  jab\
+red:  cak
+red:  cak
+right: -
+right:  sac\aj
+river:  nim ha\
+river:  sa\ la ha\
+road:  rok yu·k\/b\e
+road:  wieh
+root:  ra·\
+root:  yuhm
+rope:  c\aham
+rope:  laso
+rope:  lasuh
+rope:  sajqui
+rotten:  k\ah
+rotten:  k\ahlam
+round:  cotoquic
+round:  junc\oh
+sand:  saminib\
+sand:  sanib\
+say:  k\oric
+say:  rokax
+seed:  ija\
+seed:  ija\
+see:  il
+see:  rola\
+sing: -
+sing:  tz\uy/wich
+sit:  ch\ic
+sit:  chunic
+skin:  tz\uhmal
+skin:  tz\uhum
+sleep:  wir
+sleep:  wiric
+smell:  cok tak
+smell:  pi\
+smoke:  si·b\
+smoke:  sib\
+stab: -
+stab:  tok\
+stand:  pa\
+stand:  pa\ic
+star:  ch\imi·n
+star:  ch\umil
+stone:  ab\aj
+stone:  ab\aj
+stone:  ca\
+stone:  quehb\al/ca\
+suck: -
+suck:  tzub\
+sun:  k\ij
+sun:  k\ij
+swell: -
+swell:  sib\jic
+swim:  mux
+swim:  nadar
+tail:  jia
+tail:  rije·\
+that:  lo\
+that:  wulu
+there: -
+there: ar
+thick:  nim pam
+thick:  nim pam/pim
+thin:  q\uisin pam
+thin:  xax/b\ak
+this:  wili
+this:  wili
+thou: hat
+thou: hat
+tongue:  a·k\
+tongue:  ak\
+tooth:  e
+tooth:  eh
+tooth:  nuca\
+tooth:  wiah
+tree:  che·
+tree:  chie\
+two:  qui\b\
+two:  qui\ib\
+walk:  b\ehic
+walk:  weh
+warm:  tz\a\
+warm:  tz\a\
+wash:  -
+wash: -
+wash:  tz\aj
+wash:  tz\aj
+water:  ha\
+water:  ha\
+we:  hok
+we:  keh
+wet:  mojinak
+wet:  tz\akic
+what:  chi\in
+what:  hayura\
+when?: -
+when?:  haruj
+where?:  hayu\
+where?:  pah
+white:  sak
+white:  sak
+who:  ha  wach
+who:  hayo\
+wife:  ehq\uen
+wife:  ixkiel ma\ winak
+woman:  ixk\un
+woman:  ixok
+woman:  ixok
+woman:  xila\
+year:  ha·b\
+year:  hab\
+ye:  hat
+ye:  hat tak
+yellow:  k\an
+yellow:  k\an

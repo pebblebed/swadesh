@@ -1,0 +1,167 @@
+arrow: mera
+ashes: jip e
+ashes: ǯip e
+back: ombugl
+back: ombugl
+bad: girume
+bad: girume
+big: awil
+big: wilh
+bird: kera
+bird: kera
+black: pombaram
+black: pombarám
+blood: yogoi
+blood: yogoi
+bone: ombedl
+bone: ombegl
+breast: ami
+breast: ami
+brother: anggu
+brother: aŋgu
+burn: tibe norum
+burn: tibe norum
+butterfly: gogumi
+butterfly: gogumi
+cassowary: gera-g.lh raime
+child: bagl bane
+child: bagl bane
+cold: aij erum
+cold: aiǯ erum
+day: tanggoei
+day: taŋgori
+dog: oua
+dog: oua
+drink: no ndu
+drink: no ndu
+ear: kom
+ear: kom
+earth: mai
+earth: mai
+earth: mai
+eat: ndu
+eat: ndu
+egg: mogl
+egg: mogl
+emu: geragl raime
+eye: monggo
+eye: moŋgo
+face: kumbe gere
+face: kumbe gere
+father: ara
+fear: magu mongku
+fear: magu moŋku
+fire: tipi
+fire: tipi
+fish: o:ma
+fish: oːma
+flower: kondibe
+flower: kóndibe
+fly (n.): gomoi
+fly (n.): gomoi
+foot: gi:imbo
+foot: giːimbo
+fruit: onj mongk
+fruit: onǯ moŋk
+girl: ambu
+girl: ambu-
+give: čiro
+give: na ciro
+give: na nu ciro
+guts: ogl
+guts: og.lh
+hair: piɲ enči
+hair: piny enci
+hand: ki
+hand: ki
+head: penc
+head: pinč
+hear: penc
+hear: penč
+house: nggu
+house: ŋgu
+know: na pil jo
+know: pil žo
+leaf: nggom
+leaf: ŋgom
+lie: oro pero
+lie: pero
+live: na koci purum
+long: tugl
+long: tug.lh
+louse: əmbonu
+louse: ëmbónu
+man: inboma
+man: inboma
+man: iye
+man: iye
+meat: minc
+meat: minč
+moon: odl
+moon: ogl
+mother: ama
+mother: ama
+mountain: ka:gumuga
+mountain: kaːgumuga
+mouth: kerega
+mouth: kerega
+name: bidla
+name: bigla
+night: bil tem
+night: ena purum
+night: ena purum
+night: ibil tem
+rain: kombuna torom
+rain: kombuna torom
+rat: gloi
+rat: gloi
+red: obugl
+red: obugl
+road: adendu bugle
+road: adendu glanina
+root: gara
+root: gara
+rope: a:piy
+rope: aːpiy
+rope: egl ga
+say: na niyu
+say: niyu
+see: karo
+see: na karo
+sister: aːʎa
+sister: a:lya
+sit: maɲ moltu
+sit: many moltu
+skin: kagugl
+skin: kagugl
+small: ke:gl
+small: keːgl
+smoke: lyiterum
+smoke: ʎterum
+snake: wainbi
+snake: wainbi
+stand: gai mundi janum
+star: kandiye
+star: kandiye
+stone: kou
+stone: kou
+sun: pani
+sun: pani
+tongue: arimbigl
+tongue: arimbi-gl
+tooth: önggu
+tooth: oŋgu
+tree: indje
+tree: inǯe
+water: nol
+water: no(-l)
+weep: monggo te
+weep: moŋgo te
+weep: wio
+weep: wio
+wife: ambo-ma
+wife: ámbo-ma
+wind: ajerum
+wind: aǯerum
+woman: ambu
+woman: ambu

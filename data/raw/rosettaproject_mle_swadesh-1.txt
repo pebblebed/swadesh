@@ -1,0 +1,329 @@
+arm: tab
+arm: tamb
+ashes: baw
+ashes: mbaw
+back: ban
+back: mban
+bad: kuvïrapë
+bad: kwvərapʌ
+bark: cəpəmy
+bark: cïpï mi
+belly: ɲəmamb
+belly: nyïmab
+big: nəma
+big: nïma
+bird: wapi
+bird: wapy
+bite: vatə
+bite: vatï
+black: gïr-gïr
+black: ŋgərŋgər
+blood: ɲəky
+blood: nyïki
+blow: vëjïki
+blow: vənɟəky
+bone: ap
+bone: ap
+branch: ba mi
+branch: mba my
+breast: muny
+breast: mwɲ
+brother: ɲəmwc
+brother: mam
+brother: mam
+brother: nyïmuc
+burn: avətə
+burn: avïtï
+chest: navi
+chest: navy
+child: ɲan
+child: nyan
+chin: təkʌ ap
+chin: tïkë ap
+cloud: gïr
+cloud: ŋgər
+cold: nəkər
+cold: nïkïr
+come: ya
+come: ya
+cut: patəp
+cut: patïp
+dig: takə
+dig: takï
+dig: va
+dig: va
+dig: vëcuku
+dog: ac
+dog: ac
+dry: cəpərəkə
+dry: cïpïrïkï
+earth: kəp
+earth: kïp
+ear: wan
+ear: wan
+eat: kə
+eat: kï
+egg: bad
+egg: mband
+elbow: kwati
+elbow: kwaty
+eye: mir
+eye: myr
+fall: vakər
+fall: vakïr
+far: cəkə
+far: cïkï
+father: acay
+father: acay
+fat (n.): vər
+fat (n.): wïr
+fear: yag
+fear: yag
+feather: ywy
+fight: waryʌ
+fingernail: wryn
+fingernail: wryn
+fire: y
+fire: yi
+fish: kami
+fish: kamy
+flower: mawëy
+flower: mawʌy
+fly (n.): car
+fly (n.): car
+fly (v.): wr
+fly (v.): wr
+fog: bwë-tubu
+fog: mbwʌtwmbw
+foot: yarë (man)
+foot: yarə man
+forest: kwarəmb
+forest: kwarïb
+four: ari
+fruit: təkə
+fruit: tïkï
+full: kavunë
+full: kavwnʌ
+give: kwi
+give: kwy
+good: vyakətʌ
+good: vyakïtë
+grass: nugway
+grass: nwŋgway
+hair: nab
+hair: namb
+hair: ywi
+hair: ywy
+hand: tab
+hand: yarë (tab)
+hand: yarə tamb
+head: abu
+head: ambw
+heart: awtək
+heart: aw-tïk
+hear: wak
+hear: wak
+heavy: vat
+heavy: vat
+he/she: dï
+he/she: ndə
+he/she: rə
+he/she: rï
+hit: vyʌ
+hit: vyë
+hit: waryë
+house: wi
+house: wy
+how: kac
+I: wn
+I: w-n
+kill: vi
+kill: vy
+knee: kwati
+lake: ar
+lake: ar
+laugh: waj
+laugh: wanɟ
+leaf: mi nyïgï
+leaf: my ɲəŋgə
+left: aki (tab)
+left: aky tamb
+leg: man
+leg: man
+lie: ku
+lie: kw
+liver: wtəpy
+liver: wt-ïpi
+long: cəmykʌcəmy
+long: cïmikëcïmi
+louse: təŋgyn
+louse: tïgin
+man: du
+man: ndw
+many: cëmëcëm
+many: cʌmʌcʌm
+meat: kijav
+meat: kynɟav
+moon: bapu
+moon: mbwap
+mosquito: kəvy
+mosquito: kïvi
+mother: amay
+mother: amay
+mountain: nəmbwk
+mountain: nïbuk
+name: cə
+name: cï
+nape: kwkë mak
+nape: kwkʌ mak
+navel: ɲʌnwr
+navel: nyënwr
+near: arəwyʌn
+neck: kwar
+neck: kwar
+new: kulë
+new: kwlʌ
+night: ŋgan
+nose: tam
+not: ma
+not: ma
+old: apëdï dw
+old: apʌndə ndw
+old: jabwë
+old: nɟambwʌ
+one: nëk
+one: nʌk
+other: kavëbë
+other: kavʌmbʌ
+pull: ragu
+pull: raŋgw
+push: ragu-cë
+push: raŋgwcʌ
+rain: war
+rain: war
+red: ɲəkyɲəky
+red: nyïki-nyïki
+right: vyʌvyʌ tambʌ
+ripe: rawnə
+ripe: rawnï
+road: yab
+road: yamb
+root: pəŋgʌ my
+root: pïgë mi
+rope: bajïgï
+rope: mbanɟəŋgə
+rotten: akwy
+rotten: puku
+rotten: pwkw
+salt: kwac
+salt: kwac
+sand: yawi
+sand: yawy
+say: bur
+say: mbwr
+say: wë
+scratch: gar
+scratch: ŋgar
+see: və
+see: vï
+sharp: kaw
+sharp: kaw
+short: pawkëpa
+short: pawkʌpa
+sister: nɟəkwar
+sister: yïkwar
+sit: rə
+sit: rï
+skin: cəp
+skin: cïp
+small: kwacʌ
+small: kwacë
+smoke: ya-ki
+smoke: yaky
+snake: kabay
+snake: kambay
+spit: cïp
+spit: yar kar
+split: vyëcar
+stand: ataw
+stand: tə
+stand: tï
+star: tugwi
+star: twgwy
+stone: kabëk
+stone: kambʌk
+sun: ɲə
+sun: nyï
+swim: pwi
+swim: pwy
+tail: gin
+tail: ŋgyn
+that: adë
+that: andʌ
+they: dëy
+they: ndʌy
+they two: bïr
+they two: mbər
+thigh: daw
+thigh: ndaw
+this: kəndy
+this: kïdi
+thou: ɲən
+thou: mən
+thou: mï-n/nyï-n
+thou: ŋgwr
+three: mugur
+three: mwŋgwr
+throat: kwar
+throat: kwar
+tie: tətak
+tie: tïtak
+tongue: təkalər
+tongue: tïkalïr
+tooth: wk
+tooth: wk
+tree: ɲədə my
+tree: maw my
+tree: mi
+tree: my
+turn: rəpə tyakw
+turn: rïpï tyaku
+two: vəty
+two: vïti
+vomit: ŋgwy
+walk: ŋgəvʌn y
+walk: y
+walk: y
+walk: yi
+walk: yi
+warm: kukunanë
+warm: kwkwnanʌ
+wash: yaku
+wash: yakw
+water: gu
+water: ŋgw
+we: ɲan
+weep: gër
+weep: ŋgər
+we: nya-n
+we two: an
+we two (incl.): an
+what: ëgwë
+what: ʌgwʌ
+when: akə-cəkə-r ɲə
+where: akə-Mb
+where: akï-b
+white: wamëkëwam
+white: wamʌkʌwam
+who: cə
+who: cï
+wind: mar
+wind: mar
+wing: pap
+wing: pap
+with: wë
+woman: taku
+woman: takw
+you: gu-r
+you two: bïr
+you two: mbər

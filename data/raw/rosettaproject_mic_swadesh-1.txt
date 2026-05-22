@@ -1,0 +1,169 @@
+all: ms-tgoqwei
+and: aqq, jel*, ak
+ashes: tǔpkwŏn
+back: kpaqm-npoqm~
+because: mŭdŭ
+belly: nmusti
+big: mesgi-g
+bird: sisip*, sesĭp
+bite: menpatl
+black: maqtewék*
+blood: maltew
+bone: nwaqan-tew
+breast: puskun*
+breathe: gamlamit
+burn: gaqsatl, gagsit
+child: mijua-ji-j
+cloud: alug, alukw*
+cold: tegig
+come: iga-q
+correct: tetapua-toq
+count: egimatl
+cut: telsatl, tels-g
+day: naagwěk, wŏpk
+die: sigto-gwet
+dog: lmu-j
+drink: esamqwat
+dry: gispasg, gispasatl, gispasit
+dull: jigaweteg, gesp-g
+ear: nsitaqn
+earth: maqmakew*
+eat: etlatalg
+eye: nupukikw
+fall: gewiaq, gewiet
+far: amaseg
+father: tata-t
+fat (n.): memā
+fear: jipalatl, jipatg
+few: matakaiem, matakauo*
+fight: matnagget, matnatl
+fingernail: kqosík; nqosi
+fire: booktāoo
+fish: najiwsget
+five: nán*, nan
+float: als-g
+flow: ěsĭtk-
+fly (v.): alsing, als-g
+fog: ún: ewnék 
+foot: nkat
+forest: nebŏŏkt-
+four: néw*, nāoo
+fruit: minijg
+give: ignmuatl, ignmuetoq
+good: kěloo-lk
+grass: msigu
+green: esgig, esgit
+guts: waqtianl, wliksíl*
+hair: kusapun
+hand: lamiptn
+head: nunji
+heart: kkamulamun
+heavy: kěscook,  gesgugg
+he: něgŭm
+here: tet
+hit: etlte-g, telte-g
+hold: gennatl, genn-g
+hunt: nědoogoole
+husband: nkisikum*
+ice: umkoome
+if: ědŭ
+I: niin, nen, neen
+knee: kjikun
+know: ge-itoq, gejiatl
+lake: koospěm
+laugh: etlenmit
+leg: kajikn
+lie: ělesmaase, isttohkihtsii (v)
+live: memăje*,  mimajig, mimajit
+liver: skun
+louse: sasqeiejit
+man: cheenŭm
+many: poogwělkǐk
+meat: weeos
+moon: děpkŭnoo-sět
+mother: giju-
+mountain: gmtn
+mouth: ktun, -ntun*
+name: wesoon
+narrow: jijigwe-jg
+near: tepaw
+neck: kjítaqn
+night: děpkǐk
+nose: ksisqun*
+not: moo
+one: néwt*, nāookt
+other: kamāāk
+person: inu*
+play: mila-sit, mila-sualal
+push: gesma-latl, gesma-toq
+rain: kispesaq*, kĭk’pěsâk
+red: mekwék*
+right: inaganmit
+river: sipu*, seboo
+road: awti
+rope: a-papi
+rotten: sugulegaq, sugulegat
+rub: amipulatl, amiputoq
+salt: salawei
+sand: atuomq
+say: tělooā-
+scratch: gesipto-sit
+sea: apaqt
+seed: sgilmin
+sew: eli-satl, elisewet
+sharp: gi-g
+short: toqwaqji-jit
+sing: etlintoq
+sit: epit*, ěbaase
+skin: wásqi*
+sky: musigisg
+sleep: něbei
+small: apje-jg, apje-jit
+smoke: -ntloo-dāoo
+snake: -mtāāskŭm-ook
+snow: wastow*: pesaq, wostāoo
+spit: luswatign
+split: aps-sqate-get
+squeeze: jing-ja-latl, jing-ja-toq
+stab: sapalqata-tl, sapaqqata-tl
+stand: gagama-sit
+star: kŭlokowĕch-k*, gloqowej
+stick: gmu-j
+stone: kunt-ew*, guntew
+straight: tetpaqpit
+sun: nagoo-sět
+swell: apita-t
+swim: tegismit
+that: ala, a-at
+there: tět, nadāāl*, ala
+they: něg-ŭmow
+thick: maqo-
+think: etlite-tg
+this: oot, nŭt
+thou: kel
+three: sí-st
+throw: eleget
+tie: gelpilatl
+tongue: kilnu, nilnu; melnoo*
+tooth: mebet: nipit
+tree: kŭmoo-ch
+turn: atapaqatl
+two: tápu*, taaboo
+vomit: so-qotemit
+walk: alatija-sit
+warm: apua-latl, apuatoq
+wash: gesispa-latl, gesispa-lsit
+water: săm-oogwŏn
+wet: saqpe-g
+what: goqwei
+when: tán*, tan, ta’n
+where: tame?, ta-n
+white: wapék
+who: tan, wěn
+wide: gesga-sit
+wife: ntépitem*
+wind: wejúsn* oochoo-sŭn
+wipe: ga-satl, ga-s-g
+woman: e-pit; pl. e-pijik, eepit*
+yellow: wataptek*
+you: giil*

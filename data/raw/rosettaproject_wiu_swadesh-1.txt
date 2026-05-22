@@ -1,0 +1,242 @@
+all: pea
+all: pea
+arm: yono
+arm: yono
+ashes: kuku
+ashes: ku~ku
+back: mukiti
+bad: po̪ko
+bark: tabe
+bark: tabe
+belly: tepe
+belly: wedo
+belly: wedo
+big: tubea
+big: tubea~
+bird: ini
+bird: ini~
+bite: taniko
+bite: taniko
+black: lienea
+black: lienea
+blood: kamate
+blood: kamate
+bone: tono
+bone: tono
+boy: ali mati
+breast: adu
+breast: adu
+brother: wamene
+burn: nako
+burn: nako
+chin: pakunu
+claw: ogo
+claw: ogo
+cloud: wedo
+cloud: wedo
+cold: kakale toko
+cold: kakale toko
+come: noko
+come: noko~
+dark: lieneá
+die: tuko
+die: túko
+dog: tue
+dog: tue
+drink: ue nako
+drink: ue nako
+dry: kau~ toko
+dry: kau toko
+ear: kabidi
+ear: kabidi
+earth: itono
+earth: itono
+earth: itonó
+eat: nako~
+eat: one ne nako
+eat: one ne nako
+egg: mu
+egg: mu͂
+eye: lene
+eye: lene
+fat (n.): ai
+fat (n.): a͂i͂
+feather: pine
+feather: pine
+fire: toe
+fire: toe
+fish: mou
+fish: mo͂u͂
+fly (v.): pukanea yako
+fly (v.): pukanea yako
+foot: kawa~
+forehead: pono
+full: kapeteko
+full: kapeteko
+give: meteko
+give: oneme no meteko
+give: oneme no meteko
+good: epeteko
+good: epe te~ko
+green: kanutanea
+green: kanu tanea
+hair: pine
+hair: píne
+hand: yono
+head: tobou
+head: tobou
+heart: mugili
+heart: mugili
+hear: yateko
+hear: yateko~
+heavy: kedá toko
+he/she: one
+he/she: one~
+hit: witiko
+hold: moto~ko
+horn: kime
+horn: kime
+house: yapu~
+I: no
+I: no
+kill: witiko
+kill: witiko
+knee: wadini
+knee: wadini
+know: wene toko
+know: wene toko
+laugh: yáu toko
+leaf: tata
+leaf: tata
+leg: kawa
+leg: kawa~
+lie: pitiko
+lie: pitíko
+liver: kolotíni
+liver: kolotono
+long: ludu
+long: ludu
+louse: nomo
+louse: nomo~
+man: ali
+man: ali
+many: kaia
+many: ka͂i͂a
+meat: melepu
+meat: melépu
+moon: tokene
+moon: tokene
+mountain: tono
+mountain: t̪ono
+mouth: kabunu
+mouth: kabunu
+name: ibini
+name: ibíni
+neck: kabe
+neck: kabe~
+new: pene
+new: péne
+night: likonou
+night: likonu
+nose: timini
+not: mená
+not: mo-
+not: mo-
+one: odene
+one: odene
+person: ali
+person: ali
+rain: ta
+rain: ta
+red: kienea
+red: kienea
+road: ka
+road: ka
+root: teke
+root: teke
+round: lupi
+round: lupi
+sand: kibi
+sand: kibi
+say: wa oko
+say: we oko
+seed: lene
+seed: lene
+see: eneko
+see: one eneko
+see: one eneko
+shoulder: wagéne
+sister: anaí
+sit: meko
+sit: mekó
+skin: kepene
+skin: kepene
+skin: yogele
+sleep: atu pitiko
+sleep: atu pitiko
+small: natea
+small: natea
+smoke: lodo
+smoke: lodo
+spit: totona óko
+stand: kako
+stand: kako
+star: tagoi
+star: tagoi
+stone: kue
+stone: kué
+sun: lou
+sun: loú
+swim: ue yonoto piko
+swim: ue yonoto piko
+tail: adapini
+tail: adapini
+that: eni
+that: eni
+they: kini
+they: kini
+they two: kita
+they two: kita~
+thigh: mana
+this: i
+this: i
+thou: kíwi
+thou: ne
+thou: ne~
+tongue: keke
+tongue: keké
+tooth: kime
+tooth: kime
+tree: yomo
+tree: yomo~
+two: takuta
+two: takuta
+walk: yako
+walk: yako
+walk: yakó
+warm: poto toko
+warm: poto toko
+water: ue
+water: ue~
+we (incl.): toto
+we: toto
+we: toto
+we two (incl.): tota
+we two (incl.): tota~
+we two: toto
+what: ede
+what: ede
+what: edele
+when: manipeté
+white: áke tanea
+white: ake tanea
+who: teyo
+who: teyó
+woman: atoa
+woman: ato~a
+yellow: kakai
+yellow: kakai page~nea
+yesterday: abela
+you: kiwi
+you two: kita
+you two: kita~

@@ -1,0 +1,100 @@
+all: nyïwa\nya
+arm: faaya
+ashes: kwaakuva
+bark: (yïga) paa
+belly: sïmega/aavya
+big: movïnya
+bird: mïnavaya
+bite: taga\nado
+black: lïkumamïya
+blood: langaaya
+bone: yakïna
+breast: aamïna
+burn: tïga galisïwo
+claw: saapanga
+cloud: kwova
+cold: yïmïnsa
+come: ka-p-ïwa
+die: panewio
+dog: lïvaaya
+drink: aaya minyo inaaga namdï
+dry: salaaya
+ear: kaatïga
+earth: kwaa\a
+eat: minyo
+egg: mïnya
+eye: tïmma
+fat (n.): aavava
+feather: a
+fire: tïga
+fish: mapwïya
+fly (v.): kwaavekwogo
+full: maangava
+give: kan-aap-iwo
+good: no\nya
+green: lïsawagara
+hair: msa\a
+head: munakïna
+hear: (kaatiga) upaa\nyo
+heart: fove
+horn: lïwanga
+I: nnyi
+kill: pazaawio
+knee: kwoma
+know: fi\na upankingo
+leaf: (iga)kwaya
+leg: lïvya
+lie: lïga wakïgo
+liver: ke
+long: laaviya
+louse: iya
+man: kwoyava/kwe
+many: tatave
+meat: unkuva
+moon: kaamïna
+mountain: kwawagïna
+mouth: maanga
+name: yavya
+neck: sumalisa
+new: laanga
+night: lïkïma
+nose: lïpasi
+not: maa/mara
+one: uwa\na
+person: aa\me
+rain: nagïra
+red: navïsa
+road: fi\ya
+root: saapinga
+round: kakïmakïwo
+sand: wora
+say: ka-t-ïgo
+seed: araavya/langa
+see: tïma wanya
+sit: kavankwawo
+skin: paa(ga)
+sleep: lïga wakïwa\
+small: ma\me
+smoke: sega
+stand: ka-vot-agavogo
+star: sïngaamna
+stone: laasa
+sun: mapiya
+swim: aaya nunkawo
+tail: fasia
+that: to´nïnu
+this: te
+thou: si
+tongue: teva
+tooth: maanga
+tree: iga
+two: huvaa\u
+walk: kaawo
+warm: taga\nya
+water: aaya
+we (incl.): ne(mage)
+what: piyagawo
+white: wayaavara
+who: tïwakawo
+woman: a\melapi
+yellow: korumja

@@ -1,0 +1,39 @@
+egg: papu
+egg: wiṭpi
+forehead: miṭi
+forehead: miṭit̪anapa
+give: ŋuda
+give: ŋuta
+he/she: wu-
+he/she: wu-
+he/she: yiwa
+he/she: yiwa
+I: ŋaṇa
+I: ŋaṇa
+one: yakulu
+one: yarɣulu
+swim: ŋapura
+swim: ŋawira
+they two: bula
+they two: wula
+they: yalu
+they: yanu
+thou: wuru
+thou: wuru
+thou: yiba
+thou: yiba
+thou: yin-
+tongue: ŋat̪ala
+tongue: ŋat̪ali
+tooth: gut̪ani
+tooth: kut̪ana
+we (excl.): ŋanu
+we (excl.): ŋanu
+we (incl.): ŋabala
+we (incl.): ŋabala
+we two (excl.): ŋaliya
+we two (excl.): ŋayara
+we two (incl.): ŋali
+we two (incl.): ŋali
+you two: yibala
+you two: yibala

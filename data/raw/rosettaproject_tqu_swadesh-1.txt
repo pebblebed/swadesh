@@ -1,0 +1,915 @@
+all: i:viri
+all: iːvri
+and: eta
+and: eːta
+and: ɛːta
+and: oro
+arm: na oːmbi
+arm: o:bi
+arm: oːbi
+arm: ombi
+arm: ɔmbi
+arrow: toko
+ashes: bufɔ
+ashes: (m)bufo
+ashes: tumbutumbu
+ashes: tumbutumbu
+back: hiri
+back: hiri
+back: zo hiri
+bad: rivo(-ta)
+bad: rivoːta
+bad: rivoːta
+bad: rivɔ(ta)
+bark: ɔːlɔzuɔ
+bark: zuo
+bark: zuɔ-na
+bark: zuo-na (n1)
+because: ene
+because: ɛne
+belly: rae
+belly: rae
+belly: rai
+big: tebo(ta)
+big: tembota
+big: teːmbota
+big: tembo(-ta)
+bird: arove manozo
+bird: arovo-manongo
+bird: mano(go)
+bird: maːnozo
+bird: mano-zo
+bird: mano(-zo)
+bite: arafa
+bite: arafa
+bite: a:ra-va
+bite: aːra-va
+black: i:nggi-ta
+black: iŋgita
+black: iːŋgita
+black: iːŋi(ta)
+blood: no vo
+blood: vo
+blood: vo
+blood: vo
+blow: vuːa
+blow: vuːa
+bone: minu
+bone: minu
+bone: minu
+bone: minu
+branch: hae ~ haeme
+branch: haeme
+breast: husu
+breast: susu
+breast: susu-na
+breast: teo
+breast: teɔ
+breathe: zonua
+breathe: zoːnua
+brother: ⁿdare
+brother: ⁿdare
+brother: misiti
+brother: sitir
+burn: itofa
+burn: i:tofa
+burn: iːtofa
+burn: itʰofa
+burn: nɔitɔe
+butterfly: fefere
+butterfly: fefere
+butterfly: urefefe
+butterfly: urefefe
+butterfly: uripepe
+cheek: bao
+cheek: bao
+child: (ei)haː
+child: ha
+child: ha
+child: ha
+child: nanu
+child: nanu
+chin: zime
+chin: zime
+cloud: hohora
+cloud: hohora
+cloud: hoːhora
+cloud: hoːroː
+cloud: lumu
+cold: beo-ta
+cold: beɔ(ta)
+cold: irinara
+cold: mbeota
+cold: (m)beu-gougou
+cold: mbeuta
+come: hofea
+come: hofe-a
+come: hofe-a
+come: naŋgo
+come: oze
+correct: oːveta
+correct: oːveta
+count: aːmboa
+count: nɔamboe
+crocodile: horoso
+crocodile: seoto
+crocodile: seoto
+crocodile: seoto
+crocodile: seoto
+crocodile: sioto
+crocodile: soro
+cut: eⁿda ~ esa
+cut: heheho
+cut: maho
+cut: mahoa
+cut: mahoa
+cut: suma
+cut: uria
+cut: uria
+dark: kutu
+daughter: ha
+daughter: ha
+day: anuforo
+day: mbisi
+day: mucɔ-na
+day: musona
+day: musona
+day: mutso-na
+die: moto
+die: muto
+die: uza
+die: uza
+die: u(:)za
+die: uːza
+dig: ɣeria
+dig: ɣeria
+dirty: hefota
+dirty: hemu-hemu
+dirty: i:gi
+dirty: iːŋgita
+dog: lipe
+dog: sie
+dog: sie
+dog: sie
+dog: sie
+drink: fioua
+drink: fioua
+drink: fio-ua
+drink: fiouːa
+dry: ɣaosora
+dry: ɣaosora
+dry: gaoso(ra)
+dry: gaɔso(ra)
+dust: bugo
+dust: mbufɔ
+ear: onggoto
+ear: oːŋgoto
+ear: oːŋgoto
+ear: oɣoto
+earth: fecu
+earth: fecu
+earth: fensu
+earth: fesu
+earth: feːsuo
+earth: fetsu
+earth: fetsu (n1)
+earth: one
+earth: pensu
+eat: aːzafa
+eat: azafe
+eat: ua
+eat: uːa
+eat: uːaː
+egg: aːde-na
+egg: a:de-na (n1)
+egg: adenga
+egg: a(n)dena
+egg: aːndena
+egg: aːndena
+eye: bero
+eye: mate
+eye: (m)bero
+eye: mberoː
+eye: mberoː
+face: rovena
+face: roveni
+fall: ⁿduoa
+fall: ⁿduoa
+far: hoːŋo
+far: hoːta
+far: hoːta
+father: aːe
+father: ai
+father: ai
+father: mama
+father: mama
+father: mama
+fat (n.): haguru-cɔ
+fat (n.): haguru-tso
+fat (n.): haŋguluso
+fat (n.): haŋgurufa
+fear: mbuouza
+fear: mbuouza
+fear: sasasasa
+feather: manuzufu
+feather: manuzufuna
+feather: zufu-na
+feather: zufu-na (n1)
+fight: lumba
+fight: lumba ~ rumba
+finger: ɔːci
+finger: onji
+finger: o:tsi
+fire: hiro
+fire: hirɔ
+fire: hirɔ
+fire: hiro (n1)
+fire: vuvuru
+fire: vuvurufa
+fire: zotia
+fish: iːɣana
+fish: iːɣana
+fish: i(:)gana
+fish: iːgana
+five: sodu
+five: soⁿdu
+five: soⁿdu
+five: so(n)du
+float: aːrea
+float: aːrea
+flower: havoro
+flower: havoro
+flower: o:zo
+flower: ɔːzɔ
+flow: totoro
+flow: vehia
+flow: veiha
+fly (n.): urusu
+fly (n.): urusu
+fly (n.): uːrusu
+fly (v.): a:ro-va
+fly (v.): aːrova
+fly (v.): aːrova
+fly (v.): aːro-va
+fog: lovu
+fog: maneɣe
+fog: maneɣe
+fog: manege
+fog: manege
+fog: rovu
+foot: oe
+foot: oe(-evona)
+foot: piteleme
+forehead: ae:te
+forehead: aeːte
+four: avo
+four: a:vo
+four: aːvo
+four: aːvo
+four: aːvo
+fruit: ɔlɔuvu
+fruit: orou ve(su)
+fruit: uve
+fruit: uve
+fruit: uːvu
+full: singi(a)
+full: siŋia
+full: siŋia
+full: siŋi(a)
+girl: sorasate
+give: aⁿde
+give: hia
+give: teo
+give: teo
+give: teo aⁿde
+good: ni(ta)
+good: ni(ta)
+good: niːta
+good: niːta
+grass: hero
+grass: herɔ
+grass: herɔ
+grass: keroː
+green: hiuta
+green: hiu(ta)
+green: hiu(ta)
+green: hiu(ta)
+guts: hingu
+guts: hingu
+guts: sifiti
+guts: sifiti
+hair: (uo-)zufu
+hair: zufu
+hair: zufu
+hair: zufu
+hand: ɔbi
+hand: ombi(-evona)
+head: uo
+head: uo
+head: u\o
+head: uɔ
+head: uo ~ uombo
+hear: aːmaŋga
+hear: o:ro-na
+hear: oːroːna
+hear: ɔːrɔ-na
+heart: vonggovonggo
+heart: voŋgovoŋgona
+heart: voŋgovoŋgona
+heart: voɣovoɣo
+heavy: momota
+heavy: momota
+here: naŋgo
+here: naŋgo
+he/she: -a
+he/she: adj. agree)
+he/she: -ma
+he/she: -na (free n.1/n.2
+he/she: na/ngo
+he/she: -ra
+he/she: -va
+he/she: vo
+he/she: vo
+he/she: vo
+he/she: V obj.
+he/she: zo
+he/she: zo
+he/she: zo
+he/she: zo
+he/she: zo
+he/she: -zo
+hit: isa
+hit: tuma-na
+hit: tuma-na
+hit: zo iⁿde
+hold: ea
+hold: ŋo erɔ
+house: va
+house: va
+house: va
+house: va
+how: o:nia
+how: oːnia
+how: ɔːnia
+how: oːnia ~ oa
+how: rero
+how: uavi
+hunt: suːa
+hunt: suːa
+I: e:i
+I: eːi
+I: eːi ~ eːro
+I: eːl
+I: e:ro
+if: arovo
+if: atiri
+if: irɔnɔŋgo
+I: -na
+in: eⁿdoː
+in: ɛⁿdɔ
+jaw: zime
+jaw: zime
+kill: maniuze
+kill: variuza
+knee: i:dio
+knee: iːdio
+knee: iːndio
+knee: iːndio
+know: nia
+know: ovea
+know: oːvea
+know: ove-na
+know: ɔve-na
+laugh: heːra
+laugh: heːra
+leaf: evo
+leaf: eːvɔ
+leaf: e:vo-na
+leaf: eːvona
+leaf: eːvo-na
+left: ɣeⁿde vaha
+left: ɣɛⁿde vaha
+left: gede
+leg: oe
+leg: o:e
+leg: oːe
+leg: ɔe
+leg: pite
+lie: oa
+lie: o:a
+lie: oːa
+lie: oːa
+lie: rehea
+lightning: ivoːri
+lightning: ivɔri
+liver: hosa
+liver: na oːe
+liver: o:e
+liver: oːe
+liver: ɔe
+live: tovea
+live: tɔvea
+long: hofuta
+long: hofuta
+long: hofu(ta)
+long: hofu(ta)
+louse: gutu
+louse: gutu
+louse: lisa
+louse: risa
+louse: vutu ~ ɣutu
+louse: vutu ~ ɣutu
+man: fingo-zo
+man: fino-zo
+man: finɔ-zo
+man: finɔ-zo
+man: finɔzɔ
+man: harimba
+man: pinoso
+many: lavoso
+many: raro
+many: raro
+many: ravoːta
+meat: fafaso
+meat: fafaso
+meat: fafaso
+meat: fafaso
+meat: fafo
+meat: fafongo
+meat: fafo(ngo)
+meat: pafono
+meat: pafono
+meat: papo
+meat: papo
+moon: idi
+moon: iːdi
+moon: iːⁿdi
+moon: iːⁿdi
+moon: iti
+morning: zeaŋga
+morning: ze e:ta
+morning: ze eːta
+morning: zeːta
+morning: zeːta
+mosquito: i(:)musu
+mosquito: iːmusu
+mosquito: iːmusu
+mosquito: iːmusu
+mosquito: kerokero
+mosquito: ronggo
+mother: ina
+mother: i:na
+mother: iːna
+mother: iːna
+mother: iːna
+mother: nina
+mountain: boro
+mountain: boro
+mountain: liropo
+mountain: toa
+mountain: toa
+mountain: toa
+mountain: toa
+mouth: a:
+mouth: aː
+mouth: aː
+mouth: aː
+name: nini
+name: nini
+name: nini
+name: nini
+navel: mahio
+navel: mahiːo
+navel: pito
+near: neita
+near: neita ~ eni
+neck: fiɣa
+neck: finga
+neck: fiŋga
+neck: fiŋga
+new: aroro-ta
+new: aroro-ta
+new: avorota
+new: avorota
+night: hiu
+night: hiu
+night: hiu
+night: hiu
+night: timutara
+night: timutara
+nose: emo
+not: au
+not: au
+not: au
+not: au
+not: au
+not: sia
+not: sia
+old: fizo
+old: fizu
+old: fizu
+old: fizu finaza
+old: hefoːta
+old: hɛfɔta
+one: aːrŋo
+one: aro
+one: aro
+one: aro(ŋo)
+one: a-zao
+one: tufi
+one: tʰufi
+one: tʰufi
+one: tufi (?)
+person: finɔmɔ
+person: finona ~ finozo
+person: fino-zo
+person: finɔ-zo
+play: hoːrua
+play: hɔrua
+pull: aia
+pull: aia
+push: soroa
+push: tuea
+rain: oro
+rain: oroː
+rain: ɔrɔ
+rain: ɔrɔ
+rain: rivo
+rat: ruji
+rat: siro
+rat: siro
+rat: siro
+rat: siro
+red: a:ro(-a)
+red: aːroa
+red: aːroa
+red: aːro(a)
+red: (ni-)aro-a
+right: finøtoro (check source)
+right: finotoro vahaː
+right: finɔtɔtɔ vaha
+river: vuto
+river: vutɔ
+road: e
+road: e
+road: e
+road: e (n1)
+root: aboso-na
+root: aboso(-na)
+root: amboso
+root: ambosona
+rope: fahi
+rope: fahi
+rope: fahi
+rope: huɣi
+rope: hunggi
+rope: huŋgi
+rope: huŋgina
+rotten: fufutumara
+rotten: musia
+rotten: musia
+rotten: yurova
+round: buku
+round: bukutu(ra)
+round: bukutu(ra)
+rub: ɛmbɔrɔⁿdotia
+rub: zaŋga
+rub: zotia
+salt: mana
+sand: o:ne
+sand: oːne
+sand: oːne
+sand: oːne
+sand: peniu
+sand: sava
+say: hana
+say: hana
+say: haːua
+say: hau-a
+say: hau-a
+say: zoteohauː
+scratch: aːŋia
+scratch: aŋiːa
+sea: fei
+sea: fei
+sea: fei
+sea: fei
+sea: fio
+sea: orongo
+sea: pio
+see: area
+see: area
+see: area
+seed: nene
+seed: uve
+seed: uve
+seed: uve ~ uventso
+seed: uvu
+see: noⁿdoa
+see: nodo-ra
+see: nodo-ra
+sew: vavora
+sew: vavɔra
+sharp: ɣoɣofa
+sharp: ɣɔɣɔfa
+short: foŋgota
+short: foŋgota
+short: sato
+short: zato
+shoulder: boe
+shoulder: boe
+sing: gizo
+sing: ŋgizo
+sing: ŋgizoa
+sister: mimo
+sister: mimɔ
+sit: fofu
+sit: fofu
+sit: fofu
+sit: fofua
+skin: zuo(-na)
+skin: zuoːna
+skin: zuɔna
+skin: zuɔna
+sky: rasese
+sky: uzia
+sky: uzia
+sky: uːzia
+sky: uːzia
+sky: u:zia (n1)
+sleep: iːsia
+sleep: isi-a
+sleep: isi-a
+sleep: iːsia ~ iːnsia
+small: isingo
+small: isita
+small: isita
+small: isi(ta)
+small: isi(ta)
+smell: ei
+smoke: hia
+smoke: hia
+smoke: hia
+smoke: hia (n1)
+smooth: arota
+smooth: arota
+smooth: ɣeɣozo
+snake: noi
+snake: noi
+snake: noi
+snake: noi
+son: ha
+son: ha
+spit: so
+split: isambaera
+split: mbaera
+split: vahara
+squeeze: embia
+squeeze: ɛːmbia
+squeeze: iːzufa
+stand: a:
+stand: aː
+stand: aː
+stand: aː
+star: finofino
+star: finofino
+star: finofino
+star: finɔfinɔ
+stone: heɣa
+stone: hengga
+stone: heŋga
+stone: heŋga
+stone: kato
+stone: vo
+straight: oːveta
+straight: oːvɛta
+suck: hofa
+suck: nahoːfe
+suck: susua
+suck: susua
+sun: ui
+sun: ui
+sun: ui
+sun: ui
+sweet: imata
+sweet: imota
+swell: utoːza
+swell: utɔza
+swim: malalama
+swim: ra-a
+swim: ria
+swim: ri-a
+swim: vazoa
+swim: vazoa
+tail: hifona
+tail: hifona
+tail: hifɔ-na
+tail: hifo-na (n1)
+tail: hifoso
+take: o:ro
+take: oːrɔ
+take: sioa
+take: sioa
+that: zo
+there: ŋɔŋɔ
+there: noːŋgo ~ naŋo
+they: -ma/-a
+they: mo
+they: moː
+they: mɔ
+they: mɔ
+they: mɔ
+they: nɔ
+they two: nomo/numo/nafi
+they two: -ra
+they two: rede
+they two: rede
+they two: robe(f)
+they two: robe(f)
+they two: zere
+they two: zere
+they two: zere
+they two: zere
+they two: zere
+they two: zere
+they two: zere/robe/rede
+thick: eːzuta
+thick: ɛzuta
+thick: ingingi
+thin: evasara
+thin: eːvasara
+think: ŋgana
+think: ŋgana
+this: demi
+this: dezo
+this: ⁿdezo ~ ⁿdeno
+this: de-zo/mi/na/ngo/mo/no
+this: ge--zo/mi/na/ngo/mo/no
+this: ŋɔⁿdɛŋɔ
+thou: mɛmboː
+thou: mɛmbɔ
+thou: -na
+thou: no:
+thou: noe
+thou: noe
+thou: noe
+thou: noːe ~ noː
+three: hie
+three: hie
+three: hie
+three: hie
+thunder: aːro
+thunder: u:zia
+thunder: uːzia
+thunder: uːzia aːro
+tie: nebi-vea
+tie: nebi(-vea)
+tie: nembia
+tie: nembia
+today: enava
+today: mbazo ~ nei
+tomorrow: zera
+tomorrow: zɛra
+tongue: ani
+tongue: a:ni
+tongue: aːni
+tongue: aːni
+tongue: aːni
+tooth: nane
+tooth: nane
+tooth: naːne
+tooth: nani
+tooth: vo nane
+tree: oro
+tree: o:ro-ngo
+tree: oːroŋo
+tree: ɔːrɔ-ŋɔ
+tree: ɔrɔ(ŋɔ)
+turn: ⁿdeːfe
+turn: rofea
+turn: viria
+two: eri
+two: e:ri
+two: eːri
+two: eːri
+two: eːri
+vagina: i
+vagina: i
+vomit: mbaofa
+vomit: mbaːofa
+walk: a:tia
+walk: aːtia
+walk: aːtia
+walk: ⁿdoria
+walk: leua
+walk: reua
+walk: reua
+walk: rovo
+walk: tez-a
+warm: minggo(ta)
+warm: miŋgota
+warm: miŋgoːta
+warm: minggoto
+warm: miɣɔ(ta)
+wash: kokora
+wash: ombiriaia
+wash: ria
+wash: ria
+water: fi
+water: fioː
+water: fiɔ
+water: fiɔ
+water: fio (n3)
+water: pio
+water: piono
+we: e:-bo
+weep: iːaiːa
+weep: iaiaː
+weep: iaiya
+weep: iaiya
+we (excl.): eːbo
+we (excl.): eːbo
+we (excl.): eːmbo
+we (excl.): eːmbo
+we (excl.): eːmbɔ
+we (excl.): eːmbɔ
+we (incl.): memo
+we (incl.): meːmo
+we (incl.): meːmo
+we (incl.): memɔ
+we (incl.): memɔ
+we (incl.): -na
+we (incl.): neːmo
+we (incl.): neːmo
+we: -na
+wet: tumuva
+wet: tumuva
+we two: e:-beno/e:-benu
+we two: e:-re/e:-re-be
+we two (excl.): ere
+we two (excl.): ere
+we two (excl.): eːre(be)
+we two (excl.): eːre(be)
+we two (excl.): ere ~ erembe
+we two (excl.): ere ~ erembe
+we two (incl.): be(be)
+we two (incl.): be(be)
+we two (incl.): be/be-be
+we two (incl.): mbe
+we two (incl.): mbe
+we two (incl.): mbe ~ mbembe
+we two (incl.): mbe ~ mbembe
+we two (incl.): meno/menu
+we two (incl.): -na
+we two: -na
+what: oːnia ~ oa
+what: oːnia ~ oːno
+what: o:no
+what: ɔː-nɔ
+when: levɔ
+when: revoː
+where: aːe
+where: aeno
+where: aːŋo
+white: tuɣava
+white: tuɣava
+white: tuga(va)
+white: tuga(va)
+who: uo
+who: u:o:
+who: uːoː
+who: uːɔː
+who: vo
+wind: zu
+wind: zu
+wind: zu
+wind: zu ~ ziu
+wing: gofona
+wing: ŋgofona
+wing: ŋgɔfɔna
+wipe: fuha
+wipe: fuhaia
+woman: gohe
+woman: gohe
+woman: ŋgohe
+woman: ŋgohe
+wood: oro
+year: ovozo
+year: oːvozo
+yellow: taːmara
+yellow: tama(va)
+yellow: tama(va)
+yellow: taːmɔra
+yes: io
+yes: io
+yes: iːo ~ oː
+yesterday: hinaⁿdi
+yesterday: hinaⁿdi
+you: me-bo
+you: -na
+you two: bere/bere-be
+you two: mbɛre
+you two: mbɛre
+you two: mbere ~ mberembe
+you two: mbere ~ mberembe
+you two: me-beno/me-benu

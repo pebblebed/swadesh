@@ -1,0 +1,127 @@
+animal: tíːe
+arm: káfɛ
+arm: sógoːnɛ
+arrow: bún˗ɛ
+bad: á buːrɛ́ni
+belly: nɔ́ɣɔ
+big: a˗dárɛ
+big: axɔ́ːrɛ
+bird: yeːlíŋ˗ɛ
+black: aː bínɛ
+blood: fórɛ
+bone: kót˗e
+bone: xɔ́t˗ɛ
+boy: lémiːnɛ
+breast: kɔ́mb˗e
+breathe: ˗fufɛːni
+breathe: ˗yaːyóːŋkeni
+brother: gbálim
+brother: ŋgída
+brother: ŋkɔ́roːnɛ
+butterfly: búːnumbúːna
+chest: gičiːmɛ
+cold: á mulɛ́ni
+come: llí
+crocodile: kín˗ɛ
+daughter: len yáxaːrɛ
+day: kíeː
+die: ˗kára
+dog: úːl˗ɛ
+drink: mini
+dry: a káːwa
+ear: tár˗ɔ
+eat: nígana
+egg: xabáːn˗e
+elbow: ségonaːntombɛ
+eye: yáːɣ˗ɛ
+face: táŋɛ
+fall: ˗kɛ́nu
+father: báːba
+fingernail: sɛ́rɛːn˗ɛ
+finger: ndóroːm˗ɛ
+finger: tandóroːm ɛ
+fire: íːmbe
+fish: nyɛ́r˗ɛ
+five: káragóː
+foot: tančámɛ
+foot: tandégeːrɛ
+foot: taː˗nǯúŋko
+forest: gúnɛ
+four: náraːto
+girl: xosúnɛ
+good: á siːrɛ́ni
+hair: yíːnte
+hand: dégeːrɛ
+hand: kít˗e
+head: yíːm˗ɛ
+hear: ˗damúɣu
+house: kaː
+house: kóːmp˗e
+knee: xúruːŋgɔ
+laugh: ˗čóːi
+leaf: dɛ́r˗ɛ
+leg: ta
+lie: ˗čáɣu
+man: yúːgo
+meat: tíːe
+moon: hásoː kúruːmba
+moon: xásoː
+mosquito: sériːm˗ɛ
+mother: ma
+mouth: rák˗ɛ
+navel: súmpɔ
+neck: xán˗e
+new: aː kúrumba
+new: aː kúrumba
+night: wúr˗oː
+not: mmá
+old: xáso
+one: báːne
+one: váːne
+play: ˗čáŋga
+rain: kám˗ɛ
+rat: nyíːnye
+root: nyíːm˗ɛ
+rope: káč˗ɛ
+salt: sápɛ
+sand: sɛ́ːyɛ
+say: ˗čɛ́fɛ
+see: ˗dáwaːrí
+shoulder: kúŋkɛ
+sister: ŋgída yáxaːrɛ ŋkɔ́rɛ
+sister: ngída yaxaːre tugúnɛ
+sit: ˗táːɣo
+skin: fátɛ
+sky: alčɛ́nna
+sleep: ˗kɛːŋkɛ
+small: a lemáːne
+small: a lɔ́ɣɔ
+smoke: tíːdeː
+snake: samákɛ
+son: rɛ́mɛ
+spit: tɛ́ɣun
+stone: gid˗eː
+straight: á sigíntɛ
+sun: kíeː
+sweet: yáːge
+take: ˗dɔ́utu
+thigh: tɔ́ɣɛ
+three: síkuːo
+throat: xɔ́rɛ
+throat: xɔ́rɛ
+today: leːŋki
+tomorrow: xuːmbáne
+tongue: nɛ́ːn˗e
+tooth: kámb˗e
+tree: yíːt˗ɛ
+two: fíllo
+walk: ˗dáɣa
+walk: ˗úru
+warm: ataːo
+warm: a tɛ́ːni
+water: čiː
+weep: ˗nú
+wet: a xáːo
+white: aː xúlɛ
+woman: yáxaːrɛ
+yesterday: dáːru

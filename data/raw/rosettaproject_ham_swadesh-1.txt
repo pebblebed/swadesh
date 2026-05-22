@@ -1,0 +1,345 @@
+arm: alapen
+arm: alapén
+arm: tagu
+arm: tagu
+arrow: ɪnɛ
+ashes: ye une
+ashes: yɛ une
+at: -su
+back: mogi
+back: mɔgi
+bad: puw
+bad: puw
+belly: omep
+belly: ome\p
+big: tua
+big: tua
+big: tuwa
+big: tuwa
+bird: nuk
+bird: nuk
+black: siroguma
+black: siroguma
+black: teriyogume
+black: teriyogumɛ
+blood: matai
+blood: matai
+bone: bëkali
+bone: bʌkali
+bone: pogol
+bone: pogól
+boy: miyan bëtan
+boy: miyan bʌtɛn
+breast: mom
+breast: mom
+breast: mum
+brother: (ano)iya
+brother: (ano)iya
+brother: ya
+brother: ya
+cassowary: wëlou
+cassowary: wëro
+child: yane
+child: yane
+child: yëman bëten
+child: yʌman bʌtɛn
+chin: ai
+chin: ai
+claw: okope tafupei
+claw: yokope tafupei
+cloud: nikera
+cloud: nikɛra
+cloud: safu
+cloud: saφu
+cold: usisi
+cold: usísi
+come: si
+come: si
+cut: o-
+day: maruafifi
+day: maruafífi
+day: moxueφi
+die: maní
+dog: wëra
+dog: wəra
+dog: yao
+dog: yao
+ear: ape
+ear: ape
+ear: opey
+ear: opéy
+earth: numëbëri
+earth: numəbəri
+eat: a
+eat: a
+egg: fea
+egg: fea
+elbow: aluene
+elbow: aluene
+elbow: latiyam
+elbow: lati-yam
+emu: wəlou
+emu: wʌro
+eye: (i)ngau
+eye: ingau ~ ngau
+eye: ni
+eye: ni
+father: aiya
+father: aiya
+father: eta
+father: eta
+fat (n.): wau
+fat (n.): wau
+fight: -ofalu-
+finger: awaiobei
+finger: awaiobei
+finger: namalu
+finger: namálu
+finger: name
+finger: name
+finger: nami
+finger: nami
+fire: yo
+fire: yo
+fish: metala
+fish: mɛtala
+fish: metalaw
+fish: walo
+fish: walɔ
+foot: wari
+foot: wari
+forehead: map
+forehead: map
+girl: yëman
+girl: yëmau
+girl: yʌmau ~ yəman
+good: piya
+good: piya
+good: ruiani
+good: ruiani
+hair: obobuk
+hair: obobuk ~ opopuk
+hair: opopuk
+hand: amai
+hand: amai
+hand: lati
+hand: lati
+hand: lati
+hand: lati
+head: o(u)
+head: ɔu ~ ou ~ o
+heart: enap
+heart: enap
+here: túe
+here: tut
+here: tutu
+he/she: ale
+he/she: alé
+he/she: lo
+hit: ofulu
+house: wa
+house: wai
+house: wai
+house: way
+house: way
+husband: lifi
+husband: lifi
+I: ano
+I: ano
+I: a-no
+in: -lagus
+knee: moiyou
+knee: moiyou
+knee: watiyum
+knee: watiyum
+leaf: (me) ofei
+leaf: me ofei
+lie: seki
+lie: sɛki
+long: mesini
+long: (nuk) meis
+long: (nuk) meis
+louse: onam
+louse: onam
+man: lifi
+man: lifi
+man: mobi
+man: mobi ~ mɔbi
+many: (nuk) ketuwa
+many: (nuk) ketuwa
+meat: apau
+meat: apau ~ apfao
+meat: apfao
+moon: afu
+moon: awfe
+moon: aφu
+moon: yariaup
+moon: yariaup
+morning: selito
+morning: sɛlitɔ
+mother: ma
+mother: ma
+mouth: pile
+mouth: pile
+name: wi
+name: wi
+name: wi
+name: wi
+near: -enis
+near: -enis
+neck: ese
+neck: ese
+neck: ilaw
+neck: iláw
+neck: simeni
+neck: simeni
+new: atafene
+new: ataφɛne
+night: geliaku
+night: gɛliaku
+nose: kogi
+nose: patapá
+not: faw
+not: faw
+not: p-
+old: epatu
+old: epátu
+old: lalitu
+old: lalitu
+old: petefea
+old: pɛteφea
+one: tapaxali
+one: tapáxali
+one: tʌbagʌti
+one: tëbagëti
+rain: no
+rain: no
+rain: nu
+rain: nu
+rain: nu meiyaia
+rain: nu meiyaia
+rat: wantu
+rat: wantu
+red: mëbiyeima
+red: məbiyeima
+river: apu
+river: apu
+road: pone
+road: pɔne
+root: ma-napi
+root: me-nap
+root: menap ~ manapi
+sand: opopile
+sand: ɔpopile
+short: aßiya
+short: aviya
+short: koptu
+short: kɔptu
+shoulder: ale
+shoulder: ale
+shoulder: aley
+shoulder: aléy
+sister: moyou
+sister: moyóu
+sister: watiyum
+sister: watiyum
+sit: isaiau
+sit: isaiau
+sit: ulo
+skin: nati
+skin: nati
+small: (nuk) pëtene
+small: (nuk) pətene
+small: pipan
+small: pipán
+smoke: yese
+smoke: yɛse
+snake: mei
+snake: mei
+son: mian
+son: mian
+stand: paiyaφu
+stand: saiyafu
+star: nikenenaf
+star: nikɛnɛnaf
+stone: pai
+stone: pai
+sun: baiyei
+sun: yai
+sun: yai ~ baiyei
+tail: wau isou
+tail: wau isou
+there: aley
+there: aleyfanoys
+they: lafu
+they: lafu
+they two: lafay
+they two: lafay
+this: tita
+this: tit(a)
+thou: nafu
+thou: ne
+thou: ne
+thou: no
+thunder: nukaya
+thunder: nu-káya
+today: tue
+today: tue
+tomorrow: nálita
+tomorrow: wotaw
+tomorrow: wotáw
+tomorrow: woto
+tomorrow: wotɔ
+tongue: tol
+tongue: tol
+tooth: pilenaf
+tooth: pilenaf ~ prenap
+tooth: prenap
+tree: me
+tree: me
+tree: me
+two: iyai
+two: iyai
+two: yoya
+two: yoya
+walk: i
+walk: i
+walk: pani fisi
+walk: pani φisi
+wallaby: pes(i)
+wallaby: pɛsi ~ pes
+water: otei ate
+water: ɔtei ate
+we (incl.): nati
+we: nati
+we two (excl.): te
+we two: te
+what: afi
+what: pimo
+what: pimo
+where: ofitu
+where: ofitu
+white: waume
+white: waumɛ
+wind: nupuwi
+wind: nupuwi
+wing: koruwa
+wing: koruwa
+with: -kate
+with: -lio
+woman: awune
+woman: awune
+woman: luwa
+woman: ruwa
+woman: ruwa ~ luwa
+wood: me
+wood: tal
+wood: tal
+wrist: maluene
+yesterday: ínta
+yesterday: wotaw
+yesterday: woto
+yesterday: wotɔ
+you: nafu
+you two: fenay
+you two: fenáy

@@ -1,0 +1,194 @@
+all: awoha
+all: awoha
+arm: si
+arm: si
+ashes: dumu
+ashes: dumu
+bark: pavi kene
+bark: pavi kene
+belly: kaburu
+belly: kaburu
+big: makuvu
+big: makuvu
+bird: kae
+bird: kae
+bite: hae
+bite: hae
+black: su
+black: su
+blood: kei
+blood: kei
+bone: havo
+bone: havo
+breast: shu
+breast: šu
+burn: nafainau
+burn: nafainau
+claw: si mavo
+claw: si mavo
+cloud: urumu
+cloud: urumu
+cold: kimini
+cold: kimini
+come: bine
+come: bine
+die: aya kaskenabo
+die: aya keskenabo
+dog: kase
+dog: kase
+drink: movanae
+drink: mowanae
+dry: panakénainau
+dry: penekenainau
+ear: kovi
+ear: kovi
+earth: boromo
+earth: boromo
+eat: damanai
+eat: damanai
+egg: mena hai
+egg: mena hai
+eye: isi
+eye: isi
+fat (n.): gadi
+fat (n.): koho
+feather: kae bolo
+feather: kae bolo
+fire: kumu
+fire: kumu
+fish: moi
+fish: moi
+fly (v.): bukawane
+fly (v.): bukawane
+full: filikinanau
+full: filikinanau
+give: iniri ore
+give: iniri ore
+good: daro
+good: daro
+green: noha
+green: noha
+hair: mahabero
+hair: maha-bero
+head: mawo
+head: mawo
+hear: aienau
+hear: aienau
+heart: evi
+heart: evi
+horn: keseka
+horn: keseka
+I: ina
+I: ina
+kill: duwa tekenanau
+kill: duwa tekenanau
+knee: murame
+knee: murame
+know: ia koabe
+know: la koabe
+leaf: ibolo
+leaf: i-bolo
+leg: hai
+leg: hai
+lie: boromane bisa
+lie: boromane bisa
+liver: to\i to\i
+liver: toʔi toʔi
+long: koke\a
+long: kokeʔa
+louse: kulamu
+louse: kulamu
+man: gamin
+man: (o)gamin
+many: uruwao
+many: uruwao
+meat: mis
+meat: mis
+moon: baira
+moon: baira
+mountain: kama
+mountain: kama
+mouth: kobo
+mouth: kobo
+name: nenena
+name: nenena
+neck: boko
+neck: boko
+new: mikasi
+new: mikasi
+night: same
+night: same
+nose: sorowu
+one: sakaina
+one: sakaina
+rain: kavo
+rain: kavo
+red: kumu
+red: kumu
+road: dike
+road: dike
+round: biri
+round: biri
+sand: wio
+sand: wio
+say: mina kene
+say: mina kene
+seed: kovai
+seed: kovai
+see: toanau
+see: toanau
+sit: kevitire
+sit: kevitire
+skin: kebo
+skin: kebo
+sleep: bisiniha
+sleep: bisiniha
+small: kateane
+small: kateane
+smoke: kumu sini
+smoke: kumu sini
+stand: hakurure
+stand: hakurure
+star: kuini
+star: kuíni
+stone: kamu
+stone: kamu
+sun: soa
+sun: soa
+swim: mowatofe
+swim: mowatofe
+tail: kase koʷ
+tail: kase kou
+that: asao
+that: asao
+this: enao
+this: enao
+thou: iyu
+thou: iyu
+tongue: komene
+tongue: komene
+tooth: kokame
+tooth: kokame
+tree: i
+tree: i
+two: hatarari
+two: hatarari
+walk: uwai
+walk: uwai
+warm: evi
+warm: evi
+water: fae
+water: fae
+we (incl.): awoha
+we (incl.): nana
+we (incl.): nana awoha
+what: ba
+what: ba
+white: sevea
+white: sevea
+who: aiyema
+who: aiyema
+woman: bes
+woman: bes
+yellow: lara
+yellow: lara

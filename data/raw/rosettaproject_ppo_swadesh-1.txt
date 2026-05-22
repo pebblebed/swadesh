@@ -1,0 +1,1092 @@
+all: adima
+all: adima
+all: feya
+all: feya
+all: ta:pea
+all: taːpea
+all: φeya
+all: φeya
+arm: na\ase
+arm: naʔase
+arm: na-asi
+arm: na\asi
+arm: na\azi
+arm: naʔazi
+arm: nasɪ
+arm: nasi
+arm: nasi
+arm: nasi
+arm: nasi
+arm: nate
+arm: nazi
+ashes: keri
+ashes: keri
+ashes: kiri
+ashes: kiri
+ashes: kɪri
+ashes: sedri
+ashes: sɛdri
+ashes: sedu
+ashes: sedu
+ashes: sisu
+ashes: sɪsu
+at: -pa
+bark: ni a:se
+bark: ni aːse
+bark: ni segai
+bark: ni segai
+bark: ni se͂ga͂i͂
+bark: ni sɛ͂ga͂i͂
+bark: segai
+bark: se͂ga͂i͂
+belly: debe
+belly: dɛbe
+belly: mogo
+belly: mogo
+belly: mogo
+belly: mogo
+belly: moko
+belly: rebi
+belly: tepe
+belly: tepe
+belly: tibi
+belly: tibi
+big: habe
+big: habe
+big: habe
+big: habe
+big: wasi
+big: wasi
+big: we
+big: we
+bird: ba
+bird: ba
+bird: ba
+bird: ba
+bird: ba
+bird: ba
+bird: ba
+bird: ba
+bird: ba
+bird: ba
+bird: paa
+bird: puburu
+bite: nae
+bite: nae
+bite: nai
+bite: nai
+bite: sigana humai
+bite: sigana humuai
+bite: tigai
+bite: tigai
+black: digiguri
+black: digiguri
+black: dirigi elabo
+black: dirigi (elabo)
+black: drɪ͂gi͂
+black: drigi
+black: leke rape
+black: le͂ke rapu
+blood: fage
+blood: fage
+blood: fe
+blood: fɛ͂
+blood: nosu
+blood: sei
+blood: sogo
+blood: wei
+blood: wi
+blood: wi
+blood: φage
+blood: φage
+bone: dëri
+bone: dëri
+bone: dili
+bone: diri
+bone: dɪli
+bone: dʌri
+bone: dʌri
+bone: təri
+bone: tiri
+bone: tiri
+bone: tïri
+bone: tuma
+branch: nite
+breast: ame
+breast: ami
+breast: ami
+breast: ami
+breast: ami
+breast: auwa
+breast: a͂u͂wa
+breast: awa
+breast: awa͂
+breast: bobe
+breast: bobobe
+breast: bopa
+breast: emi-seru
+breast: tigi
+breast: tigi ai
+burn: balae
+burn: balae
+burn: beriai
+burn: bɛriai
+burn: degiai
+burn: degiai
+burn: dugidabo
+burn: dugidabo
+butterfly: pa
+butterfly: tsai-o
+cassowary: denama
+cassowary: fibe
+cassowary: piri
+cassowary: sibe
+cassowary: ´wã
+child: naheni
+child: negiburabi
+child: terege
+child: tirige-somani
+claw: na\ase
+claw: naʔase
+claw: nasi
+claw: nasi
+claw: nazi
+claw: nazi
+claw: segai
+claw: sega͂i͂
+cloud: basugu
+cloud: basugu
+cloud: bese digi
+cloud: bɛ͂sɛ͂ digi
+cloud: ebo
+cloud: ebo
+cloud: koa
+cloud: koaː
+cold: seri tapu
+cold: seri tapu
+cold: siri
+cold: siri
+cold: siri
+cold: siri
+cold: sudori
+cold: sudori
+come: abe
+come: abe
+come: abe
+come: abe
+come: ape
+come: ape
+come: wowidabo
+come: wowidabo
+crocodile: ai-nama
+crocodile: sibira
+crocodile: tsuva
+die: negaiarubo
+die: nɛgalarubo
+die: sinanibo
+die: sinugudabo
+die: sisnibo
+die: sukutapo
+die: sukutapo
+die: sunugudabo
+dog: hamu
+dog: hamu
+dog: hao
+dog: hao
+dog: hao
+dog: ha͂o͂
+dog: ha͂o͂
+dog: ha͂o͂
+dog: hau
+dog: hau
+dog: ha͂u͂
+drink: ipi nae
+drink: ipi nae
+drink: we nai
+drink: we͂ nai
+drink: we͂ nigadabo
+drink: we nugidabo
+drink: wi nae
+drink: wi͂ nae
+dry: aro dabo
+dry: aro dabo
+dry: bazugowidab
+dry: bazugowidabo
+dry: kagoro
+dry: kagoro
+dry: kapu yalepo
+dry: kapu yalepo
+ear: oroge
+ear: oroge
+ear: oroge
+ear: orogi
+ear: osoni
+ear: ozini
+ear: ozini
+earth: hai
+earth: hai
+earth: hai
+earth: hai
+earth: hai
+earth: hai
+earth: hai
+earth: hai
+earth: hai
+earth: hai
+earth: hai
+earth: hai-i
+ear: usani
+ear: usani
+ear: werigi
+ear: woleke
+ear: woleke
+eat: nae
+eat: nae
+eat: nae
+eat: nae
+eat: nai
+eat: nai
+eat: nugidabo
+eat: nugidabo
+egg: ba ge
+egg: ba ge
+egg: ba ge
+egg: ba ge
+egg: ba ge
+egg: ba ge
+egg: ba-gi
+egg: ba ke
+egg: ba ke
+egg: ke
+egg: ke
+elbow: kenugi
+elbow: keribi
+elbow: na-asiki
+elbow: nametiri
+eye: gere
+eye: gere
+eye: karibi
+eye: karubi
+eye: kele
+eye: kele
+eye: kële
+eye: keri
+eye: keri
+eye: kile
+eye: kʌle
+eye: kɪle
+face: huridiri
+face: keri-vaii
+face: kurisi
+face: kurufi
+father: aia
+father: ao
+father: au
+father: ia-apa
+fat (n.): pake
+fat (n.): pake
+fat (n.): sera
+fat (n.): sera
+fat (n.): sera\a
+fat (n.): sera\a
+fat (n.): seraʔa
+fat (n.): sɛraʔa
+feather: ba nigi
+feather: ba nigi
+feather: ba nigi
+feather: ba nigi
+feather: ba nigi
+feather: ba niki
+feather: ba niki
+feather: bao bigi
+feather: nigi
+feather: pa-asi
+feather: pa-nigi
+feather: pupuru-nigi
+finger: abu
+finger: apo
+finger: apu
+finger: na-isita
+finger: nasi-tong
+finger: ru
+finger: toung
+fire: si
+fire: si
+fire: si
+fire: si
+fire: si
+fire: si
+fire: si
+fire: si
+fire: si
+fire: si
+fire: siguia
+fire: tsi-i
+fish: ie
+fish: iya
+fish: nusima
+fish: sugu
+fish: su͂gu͂
+fish: yʌ
+fish: yʌ
+fish: ya
+fish: ʲya
+fish: yë
+fish: yë
+fish: yi
+five: abo
+five: avo-baragi
+five: kemiari
+five: tamio-pisidio
+fly (n.): doguni
+fly (n.): tomo
+fly (n.): tuguri
+fly (n.): tumbu
+fly (v.): dogwahidabo
+fly (v.): dogwahidabo
+fly (v.): pelapo
+fly (v.): pelapo
+fly (v.): roabo
+fly (v.): roabo
+fly (v.): siriai
+fly (v.): siriai
+foot: honoke
+foot: hori
+foot: kabakea
+foot: ora-a
+forest: beti
+forest: bise
+forest: oru
+four: habararu
+four: tamio-tamio
+four: topi
+four: tufidi
+fruit: (ni) du
+full: fa\e alepu
+full: fa͂ʔe͂ alepu
+full: faiyunubo
+full: odi horararubo
+full: odi horararubo
+full: siga
+full: siga
+full: φaiyanubo
+give: manai
+give: manai
+give: manai
+give: menae
+give: menae
+give: menai
+give: mënai
+give: mënai
+give: mʌnai
+give: mʌnai
+good: usi
+good: usi
+good: uzi
+good: uzi
+good: uzidabo
+good: uzidabo
+good: wese rapu
+good: wese rapu
+green: dega
+green: dɛga
+green: diligi
+green: diligi
+green: soaiguri
+green: soaiguri
+hair: dedu nigi
+hair: dobo nigi
+hair: nigi
+hair: tobo-nigi
+hair: tobu nigi
+hair: tobu nigi
+hair: tobu nigi
+hair: tobu nigi
+hair: tobu-niki
+hair: topo neki
+hair: topo neki
+hair: tupu-niki
+hand: da
+hand: kia
+hand: naisita
+hand: nasi da\a
+head: dobo
+head: dobo
+head: tobo
+head: tobo
+head: tobo
+head: toburu
+head: toburu
+head: tombu
+head: topo
+head: topo
+head: topu
+head: tubu
+hear: osai
+hear: osai
+hear: ozai
+hear: ozai
+hear: ozodabo
+hear: ozodabo
+heart: douda
+heart: do͂u͂da
+heart: hoza\a
+heart: hozaʔa
+heart: kosʔa
+heart: kosa\a
+heart: ni hosa
+heart: ni hosa
+hear: wasae
+hear: wasae
+he/she: ai
+he/she: ai
+he/she: ai
+he/she: ai
+he/she: ãinnh
+hit: boie
+hit: bowebo
+hit: pui
+hit: uare
+horn: segʌ͂
+horn: sega͂i͂
+horn: segë
+horn: seka
+horn: seka͂
+horn: serege
+horn: sɛrege
+horn: srgai
+house: ari
+house: aribi
+house: be
+house: bi
+house: eribi
+house: rabi
+I: e
+I: e
+I: e
+I: e
+I: e
+I: e͂
+I: e͂
+I: e͂
+I: ẽ
+I: ebo
+I: ebo
+I: ebo
+I: e/yano
+kill: arai
+kill: arai
+kill: dae
+kill: dae
+kill: dai
+kill: dai
+kill: duidabo
+kill: dui-dabo
+knee: bogora
+knee: bogora
+knee: bogora
+knee: bogora
+knee: bokola
+knee: bokolaː
+knee: bugudri
+knee: bugudri
+know: duedaba
+know: du͂edaba
+know: osai
+know: osai
+know: toae rapo
+know: toae rapo
+know: wezedabo
+know: wɛzedabo
+leaf: ni-sagu
+leaf: ni saku
+leaf: ni saku
+leaf: sagu
+leaf: sagu
+leaf: sogu
+leaf: sogu
+leaf: sogu
+leaf: sogu
+leg: funi-diri
+leg: ho
+leg: ho
+leg: ho͂
+leg: hɔ
+leg: holeke
+leg: hole͂ke
+leg: horoge
+leg: horoge
+leg: mi
+leg: togoi
+leg: tubi
+lie: fini deberebo
+lie: fiyamunabo
+lie: haibo
+lie: haibo
+lie: haimo piae
+lie: haimo piae
+lie: φini deberebo
+lie: φiyamunabo
+lip: falabu
+lip: farabu
+lip: porube
+lip: tuturu
+liver: hoda
+liver: hoda
+liver: hosa
+liver: hosa
+liver: hotoru
+liver: kiobu
+liver: segoruru
+liver: sɛgoruru
+long: dui
+long: dui
+long: figarabo
+long: nemi
+long: nɛmi
+long: pesi
+long: pesi
+long: φigarabo
+louse: doi
+louse: doi
+louse: dui
+louse: dui
+louse: dui
+louse: dui
+louse: dui
+louse: dui
+louse: dui
+louse: kuro
+louse: nu
+louse: rui
+man: hoirabi
+man: hwe
+man: hwe͂
+man: hwi
+man: hwi
+man: hwi͂
+man: hwi͂
+man: hwi͂
+man: hwĩ
+man: mui
+man: ui
+man: wei
+many: hogoro
+many: hogoro
+many: hu dabo
+many: hu͂ dabo
+many: tulopo
+many: tulopo
+many: yo menabo
+many: yo menabo
+meat: mi
+meat: mi
+meat: tebia
+meat: tebia
+moon: bafa
+moon: hadi
+moon: ha͂di
+moon: hari
+moon: hari
+moon: kasiapu
+moon: kasiapu
+moon: koi
+moon: koi
+moon: pawi
+moon: ro
+moon: tiriuna
+mosquito: ia
+mosquito: iaa
+mosquito: uanaserigi
+mosquito: wanamu
+mosquito: yá
+mother: hai
+mother: hai
+mother: haio
+mother: iamusi
+mountain: dulipu
+mountain: dulipu
+mountain: gabo ai
+mountain: gabo ai
+mountain: habagi
+mountain: habagi
+mountain: hadi
+mountain: hedi
+mountain: sazi
+mountain: sazi
+mouth: fonamu
+mouth: forabu
+mouth: forabu
+mouth: hararo
+mouth: kono
+mouth: kono͂
+mouth: konodo
+mouth: konodo
+mouth: onosoru
+mouth: serigi
+mouth: φonamu
+mouth: φorabu
+name: diai
+name: diai
+name: doi
+name: doi
+name: doi
+name: doi
+name: nimi
+name: nimi
+navel: sawadure
+navel: suburu
+navel: sumburu
+navel: tsuburu
+neck: daba-digi
+neck: deba
+neck: deba
+neck: deba
+neck: dɛba
+neck: depalu
+neck: depalu
+neck: doba
+neck: dobadigi
+neck: dobadigi
+neck: duba-tagi
+neck: reba
+new: gezi
+new: gɛzi
+new: gisi
+new: gizi
+new: gizi
+new: gɪsi
+new: kesipo
+new: kesipo
+night: be digiadubo
+night: be digidubo
+night: be susigi
+night: be susigi
+night: birigiaribo
+night: digi
+night: digi
+night: digiro
+night: dirigi
+night: perekidapu
+night: perekidapu
+night: rigi
+nose: foaai
+nose: foba
+nose: foba\ai
+nose: fobai
+nose: fobai
+nose: fopa ai
+nose: gunumu
+nose: gununu
+not: maibo
+not: maibo
+not: me bo
+not: me bo
+not: muibe
+not: mu͂ibe
+one: beta
+one: bisadi
+one: bisandi
+one: kori sali damo
+one: kori sali damo
+one: me
+one: mɛ͂
+one: me(-zazibo)
+one: mɛzazibo
+one: petati
+one: peta͂ti
+one: pisedi
+person: hwi
+person: hwi
+person: hwi
+person: hwi͂
+person: hwi͂
+person: hwi͂
+rain: hadi
+rain: hadi
+rain: halepe
+rain: halepe
+rain: hari
+rain: hari ni
+rain: hari ni
+rain: heri
+rain: heri
+rain: huwa
+rain: hwa
+rain: hwa
+rat: beri
+rat: pauu
+rat: piri
+rat: pore
+red: dobu
+red: dobu
+red: sera\a
+red: seraʔa
+red: sezaiguri
+red: sɛ͂za͂i͂guri
+red: to\u rapu
+red: toʔu rapu
+right: turu
+river: aii
+river: aii-habi
+river: buna
+river: ebe
+road: du
+road: du
+road: du͂
+road: du͂
+road: tu
+road: tu
+road: tu
+road: tu
+road: tu
+road: tu
+road: tu͂
+root: nidai
+root: ni da͂i͂
+root: ni feligi
+root: nifirigi
+root: ni φeligi
+root: perege
+root: pɛrɛge
+round: bopae eratapu
+round: bopae erataqpu
+round: doguaiyai
+round: doguaiyai
+round: kagubo
+round: kagubo
+round: sebi
+round: sɛbi
+sand: adiga͂
+sand: adigo
+sand: bo dou
+sand: bo͂ do͂u͂
+sand: gegera
+sand: gɛgɛra
+sand: kekere
+sand: kekere
+say: duidabo
+say: duidabo
+say: fo wai
+say: foya dibo
+say: po yae
+say: po yae
+say: φo wai
+say: φoyadibo
+seed: digi
+seed: digi
+seed: du
+seed: du
+seed: famani
+seed: φamani
+see: gulizidabo
+see: gulizi-dabo
+see: kalae
+see: kalae
+see: kerai
+see: kerai
+see: kerai
+see: kɛrai
+see: su-
+shoulder: honu
+shoulder: honu
+shoulder: honu-natisi
+shoulder: natiri
+sit: berai
+sit: berai
+sit: bete͂i͂ teae
+sit: betei teae
+sit: diyai
+sit: di͂ya͂i͂
+skin: aizi
+skin: asi
+skin: hame
+skin: hami
+skin: segai
+skin: segai
+skin: sɛ͂ga͂i͂
+skin: sɛ͂ga͂i͂
+skin: sɛ͂ga͂i͂
+skin: segãĩ
+skin: sikai
+skin: tiki
+skin: tiki
+sleep: feduidabo
+sleep: fidabo
+sleep: fidabo
+sleep: piae
+sleep: piae
+sleep: φeduidabo
+sleep: φidabo
+sleep: φidabo
+small: famini
+small: makalamani
+small: makalamani
+small: manigani
+small: manigani
+small: nogu
+small: nogu
+small: φamɪni
+smoke: siguri
+smoke: siguri
+smoke: si lokolapu
+smoke: si lokolapu
+smoke: sugudi
+smoke: sugudi
+smoke: sugudi
+smoke: sugudi
+smoke: suguni
+smoke: suguni
+smoke: suguri
+smoke: sukuri
+snake: hara
+snake: hara
+snake: hara
+snake: hara
+spit: heza
+spit: putaa
+spit: rago
+spit: tago
+stand: dari
+stand: dari
+stand: holabo
+stand: ho͂labo
+stand: orai
+stand: orai
+stand: tukuso holae
+stand: tukuso holae
+star: bese
+star: hamu
+star: hamu
+star: hore
+star: hɔ͂re
+star: horobe
+star: huri
+star: kelemane
+star: kelemane
+star: ora manu
+star: ora manu
+star: sa
+stone: gabo
+stone: gabo
+stone: kabo
+stone: kabo
+stone: kabo
+stone: kabu
+stone: kabu
+stone: kani
+stone: kʰani
+stone: kapo
+stone: kapo
+stone: kapu
+sun: bete
+sun: fa
+sun: sano
+sun: suga
+sun: sugua
+sun: sugua
+sun: sukwa
+sun: suqʷa
+sun: tereuna
+sun: tereuna
+sun: ye
+sun: ye͂
+swim: ai ana fai
+swim: a͂i͂ ana φai
+swim: ipi ta\a pae
+swim: ipi ta͂ʔa͂ pae
+swim: wei ana aifudabo
+swim: we͂i͂ ana a͂i͂φudabo
+swim: we͂i͂ anazuidabo
+swim: wei anazuidabo
+tail: dizari
+tail: dizari
+tail: hao
+tail: ha͂o͂ dizari
+tail: ha͂o͂ dizari
+tail: hao dizari
+tail: tisale
+tail: tisale
+that: o
+that: o
+that: saridona
+that: saridona
+that: u
+that: u
+that: uape
+that: u-ape
+thigh: faza
+thigh: togoie
+this: i
+this: i
+this: i
+this: i
+this: i
+this: i
+this: iape
+this: i(-ape)
+thou: aiwi
+thou: da͂
+thou: na\ae
+thou: naʔa͂ɛ
+thou: nadea
+thou: nai
+thou: niei
+thou: nĩyehn
+thou: nte
+thou: nyɪ͂
+thou: nye
+thou: nyi
+thou: ya
+three: 2+1
+three: damu beta
+three: soré
+three: suri
+three: suri
+tomorrow: dua
+tongue: gonoma
+tongue: gonoma
+tongue: habe
+tongue: habe
+tongue: habi
+tongue: habi
+tongue: habi
+tongue: hape
+tongue: hape
+tongue: hapi
+tongue: koroma
+tongue: nononoma
+tooth: sega
+tooth: sega͂
+tooth: serege
+tooth: serege
+tooth: sɛrɛge
+tooth: sɛrɛge
+tooth: sereke
+tooth: setreke
+tooth: sirige
+tooth: sirigi
+tooth: sregi
+tooth: tseka
+tree: beti
+tree: ni
+tree: ni
+tree: ni
+tree: ni
+tree: ni
+tree: ni
+tree: ni
+tree: ni
+tree: ni
+tree: ni
+two: dabada damubo
+two: dabada damubo
+two: damo
+two: damo
+two: tambu
+two: tamu
+two: tamu
+two: tamu
+two: tamu
+two: tamu
+two: tapala tamo
+two: tapala tamo
+walk: beredabo
+walk: bɛrɛdabo
+walk: fa
+walk: fa
+walk: fai!
+walk: foroabe
+walk: pai!
+walk: φoroaba
+wallaby: sauwari
+wallaby: soware
+wallaby: suari
+wallaby: tenama
+warm: sobu
+warm: sobu
+warm: soburu
+warm: soburu
+warm: subu
+warm: subu
+warm: supu rapu
+warm: supu rapu
+water: ãi
+water: aii
+water: aii
+water: aw
+water: ipi
+water: ipi
+water: oii
+water: wei
+water: wei
+water: we͂i͂
+water: we͂i͂
+water: wi
+water: wi͂
+we: da
+we: da
+we: da
+we: da
+weep: iyei
+we (incl.): da
+we (incl.): da
+we (incl.): da͂
+we (incl.): pʰeya
+we (incl.): pheya
+we (incl.): tä
+we (incl.): tæ͂
+we (incl.): ya͂
+we two: da-bara damo
+we two: da damo
+what: nenai
+what: nɛnai
+what: neya
+what: neya
+what: noa honae
+what: noa honae
+what: nouwai
+what: no͂u͂wa͂i͂
+white: age
+white: age͂
+white: fora dabo
+white: segerizi
+white: sɛgerizi
+white: te rapu
+white: te rapu
+white: φora dabo
+who: de
+who: de͂
+who: deye
+who: de-ye
+who: hidie
+who: hi͂die
+who: yade
+who: yade͂
+wife: naso
+wife: niaso
+wind: muri
+wind: sa
+wind: weri
+woman: sho
+woman: sirabi
+woman: so
+woman: so
+woman: so
+woman: šo
+woman: sou
+woman: sou
+woman: sou
+woman: sou
+woman: sou
+woman: sõ(u)
+yellow: ase
+yellow: a͂sɛ͂
+yellow: hake rapu
+yellow: hake rapu
+yellow: hwe
+yellow: hwɛ͂
+yellow: soaguri
+yellow: soaguri
+yesterday: dua
+you: tiyẽ

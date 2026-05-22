@@ -1,0 +1,358 @@
+all: mïngkï
+ashes: hrïn hawi
+ashes: rɪn haui
+back: hanggëlïm
+back: hanjïl
+back: maip
+back: maipʰ
+bad: angkwara
+bark: wïny
+belly: hambʷaφ
+belly: hambuwamp
+belly: hambwáf
+belly: wët
+big: dif
+big: dip
+big: diφ
+bird: yaʷər
+bird: yawër
+bird: yawïr
+bite: ambəɣə
+bite: ambïgha
+bite: ambuwa
+bite: hau(wan)
+black: dzhidzhivara
+black: fïï
+black: ǯɪǯɪßara
+blood: haɲ
+blood: hany
+blood: hany
+bone: yant
+bone: yantʰ
+bone: yent
+boy: haulul
+breast: kau
+breast: kaw
+brother: na´bët
+brother: nabətʰ
+brother: nëmbï-hït
+burn: hrïn pin nïnggï
+burn: yinïngk-
+burn: yinɨŋkəmənda
+calf: yämïnc
+cassowary: dauáia
+cassowary: toiyï
+child: hagiyai
+child: hagiyai
+chin: anjïvïlï
+claw: anggal
+cloud: womi
+cloud: womi
+cold: gɨdzəra
+cold: gïdz-ërha
+cold: inc-ïra
+come: ha-
+come: hamda
+come: nïhaumïndï
+dance: haw wïrï mïndak
+die: um-
+die: wara mənda
+die: yondong wïlïkï kam mïndï
+dog: ke(y)in
+dog: waɲa
+dog: wanyá
+dog: wanyï
+drink: nïmïnï
+dry: watep
+ear: hrïmïnc
+ear: rɨminč
+earth: maŋgʌ
+earth: mangga
+earth: mënggë
+earth: mënggë
+eat: nï-
+eat: nïmïnï
+eat: nɨmba
+egg: mïnc
+egg: yaur minch
+egg: yaur mɪnč
+elbow: yi-nanggïlï
+emu: dauaiʌa
+eye: me-mangk
+eye: momakʰ
+eye: mó-mak
+fall: kufïnïlï
+father: acï
+father: adzha
+father: aǯa
+father: bou
+father: mbaw
+fat (n.): fanc
+fat (n.): han fach
+fat (n.): han φač
+feather: fanï
+finger: mamïnd
+finger: mamïnt
+finger: mamɨnd
+fire: ɲab¯
+fire: hrïn fin
+fish: kombïsal
+five: mamïnt
+fly (v.): ambïlï duwe
+foot: nggal
+foot: yämbïny
+foot: yämïs
+forehead: maigʷʌtʰ
+forehead: maigwat
+forehead: maiyunk
+forehead: mikwët
+four: hanggauk mës
+four: mʷoihaq mʌs mʷoihaq mʌs
+full: wïnïm wïlï
+girl: haulolul
+give: nine
+give: nïnïlï
+good: ainch
+good: waiʌra
+good: waiya
+green: gamgám
+green: gamgʌm
+green: kïmkïm
+hair: yedzhë-fán
+hair: yèncï-fan
+hair: yeǯəφan
+hand: yi-mangk
+hand: yɪmʟakʰ
+head: yècï-mac
+head: yedzhe-mách
+head: yeǯəmač
+hear: nïnggulï
+hear: nʊŋu mənda
+hear: nungu
+heart: məmdəmak
+heart: mëndë-makx
+heart: mïntï-mangk
+heavy: këmïrï
+heavy: maghwáli
+heavy: maɣwali
+he/she: aunáng
+he/she: aunaŋ
+he/she: nung
+hit: fal-
+hit: hïfal nïngïnï
+hit: φaləmənda
+house: hram
+house: ram
+house: rham
+I: nïng
+I: nini
+I: nɪn
+kill: panïm wïlïkï mïndï
+knee: hamang
+knee: hamwai
+know: nïnggulï
+laugh: yimó-
+laugh: yimomənda
+laugh: yimondï
+leaf: bï fan
+leaf: (bïï-)vana
+leaf: bɨ φan
+leg: falét
+leg: φaletʰ
+lie: halïmï (mïndï)
+lie: hemï(mak)
+liver: mävan
+long: mïl
+long: mïl
+long: mɨl
+louse: ɟɪm
+louse: yim
+louse: yim
+man: nabʌ
+man: naba
+man: nëmbï
+many: mïngkëmïnggë mëndá
+many: mïngkï
+many: mɨŋkəmɨŋgə mənda
+meat: han yuʌ
+meat: han yua
+meat: yuwï
+moon: hrawïn
+moon: ɹʌn
+moon: rhan
+morning: fuwe
+mother: mam
+mother: mam
+mother: mam
+mountain: anang
+mountain: mangga fit
+mountain: maŋgʌ φɨtʰ
+mouth: ancïmal
+mouth: andzhëmál
+mouth: anǯəmʌl
+name: hamp
+name: hʌmpʰ
+name: yimp
+neck: kaliant
+neck: kaliʌnt
+neck: kaliyent
+new: gamgáma
+new: gʌmgʌmʌ
+new: yongemp
+night: cicïbïrï
+night: rhuawádia
+night: ruʌ wadia
+nose: hanganc
+nose: hangiét
+not: aun wuhárhïla
+not: aun wuhʌrɨla
+not: mïndalï
+not: wuhʌ rɨla
+old: lau-nom
+old: manduïp
+old: nëmbï-nom
+old: rit
+old: ɹɪtʰ
+one: pangemp
+one: waɲɪŋgeφ
+one: wanyinggéf
+person: nëmbï
+rain: hruwï
+rain: rhua
+rain: ruʌ
+rat: daiu
+rat: daiu
+rat: dëyu
+red: ɲaɹə
+red: nárë
+red: pasaghulï
+road: anïmbi
+road: ganïmf
+road: ganɨmφ
+root: bɨ gɨdɨɹ
+root: bï gïdïr
+root: (bïï-)kïndïl
+round: anan hanïgh
+sand: jimi
+say: ha-
+say: hamïntï pawï
+say: manə yadəmdaX
+seed: bë-mangk
+see: nïnunggula
+see: nʊŋgʷə
+see: nunggwë
+short: maɹeφ
+short: maref
+short: mejïyip
+shoulder: hrakïfat
+shoulder: hranggïvïnt
+shoulder: ragʊtʰ
+shoulder: ragút
+sister: më´hënt
+sister: məhəntʰ
+sister: mënt
+sister: mïnt
+sister: nïlonïng
+sit: ha-
+sit: hamdɨgəməndə
+sit: hramdï mïndï
+skin: wïny
+skin: yimágh wïny
+skin: yimaɣ wɨɲ
+sleep: hemïnï
+small: ulə
+small: urë
+small: wïl
+smoke: awap
+smoke: (hrïn) hawemp
+smoke: nïngk
+smoke: rɪn haump
+snake: kas
+snake: kas
+snake: kas
+stand: ambëldua
+stand: ambəldua
+stand: ambïlï mïndï
+star: gufï
+star: gußʌ
+star: guva
+stone: hrïngk
+stone: rɪgɨ
+stone: rigï
+sun: naiyʌ
+sun: naiya
+sun: naiyï
+sun: sïndï
+sun: sïtë
+swim: hrap mïndina
+tail: hamböjal
+tail: himbëdzhár
+tail: hɪmbəǯaɹ
+that: yïrak mïndï
+they: ɲiŋ
+they: nying
+they two: anhaungkmës
+this: nyïk mïndï
+thou: nang
+thou: naŋ
+thou: nangk
+three: masë mandong
+three: mës akofangk
+three: mʌsə mʌndoŋ
+tomorrow: tuwïlawï
+tongue: aləʲʌɲ
+tongue: alïmbïny
+tooth: ancï-mangk
+tooth: andəmakʰ
+tree: bɨ
+tree: bï
+tree: bïï
+two: mës
+two: yimág yingwa
+two: yɪmag yɪŋgʷʌ
+walk: dumïndï
+wallaby: ʷura
+wallaby: wurá
+warm: fab-ërha
+warm: pavïha
+warm: φʌbəṛa
+warm: φʌbəṛa
+water: hrëmbï
+water: rabʌ
+water: rabá
+we: anïmbant
+we: anïng
+we (excl.): anɨŋ
+wet: gogora
+wet: gogorha
+wet: hrëmbï mïndï
+we two: anïmbïhongk
+we two (excl.): yidʌm
+we two: yidám
+what: aga ma:u
+what: aga maːu
+what: nahïnahïna
+when: mïndï erïpwe
+where: waik hane
+white: apïlï
+white: aßle
+white: avle
+who: gʊlobaX
+who: gulobax
+who: hane
+wind: handal
+wind: handal
+wind: handal
+wing: woßɪč
+wing: wovich
+wing: wuvïc
+woman: mʌ
+woman: ma
+woman: mëg
+yellow: yefïgo
+yesterday: hafuwap
+yes: yawï
+you: ankec
+you two: anhaungkmës
+you two: handogaß mʌs
+you two: handogav mas

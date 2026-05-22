@@ -1,0 +1,185 @@
+all: bane
+and: ao
+animal: te man
+ashes: mannaŋ
+back: teakū
+bad: buakaka
+bark: kunin te kai
+because: pʷa
+belly: te abein
+bird: te man ni kiba
+bite: tenā
+black: rorō
+blood: terarā
+blow: uka
+bone: terī
+breast: te mmamma
+breathe: ike
+burn: kabueka
+child: te ataei
+cloud: te naŋ
+cold: mʷaitoro
+come: roko
+correct: eti
+count: wareka
+cut: korea
+die: mate
+dig: kena
+dirty: barekareka
+dog: te [kamea]
+drink: mōi
+dry: mʷau
+dull: rotu
+dust: te bubu
+ear: te taniŋa
+earth: te aba
+empty: akeakanoana
+eye: te mata
+fall: peu
+far: rāroa
+father: te tama
+fat (n.): te nenea
+fear: māku
+few: teutana
+fingernail: te uki ni bai
+fire: ahaŋ
+fish: te ika
+five: nimaua
+float: beibeti
+flow: bʷaro
+flower: teuē
+fly (v.): kiba
+fog: te mābubu
+foot: te wae
+forest: te buakoni kai
+four: aua
+frog: te [biraoki]
+fruit: te uā ni kai
+full: on
+give: aŋan
+good: raoiroi
+grass: te  uteute
+green: māwawa
+guts: ta kanoan
+guts: ta kanoan
+hair: iran atū
+hand: tebai
+head: te atū
+hear: oŋo
+heart: te buro
+heavy: rawāwata
+he: ŋaia
+hit: orea
+horn: te koro
+how: kaŋā
+hunt: kāea
+husband: te bū
+if: ŋkana
+I: ŋŋai
+in: inanon
+kill: kamatea
+knee: te bubua ni wae
+know: atā
+lake: te nama
+large: abʷābʷaki
+laugh: ŋare
+leaf: tebā
+left: maiŋ
+leg: te wae
+lie: wene
+live: maiu
+liver: te ato
+long: anānau
+louse: te uti
+man: te mmʷāne
+many: mʷaiti
+meat: te iriko
+moon: namʷaina
+mother: te tina
+mountain: [te mauŋaj
+mouth: te wī
+name: tr ara
+narrow: uaiki
+near: kān
+neck: te roroa
+new: [bōu]
+night: te boŋ
+nose: te bʷairi
+old: ikawai
+one: teuana
+person: te aomata
+play: takākaro
+pull: aita
+push: waŋa
+rain: te karau
+red: uraura
+right: atai
+river: te karaŋa
+road: te kawai
+root: te wakā
+rope: terō
+rotten: mka
+round: mronron
+rub: tārā
+salt: tetāri
+sand: te bike
+say: [taku]
+sea: tāri
+sea: tāri
+seed: te korā
+sew: itua
+sharp: kakaŋi
+short: kīmototo
+sing: anene
+sit: tekateka
+skin: te kun
+sky: karawa
+sleep: matũ
+small: uarereke
+smell: aroka
+smoke: te bubu
+smooth: aoraoi
+snake: te naeta
+some: teutana
+spit: bʷāware
+split: bʷenā
+stab: ewara
+stand: tei
+star: te itoi
+stick: teoko
+straight: eti
+suck: temeka
+sun: tāi
+tail: te buki
+they: ŋaīa
+thick: mmaten
+think: kʌḷmæn-
+thin: mmani
+thou: ŋkamī
+thou: ŋkoe
+three: teniua
+throw: karea
+tie: kataia
+tongue: te newe
+tooth: te wĩ
+turn: kab{w}arāka
+two: uoua
+vomit: mumuta
+warm: bue
+we: ŋaira
+wet: mʷaimʷai
+what: terā
+when: nniŋai
+which: te...rā
+white: mʷaiηaiηa
+who: antai
+why: aera
+wide: rababa
+wife: te bū
+wind: te aŋ
+wing: te bai
+woman: te aine
+worm: mʷata
+wrong: aki eti
+year: teririki
+yellow: bā bobo

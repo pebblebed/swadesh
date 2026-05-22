@@ -1,0 +1,356 @@
+all: wore siya\i
+all: worɛ siyaʔi
+arm: ereti
+arm: ɛrɛti
+arrow: ene
+ashes: yehe-kere
+ashes: yɛhɛkɛrɛ
+ashes: ye-si
+ashes: yɛsi
+back: mɛʔivɪni
+back: me\iyini
+bark: me napi
+bark: me-tahe
+belly: lire
+belly: lirɛ
+belly: rire
+belly: rirɛ
+big: (a)rasi
+big: harɛ
+big: rasi
+bird: ini
+bird: irowe
+bird: iruwe
+bird: iruwɛ
+bite: awa
+bite: awa
+black: ißisiaʔi
+black: ivisi-a\i
+black: iwisia\i
+black: wapowaʔi
+blood: fisa\i
+blood: fisaʔi
+blood: fisaʔi
+bone: pa\are
+bone: paʔarɛ
+bone: paʔarɛ
+boy: emane
+boy: emanɛ
+breast: mo\u
+breast: moʔu
+breast: moʔu
+brother: ayru
+brother: ayru
+burn: yehe etiniyei
+burn: yɛhɛ ɛtiniyei
+butterfly: maimai
+cassowary: iruwaru
+chin: ahita\o
+chin: ahitaʔo
+claw: yaruwapi
+claw: yaruwapi
+cloud: aitu
+cloud: aitu
+cloud: safu
+cloud: saφu
+cold: naratay-a\i
+cold: naratayaʔi
+cold: narete
+cold: narɛte
+come: aiyiyei
+come: aiyiyei
+come: ayva
+come: syʊʌ
+crocodile: hare ma\aru
+crocodile: harɛ mʌʔʌru
+die: temeniyeye
+die: tɛmɛniyeye
+dog: metahɛ
+dog: yo
+dog: yo(u)
+drink: sa\i aiyei
+drink: saʔi aiyei
+dry: foro\o
+dry: foroʔo
+ear: apahe
+ear: apahɛ
+ear: apaniye
+ear: apaniyɛ
+earth: peperi
+earth: peperi
+earth: pɛpɛri
+earth: pɛpɛri
+eat: aiyei
+eat: aiyei
+eat: asiyʌ
+eat: asiya
+egg: hote
+egg: hotɛ
+egg: irowe towe
+emu: ʔiruwʌru
+eye: nihe
+eye: nihɛ
+eye: nihɛ
+father: ayte
+father: aytɛ
+fat (n.): piyo\u
+fat (n.): piyoʔu
+fat (n.): piyoʔu
+feather: irowɛ
+feather: irowe towe
+finger: ereti naye\
+finger: ʔɛrɛti nayɛʔ
+fire: yehe
+fire: yɛhɛ
+fire: yɛhɛ
+fish: hare
+fish: harɛ
+fish: hote
+five: ereti-feni
+five: ʔerɛtiφɛni
+fly (v.): sinitiyei
+fly (v.): sinitiyei
+forehead: mapine
+forehead: mapinɛ
+four: hesio-hesio
+four: hɛsiohɛsio
+full: ahitɛmɛrɛʔɛ
+full: ahitemere\i
+girl: tawn-emane
+girl: tawnemanɛ
+give: awe
+give: awe
+give: awei
+give: dwei
+good: osowaʔi
+good: wiseria\i
+green: kokowaʔi
+green: kokowo\i
+hair: mato towe
+hair: mato towe
+hair: to-towe
+hair: tutowe
+hand: ereti
+hand: ʔɛrɛti
+head: mato
+head: mato
+head: tu
+head: tu
+heart: marepi
+heart: marɛpi
+heart: maripi
+heart: maripi
+hear: wanuwi
+hear: wanuwi
+heavy: orasi-a\i
+heavy: orasiaʔi
+house: wasi
+house: wʌsi
+I: ane
+I: a-ne
+I: anɛ
+kill: aine tera\iyei
+kill: ainɛ tɛraʔiyei
+knee: lowe uporo
+knee: lowe uporo
+knee: roa-\uparo
+knee: roʌʔupʌro
+knee: rowe \uporo
+know: so\oru
+know: soʔoru
+leaf: ma-towe
+leaf: (me) towe
+leaf: mʌtowɛ
+leg: lowe
+leg: lowe
+leg: rowe
+leg: rowɛ
+lie: howeyei
+lie: howeyei
+lie: howiye
+lie: howiye
+liver: waße
+liver: wave
+liver: wawe
+liver: wawe
+long: pitase
+long: pitase
+long: pïteya\i
+long: wisɛriaʔi
+louse: neme
+louse: nɛmɛ
+louse: nɛmɛ
+man: meni
+man: mɛni
+man: mitaru
+man: mitaru
+many: tomu arasi
+many: tomu arasi
+meat: (fe)ro\u
+meat: feroʔu
+meat: roʔu
+moon: yame
+moon: yame\
+moon: yamɛ
+moon: yamɛʔ
+mosquito: ne\i
+mosquito: nɛʔi
+mother: may
+mother: may
+mountain: omo
+mountain: omo
+mountain: omo
+mouth: ahi
+mouth: ahi
+mouth: ahi
+name: yape
+name: yapɛ
+name: yapɛ
+nape: wano\o
+nape: wʌnoʔo
+neck: pere\i
+neck: pɛrɛʔi
+new: he\iya\i
+new: hɛʔiyaʔi
+night: pasi
+night: pasi
+night: pasi
+nose: ereme
+not: piyete
+not: piyɛte
+not: -taʔama
+not: ta\ama
+one: (he)ta\i
+one: hɛtaʔi
+one: taʔi
+person: meni
+person: mɛni
+rain: sa\i utie
+rain: saʔi utie
+rain: sa\utowa
+rain: saʔutowa
+red: piteyaʔi
+red: roʔuaʔi
+red: ro\u(w)-a\i
+road: yo
+road: yo may
+road: yo (may)
+root: me
+root: menapi
+root: me-napi
+round: yosiyei
+round: yosiyei
+sand: eneri
+sand: ʔɛnɛri
+sand: terere
+sand: tɛrɛrɛ
+say: perite\iye
+say: pɛritɛʔiye
+seed: meso
+seed: meso
+seed: meso
+see: siyɛsiyʌ
+see: siyesiya
+see: siyeyei
+see: siyeyei
+short: te\i-a\i
+short: tɛʔiaʔi
+shoulder: yo\o
+shoulder: yoʔo
+sister: ine
+sister: ine
+sit: anue
+sit: ʔʌnue
+sit: onuwe
+sit: onuwɛ
+skin: tahe
+skin: tahɛ
+skin: tahɛ
+sleep: howeye
+sleep: howeyɛ
+small: arasi
+small: aswa\i
+small: osowa\i
+small: ʔʌswaʔi
+smoke: sapu
+smoke: sapu
+smoke: yehi-tamu
+smoke: yɛhitʌmu
+snake: haru
+snake: haru
+stand: teye
+stand: teyei
+stand: teye(i)
+star: irimi
+star: irimi
+star: sariyipu
+star: sariyɪpu
+stone: tapiye
+stone: tapiyɛ
+stone: tapiyɛ
+sun: poɔyʊɛ
+sun: pooyve
+sun: poweye
+sun: poweyɛ
+swim: sa\i feiyei
+swim: saʔi feiyei
+tail: ini
+tail: ini
+tail: you
+that: apo
+that: apo
+this: ape
+this: apɛ
+thou: ne
+thou: ne
+thou: nɛ
+three: hesi heta
+three: hɛsi heta
+tongue: sorowe
+tongue: sorowɛ
+tongue: soruwe
+tongue: soruwɛ
+tooth: pi
+tooth: pi
+tooth: pi
+tree: me
+tree: me
+tree: mɛ
+two: hesi
+two: hɛsi
+two: hɛsi
+walk: iye
+walk: ʔiye
+walk: uweyei
+walk: uweyei
+wallaby: aviye \erevi
+wallaby: ʔaviyɛ ʔɛrɛvi
+warm: umeri(y)a\i
+warm: umeriyaʔi
+water: sa\i
+water: saʔi
+water: saʔi
+we (incl.): nomo
+we (incl.): nomo
+we: namo
+we: nʌmo
+what: piyine
+what: piyɪne
+white: roʔuwaʔi
+white: wapo(-a\i)
+white: wapoaʔi
+who: nəbɪrai
+who: nïbirai
+wind: fiaru
+wind: φiaru
+wing: haypi
+wing: haypi
+woman: taune
+woman: taunɛ
+woman: tawne
+woman: tawnɛ
+yellow: warime-a\i
+yellow: warimeaʔi
+yellow: warimeyaʔi
+yes: yaw
+yes: yaw

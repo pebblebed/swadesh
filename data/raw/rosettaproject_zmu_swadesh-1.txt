@@ -1,0 +1,389 @@
+all: kurru-kurru ~ kuru-kuru
+and: t̪aka
+ankle: parraŋgal
+ankle: parrki
+arm: maṇku
+arm: piki
+ashes: put̪a
+ashes: t̪ikiɲ
+back: maŋka
+back: pila ~ piḷa
+back: pila ~ piḷa
+back: puntu-puntu
+bad: yuɹ̣al
+bad: yuɹ̣almaɹ̣a
+bad: yuɹ̣almara
+bark: murriɲ
+bark: piɲaɹ̣iɲ
+bark: pit̪al
+belly: tuku ~ t̪uku
+belly: tuku ~ t̪uku
+big: t̪aːta
+bird: wiɟi(-wiɟi)
+bite: yita-
+bitter: kaṭi
+black: kaṭa(-kaṭa)
+blood: kuwaɲ
+blood: paɹ̣a-
+blood: pilpa-
+bone: maŋka
+bone: t̪ikiya
+boy: kun̪an-kun̪an
+boy: yargun̪t̪a
+branch: mat̪an
+breast: ŋama
+breathe: ŋaː-
+breathe: ŋataŋaɹ̣a
+brother: muwaṇ
+brother: puwan ~ puwin
+burn: parri-
+burn: piya
+butterfly: pinam-pinam
+butterfly: pirrika
+butterfly: piyimpiɹ̣
+calf: paŋkal
+calf: puḷa ~ puɹ̣a ~ puːla
+cheek: ŋumuɲ
+chest: t̪ali
+child: kut̪arra
+child: pipi
+chin: puː ~ puwu
+chin: yankaɲ
+claw: pikaɲ
+cloud: tawayarru-tuŋkun
+cloud: wilan̪
+cloud: yukan̪
+cold: maṇṭa
+come: palka-
+correct: pitarra ~ pitaɹ̣a ~ pirra
+cut: piŋka-
+cut: piŋka-
+cut: puɹ̣i- ~ purri-
+cut: t̪ulka-
+dark: yuːrri-
+daughter: kamay
+daughter: taŋay
+day: t̪alu
+day: t̪urri ~ t̪uɹ̣i
+day: wiyiŋkal
+die: pali-
+dig: pata-
+dig: piɟi-
+dig: piti-
+dirty: paṇṭin
+dog: kuntaḷ
+drink: t̪a-
+dry: punkiɲ
+dust: t̪uḷtu
+ear: ŋatuɲ
+ear: pina
+earth: mayi
+eat: t̪a-
+egg: kapuɲ
+elbow: kupu
+emu: ŋurruɲ
+eye: miːl
+eye: piku
+eye: piku
+face: ŋunɟa ~ munɟa
+face: winɟ
+fall: waː-
+fall: warra-
+far: kuwarri
+father: pat̪aɲ
+father: yapu
+fat (n.): t̪anti
+fear: karra-
+feather: mawal
+feather: purra
+feather: puyil
+fight: pampa-
+finger: maɹ̣a
+finger: maɹ̣a
+fingernail: pikaɲ
+finger: t̪ana
+finger: t̪ina
+fire: piya
+fire: t̪inti
+fire: wiː
+fish: kuya
+fish: kwiya
+five: maɹ̣a-ŋgu
+float: kaːŋki-
+flower: puŋkil
+flow: kaːnti-
+flow: paɹ̣a-
+flow: t̪aŋki-
+fly (n.): mukuɲ
+fog: kukuma
+foot: paḷu
+foot: t̪ina
+forehead: ŋulu
+four: gabu-gabu
+fruit: t̪ukakaː
+full: kayimpa-
+full: ŋumpa-
+girl: kut̪aɹ̣a-kuni
+girl: maḷakan
+girl: maŋaɲ
+give: ŋuwa-
+good: marriɲ
+grass: yawi
+green: palum
+guts: kita-kita ~ kiɹ̣a-kiɹ̣a
+guts: mur(r)uɲkuna
+hair: maṇaɹ̣
+hair: maṇaɹ̣
+hair: pampu
+hair: t̪uwi
+hair: waːŋkiɹ̣i
+hand: maɹ̣a
+hand: t̪ana
+head: pampu
+hear: n̪a-
+hear: pinat̪ina-
+hear: pinat̪ina-
+heart: pat̪aɲ
+hear: wani-
+heavy: walkan ~ warrkan
+here: n̪uː
+he/she: bu-ga
+he/she: bu-n̪a
+he/she: n̪ambu
+he/she: n̪umbu
+hit: pa-
+hit: pu-
+hold: kaː-
+hold: ŋaɹ̣pa- ~ ŋarrpa-
+hold: n̪ima-
+hole: pantaɲ ~ paṇṭaɲ
+horn: n̪alka-n̪alka
+how: miɲan
+hunt: kalat̪aɹ̣i- ~ kalat̪arri-
+husband: kampaṭa
+husband: kirriɲ
+ice: maṇṭa
+ice: t̪alay
+I: d̪i-ga
+I: ŋad̪u
+I: ŋa-n̪a
+I: ŋa-nda
+I: ŋa-nd̪i-
+I: ŋa-n̪u
+I: ŋayi
+I: ŋu-n̪a
+kangaroo: kula
+kill: pa-
+kill: pu-
+knee: t̪inkal
+know: ŋinti-
+know: ŋunta-
+laugh: kinta-
+leaf: paka
+leaf: pali
+leaf: pirra
+left: kalun ~ kaluɲ
+leg: t̪untu
+lie: ŋuna-
+lightning: pantaŋka-wiː
+lightning: waŋiɲ
+lip: t̪aː
+liver: kaṇa
+long: pantarra
+long: pantarra
+louse: kapu(ː)l
+louse: kuːṇi
+louse: mat̪aɹ̣aɲ
+louse: mun̪i
+louse: puḷili
+louse: puḷiyi
+louse: puntu
+louse: t̪inil
+man: mayiɲ
+man: mayiɲka
+many: d̪uː
+many: kalkaɹ̣a
+meat: wiɟi
+moon: kiyan ~ kiyaṇ
+morning: ŋaŋkurkiɲ ~ ŋaŋkuḷkiːn
+morning: paṭa(la)
+mosquito: kaway-kaway
+mosquito: puɹ̣an ~ puɹ̣aṇ
+mother: kaya
+mountain: kampuka(n)
+mountain: kurrkurrama
+mountain: pulkurru
+mouth: t̪aː
+name: kurri
+nape: tuŋuɲ
+narrow: ŋumpu
+navel: nimpiɲ
+new: tiɟi
+new: turruɲ
+new: tuɹ̣un̪
+night: pimayi
+night: yurriɲ
+nose: tiː-ŋuɹ̣u
+not: wala
+old: maːmi
+old: parraka
+old: wat̪ul
+one: yaman
+other: kantu
+person: mayiɲ
+play: ŋaː(ki)-
+pull: puː-
+pull: t̪aki-
+push: yala-
+rain: puṭu
+rain: t̪urrpuɲ
+rat: pulka
+red: kuṭi ~ kut̪i
+red: marrki-marrki
+ripe: paɹ̣iyaː
+river: parru
+road: yuɹ̣u(ː)n
+root: t̪anaː
+root: tarran
+rope: kuɹ̣a ~ kurra
+rotten: puka
+rub: nurra-
+salt: tal
+sand: t̪irri
+say: t̪arrka-
+say: t̪arrka-
+say: yaː-
+scratch: kirrawi-
+scratch: wirru-
+seed: paː
+seed: tirra
+see: n̪a-
+see: n̪a-
+sew: purra-
+sharp: piyaː
+sharp: t̪arrampuḷ
+sharp: t̪irrarra
+sharp: t̪irrayira
+short: wut̪a
+shoulder: kaḷaɲ-kaḷaɲ
+shoulder: t̪awin-piki
+sing: yuŋki-
+sister: kuwiɹ̣a
+sister: papa
+sit: niya-
+skin: kirrpay
+skin: t̪an̪t̪u
+skin: yuɹ̣aɲ ~ yulaɲ
+sky: panta
+sleep: yampu-
+small: kiɟu
+smell: pat̪in̪
+smoke: t̪urran
+smooth: mu(n)t̪a
+snake: kaːn ~ kaːṇ
+snow: mukaɹ̣i
+snow: palpaɲ
+son: kut̪aɹ̣a
+son: palay
+spit: kaŋkul
+spit: kaŋkurr
+spit: pinka-kaŋkuḷ
+squeeze: t̪unma-
+stand: t̪ina-t̪arri-
+star: mirriɲ
+star: ŋiːɟi-kintawa
+stone: pakul ~ pakuḷ
+straight: ɟarrka-ɟarrka
+straight: pantarra
+suck: ŋama t̪a-
+suck: pinɟuwi
+suck: t̪a-
+sun: t̪urri ~ t̪uɹ̣i
+sweet: wayan
+swell: puku-
+swim: paːŋki-
+tail: t̪iyil ~ t̪iyiḷ
+tail: t̪un
+take: kaː-
+take: maː-
+that: narrana
+that: ŋariya
+that: n̪urra
+that: yalu
+there: n̪urra
+they: d̪ana
+they: d̪arra-ga
+they: d̪arra-na
+they two: buɹ̣a-ga
+they two: bula
+they two: bula-na
+they two: burral
+thick: pinti-pinti
+thigh: t̪arra
+think: pinampi-
+thin: kunɟarra
+this: n̪uː
+thou: ŋindu
+thou: n̪uɹ̣a
+thou: n̪uɹ̣a-ga
+thou: n̪uɹ̣a-na
+thou: yindu
+three: bula-gurra-yaman
+three: burral-a-yaman
+throat: ŋaṇtul ~ ŋantuḷ
+throw: t̪arrku-
+thunder: ŋulu-ŋulu
+thunder: t̪uḷiɲpira
+thunder: yantipu
+tie: parrima-
+tomorrow: paṭa(la)
+tongue: t̪alaɲ
+tooth: t̪irra ~ tirra
+tree: waːn
+turn: tiyi-
+two: burral
+two: kapau
+two: kapugabu
+unripe: pat̪a
+vagina: kini
+vomit: murra-
+vomit: murraɲ-murraɲ
+walk: puɹ̣a-
+walk: t̪aŋki-
+walk: ya-
+walk: ya-
+warm: parri-
+wash: (w)uki-
+water: ŋapa
+water: n̪irrpuḷ ~ niːlpuḷ
+weep: ŋuwal
+weep: wanki-
+we: ŋana
+we: ŋarra-ga
+we: ŋarra-na
+we two (excl.): ŋali
+we two (excl.): ŋali-ga
+we two (excl.): ŋali-na
+we two (incl.): ŋali
+we two (incl.): ŋali-na
+what: miɲan
+when: wandaɲ
+when: wand̪u
+where: dirra
+white: put̪a
+who: ŋaːna
+wife: nupa
+wind: yarrka
+wing: piki
+wipe: mipa-
+with: -piːl
+woman: kuni
+woman: mukiɲ
+wood: wi(ː)lpaɲ
+worm: kaːwa
+yellow: kuṇan-kuṇan
+yellow: mumuɲ
+yesterday: kuṇta
+you two: n̪uɹ̣a-ga
+you two: n̪ula
+you two: n̪ula-na

@@ -1,0 +1,101 @@
+all: navïnya
+arm: fe
+ashes: uraaqga
+bark: (ika)yaraa(ri\)
+belly: aanggu
+big: gwayï
+bird: inga
+bite: sïwa-raarï
+black: para(mïngïna)
+blood: taangga
+bone: enga\
+breast: aamunga
+burn: ta\a nïnkyaarengi
+claw: sïgwa
+cloud: aanggwa
+cold: yïmïnga
+come: aayowavanï
+die: navedenge
+dog: sïwia
+drink: inuga na-adïna
+dry: yaai\ya\
+ear: haara\a
+earth: kwaa\ara
+eat: n-eo\
+egg: ki\mïnga
+eye: nïmu(yi)
+fat (n.): (s)a\wa
+feather: aa\a
+fire: ta\a
+fish: pa\a/tamunga
+fly (v.): inga wïw-adïna
+full: maankute
+give: taav-onya
+good: naanga
+green: onagwaa(rïnga)
+hair: nda\a
+head: mïnga(yi)
+hear: aara aa-dengï
+heart: uwa
+horn: sïwanga
+I: nyonï
+kill: piya navagirengï
+knee: kwo\munga
+know: nïnjaagïna\
+leaf: (ika)wa\
+leg: augwaaviaga
+lie: saa wenï\
+liver: aaia
+long: sovia(ngara)
+louse: iya
+man: oga
+many: ompaaga\
+meat: sïnkïwa\
+moon: ema\
+mountain: ntïwa(ra)
+mouth: maangï
+name: avaanánkana
+neck: sïngwï
+new: sïnga
+night: sa\atïna
+nose: sï\ma
+not: fima
+one: naawona
+person: a\ma
+rain: nnya
+red: laaia
+red: tankï(rïnga)
+road: fayï/o\a
+root: sïvaga/ika\avinga
+round: pa\munka\
+sand: inage
+say: daa-dadïna
+seed: waanïmïra
+see: sïngwïnaande
+sit: e\ïngwaanï\
+skin: yaraa(na)
+sleep: saa piyaw-aadïna
+small: meyaayuga
+smoke: sïngwara\a
+stand: ero
+star: sengï
+stone: sa\anga
+sun: sanggwa
+swim: aasïwaaira
+tail: sawia
+that: aii(vuga)
+this: ta(vuga)
+thou: yoga
+tongue: aai\wï
+tooth: maangï
+tree: ika\
+two: uwa
+walk: wange-raarï
+warm: ta\a tangïgïna
+water: yïnunggu
+we (incl.): none
+what: pi\nu
+white: avaawaaïna
+who: nkogana
+woman: aavagi
+yellow: yaawo\

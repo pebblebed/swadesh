@@ -1,0 +1,463 @@
+all: unum
+all: unum
+arm: ebe-
+arm: ɛbɛ-
+arrow: gagʌd
+ashes: alos
+ashes: alos
+ashes: waiba
+ashes: walba
+back: gogodo-
+back: pioʔta-
+bad: mube
+bad: mubɛ
+belly: bi- anëg
+belly: bi anʌg
+belly: wawu-
+belly: wawu-
+big: ben
+big: bɛn
+bird: ai
+bird: ai
+bite: gal-
+bite: gal-
+black: gagëtu
+black: gagʌtu
+blood: zogʌ
+blood: zogë
+blow: fud-
+blow: fud-
+bone: tefulu-
+bone: tɛfulu-
+boy: mel faun
+boy: mɛl faun
+breast: su-
+breast: su-
+brother: apa
+brother: apa
+brother: apa- na\ëg
+brother: apa naʔʌg0
+brother: oti-
+brother: oti-
+brother: oti- matu
+brother: oti- matu
+burn: zame-
+burn: zamɛ-
+butterfly: babalit
+butterfly: babalit
+calf: yai- bignëg
+calf: yai- bignʌg
+cassowary: ehil
+chest: mugu-
+chest: mugu-
+child: mel
+child: mɛl
+chin: hibä-
+chin: hibä-
+cloud: hau
+cloud: hau
+cold: duanti
+cold: duanti
+come: so-
+come: so-
+come: wahe-
+come: wahe-
+crocodile: waga
+crocodile: waga
+cut: ago-
+cut: ago-
+cut: o-
+cut: o-
+cut: o-
+dance: due du-
+day: izou\e
+day: yehiu
+day: yehiu
+die: alme-
+die: almɛ-
+dig: felo
+dig: felo-
+dig: yele-
+dig: yele-
+dirty: gegehin
+dirty: gɛgɛhin
+dog: pëi
+dog: pʌi
+dry: kakëneu
+dry: kakʌnɛu
+ear: dahi-
+ear: dahi-
+earth: maha
+earth: maha
+eat: yan no-
+eat: ye-
+eat: ye-
+egg: na\-ëg
+egg: naʔʌg
+elbow: gobisi
+elbow: gobisi
+emu: ɛhil
+excrement: bi(ad)-
+eye: amä-
+eye: amä-
+face: ilo- wa
+face: ilo- wa
+fall: abate-
+fall: abate-
+fall: koukid-
+far: hiben
+far: hiben
+father: meme-
+father: memɛ-
+fear: ue-
+fear: ue-
+few: ganif
+few: ganif
+fight: fan ade-
+finger: mamëg
+finger: mamʌg
+fingernail: si:lu
+fingernail: siːlu
+fire: zai
+fire: zai
+fish: dol
+fish: dɔl
+fly (n.): bahul
+fly (n.): bahul
+fly (v.): fulule-
+fly (v.): fululɛ-
+fog: fud
+fog: fud
+forehead: ilo- wa
+forest: basu
+forest: basu
+fruit: aik
+fruit: aik
+full: alebea
+full: alɛbɛa
+full: wete-
+full: wɛtɛ-
+girl: asin faun
+girl: asin faun
+give: ø/ud-
+give: ud-
+good: mu
+good: mu
+grass: inë:m
+green: as\ia
+green: asʔia
+guts: bi- anëg
+guts: bi anʌg
+hair: bagi
+hair: bagi
+head: gati-
+head: gati-
+head: ilo-
+head: ilo-
+head: ilofu-
+hear: daham-
+hear: daham-
+heart: uli-
+heart: uli-
+heavy: ulume:n
+heavy: ulumɛːn
+here: ba
+here: hehan
+here: hɛhan
+he/she: -(ə)g
+he/she: -(ə)g
+he/she: -f
+he/she: -f
+he/she: -f
+he/she: -ø
+he/she: -u
+he/she: -u
+he/she: -u
+he/she: -ud-
+he/she: -ud-
+he/she: -ud-
+he/she: u\pa
+he/she: uʔpa
+he/she: uʔpa
+he/she: -(V)g
+hit: fan ade-
+hit: fan ade-
+hold: fale-
+hold: fale-
+house: zo
+house: zo
+how: gani
+I: -i
+I: -i
+I: ise
+I: isɛ
+I: -(i)t-
+I: -(i)t-
+in: famën
+I: -ø
+kill: be-
+kill: bɛ-
+knee: gatilʌ-
+knee: gatilë-
+laugh: ahale-
+laugh: ahale-
+left: anahe
+left: anahe
+leg: yai-
+leg: yai-
+lightning: amel fela-
+lightning: amel- fela-
+liver: gɛmʌ-
+liver: gemë -
+long: e\elu
+long: ɛʔɛlu
+louse: mi
+louse: mi
+man: dana
+man: dana
+man: manfël
+man: manfʌl
+many: kulum
+many: kulum
+moon: yagel
+moon: yagɛl
+morning: etu
+morning: ɛtu
+morning: ozagia
+morning: ozagia
+mosquito: ihi
+mosquito: ihi
+mother: ani-
+mother: ani-
+mother: ëu
+mother: ʌu
+mountain: mahagali
+mountain: mahagali
+mouth: o-
+mouth: o-
+name: žɛnu-
+name: zhenu-
+nape: du-
+nape: du-
+navel: hili-
+navel: hili-
+near: anʌbe
+near: anëbe
+neck: bo-
+neck: bo-
+new: eyeba
+new: eyeba
+new: faun
+new: faun
+night: gafudia
+night: gafudia
+nose: mede-
+not: be
+not: bɛ
+old: keinma
+old: keinma
+old: welude
+old: wɛlude
+one: holofar
+one: holofar
+pull: did-
+pull: did-
+push: sund-
+push: sund-
+rain: wʌ
+rain: wë
+rat: go\i
+rat: goʔi
+red: zoga\ai
+red: zogaʔai
+right: mu\ifa
+right: muʔifa
+ripe: bu:
+ripe: buː
+road: i
+road: i
+root: bebu
+root: bɛbu
+rope: ol
+salt: ma\ës
+salt: maʔʌs
+sand: dën
+sand: esi
+sand: ɛsi
+say: ma-
+say: ma-
+say: ze made-
+say: ze made-
+scratch: ti\-
+scratch: tiʔ-
+sea: ma\as
+sea: maʔas
+see: me\i-
+see: mɛʔi-
+see: mɛʔi-
+sharp: aig\ai
+sharp: aigʔai
+sharp: mete-
+short: gohi
+short: gohi
+shoulder: guba-
+shoulder: guba-
+sing: due hil-
+sister: ɛbina- naʔa0g
+sister: ebina- na\ag
+sister: ebinë- matu
+sister: ɛbinʌ- matu
+sit: bil-
+sit: bil-
+skin: gana-
+skin: gana-
+sky: hau
+sky: hau
+sleep: uhan-
+sleep: uhan-
+small: na\ëg
+small: naʔʌg
+smell: afug me-
+smoke: ahu
+smoke: ahu
+snake: mën
+snake: mʌn
+spit: oʔosʌ-
+spit: o\osë-
+spit: otole-
+split: betean ne-
+split: betean nɛ-
+stand: ay-
+stand: tawe-
+stand: tawe-
+star: malʌbi
+star: malëbi
+stick: tut
+stone: men
+stone: mɛn
+straight: tutuadi
+straight: tutuadi
+sun: am
+sun: am
+swell: ditil-
+tail: biti
+tail: biti
+tail: fohug
+tail: fohug
+take: o-
+take: o-
+that: ho
+that: ho
+there: ahu͂na
+there: ahunh.na
+they: -ade-
+they: -ade-
+they: -ag(a)
+they: -ag(a)
+they: hoë-ge
+they: hoʌ-gɛ
+they two: -ala
+they two: -ale-
+they two: hoë-le
+thigh: tʰuʔu-
+thigh: tu\u-
+think: isd-
+think: isd-
+this: he
+this: hɛ
+thou: -ade-
+thou: -ag(a)
+thou: ʌ-gɛ
+thou: -(i)a
+thou: -(i)a
+thou: ine
+thou: inɛ
+thou: -is-
+thou: -is-
+thou: -ø
+throat: bo- mandodol
+throat: bo- mandodol
+throw: hele-
+throw: hɛlɛ-
+thunder: beli ne-
+thunder: bɛli ne-
+tie: did-
+tie: did-
+tomorrow: eluta
+tomorrow: ubuda
+tomorrow: ubuda
+tongue: beila-
+tongue: beila-
+tooth: ai-
+tooth: ai-
+tree: gug
+tree: nʌ
+tree: në
+tree: um
+turn: elave-
+turn: elave-
+two: elis
+two: ɛlis
+vagina: mina-
+vagina: mina-
+vomit: buhade-
+walk: gugul-
+walk: nu-
+walk: nu-
+walk: obe-
+walk: obe-
+wallaby: udëmi
+wallaby: udʌmi
+warm: dainai
+warm: dainai
+wash: wa zo-
+wash: wa zo-
+wash: zo-
+wash: zo-
+water: wʌ
+water: wë
+weep: baye-
+weep: baye-
+we: -ig-
+we: -ig-
+we: i-ge
+we: i-gɛ
+we: -igi
+we: -igi
+wet: se\eleu
+wet: sɛʔelɛu
+we two: -il-
+we two: i-le
+we two: -ili-
+what: ele
+what: ɛlɛ
+where: ai
+where: ai
+white: oup
+white: oup
+who: in
+who: in
+wind: alëg
+wind: alʌg
+wing: halu
+wing: halu
+woman: ait
+woman: ait
+woman: anëg
+woman: anʌg
+wood: tut
+wood: tutu
+wood: tutu
+yellow: yan
+yellow: yan
+yes: o:
+yes: oː
+yesterday: elen
+yesterday: um
+yesterday: um
+you: -ade-
+you: -ag(a)
+you: ë-ge
+you two: -ala
+you two: -ale-
+you two: ë-le

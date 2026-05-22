@@ -1,0 +1,509 @@
+all: kòmã:so
+all: kɔma͂ːsɔ
+and: woi
+arm: nainʌ
+arm: nainë
+arrow: lamʌʔ
+arrow: laːmɔ͂
+ashes: ta:lëfëmu˜
+ashes: taːlʌφʌmu͂
+ashes: tanëfamu
+ashes: tanofomu
+ashes: tanʌφamu
+at: -so
+at: -so
+back: namli
+back: namli
+back: na͂ːmli
+back: nãmli
+bad: kayaʷ
+bad: kayau
+bad: këyau
+bad: kʌyaːu
+bark: ã-tònò˜
+bark: a͂ː tɔnɔ͂
+belly: nëm(ë)li\
+belly: nəmliː
+belly: nʌmʌliʔ
+big: sèliaki\
+big: sɛliakiʔ
+big: siëli
+big: siːʌli
+bird: o
+bird: o
+bird: oː
+bite: tuklɒː
+bite: tuklâ (?)
+black: sëfi
+black: səfiː
+black: sëlinamu\
+black: sʌlinamuʔ
+blood: na͂ːkɒ
+blood: nakʌʔ
+blood: nã:kâ (?â)
+blood: nakë\
+bone: mi:
+bone: miː
+bone: mi͂ː
+boy: nãkëkëi
+boy: na͂ːkʌkʌi
+breast: nanʌ
+breast: nanë
+breast: nã:nõ
+breast: na͂ːnɔ͂
+brother: ʔauwaʔ
+brother: auwa\
+brother: ëu:wë
+brother: ʌuːwʌ
+burn: ta:mëmò:menò˜
+burn: taːmʌ͂mɔ͂ːme͂nɔ͂
+calf: fëto
+calf: fʌto
+cassowary: aipie
+cassowary: eipiei
+child: alu
+child: a:lu ufa
+child: aːlu uφaː
+chin: ko
+chin: kɔ
+chin: kɔː
+claw: iki
+claw: ikiː
+cloud: kumaki
+cloud: kumaki
+cloud: kumãki-wòu
+cloud: kuːma͂kiwɒːu
+cold: fulëmu˜
+cold: φuːlʌmu͂
+come: natuma
+come: natuma
+come: tëtumò
+come: tətumɔ͂ː
+come: ?ti
+come: tumo
+crocodile: fëlëkai
+crocodile: φʌləkaːi
+crocodile: φʌlʌkaʲ
+cut: (t)isiko
+dance: tönã:mò˜
+day: upimë?sò
+day: upiːmʌ͂sɔ
+die: kalo
+die: yau
+die: yaːu
+dog: aluoʷ
+dog: aluwou
+dog: ëlòwòu
+dog: ʌlɔwɔːu
+drink: (iwò) tøsikò
+drink: (iwɒː) tɤsikɒː
+dry: fumu˜
+dry: φumu͂ː
+ear: iɒː
+ear: ia
+ear: ʔia
+ear: iò
+earth: asi\
+earth: asiʔ
+earth: ësi
+earth: ʌsiː
+eat: napëna
+eat: napʌna
+eat: (të)no
+eat: tənɔ͂ː
+egg: oi
+egg: oː iː
+egg: ui
+egg: ʔui
+elbow: nã:tëko
+elbow: na͂ːtəko
+elbow: natokʊ
+elbow: na-toku
+emu: ʔaipie
+emu: eːipiei
+eye: mëra
+eye: mlɒː
+eye: mlâ
+eye: mʌra
+fall: tësukunò:menò
+fall: təsukunɔ͂ːme͂nɔ͂
+fall: usukuna
+father: a:pëu
+father: ʔapoʷ
+father: apou\
+father: aːpʌu
+fat (n.): kɔmɒ͂ː
+fat (n.): kòmâ
+feather: oː wiɒː
+feather: o wiâ (â = ?)
+finger: na͂ːimɔ͂ tuː
+finger: nainëtu
+finger: nainò tu
+finger: nainʌtu
+fire: taː
+fire: tah
+fire: tah
+fish: la
+fish: la
+fish: laː
+five: tu:wei
+five: tuːwei
+fly (v.): tëfa:yënò˜
+fly (v.): təφaːyʌnɔ͂
+foot: fëto
+foot: fʌto
+foot: funã
+foot: φuna͂ː
+forehead: nènami
+forehead: nëna:mi˜
+forehead: nɛnami
+forehead: nə͂na͂ː mi͂ː
+four: teita:ti
+four: teitaːti
+four: titëti
+four: titʌti
+full: kɔː sɒː
+full: kò sâ
+girl: nə͂ni͂aːni͂kɒ
+girl: nënia:nikâ
+give: nëpa:menò
+give: nʌ͂paːme͂nɔ͂
+good: itaːuni͂ʌmɔ͂
+good: itouni
+good: tonimʌʔ
+good: toni-më\
+good: waliyo
+green: iwâwëlënä
+green: iwɒː wʌlʌna͂ː
+hair: kamu-sowa
+hair: kamu-sowa
+hair: kamu͂-suɒ
+hair: kamu-suâ
+hand: nainʌ
+hand: nainë
+hand: nainò
+hand: na͂ːinɔ͂
+head: kamu
+head: kamu
+head: kaːmu͂
+heart: mulu
+heart: mulu
+heart: mu͂luː
+hear: tukua:i
+hear: tukuaːi
+heavy: muëli
+heavy: mu͂ʌliː
+he/she: -so
+he/she: ta:(mò)
+he/she: taː(mɔ͂)
+he/she: ta-ni
+he/she: -yo
+hit: tifasia:imò˜
+hit: tiφasiaːimɔ͂
+hit: waso
+house: nu(:)
+house: nuː
+house: nu͂ː
+how: moloi
+in: poi
+I: ya
+I: yai(mɒ͂)
+I: yai(mo)
+I: yo
+jaw: ko
+kill: tuklɒː
+kill: tuklâ
+knee: a:li ka:mu
+knee: aːli kaːmu͂
+knee: älikamu
+knee: älɪkamu
+know: sai
+know: sëi
+know: sʌiː
+laugh: \ètè-sëla-ni
+laugh: ʔɛtɛsʌlani
+laugh: solo-
+laugh: təsɤrɒː
+leaf: iːwɒ
+leaf: ʔiwa
+leaf: íwa
+leaf: :iwâ
+leg: feëu
+leg: fona
+leg: φeʌu
+lie: ulëlëli:tëtëi
+lie: ulʌlʌliːtʌtʌi
+liver: aluma
+liver: aluma
+liver: ëlumò˜
+liver: ʌlumɔ͂ː
+long: səpɒː
+long: sëpâ
+louse: ani
+louse: ʔani
+louse: ëni˜
+louse: ʌni͂ː
+man: nëka
+man: nʌ͂kɒː
+man: nʌka
+man: noko
+many: paːunu͂
+meat: kara-nisimu
+meat: karanisɪmu
+meat: somu
+meat: somu͂ː
+moon: amú
+moon: ʌmu͂ː
+morning: sòmësëi
+morning: sɔːmʌ͂sʌi
+mosquito: wamʌ
+mosquito: wamë
+mosquito: wamò
+mosquito: waːmɔ͂
+mother: ʔanaʲ
+mother: \anai
+mother: anëi
+mother: aːnʌ͂i
+mother: atino
+mountain: yu
+mountain: yu
+mountain: yuː
+mouth: amli
+mouth: ko
+mouth: ko
+name: siëlò
+name: siːʌlɔ
+nape: tèna
+nape: tɛna
+near: aumoifa
+neck: tenò˜
+neck: tenɔ͂ː
+new: tënofa:lò
+new: tënufoa
+new: tʌno͂φaːlɔ
+new: tʌnʊφoa
+night: amlëki
+night: amlʌki
+night: amoloki
+night: \ëmëlëki\
+night: ʔʌmʌlʌkiʔ
+nose: ámu
+not: muwoi
+not: pa
+not: wei mu˜è
+not: wei mu͂ɛ
+not: wiau
+not: wiaːu
+not: wufa\
+not: wʊφaʔ
+old: nëkâ wai
+old: nëni wai
+old: nə͂ni͂ː wai
+old: nʌkɒː wai
+old: tëkumi
+old: tuku mi
+old: tukuː mi͂ː
+old: wai
+one: siasʌ
+one: siːʌsɔ
+one: siya(-së)
+one: toku
+person: nëkâ
+person: nʌ͂kɒː
+rain: sa(:)
+rain: saː
+rain: saː
+rat: ma:sëiyâ
+rat: ma͂ːsʌiyɒ
+red: nɤ͂kiyaːisɔ
+red: nøkiya:isò
+river: iwɒː
+river: iwâ
+road: mëla
+road: mlɒː
+road: mʌla
+road: mlâ
+road: molo
+root: a-tëti
+root: (ã) tëti
+root: (a͂ː) tətiː
+root: atʌti
+round: liëya:liëumò
+round: liʌyaːliʌumɔ͂
+salt: mamo
+sand: up:ai
+sand: upaːi
+sand: upeʲ
+sand: upei
+say: ima͂ː trɔkuaːsʌ
+say: ima: tròkua:së
+say: imo
+seed: ã wa:mò
+seed: a͂ː waːmɔ͂
+see: ko-
+see: tɤkeː
+see: tøke
+short: faku
+short: φaːku
+shoulder: nëma
+shoulder: nəma͂ː
+shoulder: nʌma
+sister: ʔinaʲ
+sister: (\)inai
+sister: ina͂ːi
+sit: si-koni
+sit: teosaːkʌnaʔ
+sit: te-yosa:-këna\
+sit: ti-ëusi
+sit: tiʌusiː
+sit: ti-yousi
+sit: you-sa
+skin: au
+skin: au
+skin: nɔ͂
+skin: tɔ
+skin: tònò
+sleep: olëlëli:tëtëi
+sleep: olʌlʌliː tʌtʌiː
+small: kaʷa
+small: kaufa
+small: koufa
+small: kouφaː
+smoke: tauku
+smoke: ta-uku
+smoke: taːuku
+snake: noa\
+snake: noaʔ
+snake: nu͂ɒː
+snake: nuâ
+spit: ima͂ːmlɒ
+stand: të-tëlau
+stand: të-trau
+stand: tətrau
+stand: tola
+stand: tolo
+stand: tʌtʌlaʊ
+stand: yo
+star: amë-lëku\
+star: a:m-lëko
+star: ʔamʌlʌkʊʔ
+star: aːmlʌko
+stick: a: tau
+stone: tèmëki\
+stone: tëmëki
+stone: tɛmʌkiʔ
+stone: tʌmʌ͂kiː
+sun: olɒː
+sun: olâ
+sun: ulo
+swim: (iwɒ) sɤna͂ːnɔ͂
+tail: apo
+tail: apo
+tail: ëpo
+tail: ʌpoː
+take: kau
+take: kòme?sò
+that: ënu
+that: no
+that: ʌnu͂ː
+they: -no
+they: tëi(-mò)
+they: tʌiː(mɔ͂)
+they two: t-ëti(-mò)
+they two: tʌtiː(mɔ͂)
+this: ni
+this: ni͂ː
+thou: mʌ͂iː(mɔ͂)
+thou: -ni
+thou: nɤ͂na͂ː(mɔ͂)
+thou: nona
+thou: nona-ni
+three: taʷe
+three: tauwe
+three: ta:uwei
+three: taːuwei
+today: lolai
+tomorrow: amuwoi
+tomorrow: ëmòisâ
+tomorrow: ʌmɔ͂ːisɒ
+tongue: isauna
+tongue: isauna
+tongue: isa:unò
+tongue: isaːunɔ͂
+tooth: (\)i:
+tooth: ʔiː
+tooth: iː
+tree: (\)a
+tree: ʔa͂
+tree: a͂ː
+tree: \ã
+tree: ã\
+two: tiwe
+two: ti-we(i)
+two: tiːwei
+two: ti-yo
+walk: mano
+walk: nu
+walk: tëma:i
+walk: təma͂ːi
+walk: tuφuːmɔ0
+walk: yasai
+walk: yasai
+wallaby: asinima
+wallaby: ʔasinima
+wallaby: tëpiò
+wallaby: tʌpiɔː
+warm: mò:menò
+warm: mɔ͂ːme͂nɔ͂
+water: iwɒː
+water: ʔiwa
+water: \iwá
+water: iwâ
+water: iwo
+we (excl.): kʌiː(mɔ͂)
+we: koi
+we: moi
+wet: iwaːwei
+wet: iwäwei
+we two (excl.): kʌtiː(mɔ͂)
+we two: k-ëti(-mò)
+what: hani
+what: hëni
+what: hʌni͂ː
+when: mëniwei
+when: mʌ͂ni͂ːwei
+where: mëi sâ
+where: mʌ͂iː sɒː
+white: fëmu
+white: unakiyei
+white: una͂ːkiyei
+white: φʌmʷ
+who: nɤ͂na͂ːno͂ na͂ːi
+who: nønanona:i
+wind: imënu\
+wind: imʌnuʔ
+wind: iːmʌ͂nu͂ ~ muːlʌmu͂
+wind: mulëmu
+wing: natëki
+wing: na͂ːtəki
+wing: natʌki
+with: -yo
+woman: mwi
+woman: mwi
+woman: nëkëlala
+woman: nëni
+woman: nə͂ni͂ː
+woman: nʌkʌlala
+woman: noni
+woman: nukonu
+wood: aː taːu
+yellow: sukua:lò
+yellow: sukuaːlɔ
+yesterday: fai
+yesterday: φai
+yesterday: φaːi
+yes: (wa:) na
+yes: (waː) na͂ː
+you: mëi(-mò)
+you two: m-ëti:(-mò)
+you two: mʌ͂tiː(mɔ͂)

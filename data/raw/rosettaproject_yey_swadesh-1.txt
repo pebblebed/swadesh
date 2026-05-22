@@ -1,0 +1,79 @@
+all: kooko, koozo
+bark: ldipande
+belly: wura/ldipumba
+big: wukando, wugquldi
+bird: inyini
+bite: rumata
+blood: maropa
+bone: kafupa
+breast: mayere
+cloud: ldidzundzu
+come: ya
+die: fwa
+dog: umbwa
+drink: nwa
+ear: lda
+earth: ldivu
+eat: lda
+egg: ldiyi
+eye: ildisho
+fat (n.): amazi
+feather: muldiya
+fish: inshwi
+fly (v.): wuruka
+foot: shikondo
+give: pa
+hair: inshwishi
+hand: ldaandja
+head: mushoro
+heart: umoyo
+hear: yuvwa
+horn: rusinga
+I: yeme
+kill: bura
+knee: lkdidzi
+know: yiwa
+leaf: ldipapa
+lie: rangara paa peeshi
+liver: ldine
+long: wure, shire
+louse: inna
+man: murume, munyana
+many: uwundji
+meat: inyama
+moon: ukwezi
+mouth: shipoo
+neck: insungo
+nose: ldiyiro
+not: iyemwaa
+one: wuchiki
+person: umutu
+rain: invura
+root: ruzi
+sand: mutyawu
+say: tikyaa
+seed: imbeyu
+see: mwana
+sit: sikama
+skin: shikavi
+sleep: rangara
+small: wuncene, shincene
+stand: yima
+star: innayata
+stone: ldiwe
+sun: ldiiwa
+swim: shara
+tail: mukira
+that: tjinaa
+this: tjinii
+thou: yewe
+tongue: ruldime
+tooth: ldino
+tree: muti
+two: wuyiri
+walk: yenda
+water: ami
+we: yetshwe
+what: shikya
+who: yani, yire
+woman: mukazi, mugxekwa

@@ -1,0 +1,436 @@
+all: kuː
+and: hɛ
+and: kɔa
+and: kɔa
+and: ǁxʌm
+animal: ǁkheːǁkheː
+ankle: ǃxɔ&a&m
+arm: ǁku͂
+arrow: ǃnwaː
+ashes: ǃkuːi
+back: ǁk\oːɛ
+back: tsə͂ŋxu
+back: ts\i͂
+bad: čou
+because: au
+belly: ǃkauːtuː
+belly: ǀkoɑ
+belly: ǀxoɑ
+big: ǃkuiːya
+bird: ǁgəritənti
+bird: k\\ati͂
+bite: ts\i
+bitter: ǁk\aowa
+black: ǀhoaːka
+blood: ǁxaukn
+blow: čuː su͂ː
+bone: ǃkwa
+breast: ǃkweiǃkwei
+breathe: t\uː
+brother: ǁka͂ː
+burn: ǁka
+burn: ǁke
+burn: ǃkuii
+calf: ǀkweː
+cheek: ǀwaiǀwain
+chest: ǁkaːxu
+chest: ǁnɔeintu
+child: ǃkhwa͂
+chin: ǁhu&
+cloud: ǀkwaːgu
+cloud: ǀkwatn
+cold: k\\ɑo
+cold: ta͂ː sə͂ritn
+come: s\e
+come: ši
+come: s\i
+cut: ǀa
+cut: ǀa͂
+cut: ǀiː
+cut: ǀkau
+cut: ǁkein
+day: ǃgaue
+day: ǁkɔ͂iŋ
+die: ǀaː
+die: ǀkɯːkn
+dig: ǁkɛːn
+dig: ǃnauː
+dig: tum
+dirty: k\\auki ǂhər͂u
+dog: ǃkwiŋ
+drink: k\\wa͂
+drink: k\\we͂
+dry: k\\oɔrokn
+dust: ǃa͂u͂
+ear: ǃnuntu
+earth: ǃa͂u͂
+eat: a͂
+eat: ha
+eat: hi͂
+egg: ǃkaui
+elbow: ǃxɔruǃxɔru tu
+eye: ts\axáu
+face: xuː
+fall: tatən
+far: ǀkeː
+far: taŋ
+father: bobo
+father: ibo
+father: oa
+father: tata
+fat (n.): sɔeŋ
+feather: ǀkɯ
+fight: ǀaː
+fight: di a
+fight: di ǀaː
+fight: dii
+finger: ǂʌh́
+finger: ǁʌhái
+finger: ǃhura
+finger: ǀk\a
+fingernail: ǁkuru
+fire: ǀi
+flower: ǃkweitn tiː
+flow: ǃkat
+fly (n.): ǃha͂u͂ǃha͂u͂
+fly (v.): ǁkhou
+fly (v.): ǁxau
+foot: ǃku
+foot: ǃkxwɔ&m
+foot: ǃnoa
+forehead: xuː
+forest: ʘho
+fruit: tsəxau
+full: ǃkauŋ˗a
+give: ai
+give: ǀkaː
+good: aːkən
+good: twai
+grass: ǀkeː
+green: ǀkainya
+green: kəruwa
+guts: ǀkwiŋǀkwiŋ
+hair: ǀkɯ
+hand: ǀk\a
+head: ǀnaː
+heart: ǀi͂ː
+hear: tuː
+hear: tuːi
+hear: tum
+heavy: koɛːŋ
+here: a
+here: tí ɛːa
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: ha
+he/she: haha
+he/she: haha
+he/she: ha˗ha
+he/she: ha˗ha
+he/she: ha˗ha
+he/she: ha˗ha
+he/she: ha˗ka
+he/she: ha˗ka
+he/she: ha˗ka
+he/she: ha˗ka
+he/she: haŋ
+he/she: haŋ
+he/she: haŋ
+he/she: haŋ
+he/she: haŋ
+he/she: haŋ
+he/she: haŋ
+he/she: haŋ
+he/she: heː
+he/she: heː
+he/she: hi
+he/she: hi
+he/she: hi
+he/she: hi
+he/she: hi͂
+he/she: hi͂
+he/she: hi͂˗ta
+he/she: hi͂˗ta
+he/she: ya
+he/she: ya
+he/she: ˗ya
+he/she: ˗ya
+hit: ǃkheː
+hit: ǀkiːya
+hole: tuː
+horn: ǁke͂i͂
+house: ǁnei
+house: ǁneiŋ
+hunt: ǃhʌn
+hunt: ǁkóɛː
+hunt: ǀxabe
+husband: gwai
+husband: ǀha
+if: au
+I: jaki
+I: ˗ka
+I: ˗ke
+I: ki
+I: m
+I: n
+I: ŋ
+I: ŋ
+I: ŋ
+I: ŋ˗ka
+I: n˗ta
+kill: ǀaː
+kill: ǀkaː
+kill: ǀkiː
+knee: ǀnɔaŋ
+know: ǂen
+know: ǂena
+know: ǁkwaka
+laugh: k\\we͂˗i͂
+laugh: k\\we͂ia͂
+left: ˤku͂ ǀaiti
+leg: ǃkwaː
+lie: taː
+lie: teːn
+lie: tiŋ
+lightning: batəni&
+lip: tuːe ǃkunta
+lip: tu˗g ǀnu
+live: ǁɛŋ
+live: ǃkauwa
+liver: ǁnɔaŋ
+long: kitənkitakən
+long: ǃxoː
+long: ǃxoːwa
+louse: ʘmoɛŋ
+man: ǃkwi gwai
+many: ǀk\wai
+meat: a͂ː
+meat: eŋ
+moon: ǃkaǃkaro
+mother: itau
+mother: mama
+mother: xoa
+mountain: ǃkau
+mountain: ǀkɑo
+mountain: ǃkou
+mouth: tuː
+name: ǀke͂
+navel: ǃɔha&i&
+near: ǃhiːŋ
+neck: ǃkhou
+new: ǁkaːŋ
+new: ǃkwa&
+new: ǁkwe
+new: ʘpwa
+night: ǁga
+not: k\au
+not: k\auki
+old: ǃk\əri
+old: ts\ɔroːkən
+one: ǃkwaːi
+other: ˗ko
+other: ǃkuko
+person: ǃku
+person: ǃkwi
+play: ǁgwiːtən
+pull: ǀneː
+pull: ǀnɔŋ
+rain: ka͂u͂
+rat: ǃkabe
+red: ǃkiː
+right: ǁku͂ gwai
+river: ǀk\a
+road: ǃkauːo
+road: ǃxaːra
+root: ǃkaui
+round: kɔrekɔre
+round: kwərekwəre
+rub: ǃgwiː
+rub: ǃkwɔbe
+salt: ǂkoː
+sand: ǃka͂u͂
+say: ka
+say: ǂkakən
+say: ǂkakən
+say: kuːi
+scratch: ǁgou
+scratch: kwɑiitən
+scratch: ǀxɛri
+see: ǁk\oen
+see: ǀnaː
+see: ǀniː
+sew: ǂʌm
+sharp: tsiː
+short: ǂeni
+short: ǀwiri
+shoulder: ǁku& ǀnaː
+sing: ǃkutən
+sister: ǁkaxai
+sit: š\oː
+sit: s\oː
+skin: ǁgo
+skin: tu͂ː
+sky: ǃgwaːxu
+sleep: ʘpoen
+sleep: ǀu͂ŋ
+small: ǂe͂ri
+small: ʘpwa
+small: ts\əre
+smoke: ǁgɔ
+smooth: ǃkʌn ǀnuːi
+snake: ǁkeritən˗ti
+snake: ǁküi
+snow: ǃgwe&
+spit: ǁɔha&ːi&
+squeeze: ǃkan
+squeeze: ǃkhukən
+stand: ǃkheː
+star: ǀkwatən
+stone: ǃkau
+stone: ǃkou
+straight: ǃuː
+suck: kwakən
+suck: ǀomi
+sun: ǁko͂iŋ
+sweet: ǃkhou
+swell: xe͂ː
+swim: gaːn
+swim: ʘpxu
+tail: ǃkwai
+take: hoː
+take: ǀke͂i͂
+take: ǀki
+take: ǀkʌm
+that: ha
+that: ǀkeːa
+there: i&
+there: ǀkeː
+there: ǁna
+there: taŋ
+they: he
+they: hi
+they: hi
+they: hi
+they: hi͂
+they: hi͂
+they: hi͂
+they: hi˗ka
+they: hiŋ
+they: hi˗ta
+think: ǂe͂
+think: ǂi͂
+thin: t\a͂i͂ŋ
+this: aː
+this: aːa
+this: eː
+this: eːa
+thou: a
+thou: a
+thou: a
+thou: a˗a
+thou: a˗ka
+thou: aːken
+thou: hu
+thou: u
+thou: u
+thou: u˗ka
+thou: uːkən
+thou: u˗u
+thou: u˗úka
+three: ǃncar͂a
+three: ǃnwɔna
+throat: dom
+throw: ǃgabɛtən
+thunder: ǃkhwaː ǃkɔr&itən
+thunder: ǃkwiriːtən
+tie: ǃhaŋ˗a
+tie: ǁhiŋ
+today: ǃgaue ta ti eː
+today: ǁkɔ&iŋja ti eː
+tomorrow: au ǃgaue
+tomorrow: ǃgaue˗kɔː
+tongue: ǀeni
+tongue: ǀe͂ri
+tooth: ǁke͂i͂
+tree: ʘhoː
+turn: ǃxwɔni
+turn: ǃxwɔr͂i
+two: ǃku
+vomit: kwakən˗i͂
+walk: ǁaː
+walk: ǁe
+walk: ǃkatən
+walk: ǃkuːxe
+walk: tai
+walk: tɑe
+walk: tɑ͂e͂
+walk: tɑi
+warm: ǃkuːi
+warm: ta͂ ǀi
+wash: ǁəri
+water: ǃkhwa
+weep: k\\waː
+weep: ǃkweːtən
+we (excl.): si
+we (excl.): si
+we (excl.): si
+we (excl.): si˗si
+we (excl.): si˗si
+we (excl.): si˗ta
+we (excl.): siːtən
+we (excl.): siːtən
+we (incl.): ˗hi
+we (incl.): ˗hi
+we (incl.): i
+we (incl.): i
+we (incl.): i
+we (incl.): i
+we (incl.): i˗i
+we (incl.): i˗i
+we (incl.): i˗ta
+we (incl.): i˗ta
+we (incl.): iːtən
+we (incl.): iːtən
+wet: ǀka
+wet: ǁka
+what: ˗ba
+what: ˗ba
+what: ts\a˗dɛ
+what: xa˗dɛ
+where: ti˗dɛ
+where: ti˗kha
+white: ǀk\ɔːwa
+white: ǃuiːta
+white: ǁxaŋǁxaŋ
+who: ǃku˗dɛ xa
+wide: kɔr͂iːya
+wife: ǀaiti
+wife: ǀha
+wind: ǃkhwe
+wing: ǁku͂ŋǁku͂ŋ
+wing: ǁku͂ŋ˗ta ǁgəri
+wipe: ǀo͂a
+wipe: ǀum
+with: a&
+with: au
+with: hi&
+with: ǁna
+woman: ǀaiti
+woman: ǃkwi ǀaiti
+wood: ǁkha
+year: ǃna
+yellow: ǀkainya
+yesterday: au ǃkuːi a

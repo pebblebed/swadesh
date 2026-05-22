@@ -1,0 +1,33 @@
+arm: etul
+ashes: ik
+bird: nal
+black: tuŋ
+blood: yapi
+bone: kulon
+dog: kayam
+earth: maŋol
+eat: en- ~ na-
+egg: nal wirin
+eye: sir
+fingernail: tiloq
+fire: aŋol
+foot: yon
+good: yep
+hair: kamil
+head: apon
+I: ne
+leg: yon
+louse: sip
+man: kaqaki
+name: labun
+rain: amok
+skin: kal
+stone: tum
+sun: sara
+tail: ebil
+thou: ip
+thou: sep
+tooth: niŋil
+tree: a
+water: oq
+we: nup

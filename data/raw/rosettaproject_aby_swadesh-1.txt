@@ -1,0 +1,191 @@
+arm: vana
+arm: wana
+arm: wana
+arm: wana
+bird: ada
+bird: ada
+bird: ada
+bird: ada
+dog: oa
+dog: oa
+dog: owa
+dog: owa
+ear: ome
+ear: ome
+ear: ome
+ear: ome
+ear: ome
+ear: ome
+eye: naisa
+eye: naisa
+eye: naisa
+eye: naisa
+eye: niaba
+face: ibo
+face: ibo
+face: iboi-naisa
+face: iboi-naisa
+face: niaba
+father: babai
+father: babai
+father: babai
+father: babai
+fire: ina
+fire: ina
+fire: ina
+fire: ina
+fire: yo\u
+fire: yo\u
+fish: dokebune
+fish: dokubune
+fish: tokubune
+fish: tokubune
+five: adaudo
+five: enimui
+five: moiena
+foot: buri-papa
+foot: buri-papa
+foot: doboro
+foot: doboro
+foot: fafa
+foot: fafa
+four: buba-dai
+four: nanaudo
+four: unari
+hand: eni
+hand: fapa
+hand: fapa
+hand: vana
+hand: vana
+he/she: dava
+he/she: dava
+he/she: davanu
+he/she: davanu
+he/she: dava(-nu)
+he/she: na
+he/she: -na
+he/she: -na
+house: mari
+house: mari
+house: uwala
+house: uwala
+I: -gu
+I: na
+I: na
+I: na
+I: na
+I: nanu
+I: nanu
+I: N-gu
+leg: buli
+leg: buli
+leg: buri
+leg: buri
+leg: doboro
+leg: doboro
+man: badoa
+man: badoa (?)
+man: eme
+man: eme
+man: eme-aka
+man: eme-ake
+moon: manabe
+moon: manabe
+moon: manabe
+moon: manabe
+moon: manabi
+moon: manabi
+mother: amai
+mother: amai
+mother: amai\i
+mother: amai\i
+one: demui
+one: tamutai
+one: waišo
+rain: obi
+rain: obi
+rain: obi
+rain: obi
+rain: obi
+rain: obi
+river: io-oa
+river: io-oa
+road: adipu
+road: adipu
+road: da\aba
+road: da\aba
+stone: oma
+stone: oma
+stone: oma
+stone: oma
+stone: oma
+stone: oma
+sun: eveaka
+sun: eveaka
+sun: eweka
+sun: eweka
+sun: weaka
+sun: weaka
+they: emenu
+they: emenu
+they: emua
+they: emua
+they: N-veri
+they two: em-ua
+they two: em-ua
+they two: em-ua
+they: -veri
+thou: a
+thou: a
+thou: a
+thou: a
+thou: anu
+thou: anu
+thou: -bo
+thou: ia
+thou: ianu
+thou: -mu
+thou: N-mu
+three: buba
+three: iai-iai
+three: muraudo
+tooth: nio
+tooth: nio
+tooth: ni\o
+tooth: ni\o
+tooth: ni\u
+tooth: ni\u
+two: lal
+two: lara
+two: yaine
+water: iowa
+water: iowa
+water: ya\a
+water: ya\a
+we: ianu
+we (incl.): abeha
+we (incl.): abeha
+we (incl.): abeha
+we (incl.): ianu
+we (incl.): ianu
+we (incl.): -na
+we (incl.): -na
+we: N-na
+we two (excl.): ua
+we two (excl.): ua
+we two (incl.): vaine-ua
+we two (incl.): vaine-ua
+we two (incl.): vaine-ua
+we two: ua
+woman: aveka
+woman: aveka
+woman: aveka
+woman: aveka
+woman: aweka
+woman: aweka
+you: ia
+you: ianu
+you: N-bo
+you two: iavane
+you two: iavane
+you two: ia-vane

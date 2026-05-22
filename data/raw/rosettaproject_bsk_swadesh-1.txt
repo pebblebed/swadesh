@@ -1,0 +1,2163 @@
+all: baman
+all: har
+all: kʰul
+all: oyon
+all: saf
+all: sauf
+all: ṭṣik
+all: ṭṣʰɪk
+all: ˗yoːn
+all: yoːn
+all: ˗yóon
+and: dáa
+and: ka
+and: ka
+and: ka
+and: ka
+and: ke
+and: kɛ
+and: kɛ
+and: pʰirí
+and: ya
+animal: ʝ̌aanwár
+animal: ʝ̌anwar
+animal: ʝ̌anwar
+animal: haiwaːn
+animal: ǯaːndaːr
+animal: ǯʌndaːr
+ankle: buːmbʌltɛn
+ankle: ˗uṭɪsɛ gɛːltiŋ
+arm: ˗çák
+arm: ˗ltáltar
+arm: ˗ltʌltər
+arm: ˗sak
+arm: ˗šʌk
+arm: ˗ṣʌk
+arm: šʌk
+arrow: hʊnz
+arrow: hunts
+arrow: hunts
+arrow: huːnts
+ashes: marmaq
+ashes: pʰɛtiŋ
+ashes: pʰɛtiŋ
+ashes: pʰɛtiŋ
+ashes: pʰɛ́tiŋ
+ashes: pílili
+ashes: ṣapʰeru
+back: balgiç̌iŋ
+back: bʌlgičiŋ
+back: ḍimɛ tɛn
+back: ˗ʌṣṭṣiŋ
+back: ˗wáldas
+back: waldɛs
+back: ˗wʌldʌs
+back: wʌldʌs
+back: ˗wʌldʌsɛ tɛn
+back: ˗wʌldʌsɛ tin
+bad: aʝ̌ɔ
+bad: ažo
+bad: çum
+bad: gonekɪš
+bad: ɣʊnikɪṣ
+bad: šuːm
+bad: ʁuníqiṣ
+bad: xəraːb
+bark: hʌli
+bark: pʰatɛ
+bark: waṭ
+bark: waṭ
+bark: wʌṭ
+bark: wʌṭ
+because: béseke
+because: bɛsɛkɛ
+because: bɛsɛkɛ
+because: bota siːya
+belly: auzin
+belly: ʁitíiti
+belly: ˗ɣʊmər
+belly: ˗ɣʊmər
+belly: ˗ʁɔmarç̌i
+belly: ʝ̌óqiṣ
+belly: ul
+belly: ˗uːl
+belly: ˗úl
+belly: ˗uːl
+big: nyu
+big: ˗nyu
+big: uyum
+big: uyúm
+big: uyuːm
+bird: bʌlʌs
+bird: bʌlʌts
+bird: duwʌlʌs ǯʌndaːr
+bird: pərɪnda
+bird: ṭṣen
+bird: ṭṣɛn
+bird: ṭṣʰɛn
+bird: ṭṣʰiːn
+bird: ṭṣʰin balás
+bite: ʁaẓám
+bite: ç̌ak
+bite: ç̌aq
+bite: čʌk ɛt
+bite: ç̌urǔt
+bite: gaṭ˗
+bite: gaṭ˗
+bite: gʌṭ˗
+bite: gukór˗
+bite: kau
+bite: kʰoːkʊr˗
+bite: masul˗
+bite: ṣi(y)ʌs
+bite: ṭoṭor˗
+bite: tʰotor˗
+bite: ˗tʰɔtʰɔr˗
+bite: tsaq ˗t˗
+bite: wáaṣ
+bite: waːṣ ɛt
+bitter: ʁaqáʝ
+bitter: ɣaːqʌy(ʊm)
+bitter: çut
+bitter: iṣqɔrum
+bitter: qaqam
+bitter: qaqaːm
+bitter: qʌqaːm
+bitter: ɪṣqoːrʊm
+bitter: šʊt
+bitter: ṣuqúrum
+black: matum
+black: matúm
+black: mʌtʊm
+black: mʌtum
+blood: haken
+blood: koç̌
+blood: mʊltʌn
+blood: mʊltʌn
+blood: multan
+blood: multan
+blood: multán
+blood: multán
+blood: qʰúun
+blood: raŋ
+blood: rúru
+blood: tʰátan
+blood: xuːn
+blow: bupbup
+blow: dam et˗
+blow: pʰu
+blow: pʰu ɛt
+blow: pʰult˗
+blow: ru͂ːru͂ː
+bone: ˗ltin
+bone: ˗ltín
+bone: ten
+bone: tɛn
+bone: tɛn
+bone: tin
+boy: dulas
+boy: dulʌs
+boy: hales ~ heles
+boy: hɛlɛs
+boy: hilés
+boy: hilɛs
+boy: hilɛs
+boy: hʌlɛs
+boy: nau˗ʝ̌uan
+boy: ʝ̌uaːn
+boy: ǯʌwaːni
+branch: ʝ̌aχt
+branch: ç̌oqurɛs
+branch: ḍamó
+branch: ḍʌmo
+branch: galtar
+branch: galtár
+branch: gʌltʌr
+branch: ṣar
+branch: ṣar
+branch: ṣaχur
+branch: ṣər
+branch: ṣər
+branch: yaṣk
+breast: ç̌úç̌o
+breast: ç̌úç̌o
+breast: ḍuḍuːro
+breast: ḍuḍuru
+breast: dúno
+breast: ˗maːmʊt
+breast: ˗maːmʊt
+breast: ˗mamu
+breast: ˗mámut
+breast: ˗mʌmu
+breast: ˗mʌmu
+breast: sark
+breast: ˗sárk
+breast: sərk
+breast: ˗sərk
+breathe: dam
+breathe: dam
+breathe: dam
+breathe: dʌm
+breathe: dʌm dʊsuːyʌs
+breathe: hɛṣkin˗
+breathe: hɛṣkin˗
+breathe: hiːṣ
+breathe: hiːṣ
+breathe: hiṣ
+breathe: hiːš ɛt
+breathe: muːš
+breathe: muṣ
+breathe: muṣ ɛt˗
+breathe: ṣi͂́i͂
+brother: ˗huːlus
+brother: kaáko
+brother: kaːko
+brother: ˗nyu
+brother: ˗ʌṭṣo
+brother: ˗ʌṭṣo
+brother: ˗ṭṣo
+brother: ˗ṭṣo ~ ṭṣu
+brother: ˗ṭṣu
+brother: ˗ulʊs
+brother: ˗úlus
+burn: ʝ̌aʝ̌am
+burn: ʝ̌ak
+burn: bʌlaːs
+burn: ets˗
+burn: ɣʊlaːs
+burn: ɣoːl˗
+burn: ʁol˗
+burn: ʁɔl˗
+burn: ˗ʌsqʊl˗
+burn: ˗ʌsqʊlʌs
+burn: ˗sqol˗
+burn: ˗squl˗
+burn: ˗squl˗
+burn: ǯʌk ɛt
+butterfly: haulal
+butterfly: haːulʌl
+butterfly: hoːlʌlʌs
+butterfly: hoólalas
+butterfly: pʰɛran
+calf: bʊboːq
+calf: bubóq
+calf: ḍʌŋ tɛn
+calf: paṭik
+calf: píni
+calf: piːni
+calf: piːni
+calf: píni
+calf: piːni
+calf: tɛn
+cheek: kʰiŋ
+cheek: ˗móqiṣ
+cheek: ˗moqoṭ
+cheek: ˗moːqɪṣ
+cheek: ˗moqʊt
+chest: ˗dil
+chest: ˗diliŋ
+chest: ˗ndiːl
+chest: ndíl
+chest: ˗tsʰír
+child: dulas
+child: huóoʝ
+child: isk
+child: ʁiyaːs
+child: pʰarzán
+child: ˗sk
+child: ˗sk
+chin: ˗san
+chin: ˗sán
+chin: ˗sʌn
+chin: ˗sʌn
+claw: ç̌aŋ
+claw: čʌŋ
+claw: dugár
+claw: gaç̌i
+claw: garɛ
+claw: garéi
+claw: kʌf
+claw: qaç̌i
+claw: qaf
+claw: ˗uru
+claw: ˗uru
+cloud: burúnṭṣ
+cloud: buruːnṭṣ
+cloud: hərʌlt
+cloud: qʰurónṭṣ
+cloud: tsɛl˗haralt
+cloud: xʊroːnč
+cloud: xuroːŋ
+cloud: χoroŋ
+cold: ç̌aʁorumkuṣ
+cold: ç̌aʁurum
+cold: ç̌aʁúrum
+cold: čʰʌɣuːrʊm
+cold: d˗čʰʌɣʊrʌs
+come: ḍẓuːyʌs
+come: tsʰur˗
+come: tsur˗
+come: ʝ̌u˗
+correct: ʁarúso
+correct: dʊrʊst
+correct: sahíi
+correct: tʰíik
+correct: tsʰʌn
+correct: wərts
+count: ˗ʁán˗
+count: ˗ɣʌnʌs
+count: ˗tsʰán˗
+count: ˗tsan˗
+count: ˗tsʌn˗
+count: ˗tsʰʌnʌs
+cut: ç̌ak˗
+cut: če
+cut: čərʌp ˗ʌt
+cut: ˗dɛlʌs
+cut: gʌṭaːs
+cut: ˗l˗
+cut: ˗skarts˗
+cut: ˗ʌskərts˗
+cut: tiṣkʌk
+cut: tʰɔʁɔ ɛt˗
+cut: ṭṣʌm ˗ʌt˗
+cut: zaráp
+cut: zaráp
+cut: zərʌp ɛt
+cut: zərʌp ɛt
+dark: çaám
+dark: ṭaŋ
+dark: ṭaːŋ
+dark: tʰap
+dark: tʰʌp
+dark: t°umṭáŋ
+dark: ṭumṭʌŋ
+dark: ṭumtʌŋ \(very)
+dark: ṭuṭáŋ
+dark: ṭuṭʌŋ
+daughter: ˗i
+daughter: ˗i
+daughter: ˗i
+daughter: ˗ʌi
+daughter: ˗ʌi
+day: bultu
+day: bultu
+day: doɣoːi
+day: dɔʁɔi
+day: duʁúi
+day: gʊnts
+day: gʊnts
+day: gunts
+day: gunts
+day: guntsgáṭ
+day: hikʊlto
+day: hɪkʊlto
+day: laq
+day: pərisa
+day: piçin
+day: sa
+day: sa saŋkʊṣ
+day: saːsɛtki
+day: ɣuːa
+die: ˗ír˗
+die: ˗iras˗
+die: iːrʊm
+die: ˗iːrʌs
+die: ˗iːrʌs
+die: murda
+die: ˗ɣʊrtsʌs
+die: taç̌áp
+die: ʁurts˗
+die: wʌfaːt ˗mʌn˗
+die: ˗yuːr˗
+die: ˗yur˗
+die: ˗yur˗
+die: ˗yur˗
+die: χatum ɛt˗
+dig: biráq˗
+dig: biraq˗
+dig: birʌq˗
+dig: birʌqʌs
+dig: dáfan
+dig: dafan ˗t˗
+dig: ḍaŋ
+dig: ḍaŋ ˗t˗
+dig: ḍʌŋ ˗ʌtɴ
+dig: ˗ltús
+dig: ˗yáare
+dig: yaːrɛ ˗ʌt
+dirty: fʌliːt
+dirty: tʰer
+dirty: tʰɛr
+dirty: tʰɛrk
+dirty: tʰɛrkiṣ
+dirty: tʰɛrkɪṣ
+dog: hʊk
+dog: hʊk
+dog: huk
+dog: huk
+dog: huk
+dog: ʁiín
+dog: urk
+dog: urk
+dog: uːrk
+drink: çé˗
+drink: men˗
+drink: mɛn˗
+drink: mɛn˗
+drink: min˗
+drink: min˗
+drink: minaːs
+drink: šeːyʌs
+drink: ṣuːk ɛt
+dry: ʝ̌áo
+dry: beːi
+dry: bɛi
+dry: buː˗
+dry: búʝ˗
+dry: bum
+dry: buyam
+dry: buyam
+dry: dʊhuːm
+dry: qaq
+dry: ˗ʌspi˗
+dry: ˗spi˗
+dry: yuːyʌs
+dry: ǯaːk
+dust: gʊbaːr
+dust: gɛrt
+dust: gyərt
+dust: qʰurts
+dust: xʊrts
+dust: xuːrts
+dust: χɔrts
+ear: kʌlʌmuːṭo
+ear: ˗ltʊmʌl
+ear: ˗ltumal
+ear: ˗ltumal
+ear: ˗ltúmal
+ear: ˗ltumʌl
+earth: ardi
+earth: birdi
+earth: birdí(k)
+earth: burdi
+earth: burdi
+earth: burpʰúṭ
+earth: mulk
+earth: mulk
+earth: tik
+earth: tik
+earth: tik
+earth: tik
+earth: tik
+earth: tik
+earth: tiːk
+earth: tiːk
+earth: tiːk
+earth: tiːk
+earth: zamíin
+earth: zamin
+eat: çe˗
+eat: ˗ṣi˗
+eat: ˗ṣi˗
+eat: ˗ṣi˗
+eat: ṣiʌs
+egg: bʊrʊm dɛl
+egg: del
+egg: del
+egg: pʰɔṭ
+egg: pʰɔṭ
+egg: šɪkərk dɛl
+egg: tigʌn
+egg: ṭinán
+egg: ṭiŋan
+egg: ṭiŋɛ pʊšʊnoːr
+egg: ṭiŋʌn
+egg: tiŋʌn
+egg: (ṭiŋʌnɛ) wʌṭ
+egg: tuma
+egg: tuma
+egg: tumáʝ
+egg: waṭ
+elbow: ˗sɛsɛn
+elbow: ˗sɛsɛn
+elbow: ˗súsun
+eye: bʊrʊm nʌna
+eye: garí
+eye: ˗lči
+eye: ˗lç̌i
+eye: ˗lç̌i
+eye: ˗lčin
+eye: ˗lç̌in
+eye: ˗lčinɛ gəri
+eye: ˗lčinɛ tʌl
+eye: ˗lpur
+eye: ˗lpuːr
+eye: ˗ltaːnts
+eye: ˗ltɛ́ṣ
+eye: ˗ltɛṣ
+eye: ˗ltɛṣ
+eye: minais
+eye: minœis
+eye: ˗mʊrpʊlʌŋ
+eye: ˗murpuliaŋ
+eye: ˗nini
+eye: niːni
+eye: šəlt
+eye: sosʌn
+eye: tal
+face: ˗moqiṣ
+face: ˗moqɪṣ
+face: ruq
+face: saṭṣáŋ
+face: ˗skil
+face: ˗skil
+face: ˗skil
+face: ˗skil
+face: ̰skiːl
+face: suːrʌt
+fall: bal˗
+fall: bal˗
+fall: bal˗
+fall: bas˗
+fall: ˗bʌl˗
+fall: gi˗
+fall: ˗wʌl˗
+fall: ˗wʌlʌs
+far: matʰan
+far: matʰán
+far: mʌtʰʌn
+far: mʌtʰʌn
+father: baba
+father: tati
+father: tati
+father: tʌti
+father: ˗u
+father: ˗uʝ
+father: ˗uː˗
+father: ˗uːy
+fat (n.): bɛs
+fat (n.): bɛs
+fat (n.): bis
+fat (n.): bis
+fat (n.): biːs
+fat (n.): dɛl
+fear: ar
+fear: ar
+fear: ar
+fear: bik
+fear: bik
+fear: biːk
+fear: biːk
+fear: biːk
+fear: biːkʰʊṣ
+fear: bíkʰuṣ
+fear: ˗mal˗
+fear: ʌr
+fear: xauf ɛt
+fear: χafa ˗man˗
+feather: bupuːr
+feather: ɣɛl
+feather: pʰʊlgo
+feather: pʰʊlɣo
+feather: pʰɔlʁɔ
+feather: pʊpuːr
+feather: pʰulʁúuʝ
+feather: tal
+few: hikʊm
+few: kam
+few: kam
+few: kaman
+few: kʰiran
+few: kʌmrɛnʌn
+fight: birga
+fight: čʌl
+fight: hoːlguːṣ
+fight: hɔlkuṣ ɛt˗
+fight: laḍaí
+fight: niyʌs
+finger: ʁartsápiṣ
+finger: band
+finger: boḍi˗meṣ
+finger: bumbaltɛn
+finger: čoːṭ
+finger: gaṭ
+finger: geéltin
+finger: gʌṭ
+finger: lapʰóṭ
+finger: lʌfʊṭ
+finger: lʌphʉt
+finger: ˗mɛṣ
+finger: ˗ʌmiṣ
+finger: ˗miṣ
+finger: ˗miṣ
+finger: ˗miṣ
+finger: ˗ʌmɪṣ
+finger: ˗ʌmɪṣ
+finger: ˗ʌmɪṣ
+finger: ˗ʌmɪṣ
+fingernail: ˗úri
+fingernail: ˗uːri
+fingernail: ˗uru
+fingernail: ˗uru
+finger: pʰuluṭɛ ˗mɛṣ˗
+fire: ʝ̌aʝ̌ar
+fire: čʰɛhlik
+fire: çi
+fire: ç̌iriṭi
+fire: çutum
+fire: hiliŋkiṣ
+fire: hiliŋkɪṣ
+fire: pʰɛč
+fire: pʰɛç̌
+fire: pʰu
+fire: pʰu
+fire: pʰu
+fire: pʰu
+fire: pʰuː
+fire: šʊtʊm
+fire: šutin
+fire: tsaraχ
+fire: ˗úmus
+fire: yuːmʊs
+fire: ǯərǯər
+fish: čʰʊːmo
+fish: čʰumo
+fish: ç̌ʰu̪mo
+fish: ç̌umu
+fish: ç̌umu
+five: tsɛndi
+five: tsendi ~ tsindi
+five: tsendi ~ tsindi
+five: tsʊndo ~ tsɪndi
+five: tsʊndo ~ tsɪndi
+flow: ḍar
+flow: ḍir
+flower: asqor
+flower: asqúr
+flower: gamburi
+flower: gamburi
+flower: gʌmbuːri
+flower: punár
+flower: pʰuːnər
+flower: ʌskuːr
+flower: ʌsqoːr
+flow: gáarts˗
+flow: gaːrtsʌs
+flow: gʊtshərʌs
+flow: ˗ʁorts˗
+fly (n.): pʰen
+fly (n.): pʰɛn
+fly (n.): pʰɛn
+fly (n.): pʰin
+fly (n.): pʰiːn
+fly (v.): du˗wál˗
+fly (v.): du˗wal˗
+fly (v.): duwʌl˗
+fly (v.): duwʌlʌs
+fly (v.): par ɛt˗
+fly (v.): pər ɛt˗
+fly (v.): tar
+fly (v.): ṭṣígu
+fog: qʰurónṭṣ
+fog: xʊroːnṭṣ
+foot: ˗ʁáan
+foot: ˗ʁan
+foot: ˗ʁan
+foot: ˗ɣaːn
+foot: ˗ɣaːɣʌn
+foot: badá
+foot: baya
+foot: bʌda
+foot: bœya
+foot: ˗huṭis
+foot: ˗huṭis
+foot: ˗huːṭɪs
+foot: tis
+foot: ˗toto
+foot: ˗úṭis
+foot: ˗uṭis
+forehead: ˗fʌṭi
+forehead: ˗pʰáṭi
+forehead: ˗pʰaṭi
+forehead: piçani
+forehead: ˗pʰʌṭi
+forest: ʝ̌aŋgal
+forest: ʝ̌aŋgal
+forest: bun
+forest: muːṣk
+forest: muṣk
+forest: muṣk
+forest: muṣk
+forest: ǯʌŋgʌl
+four: walt
+four: walte ~ waltu
+four: walte ~ waltu
+four: walto ~ walti
+four: walto ~ walti
+freeze: ɣʌmu yʌnʌs
+freeze: tʰat ˗man˗
+fruit: ç̌ʰaŋór
+fruit: gabíla
+fruit: pʰamól
+fruit: pʰʌmʊl
+fruit: tele
+full: bil
+full: bir
+full: bir
+full: birbir
+full: d˗ ˗spiran˗
+full: hɛk
+full: hɛk
+full: hik
+full: hik ˗ʌt
+full: hutin˗
+full: ṣek
+full: ṣək
+girl: ç̌umuṭkɛr
+girl: dasɛn
+girl: dasɛn
+girl: dasín
+girl: dʌsɛn
+girl: dʌsiːn
+give: ˗ç̌i˗
+give: ˗ʁon˗
+give: ˗u˗
+give: ˗uː˗
+give: ˗ú˗
+give: ˗uyʌs
+good: çua
+good: ç̌uá
+good: daltás
+good: dʌltʌs
+good: mariŋ
+good: mariŋ
+good: neːki
+good: šua
+good: šuːa
+good: táap
+good: χa
+grass: aʁam
+grass: ʝ̌éel
+grass: iṣqa
+grass: iṣqa
+grass: ruːŋ
+grass: ṣiqá
+grass: ɪṣqa
+grass: ṣɪqa
+grass: ǯʊt
+green: diŋ
+green: diŋ
+green: iṣqam
+green: iṣqam
+green: ṣiqám
+green: ɪṣqʌm
+green: toq
+green: ǯuːt ṣɪqʌm
+guts: ˗ɣʊːmər
+guts: pʰanzál
+guts: ˗tser
+guts: ˗tsɛriŋ
+guts: tshiːr
+guts: ˗tsʰír
+guts: tʰur
+hair: beç̌keː
+hair: beç̌keː
+hair: biçké
+hair: biçké
+hair: biçkɛ
+hair: biskɛ
+hair: biːškɛ
+hair: biːškɛ
+hair: bupur
+hair: bur
+hair: bur
+hair: bur
+hair: bur
+hair: buːr
+hair: ˗ç̌uʁuyaŋ
+hair: guyäŋ
+hair: miçki
+hair: miːški
+hair: miːški
+hair: ˗mʊški
+hair: ˗múçki
+hair: ʁoyaŋ
+hair: ˗ɣoyʌŋ
+hair: ˗pʰínis
+hair: ʁuyáŋ
+hair: ˗ɣuyʌŋ
+hand: mʊṣṭʌk
+hand: mʊṭṣ
+hand: ˗muṣṭ(ak)
+hand: muṭṣ
+hand: ˗ren
+hand: ˗rɛn
+hand: ˗rɛn
+hand: ríiŋ
+hand: ˗riŋ
+hand: ˗tatas
+hand: ˗tátas
+hand: ˗toːto
+hand: tɔtɔ
+hand: ˗tʌtʌs
+head: kapal
+head: kʌpʌl
+head: ˗yaṭɛs
+head: ˗yáṭis
+head: ˗yɛṭis
+head: yʌs
+head: ˗yʌṭɪs
+hear: d˗yal˗
+hear: d˗yal˗
+hear: d˗yal˗
+hear: d ˗ʌyɛl˗
+hear: d˗ʌyɛlʌs
+hear: ˗ltumʌl et
+heart: ʝ̌i
+heart: ʝ̌i
+heart: ˗s
+heart: ˗s
+heart: ˗ʌs
+heart: ˗ʌs
+heavy: ç̌ʰuúm
+heavy: tsʊluːm
+heavy: tsulum
+heavy: tsʰuːm
+here: akʰo
+here: akʰo(le)
+here: kʰit
+he/she: inɛ
+he/she: inɛ ~ ɛn
+he/she: inɛ ~ ɛn
+he/she: inɛ ~ ɛn
+he/she: inɛ ~ ɛn
+he/she: inɛmu
+he/she: isɛ ~ itɛ
+he/she: isɛ ~ itɛ
+he/she: isɛ ~ itɛ
+he/she: mo
+he/she: mo
+he/she: mo ~ in
+he/she: momo ~ momu
+he/she: ne
+he/she: ne ~ in
+he/she: ne ~ nɛ
+he/she: ne ~ nɛ
+he/she: se
+he/she: se ~ os
+he/she: sɛ ~ tɛ
+he/she: te
+he/she: te ~ ot
+hit: ˗dɛl˗
+hit: ˗dɛlʌs
+hit: ˗dɛlʌs
+hit: d˗l˗
+hit: d˗l˗ ~ del˗
+hit: ˗ya˗
+hit: ya˗
+hold: ˗ʁark˗
+hold: ʁaṣáp
+hold: do˗hon˗
+hold: dohoːn˗
+hold: dɔ˗hɔn˗
+hold: duːnʌs
+hold: du˗ún˗
+hold: ˗(ʌ)ɣərk˗
+hold: nauroːs ɛt
+hold: óos˗
+hold: rahat˗halɛç
+hold: ˗yʌnʌs
+hole: baha
+hole: bʌha
+hole: bʌlbʌn
+hole: daṭ
+hole: gomʊr
+hole: il
+hole: ɣʊmʊr
+hole: ɣomor
+hole: ʁɔmɔr
+hole: təriṣ
+hole: tis
+hole: ʁumór
+horn: ˗ltúr
+horn: ˗ltuːr
+horn: ṭṣeχi
+horn: tur
+horn: tur
+horn: tur
+house: baŋgala
+house: ha
+house: ha
+house: ha
+house: ha
+house: ha
+how: be
+how: bɛ
+how: bɛčʊk
+how: bélaṭe
+how: bɛltʊm
+how: bo
+how: bo ~ boː
+how: boltum
+how: boltum
+hunt: ḍam ɛt˗
+hunt: darú
+hunt: daru ɛt˗
+hunt: dəru ɛt
+husband: hapkuin
+husband: hir
+husband: hʌpkuːin
+husband: ˗uyar
+husband: ˗uyər
+husband: yər
+husband: ˗yuhar
+husband: ˗yuhar
+husband: ˗yuhər
+husband: ǯʌmaːʌt
+I: ʝ̌a
+I: ʝ̌a
+ice: ʁamu
+ice: ʁamú
+ice: ʁamú
+ice: gʌmu
+ice: káṭi
+ice: ?kʌk
+ice: kʌti
+ice: ɣʌmu
+ice: ɣʌmu
+ice: ɣʌmu
+if: basa
+I: ǯa
+I: ǯaː
+I: ǯa ~ ǯɛ
+I: ǯɛ
+I: ǯɛ
+jaw: ˗mélṭṣ
+jaw: ˗mɛlṭṣ
+jaw: ˗mɛlṭṣ
+jaw: ˗mɛlṭṣ
+kill: bɛːḍapar ɛt˗
+kill: d˗l˗
+kill: d˗l˗
+kill: d˗l˗ ~ del˗
+kill: d˗ʌlʌs
+kill: pʰaːnsi
+kill: ˗sqan˗
+kill: ˗sqan˗
+kill: ˗sqan˗
+kill: ˗ʌsqʌn˗
+kill: ˗ʌsqʌnʌs
+knee: ˗dʊmʊs
+knee: ˗dʊmʊsɛ pʰuːl
+knee: ˗dúmus
+knee: iːlži ˗dʊmʊs
+knee: ˗nuːmʊs
+knee: ˗numus ~ nuŋus
+knee: ˗nuːŋgʊs
+knee: ˗nuːŋgʊsɛ pʰuːl
+knee: ˗nuŋus
+knee: pʰul
+know: hén
+know: ˗hɛn˗
+know: hɛn˗
+know: hɛːnʌs
+know: leél
+know: lɛl˗
+know: lɛːl ɛt
+know: ˗ʌt˗
+lake: kaŋ
+lake: kʌŋ
+lake: pʰəri
+lake: pʰəri
+lake: samandar
+lake: sártsʰil
+laugh: ʁas˗
+laugh: ʁas˗
+laugh: ʁas˗
+laugh: qapʰia ɛt˗
+laugh: ɣʌs˗
+laugh: ɣʌsaːs
+leaf: kʰiʝ
+leaf: kʰüy
+leaf: tap
+leaf: tap
+leaf: tap
+leaf: tʌp
+leaf: tʌp
+left: ʁamu
+left: ʁáʝpa
+left: ɣayom
+left: ɣʌmu
+left: suːɣa
+leg: baṣ
+leg: ˗huːṭɪs
+leg: ˗ltanç̌
+leg: ˗ltánts
+leg: ˗ltʌnts
+leg: ˗ltʌnz
+leg: píni
+lie: gʊčʰaiyʌs
+lie: gučʰa˗
+lie: guç̌a˗
+lie: guçʰá˗
+lightning: barç̌
+lightning: bərč
+lightning: biʝ̌ilí
+lightning: biːṭṣʊš
+lightning: tam
+lightning: támlam
+lightning: tʌm
+lip: ˗hil
+lip: ˗hiːl
+lip: ˗íl
+lip: iːl
+live: ʝ̌andu
+liver: ˗kɛn
+liver: ˗kin
+liver: ˗ʌkin
+liver: ˗ʌkʌn
+live: zɪnda
+live: ǯiːndo
+live: ǯino
+live: ǯʌndo
+long: burunum
+long: ç̌áo
+long: ḍẓiga
+long: ʁosanum
+long: ɣʊsʌnʊm
+long: ɣʊsʌnʊm
+long: ɣʊsʌnʊm
+long: tʰáanum
+long: tʰaːnʊm
+long: tanʊm
+long: tʰanum
+long: tʰʌnʊm
+long: ʁusanum
+long: ʁusánum
+long: ẓigá
+louse: a̪po
+louse: ḍẓɛkɛ
+louse: ḍẓiki
+louse: girç̌ap
+louse: ʝikií
+louse: kʰaru
+louse: kʰarúu
+louse: kʰɛn
+louse: kʰɛn
+louse: kʰəru
+louse: kʰəru
+louse: kʰin
+louse: kʰiːn
+louse: múndas
+louse: muːndʌs
+louse: ṭṣɛkɛ
+louse: ʁulíṣ
+man: bíiro
+man: biru
+man: hir
+man: hir
+man: hir
+man: hir
+man: hir
+man: hir
+man: hir
+man: sɛs
+man: sʊmʌn
+man: sumán
+man: tsɛlɛm
+man: wal
+man: wʌl
+many: akʰrum
+many: buːṭ
+many: buṭ
+many: buṭ
+many: buṭ
+meat: bʊboːq
+meat: ç̌ap
+meat: ç̌ʰap
+meat: ç̌ʰap
+meat: ç̌ʰap
+meat: ç̌ʰap
+meat: čʰʌp
+meat: čʰʌp
+meat: čʰʌp
+meat: čʰʌp
+meat: randiḍẓu
+moon: ç̌aandaráat
+moon: ḍər biḍiːro
+moon: ḍər mʌnʊm
+moon: halants
+moon: halánts
+moon: hʌlʌnts
+moon: hʌlʌnts
+moon: pʌnǯarʌš
+moon: ʁuá
+morning: ḍuṭaːŋkɛ
+morning: gʊnčʌṭ
+morning: gʊnṭṣʌṭ
+morning: goːn
+morning: goːn
+morning: goːn
+morning: gunṭṣaṭ
+morning: súbo
+morning: súbo
+morning: tsɔrdi
+morning: tsʰórdimo
+morning: tsʰordinɛ
+morning: ǯil
+mosquito: kʰíço
+mosquito: kʰiːšo
+mosquito: kʰiːšo
+mosquito: kʰisu
+mosquito: pʰíṭṣo
+mosquito: piːṭṣu
+mother: máma
+mother: maːma
+mother: ˗mi
+mother: ˗mi
+mother: ˗mi
+mother: ˗mi
+mother: nani
+mother: nani
+mother: nʌni
+mountain: barkat
+mountain: bɛrkʌt
+mountain: buːri
+mountain: buúri
+mountain: ç̌ar
+mountain: çʰar
+mountain: čʰiṣ
+mountain: čʰiṣ
+mountain: čʰiṣ
+mountain: ç̌ʰiṣ
+mountain: ç̌ʰiṣ
+mountain: ç̌iṣ
+mountain: ç̌iṣ
+mountain: ḍoːŋ
+mountain: ḍɔŋ
+mountain: láaṭ
+mountain: laːṭ
+mountain: paháaṭ
+mountain: tʰanɛs
+mountain: ṭiŋ
+mountain: ṭiŋ
+mouth: ˗qʰát
+mouth: ˗xʌt
+mouth: ˗xʌt
+mouth: ˗χat
+mouth: ˗χat
+name: ˗ík
+name: ˗iːk
+name: ˗ík
+name: ˗iːk oːsʌs
+name: sén˗
+name: sɛn˗
+name: sɛnʌs
+name: ˗yek
+name: ˗yɛk
+name: ˗yɛk
+nape: kʌnǯʰa
+nape: ˗pʰuiŋ
+nape: ˗qʰún
+nape: ˗ʌṣ
+nape: ˗ṣ
+nape: ˗ʌṣpʌt
+narrow: bi ɛnʊm
+narrow: ç̌anum
+narrow: ç̌ʰanúm
+narrow: čʰʌḍʊm
+narrow: čʰʌnʊm
+narrow: čʰʌnʊm
+narrow: tʰərɛnʊm
+navel: nʌf
+navel: ˗su
+navel: ˗suː
+navel: ˗súi
+navel: ˗suːi
+near: asiír
+near: asur(um)
+near: ʌsiːr
+near: ʌsuːr
+neck: buk
+neck: buːk
+neck: ˗ʌṣ
+neck: ˗ʌṣ
+neck: ˗ṣ
+neck: ˗ṣ
+new: čaːkʊr
+new: hasil
+new: tʰoːṣ
+new: tʰoṣ
+new: tʰoṣ
+new: tʰɔṣ
+new: ʝ̌uaːn
+new: ǯuwaːn
+night: boːt
+night: çaám
+night: çam
+night: gir
+night: šaːm
+night: šaːm
+night: sasaṭ
+night: saːsʌt
+night: saːsʌṭɛ
+night: tʰap
+night: tʰap
+night: tɔt
+night: tʰʌp
+night: tʰʌp
+nose: ˗mʊltʊr
+nose: ˗muçpuçiŋ
+nose: ˗múltur
+nose: ˗muṣ˗pul
+nose: paṣɔli
+nose: pʌšoːli
+not: ʌ˗
+not: a˗
+not: a˗
+not: ai˗
+not: ai˗
+not: au˗
+not: be
+not: be
+not: be
+not: be
+not: bɛ
+not: bɛ
+not: bɛ
+not: bɛ
+not: bɛːšʌl
+not: na
+not: na
+old: asaqal
+old: asaqal
+old: astaqáal
+old: ʝ̌at
+old: ʝ̌aṭ
+old: bap ~ bapi
+old: bʊrʊːm dʌp
+old: diɣʌnʊm
+old: mapɛr
+old: mayɛn
+old: mɛːn
+old: mœyɛn
+old: ˗ʌpi
+old: ʌsʌqaːl
+old: ʌstakaːl
+old: wau
+old: waːu
+old: ǯʌṭ
+old: ǯʌṭ
+one: hek ~ hen ~ han
+one: hek ~ hen ~ han
+one: hɛn
+one: hin ~ hʌn ~ hik
+one: hin ~ hʌn ~ hik
+other: hólum
+other: iːtʊm
+other: ítum
+other: tʰɛ
+other: tʰi
+other: tʰi
+other: tʰum
+other: tʰuːm
+other: tuːm
+person: aːdɛm(zat)
+person: banda
+person: bandá
+person: bʌnda
+person: insan ~ iksaːn
+person: sɛs
+person: sɛs
+person: sis
+person: sis(ʌn)
+play: girát˗
+play: girat˗
+play: girat˗
+play: girʌt˗
+play: tamaaçá
+play: tʌmaːša ɛt
+pull: ç̌ast
+pull: d˗ʌpirtsʌs
+pull: d˗usʌs
+pull: ḍẓast ˗t˗
+pull: ˗ltask˗
+pull: ˗ltʌsk˗
+pull: tas˗
+pull: tʌskaːs
+pull: ṭṣʌṭ ɛt
+pull: yortikin
+push: da\alqiṣ
+push: ḍus
+push: ṭʰaŋ
+push: ṭʰaŋ ˗ʌt
+push: ṭʰʌŋ ˗ʌt˗
+push: zʌq ɛt
+rain: dau
+rain: daːu
+rain: di˗áarts˗
+rain: haralt
+rain: harált
+rain: həraːlt
+rain: (həraːlt) diaːrtsʌs
+rain: hərʌlt
+rat: çɔnçimɛni
+rat: çonmumúyo
+rat: girkis
+rat: girkis
+rat: girkis
+rat: girkis
+rat: girkis
+rat: gírkis
+rat: gírkis
+rat: girkits
+rat: girkɪs
+rat: šonmumuːyo
+rat: šonšimɛni
+rat: ṭaṭar
+rat: ṭaṭar
+red: báardum
+red: baːrdʊm
+red: baːrdʊm
+red: bärdʊm
+red: bardum
+right: doʝ
+right: domo
+right: doːmo
+right: doːyʊm
+right: ṣaːq
+ripe: degoni
+ripe: diːrʊm
+ripe: d˗ɣʊnʊm
+ripe: dɔ˗ʁɔn˗
+ripe: du˗ʁún˗
+river: bʌrtsɛl
+river: dəria
+river: sɛndɛ
+river: sɛndɛ
+river: sinda
+river: sínda
+road: gan
+road: gan
+road: gan
+road: gän
+road: gʌn
+road: gʌn
+road: ɣʌš
+road: ṣuːŋ
+root: gamún
+root: gʌmuːn
+root: tsɛrɛs
+root: tsərəṣ
+root: tsʰiríṣ
+root: tsʰirɪṣ
+rope: ḍʊlu
+rope: ḍulu
+rope: ḍulu
+rope: gaçk
+rope: gaçk
+rope: gäški
+rope: gʌšk
+rope: gʌšk
+rope: sutri
+rope: tʰanau
+rope: tʰanau
+rope: ṭeṭe
+rope: ṭɛṭɛ
+rope: ṭɛṭɛ
+rotten: kʰaŋgal
+rotten: ɣʊl
+rotten: laça
+rotten: ɣoldoːp
+round: biḍiriːko
+round: biḍiriskum
+round: biḍiro
+round: biḍiːro
+round: laṭukores
+round: latukurɛs
+round: lʌtukʊrɛs
+round: pinḍɔrɔ
+round: pinḍoːru
+rub: ˗muruṭ˗
+rub: pʰiri ɛt˗
+rub: ˗pʰupur˗
+rub: pʰupur˗
+rub: qʰoṣ
+rub: qʰoṣ
+rub: ṣaq
+rub: xaːṣ ɛt
+rub: xʌṣ xʌṣ ɛt
+salt: baiyu
+salt: bayu
+salt: bayú
+salt: bœiyu
+sand: sao
+sand: saːo
+sand: sáo
+sand: sau
+sand: sau
+say: ʁar˗
+say: bar
+say: ç̌áʁa
+say: ɣər˗
+say: ɣəraːs
+say: ɣəraːs
+say: misal ɛt˗
+say: ˗s
+say: sén˗
+say: sen˗
+say: sen˗
+say: sɛn˗
+say: sɛn˗
+say: sɛn˗
+say: sənʌs
+say: sɛnʌs
+say: sɛnʌs
+say: ˗ʌsʌs
+say: ˗ʌsʌs
+say: xʌbɛr ɛt
+say: xʌtʌn˗
+say: xʌtʌn˗
+scratch: gaẓát
+scratch: gʌḍẓʌt ɛt
+scratch: qar
+scratch: qʌr ɛt
+scratch: ɣʌžʌm ɛt
+sea: aʝ̌aluk
+sea: aǯalʊk
+sea: nari
+sea: sʌmʌndər
+see: ˗ʁan˗
+see: ˗ʁan˗
+see: ˗ʁan˗
+see: ɣaːn˗
+see: ɣaːn˗
+see: bar
+see: barén˗
+see: bərɛːnʌs
+seed: bilʁar
+seed: gono
+seed: ɣʊno
+seed: ɣʊno
+seed: ʁɔnɔ
+seed: ʁunó
+see: kʰíil
+see: kʰiːl
+see: kʰiːl m
+see: ˗lç̌in
+see: ˗sáay
+see: ˗sal˗
+see: ˗ʌsʌlʌs
+see: ˗yeéts˗
+see: ˗yets˗
+see: ˗yɛts˗
+see: ˗yɛts˗
+see: yɛtsʌs
+sew: çabáq
+sew: gišaiyʌs
+sew: hʊnǯa˗
+sew: hunʝ̌a˗
+sew: tsʰapán˗
+sew: tsapan˗
+sew: tsʌpʌn˗
+sew: ˗tsʰʌpʌnʌs
+sew: ṭṣuk
+sew: ṭṣuːk ɛt
+sew: yʌšiʌs
+sharp: bʌbərʊm
+sharp: hɛrɛšʊm
+sharp: hiːrʊm
+sharp: hirúm
+sharp: téez
+sharp: tɛz
+short: çabáakan
+short: ç̌ʰaṭ
+short: čʌt
+short: čʰʌṭ
+short: čʰʌṭ
+short: ḍuúŋ
+short: gaganum
+short: gʌgʌnʊm
+short: kʰuːṭ
+short: kʰuṭ
+short: tson
+shoulder: buːi
+shoulder: çak
+shoulder: ˗pʰóiŋ
+shoulder: pʰoːiŋ
+shoulder: pʰoːiŋ
+shoulder: ˗pʰɔʁɔnas
+shoulder: ˗pʰuiŋ
+shoulder: ˗puːiŋšʌk
+shoulder: ˗punçak
+shoulder: qʰundáki
+sing: ʁar
+sing: ɣər ɛt
+sing: ɣəriŋ ɛt˗
+sing: ˗t˗
+sister: kaáki
+sister: ˗ʌṭṣo
+sister: ˗ʌṭṣo
+sister: ˗ṭṣo
+sister: ˗ṭṣu
+sister: ˗yast
+sister: ˗yʌs
+sister: ˗yʌs
+sister: ˗yʌst
+sit: hʊruːṭ˗
+sit: hʊruːṭʌs
+sit: hurúṭ˗
+sit: huruṭ˗
+sit: huruṭ˗
+skin: baṭ
+skin: baṭ
+skin: baṭ
+skin: bʌṭ
+skin: bʌṭ
+skin: bʌṭ daːl ɛt
+skin: ˗fʌṭərʌs
+skin: gap
+skin: gʌp
+skin: ˗pʰáṭar˗
+skin: ˗pʰaṭar˗
+skin: pʰʌṭʌr˗
+skin: tátas
+skin: tutús
+sky: aiyʌš
+sky: asmáan
+sky: ayáç
+sky: bɛhɛçt
+sky: œiyʌš
+sky: ʌsmaːn
+sky: ʌsmaːn
+sleep: daŋ
+sleep: dʌŋ
+sleep: gʊčʰaiyʌs
+sleep: ˗guç̌a˗
+sleep: guç̌ʰá˗
+sleep: ˗yan˗
+small: čiki
+small: ç̌iki
+small: ˗ç̌oʁon ~ ˗ç̌uʁun
+small: ɛčʊɣʊn
+small: ʝ̌oṭ
+small: pʰuk
+small: ǯʊt
+small: ǯʊṭ
+smell: dʊrga
+smell: nas
+smell: nas
+smell: nas
+smell: nas
+smell: nʌs
+smell: nʌs
+smell: nʌs
+smell: xər
+smell: zə
+smell: χer
+smell: χɛr
+smoke: gu
+smoke: gu
+smoke: guː
+smoke: gu˗ʁaṣṭar
+smoke: qʰalóaŋ
+smoke: tʰas
+smoke: tʰas
+smoke: tʰas
+smoke: tʰʌs
+smoke: tʰʌs
+smoke: xʌloːwʌŋ
+smoke: χalohan
+smoke: χalohaŋ
+smooth: rat
+smooth: ?rʌt
+smooth: rʌt
+smooth: šɛʁišʊm
+smooth: ṣiʁíṣum
+smooth: taṣ
+smooth: tatáŋ
+smooth: tʌq
+snake: ɣʊsʌnʊm
+snake: tol
+snake: tol
+snake: tul
+snake: tul
+snake: tul
+snake: ʁusanum
+snake: ʁusánus
+snake: ɣusʌnʊm
+snow: ayár
+snow: çel
+snow: ge
+snow: gɛ
+snow: gɛ
+snow: gye
+snow: gyɛ
+snow: hío
+snow: hiːo
+snow: kʰʊčuːni
+snow: koːimo
+snow: kʰoyu
+snow: kʰɔyumu
+snow: ʌŋyɛr
+snow: piːn
+snow: pʰúuri
+snow: šɛːl
+son: ˗i
+son: ˗i
+son: ˗í
+son: ˗yɛ
+son: ˗yɛ
+sour: çut
+sour: çut
+sour: iṣqɔrum
+sour: ṣuqúrum
+sour: ṭṣʊquːrʊm
+spit: bisqa
+spit: bisqá
+spit: mɛsqɛ
+spit: mɪsqɛ
+spit: qʰoq
+spit: xoːskin˗
+spit: xʊs ˗ʌtʌs
+spit: χereṭ
+spit: χoskin˗
+split: ç̌ɛi dɛl˗
+split: doxərʌs
+split: du˗pʰats˗
+split: dupʰʌts˗
+split: duxər˗
+split: pʰan˗
+split: ˗qʰár˗
+split: ˗xər˗
+split: ˗xərʌs
+split: ˗χar˗
+split: χar˗
+squeeze: ʝ̌aʁám
+squeeze: d˗ʌtsiʌs
+squeeze: ˗tsi˗
+stand: dieː˗
+stand: tsak ˗man˗
+stand: tsaṭ
+star: asií
+star: asumun
+star: ʝ̌áṭʰir
+star: gon
+star: (goːnɛ) lʌčʰaːr
+star: laṭṣʰaár
+star: meélgus
+star: ʌsi
+star: ʌsʊmʊn
+star: urunas
+stone: ʁaqúts
+stone: bun
+stone: buːn
+stone: ç̌ar
+stone: ç̌ar
+stone: ḍaḍar
+stone: dan
+stone: dan
+stone: dan
+stone: dʌn
+stone: dʌn
+stone: dʌn
+stone: ɣoːro
+stone: ʁuró
+stone: ẓiŋá
+straight: dʊtsʰʌnʊm
+straight: dukɛ
+straight: tsan
+straight: tsʰan
+straight: tsʌn
+straight: tsʰʌn
+straight: tsʰʌn
+suck: ç̌uṣ
+suck: čuːṣ ɛt
+suck: čuːṣ ɛt˗
+suck: ç̌uš ɛt˗
+suck: čuːṣ ˗ʌt
+suck: moṣqo˗
+sun: sa
+sun: sa
+sun: sa
+sun: sa
+sun: sa
+sweet: maṭṣi
+sweet: maṭṣi
+sweet: maṭṣʰíi
+sweet: mʌṭṣi
+sweet: mʌṭṣʰi
+swell: dʊhoːq˗
+swell: dɔ˗hɔq˗
+swell: do˗óq˗
+swell: doːqʌs
+swell: du˗har˗
+swell: pʰáan˗
+swell: pʰaːn˗
+swell: pʰaːn˗
+swell: pʰan˗
+swell: pʰaːnʌs
+swell: ṭɔrɔ ˗man˗
+swim: gʊrqʊts dɛlʌs
+swim: minia˗
+swim: minya˗
+swim: ṣər ɛt
+swim: tam
+swim: tʌm dɛlʌs
+tail: çilan
+tail: ˗çilan
+tail: ˗šilʌn
+tail: ˗súmal
+tail: ˗suːmʌl
+take: ʁaíki
+take: dɔ˗hɔn˗
+take: ʁeː˗
+take: ʁɛ˗
+take: ɣɛː˗
+take: ˗gan˗
+take: ɣiːki ɛt
+take: ˗tsu˗
+take: ˗yan˗
+take: ˗yan˗
+take: ˗yʌn˗
+take: ˗yʌnʌs
+that: ɛse ~ ɛte
+that: ɛtse ~ ɛke
+that: in
+that: ine
+that: (i)nɛ
+that: inɛ ~ in
+that: isɛ ~ itɛ
+that: itsɛ ~ ikɛ
+that: nɛ
+that: se ~ te
+that: tsɛ ~ kɛ
+that: uɛ
+that: uɛ
+that: uɛ ~ u
+that: uɛ ~ u
+that: uɛ ~ we
+that: uɛ ~ we
+there: it(i)
+there: to(lɛ)
+they: itsɛ ~ ikɛ
+they: itsɛ ~ ikɛ
+they: itsɛ ~ ikɛ
+they: ke
+they: ke ~ ok
+they: tse
+they: tsɛ ~ kɛ
+they: tse ~ ots
+they: uɛ
+they: uɛ
+they: uɛ
+they: uɛ
+they: uɛ ~ u
+they: uɛ ~ u
+they: uɛ ~ u
+they: uɛ ~ u
+they: uɛ ~ wɛ
+they: uɛ ~ wɛ
+they: we ~ u
+they: we ~ u
+they: we ~ u
+they: we ~ u
+thick: buːm
+thick: daʁanum
+thick: dʌɣʌnʊm
+thick: dʌɣʌnʊm
+thick: hʊrgʌs
+thick: hurgas
+thick: huːrgʌs
+thigh: bátsin
+thigh: bʌtsin
+thigh: ˗çak
+thigh: ˗ṣʌk
+thin: biɛnʊm
+thin: biɛnʊm
+thin: biɛnum
+thin: biyɛnʊm
+thin: dikʊṭʊm
+thin: gilinum
+thin: giṣkər
+thin: gɪliːnʊm
+think: d˗sa˗
+think: qʰiáal
+think: sʌmba ɛt
+think: χial ɛt˗
+thin: sisiːnʊm
+this: gʊse
+this: gʊsɛ ~ gʊtɛ
+this: ~ gʊte
+this: gʊtsɛ ~ gʊkɛ
+this: gʊtsɛ ~ gʊkɛ
+this: kʰɛnɛ
+this: kʰin
+this: kine
+this: kine
+this: kinɛ
+this: kinɛ ~ kin
+this: kinɛ ~ kin
+this: kʊmo
+this: kʊsɛ ~ kʊtɛ
+this: kʊtse ~ kʊke
+thorn: ç̌aṣ ~ ṭṣaṣ
+thorn: čʰʌṣ
+thorn: munáay
+thou: ʊm
+thou: un
+thou: un
+thou: uŋ
+thou: un ~ uŋ
+three: iskɛ
+three: iskɛn ~ usko ~ iksɛ
+three: iskɛn ~ usko ~ iksi
+three: iski ~ iske ~ isko
+three: iski ~ iske ~ isko
+throat: asú
+throat: buk
+throat: buk
+throat: buk
+throat: buk
+throat: buːk
+throat: buːk
+throat: ḍoḍi
+throat: ḍɔḍi
+throat: ḍóḍo
+throat: ḍóḍo
+throat: ḍoːḍo
+throat: pirʁíti
+throat: ˗ʌṣ
+throat: ˗ʌṣ
+throat: ˗ṣ
+throat: ṣiŋ
+throat: ṣuŋ
+throat: ˗úrqun
+throw: biça˗
+throw: gi˗
+throw: lip
+throw: lip ˗ʌt˗
+throw: lip ˗t˗
+throw: pʰal
+throw: pʰʌl ˗ʌt
+throw: ṣau ɛt˗
+throw: siça˗
+throw: ˗wʌšiʌs
+thunder: ʁaráo
+thunder: ɣərau
+thunder: gɪdiɣərʌm
+thunder: ɣorkʊn
+thunder: ɣʌrau
+thunder: sɔrqɔn
+tie: bandéeç
+tie: d˗çun˗
+tie: d ˗šʊn˗
+tie: d˗šʊnʌs
+tie: du˗çun˗
+tie: ʝ̌oːḍ
+tie: ˗pʰus˗
+tie: ˗pʰus˗
+tie: ˗pus˗
+tie: pus˗
+tie: ṭak
+tie: tráa
+tie: wʌšiʌs
+today: akʰuin
+today: akʰuin
+today: akʰuːin
+today: kʰuːlto
+today: kʰúulto
+tomorrow: ʝ̌ímale
+tomorrow: ʝ̌imalɛ
+tomorrow: ʝ̌imel(e)
+tomorrow: ǯimalɛ
+tomorrow: ǯimdɛn
+tomorrow: ǯimʌlɛ
+tongue: ˗umʊs
+tongue: ˗úmus
+tongue: ˗yuːŋgʊs
+tongue: ˗yuŋus
+tongue: zaban
+tooth: ˗haṣɛ ˗mɛ
+tooth: ˗hʌšɛ ˗mɛ
+tooth: kaldón
+tooth: ˗me
+tooth: ˗mé
+tooth: ˗mɛ
+tooth: ˗mɛ
+tooth: ˗mɛ
+tooth: ˗mɛ́
+tooth: ˗ŋgimo
+tooth: ˗wáṣ
+tooth: ˗wʌš ˗mɛ
+tooth: yərʊm ˗mɛ
+tree: ʝ̌as
+tree: čʌs
+tree: daráqt
+tree: dərʌxt
+tree: ˗ḍim
+tree: ḍim
+tree: draʁt
+tree: draχt
+tree: gamún
+tree: gʌmuːn
+tree: gʌmuːn
+tree: hur
+tree: iḍim
+tree: mun
+tree: muːn
+tree: tom
+tree: tom
+tree: toːm
+turn: ḍir ˗man˗
+turn: pʰaːr
+turn: pʰaːr
+turn: pʰar ˗man˗
+turn: pʰar ˗t˗
+turn: pʰər ɛt˗
+turn: pʰər mʌn˗
+turn: pʰʌpər ɛt
+turn: pʰʌpər m
+two: altʌn
+two: altʌn ~ alta ~ alto
+two: altʌn ~ altʌts ~ alto
+two: alto ~ altan ~ alta(ts)
+two: alto ~ altan ~ alta(ts)
+unripe: atiːɣʊnʊm
+unripe: ç̌aʁɛn
+unripe: čʌɣɛn
+unripe: daʁoyɛ
+unripe: ʌtoɣʊnʊm
+vagina: çárum
+vagina: ç̌ot
+vagina: dʊŋ
+vagina: duŋ
+vagina: gik
+vagina: hariaçut
+vagina: pʰóṣi
+vagina: ṣiqár
+vagina: tsuṭ
+vagina: tʰúki
+vagina: ?˗ɣuːṣ
+vagina: ˗ʁúṣ
+vagina: χaçaŋ
+vomit: čʰʌŋ ˗ʌt
+vomit: oːq ˗ʌt˗
+walk: gáarts˗
+walk: garts˗
+walk: gaːrtsʌs
+walk: gʊtsʰərʌs
+walk: gutsʰár˗
+walk: gutsar˗
+walk: huɛ
+walk: huɛː˗
+walk: hu˗ ~ hue˗
+walk: ní˗
+walk: niyʌs
+walk: sail ɛt
+walk: šau ˗man˗
+walk: tsʰɛra˗
+walk: tsɛrɛ˗
+warm: bʊbuːlo
+warm: d ˗ʌskəra˗
+warm: garum
+warm: garum
+warm: garum
+warm: garumkuṣ
+warm: garúrum
+warm: garúrum
+warm: garúrum(kuṣ)
+warm: gərʊm
+warm: gəruːm
+warm: gəruːm
+warm: gəruːm ɛt˗
+warm: gəruːrʊm
+warm: gəruːrʊm
+warm: gəruːrʊmkʊṣ
+wash: bahalt
+wash: bʌhaːlt˗
+wash: gaṭamur˗
+wash: ṣaáo
+wash: ṣao ɛt
+wash: ɣʊsʊl ɛt
+wash: tam
+wash: tʌm dɛlʌs
+wash: tʌm ˗ʌdilʌs
+water: bul
+water: bul
+water: bul
+water: buːl
+water: buːl
+water: kʊr
+water: ɣʊlk
+water: ʁɔlk
+water: tsel
+water: tsɛl
+water: tsʰɛl
+water: tsʰil
+water: tsʰil
+weep: hér˗
+weep: hɛr˗
+weep: hɛr˗
+weep: hɛrʌs
+weep: ɔŋ ɛt˗
+weep: ˗u
+weep: ˗u
+weep: ˗u
+weep: ˗uː
+weep: ˗ú
+weep: ˗u d˗l˗
+we: mi
+we: mi
+we: mi
+we: mi
+we: mi
+we: miː
+we: mi(m)
+wet: di˗hil˗
+wet: du˗wáq
+wet: haʁúm
+wet: haʁúm
+wet: hʌɣʊm
+wet: hʌɣʊm
+wet: zah
+wet: za(h)
+wet: zákiṣ
+wet: zœh
+what: amɛn
+what: ámin
+what: be
+what: bɛ
+what: bɛ ~ bɛsʌn
+what: bɛ ~ bɛsʌn
+what: bésan
+what: bo
+what: bɔ
+what: bo ~ boː
+what: bɔltum
+what: bɔtan
+what: botʌn
+what: ʌmɛn
+what: ʌmin
+what: ʌmin
+when: baça
+when: basa
+when: bʌša
+where: amʊlo
+where: ámulo
+where: amulu
+where: ana
+where: ane
+where: anɛ
+where: ʌm
+where: ʌmʊli
+white: bʊruːm
+white: burum
+white: buruːm
+white: burúm
+who: amɛn
+who: men
+who: men
+who: mɛn
+who: mɛn
+who: mɛn
+who: ˗mɛn
+who: mɛnʌn
+wide: çoqum
+wide: çóqum
+wide: dádalum
+wide: dʌldʌlʊm
+wide: šoːqʊm
+wife: hapkuin
+wife: us
+wife: ˗us
+wife: ˗us
+wife: ˗uːs
+wife: ǯʌmaːʌt
+wind: buyúk
+wind: çarutiç
+wind: dɔltiç
+wind: ʂeːn
+wind: hawáa
+wind: tiːṣ
+wind: tiṣ
+wind: tiṣ
+wing: galgi
+wing: galgí
+wing: gʌlgi
+wing: gʌlgi
+wipe: ʁaṣáp
+wipe: kʰʌṣ et˗
+wipe: ɣʌṣaːp
+with: ˗ʌka
+with: ˗ʌṭɛ
+woman: bɛhɛ
+woman: gʊs
+woman: gus
+woman: gus
+woman: gus
+woman: gus
+woman: gus
+woman: gus
+woman: halk
+woman: hʌlkaːs
+woman: sóoṭṣi
+woman: soːṭṣi
+woman: sum
+woman: sum
+wood: ʁaçíl
+wood: çamɛ
+wood: daroʁo
+wood: dəroːɣo
+wood: ḍímo
+wood: ḍʌmo
+wood: ɛːsqʊlʌs huːn
+wood: gadar
+wood: hun
+wood: hun
+wood: hun
+wood: hun
+wood: huːn
+wood: huːn
+wood: huːn
+wood: huːn
+wood: ɣʌšiːl
+wood: ṭoq
+wood: ṭoq
+wood: tsaʁarií
+wood: urbaiŋ
+worm: ʁalʁɔ
+worm: ʁalʁú
+worm: ɣʌlɣu
+year: den
+year: den
+year: dɛn
+year: dɛn
+year: dɛn
+year: wɛl
+year: yoːl
+year: yoól
+yellow: iṣkark
+yellow: iṣkark
+yellow: ṣikárk
+yellow: ɪṣkərk
+yellow: ṣɪkərk
+yes: awa
+yes: šuːa
+yesterday: saáṭi
+yesterday: sabuúr
+yesterday: saːʌṭi
+yesterday: saːʌtik
+yesterday: saːṭik
+yesterday: saṭik
+yesterday: sʌbuːr
+yes: ʌwa
+yes: ʌwa
+you: ma
+you: ma
+you: ma
+you: ma
+you: ma
+you: maː
+you: ma(m)

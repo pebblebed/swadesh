@@ -1,0 +1,96 @@
+all: tu
+ashes: lasãn
+bark: lekors
+belly: vãt
+big: grã
+bird: zozo
+bird: zwazo
+bite: mord∼morde
+black: nwar
+blood: disã
+bone: lezo
+breast: tete
+burn: brile
+cloud: niaz
+come: vini∼vin
+die: mor
+dog: lisiẽ
+drink: buar
+earth: later
+ear: zorej
+eat: mãze ∼ mãz
+egg: dizef
+eye: lizie
+fat (n.): lagres
+feather: plim
+fire: dife
+fish: posõ
+fish: puasõ
+fly (v.): ãvole
+foot: lipie
+give: dõne ∼ dõn
+green: ver
+hair: seve
+hand: lamẽ
+head: latet
+hear: tãde ∼ tãn
+heart: leker
+horn: korn
+I: mo
+I: mua
+kill: tuje ∼ tuj
+knee: zunu/zenu
+know: kõne ∼ kõn
+leaf: fej
+leg: lipie
+lie: tale
+liver: lifua
+long: lõng
+louse: lipu
+many: buku
+man: zõm
+moon: lalin
+mountain: mõtañ
+mouth: labus
+neck: liku
+night: lanuit
+nose: nene
+not: napa
+not: pa
+one: en
+person: dimun
+rain: lapli
+red: ruz
+root: rasin
+sand: disab
+say: dir
+seed: semãs
+see: gete ∼ get
+see: truve ∼ truv
+sit: asize ∼ asiz
+skin: lapo
+sleep: dormi
+small: piti, ti
+stand: dibute ∼ dibut
+star: zetwal
+stone: ros
+sun: solej
+swim: naze
+tail: lake
+that: sa
+this: sa
+thou: to
+thou: tua ∼ ta
+tongue: lalãng
+tooth: ledã
+tree: pie dibua
+two: de
+walk: marse
+warm: so
+water: dilo
+we: nu
+what: ki sisa
+white: blã
+who: ki sen nã
+woman: fãm
+yellow: zon

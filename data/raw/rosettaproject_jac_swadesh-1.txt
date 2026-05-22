@@ -1,0 +1,144 @@
+all:  sunil
+ashes:  taŋ
+bark:  tz\umal
+big:  nim
+bird:  ch\ic
+bite:  chichiwa
+black:  q\uej
+blood:  chiquil
+blow:  xu
+bone:  b\aj
+breast:  im
+burn:  tz\ay
+child:  nich\an unin
+cloud:  moyan
+cold:  chew
+come:  ul
+cut:  tzo
+day:  tz\ayic
+die:  cam
+dig:  pulil
+dog:  mech  tx\i\
+drink:  uk
+dry:  taj
+dust:  pu·j
+earth:  tx\otx\
+ear:  txiquin
+eat:  wa\
+egg:  hos
+eye:  b\ak sat
+fall:  pul
+far:  nahata
+fat (n.):  manteca
+fear:  chixiw naj
+feather:  xil
+fingernail:  yiskaje
+fire:  k\a\
+fish:  cay
+five: ho
+fly (v.):  pur
+fog:  moyan
+foot:  oj
+four:  caŋ
+fruit:  lob\al
+full:  nohnaj
+give:  ak
+good:  c\ul
+green:  yax
+hair:  xil
+hand:  k\ab\
+head:  wi\
+heart:  anma
+hear:  wab\e
+heavy:  al
+here:  b\ey ti\
+hit:  tiŋ
+horn:  yuc\a
+how?:  tzet
+husband:  yichamil ix
+I:  haninan
+kill:  b\itza
+knee:  witx\i\
+know:  wohtajoj
+lake:  niman  ha\
+laugh:  chitzetb\i naj
+leaf:  xaj
+left: mec
+lie: hil
+liver:  sasip
+long:  nahata
+louse:  uc\
+man:  naj
+meat:  chib\e
+moon:  ix ahaw
+mountain:  witz
+mouth:  ti\
+name:  b\i
+near:  cawil
+neck:  nuk
+new:  ac\
+night:  ak\b\alil
+nose:  txam
+one: hun
+other:  hunxa
+person:  b\e
+pull:  ŋic\
+rain:  ŋap
+red:  caj
+right:  watx\
+river:  niman ha\
+road:  b\e
+root:  xe\
+rope:  tx\aŋ lasu
+rope:  ux\aŋ
+rotten:  k\anaj xa
+round:  pet
+sand: arena
+say:  al
+seed:  iŋat
+see: il
+sing:  b\itni
+sit: pis
+skin:  tz\umal
+sleep:  way
+smell:  niẍtej
+smoke:  ŋup
+stab:  tok
+stand:  liŋ
+star:  tx\umel
+stone:  ch\en
+stone:  cya\
+suck:  tz\ub\aŋ
+sun:  tz\ayic
+swell:  chimali
+swim:  in maknihan ha\
+tail:  ŋe
+that:  tu\
+there:  b\ey tu\
+thick: pim
+thin:  xa·äj
+this:  ti\
+thou:  hach
+tongue:  ak
+tooth: e
+tooth:  tx\ab\al
+tree:  k\eptaj
+two:  cap
+walk:  b\el
+warm:  k\aẍ
+wash:  tx\ah
+wash:  tx\ah
+water:  ha\
+we:  haŋoŋaŋ
+wet:  chac\
+what:  tzet
+when?:  b\akin
+where?:  b\au
+white:  saj
+who:  mac
+wife:  yixal naj
+woman:  ix
+woman:  k\opo
+year:  hab\il
+ye:  heẍ
+yellow:  k\an

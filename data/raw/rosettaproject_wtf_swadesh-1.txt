@@ -1,0 +1,449 @@
+all: ëte
+all: ʌtɛ
+arm: pa
+arm: pa
+arrow: uplɔŋ
+ashes: kuwu
+ashes: kuwu
+back: ibisu
+back: ibisu
+bad: dadap
+bad: dadap
+bad: miteti
+bad: miteti
+belly: sësin
+belly: songgam
+belly: soŋgam
+belly: sʌsin
+big: atuat
+big: atuat
+big: ulom
+big: ulɔm
+bird: i:ni
+bird: iːni
+bite: pri-
+bite: pri-
+black: gezobo
+black: gezɔbo
+blood: kaka
+blood: kaka
+blood: ŋgʌ
+blood: nggë
+blow: fu-
+blow: fu-
+bone: isu
+bone: isu
+boy: werigi
+boy: wɛrigi
+breast: an
+breast: an
+brother: ai
+brother: ai
+brother: nim
+brother: nim
+burn: rifan-
+burn: rifan-
+butterfly: sresre
+butterfly: srɛsrɛ
+calf: konono
+calf: kʰonono
+cassowary: kisere
+chest: mudusu
+chest: mudusu
+child: we:n
+child: wɛːn
+chin: mekngen
+chin: mɛkŋɛn
+cloud: yu
+cloud: yu
+cold: irinop
+cold: irinɔp
+cold: somgu
+cold: somgu
+come: fëku-
+come: φʌku-
+crocodile: yau
+crocodile: yau
+cut: san-
+cut: san-
+cut: san-
+cut: san-
+day: s omop
+day: s ɔmop
+die: kum-
+die: kum-
+dig: ge-
+dig: ge-
+dig: ra-
+dig: ra-
+dirty: nung.ngu
+dirty: nuŋŋu
+dog: ësum
+dog: ʌsum
+dry: gra-
+dry: gra-
+ear: këun
+ear: kʌun
+ear: kur
+ear: kur
+earth: kete
+earth: kɛte
+eat: na-
+eat: na-
+eat: ninggud-
+egg: rong
+egg: roŋ
+elbow: buru
+elbow: buru
+emu: kisɛre
+excrement: sipi
+eye: yem
+eye: yem
+face: man
+face: man
+fall: budu g-
+fall: budu g-
+fall: san-
+far: igiribo
+father: au
+father: au
+fat (n.): yeng
+fat (n.): yɛŋ
+fear: nggudi-
+fear: ŋgudi-
+fight: fɛr-
+fingernail: tri
+fingernail: trri
+finger: pakëu
+finger: pakʌu
+fire: fe
+fire: midi
+fire: φe
+fish: kuni
+fish: kuni
+fly (n.): kwanggen
+fly (n.): kwaŋgɛn
+fly (v.): pi- na-
+fly (v.): pi- na-
+fog: sugum
+fog: sugum
+forehead: man
+forest: tumu
+forest: tumu
+fruit: long
+full: kerega-
+full: kerega-
+full: kun-
+full: kun-
+girl: fan tomum
+girl: we fan
+girl: wɛ φan
+girl: φan tomum
+give: sira ri-
+give: sira ri-
+good: anibu
+good: anibu
+grass: yoruk
+green: nugi
+green: nugi
+guts: songgam
+guts: soŋgam
+hair: udu
+hair: udu
+head: kwësu
+head: kwʌsu
+head: tigri
+heart: munu
+heart: munu
+heart: wisis
+heart: wisis
+hear: wa sa-
+hear: wa sa-
+heavy: ifitow
+heavy: ifitow
+here: ame
+here: ame
+here: gase
+he/she: ëngge
+he/she: ʌŋge
+he/she: ʌŋge
+he/she: nu
+he/she: nu
+he/she: nu
+he/she: nu-
+he/she: nu-
+he/she: nu-
+he/she: -ø-
+hit: fer-
+hit: fer-
+hold: ba-
+hold: ba-
+house: ut
+house: utʰ
+how: gazigi
+ice: loŋ
+I: i
+I: i-
+I: i-
+I: -ini
+I: -ini-
+I: iyi
+I: i(yi)
+in: gam
+kill: ø-
+knee: buru
+knee: buru
+laugh: kate ke-
+laugh: kate ke-
+left: pete
+left: pete
+leg: keuw
+leg: kɛuw
+liver: gluglu
+liver: gluglu
+liver: nggam
+liver: ŋgam
+long: urëu
+long: urʌu
+louse: mi
+louse: mi
+man: kume
+man: kumɛ
+man: sëm
+man: sʌm
+man: sumut
+man: sumut
+many: ë:tu
+many: patipati
+many: patipati
+many: ʌːtu
+meat: konono
+meat: konono
+meat: nebig
+meat: nɛbig
+moon: esi
+moon: esi
+morning: së pena
+morning: sʌ pena
+morning: watene
+morning: watene
+mosquito: keneng
+mosquito: kenɛŋ
+mother: abu
+mother: abu
+mountain: tangger
+mountain: taŋgɛr
+mouth: së:n
+mouth: sʌːn
+name: nepi
+name: nepi
+nape: sisiki
+nape: sɪsɪki
+navel: sunu
+navel: sunu
+near: mudubo
+neck: yapsaga
+neck: yapsaga
+new: ëm
+new: ʌm
+night: s u:m
+night: s uːm
+nose: kumol
+not: kwese
+not: kwesɛ
+old: onɛ
+old: one/wene
+old: opulʌ
+old: opulë
+old: wɛnɛ
+one: ët
+one: ʌtʰ
+pull: bare fa-
+pull: barɛ fa-
+push: paya kan-
+push: paya kan-
+rain: yʌ
+rain: yë
+rat: dum
+rat: dum
+red: gʌ
+red: gë
+right: sedɛŋgʌ
+right: sedenggë
+ripe: o:bo
+ripe: oːbo
+road: sege
+road: sɛgɛ
+root: gini
+root: gini
+rope: kisi
+salt: sike
+salt: sike
+sand: munini
+sand: munini
+sand: yaudu-bo
+say: wa-
+say: wa-
+say: wa-
+scratch: kri-
+scratch: kri-
+sea: yaudu
+sea: yaudu
+see: em(i)-
+see: ɛm(i)-
+see: ɛm(i)-
+sharp: fat-
+sharp: me:grom
+sharp: mɛːgrom
+short: notubo
+short: nɔtubɔ
+shoulder: kiɲɛn
+shoulder: kifo
+shoulder: kinyen
+shoulder: kiφo
+sing: mu rag-
+sister: wenf n
+sister: wɛnφən
+sit: piki-
+sit: piki-
+skin: midi
+skin: midi
+skin: nggeri
+skin: ....ŋgeri
+sky: anggopu
+sky: aŋgopu
+sleep: kini-
+sleep: kini-
+small: eiteri
+small: eitɛri
+smell: kwe sa-
+smoke: fugu
+smoke: kusgu
+smoke: kusgu
+smoke: φugu
+snake: gwekin
+snake: gwekin
+snake: në:n
+snake: nʌːn
+spit: kurukau-
+spit: son
+spit: son
+split: fifan-
+split: fifan-
+stand: sira-
+stand: tegi-
+stand: tɛgi-
+star: gʌa
+star: gëa
+stick: puku
+stone: mun
+stone: mun
+straight: seta a
+straight: seta a
+sun: e:si
+sun: ɛːsi
+swell: fururug-
+tail: sibi tunu
+tail: sibi tunu
+take: ra-
+take: ra-
+there: sesi
+there: sesi
+they: ni
+they: ni
+they: ni-
+they: ni-
+they: -rat-
+they: -rat-
+thigh: nggëm
+thigh: ŋgʌm
+this: ame
+this: ame
+thou: -nan-
+thou: -nan-
+thou: ne
+thou: ne
+thou: ne-
+thou: ne-
+thou: -rat-
+thou: se
+thou: se-
+throat: kurugru
+throat: kurugru
+throw: fra gan-
+throw: fra gan-
+tie: barig-
+tie: barig-
+tomorrow: litu
+tomorrow: litu
+tomorrow: sëpa
+tongue: sënumun
+tongue: sʌnʷun
+tooth: mek
+tooth: mɛkʰ
+tree: luku
+tree: ʌːŋk
+tree: yen
+tree: yɛn
+turn: ifuru ga-
+turn: ifuru ga-
+two: ona
+two: ona
+vagina: simi
+vagina: simi
+walk: kënu-
+walk: kënu-
+walk: kʌnu-
+walk: kʌnu-
+wallaby: gopi
+wallaby: gopi
+warm: fe-
+warm: fe-
+wash: ya fri-
+wash: ya fri-
+wash: ya fri-
+wash: ya fri-
+water: yʌ
+water: yë
+weep: kwi-
+weep: kwi-
+we: si
+we: si
+we: si-
+we: si-
+we: -sit-
+we: -sit-
+wet: kurgu
+wet: kurgu
+what: man(ay)
+what: man(ay)
+where: egie
+where: ɛgiɛ
+white: korgu
+white: korgu
+who: nanggi(me)
+who: naŋgi(me)
+who: neme
+who: neme
+wind: seke
+wind: sekɛ
+wing: pawe
+wing: pawɛ
+woman: fan
+woman: hën
+woman: hena
+woman: hʌn
+woman: φanm hɛna
+wood: pepotow
+wood: pepotow
+wood: puku
+yellow: kururu
+yellow: kururu
+yes: owe
+yes: ɔwɛ
+yesterday: kwe
+yesterday: kwe
+yesterday: o:nu
+you: -rat-
+you: se
+you: se-

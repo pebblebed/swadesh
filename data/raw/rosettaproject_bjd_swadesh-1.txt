@@ -1,0 +1,162 @@
+arm: d̪uḍi
+arm: maṇgu
+arm: waɲi
+arm: waŋgara
+ashes: muru
+bad: d̪uḷa-minda
+bad: wandali
+big: ŋari-ŋara
+bite: d̪aɟa-
+blood: gaːndara
+brother: baḷuɟa
+child: baḷu
+child: biːbi
+claw: miliɲa
+cold: bandiɲa
+daughter: wimbara
+die: malbu
+dig: bangu-
+dig: d̪ugu-
+ear: maŋa
+eat: d̪ayi
+egg: baḍi
+emu: guʎaruba
+emu: yaraːndaɟa
+fall: yaːga-
+far: bariɟi
+feather: n̪iribudu
+fight: bada
+fingernail: miliɲa
+full: munɟi
+good: gaɟaḷga ~ ganɟaḷga
+green: n̪umba
+hear: baːrayi-
+hear: baːri-
+here: id̪i
+here: id̪i
+here: id̪u
+he/she: ŋad̪u
+he/she: ŋad̪u
+he/she: ŋad̪u
+he/she: ŋan̪a
+he/she: ŋan̪a
+he/she: ŋan̪a
+hit: balga
+hole: wuli
+husband: ŋaṇba
+I: ŋaːba
+I: ŋaːba
+I: ŋaːba
+I: ŋaːd̪u
+I: ŋaːd̪u
+I: ŋaːd̪u
+I: ŋaːn̪a
+I: ŋaːn̪a
+I: ŋaːn̪a
+I: ŋan̪a
+I: ŋan̪a
+I: ŋari
+leaf: baga
+many: ŋulard̪i
+many: ŋularɟi
+mosquito: ŋundi
+name: miːɟi
+new: d̪ada
+old: wiḍu baɹ̣aga
+old: wiḍumbaga
+play: wimi-
+red: guḍi
+right: wangara
+river: banɟi
+river: banɟi
+root: yuŋa
+rub: n̪urba-
+scratch: maɹ̣a-malga-
+see: bami
+sister: baḷuɟa
+sister: warigi
+sit: n̪aŋga-
+sit: n̪iːŋga
+skin: yuṇi
+sky: galgara
+small: gaɟala
+small: mad̪u
+stone: gaṇa
+stone: yaṇḍa
+stone: yaṇḍa
+sweet: n̪umuːli
+take: gaṇma-
+that: ŋan̪a
+that: ŋan̪a
+that: ŋan̪a
+there: ŋan̪a
+there: ŋan̪a
+there: ŋan̪a
+they: ŋadi
+they two: ŋad̪uːlu
+thick: d̪unɟuga
+this: id̪i
+this: id̪i
+this: id̪u
+thou: ŋimba
+thou: ŋimba
+thou: ŋimba
+thou: ŋindu
+thou: ŋindu
+thou: ŋindu
+thou: ŋuḍa
+thou: ŋuḍa
+thou: ŋuḍa
+thou: ŋuḍana
+thou: ŋuḍana
+thou: ŋuḍana
+thou: ŋuḍana
+thou: ŋuḍana
+thou: ŋuḍana
+thou: ŋuma
+thou: ŋuma
+thou: ŋuma
+throw: malba
+two: bula
+walk: d̪aṇi-
+walk: d̪aṇi-
+wallaby: mariɲa
+water: d̪ilburu
+water: d̪ilburu
+we (incl.): ŋina
+we (incl.): ŋina
+we (incl.): ŋina
+we: ŋinana
+we: ŋinana
+we: ŋinana
+we: ŋinana
+we: ŋinana
+we: ŋinana
+we two (incl.): ŋali
+we two (incl.): ŋali
+we two (incl.): ŋali
+we two (incl.): ŋalina
+we two (incl.): ŋalina
+we two (incl.): ŋalina
+white: bud̪a
+who: winɟiːga
+wing: d̪uḍi
+woman: baɹ̣aga
+you two: ŋuba
+you two: ŋuba
+you two: ŋuba
+you two: ŋubana
+you two: ŋubana
+you two: ŋubana
+you two: ŋubana
+you two: ŋubana
+you two: ŋubana
+you two: ŋubu
+you two: ŋubu
+you two: ŋubu
+you two: ŋubuna
+you two: ŋubuna
+you two: ŋubuna
+you two: ŋubuna
+you two: ŋubuna
+you two: ŋubuna

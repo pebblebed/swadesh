@@ -1,0 +1,211 @@
+all: namotali
+all: namotali
+all: namotáli
+ashes: saka͂
+ashes: saka͂
+ashes: sákánh
+back: kiring kákò
+back: kirɪŋ kako
+back: kirɪŋ kako
+bad: nime:sí
+bad: nɪmɛsi
+bad: nɪmɛsi
+bark: ki
+bark: ki
+bark: kí
+belly: ang
+belly: aŋg
+belly: aŋg
+big: außi
+big: außi
+big: auvi
+bird: o
+bird: o
+bird: o
+bite: kɛrɛnɛ pota
+bite: kɛrɛnɛ pota
+bite: keréne póta
+black: sɪhe
+black: sɪhe
+black: sihe
+black: tomo
+black: tomo
+black: tómo
+blood: ha
+blood: ha͂
+blood: ha͂
+bone: káko~
+bone: káko~
+bone: kákò
+breast: kó kako~
+breast: kó kako~
+breast: kó kakò
+burn: sa: beiné\
+burn: sa bɛinɛ́ʔ
+child: səra
+child: səra
+child: sora
+claw: obo-kákò
+claw: wabá
+claw: wabá
+cloud: déifã
+cloud: dɛiφa͂
+cloud: dɛiφa͂
+cold: tiõ
+cold: ti͂ɔ
+cold: ti͂ɔ
+come: keguméri
+come: kɛgum ɛri
+come: kɛgum ɛri
+die: kɛɟanə
+die: kejáno
+dog: sé
+dog: sé
+dog: sé
+drink: mieméne
+drink: miɛmɛnɛ
+drink: miɛmɛnɛ
+dry: sa píʔ
+dry: sa:pí\
+ear: kóro
+ear: kɔro
+ear: kɔro
+earth: kəre
+earth: kəre
+earth: kəre
+earth: koré
+earth: koré
+eat: kené
+eat: kɛnɛ
+eat: kɛnɛ
+egg: hoséri
+egg: hosɛri
+egg: hosɛri
+eye: inserit
+eye: ɪ͂sɛrit
+fat (n.): ̞masəta
+fat (n.): masofá
+fire: sa
+fire: sá
+fly (v.): ho kei isibëre
+foot: tipɛ pa
+foot: tipe:pá
+full: soka
+full: so:ka
+give: taməko
+give: tamëkó
+good: sénge
+good: sɛŋgɛ
+green: usu ɟɛbɛr
+green: usu jébër
+hair: potoi
+hair: potoi
+hand: we
+hand: wɛ
+head: potó
+head: potɔ
+hear: pikinevie
+hear: pikɪnɛßiɛ
+heart: kiretíne
+heart: kirɛtinɛ
+I: na
+I: nõ
+kill: oreka
+kill: oréka
+knee: aimo
+knee: aimó
+know: towái
+know: towal
+liver: ikuimine
+liver: ikuiminɛ
+long: jubõ
+long: ǯubo͂
+louse: mi
+louse: mi
+man: nimiréka
+meat: pou
+meat: pou
+moon: paka
+moon: paka
+mountain: ko͂
+mountain: kõ
+name: moro
+name: morɔ
+navel: a͂krəkri
+navel: ángkrëki
+night: tomo
+night: tomo
+nose: moro kákò
+not: ehɛ͂
+not: ehénh
+one: korafé
+one: koraφɛ
+person: nimiréka
+person: nɪmɪrɛka
+rain: soasi
+rain: soasí
+ripe: pe͂
+ripe: penh
+river: biɛ
+river: bie-nentu
+road: kemoró
+road: kɛmɔrɔ
+root: pərɪsi
+root: porísi
+rope: po
+rope: po
+sand: rití
+sand: rɪti
+say: sie
+say: siɛ
+seed: tiwiɟe
+seed: tíwije
+see: nɛka
+see: neká
+short: soe
+short: soɛ
+shoulder: tsu
+shoulder: tsu
+sit: ruido
+sit: ruido
+sky: nubʊ
+sky: nubu
+sleep: kelrio
+sleep: kɛlrio
+smoke: sawi
+smoke: sa:-wi
+stand: ketrúidora
+stand: kɛtruidɔrɛ
+star: eme
+star: ɛmɛ
+stone: naka
+stone: náka
+sun: ené\
+sun: ɛnɛʔ
+tail: uiɟe
+tail: uijé
+thou: ené
+thou: ɛnɛ
+tongue: peré
+tongue: pɛrɛ
+tooth: peki
+tooth: pɛki
+tree: tindi
+tree: tindi
+two: tau
+two: tau
+unripe: usu ɟɛbɛr
+walk: kedo
+warm: pɔbu
+warm: pobú
+water: bie
+water: biɛ
+we: wene
+we: wɛnɛ
+what: kosaré
+what: kosarɛ
+white: keré
+who: koró
+who: kɔrɔ
+woman: dimokásia
+woman: dɪmɔkasia

@@ -1,0 +1,322 @@
+all: ɑrdiːrɛ
+all: ɑrdiːrɛ
+and: iːti lɑnyɛ
+and: iːti lɑnyɛ
+and: to bene
+arm: miːrikiːt
+arm: miːrikiːt
+arrow: lə-dʌ
+arrow: lə-dʌ
+arrow: pɛlʌ-dʌ
+arrow: pɛlʌ-dʌ
+arrow: pokt-dʌ
+arrow: pokt-dʌ
+arrow: tɔ kɛt-dʌ
+arrow: tɔ kɛt-dʌ
+ashes: ɒŋ yiːrbile
+ashes: ɒŋ yiːrbile
+back: mɑr kɛte kurub
+bad: ʌb kɑdʌ
+bad: ʌb kɑdʌ
+bark: ote kʌit-dʌ
+bark: ote kʌit-dʌ
+belly: cut-te
+belly: cut-te
+belly: mʌb cute
+big: durngʌ
+big: durngʌ
+bird: tʌm it tɛp
+bird: tʌm it tɛp
+bite: oŋ ab pɛkan
+bite: oŋ ab pɛkan
+black: iːr diːrim
+black: iːr diːrim
+blood: ʌb tɛwʌlʌŋ ɑrtu
+blood: tɛ-wʌ
+blood: tɛ-wʌ
+blow: iːr powe
+blow: iːr powe
+bone: tɑ-dʌ
+bone: tɑ-dʌ
+boy: ɑb tiːrɛ
+boy: ɑb tiːrɛ
+branch: tɑɒkʌl lote dɛde-bɑ
+branch: tɑɒkʌl lote dɛde-bɑ
+breast: iːrkʌm-dʌ
+breast: iːrkʌm-dʌ
+breathe: ɛŋ it ce
+breathe: ɛŋ it ce
+brother: ɑr culu tu
+brother: ɑr culu tu
+burn: cu kʌn
+butterfly: bɑmilʌ-dʌ
+butterfly: bɑmilʌ-dʌ
+calf: mɑp tɔ
+calf: mɑp tɔ
+calf: mɑp tɔ
+cheek: iːr kɑp
+cheek: iːr kɑp
+chest: pɑ-dʌ
+chest: pɑ-dʌ
+child: ʌb tiːrɛ
+child: dɛl
+child: dɛl
+chin: mɒi-tɛp
+chin: mɒi-tɛp
+cloud: lɛ mʌr
+cloud: lɛ mʌr
+cold: tɛrem-dʌ
+cold: tɛrem-dʌ
+come: iːye kʌn
+come: iːye kʌn
+count: ɑr lɒp kʌn
+count: ɑr lɒp kʌn
+cut: ʌb rɛukʌn
+cut: ɑ piːlɑŋ kʌn
+cut: ɑ piːlɑŋ kʌn
+cut: ɑr to kʌn
+cut: ɑr to kʌn
+cut: tɛet kʌn
+dark: tiː liːr diːrik
+dark: tiː liːr diːrik
+daughter: dɛl
+daughter: dɛl
+day: pu-ten
+die: oŋ ɒmpiːl
+die: oŋɒm piːl kʌn
+die: oŋɒm piːl kʌn
+dig: ʌbugel kʌn
+dig: puŋ kʌn
+dig: puŋ kʌn
+dirty: loti
+dirty: loti
+dog: biːbiː-dʌ
+dog: biːbiː-dʌ
+drink: pʌi kʌn
+drink: pʌi kʌn
+dry: kiː nɛrŋʌ
+ear: iːr bo-dʌ
+ear: iːr bo-dʌ
+earth: pɛr-dʌ
+earth: pɛr-dʌ
+eat: tɑme
+eat: tɑme
+egg: mula
+egg: mula
+egg: tɛlem dʌ
+eye: iːr kɑ dig
+face: miːrmiːkɛ
+fall: oŋ bodɒkʌn
+far: tiːlɑr wiː ke
+father: tɑ le
+fat (n.): ciːre
+fear: lɑt kʌn
+feather: iːr tɑcʌ
+few: kɛtʌwʌ-dʌ
+fight: ɒm poc ce
+finger: kutur-dʌ
+fingernail: pute
+finger: oŋ puter
+fire: ɑht-dʌ
+fire: iːr piːper
+fire: kərɒ
+fish: tʌi iː ʌ
+flower: wɑrʌ-dʌ
+flow: ɑr tu kʌn
+fly (n.): pumit
+fly (v.): iːr imtʌi ca
+fog: puliʌ-dʌ
+foot: oŋ-tɑ
+forest: tiːwʌtɑkʌn
+fruit: ot ter tɑ-dʌ
+full: ɒtte tɑ ke
+girl: ʌb kiːcik-dʌ
+give: endɑ kʌn
+good: ʌb-dɛm
+grass: cɛmʌl-dʌ
+green: bit-dʌ
+hair: otɒpʌič-dʌ
+hand: ɒŋ-to-dʌ
+hand: ʌn korɒ-dʌ
+hand: noŋ kʌilʌm
+head: ote tɑ-dʌ
+hear: ɛ biːŋe
+hear: ɛ biŋʌ kʌn
+heavy: iːni-dʌ
+here: iːnɛ
+he/she: iːʌ dɛle
+he/she: iːʌ dɛle
+he/she: iːʌ dɛle
+he/she: kitɛ
+he/she: olʌ
+hit: ʌb pɑrʌci kʌn
+hole: o ɟɑg-dʌ
+horn: ot wulu tɑ
+how: tʌice tʌimiː
+hunt: cɛ iːkʌn
+hunt: tɛleŋʌm
+husband: ʌb kɑrɒ-dʌ
+in: ʌn
+I: tiːe
+I: tulʌ
+jaw: mo tɛip-dʌ
+kill: ɑ pɒicu kʌn
+knee: lu-dʌ
+know: ʌb kod kʌn
+lake: iːr pɒŋ
+laugh: wukeke
+leaf: cʌi
+left: miːr koriː-dʌ
+leg: mɑr cɑg
+lie: oŋ bɑlʌgɑ kʌn
+lightning: wɑl
+lip: pɛ-dʌ
+live: ɛr kɑtɒ kʌn
+long: ɑb lɔtiː
+long: lɔti
+louse: cʌŋtɑtʌ
+louse: kɛlʌ
+man: ʌb kɑrʌ
+man: ʌb kɑrʌ-dʌ
+many: pote pʌi ke
+meat: tomʌ-dʌ
+meat: tomʌ-dʌ
+moon: pukiː
+morning: tiːwiː liːr wokɑlʌt
+morning: tɑ wo
+mosquito: tɛil
+mother: iːn
+mountain: burin-dʌ
+mountain: burin-dʌ
+mouth: to poŋ
+name: ɛ liːwɒ
+narrow: tiwe kɛtiʌ
+navel: mʌp tɛr
+near: cote
+neck: ɒte loŋɒ
+new: ʌb co kʌn
+new: kuiː
+night: pɑtiː-dʌ
+night: tɑ tiri
+not: pɒi-e
+old: ɑr tɑm
+one: luŋiː
+one: otʌm tɑ cowi
+person: nule
+play: iːr im kole
+pull: iːr tɛnʌ kʌn
+rain: lɛke
+rain: lɛkeke oŋ bo-dʌ
+rat: kɛtu
+rat: kɛtu
+red: cɛtɑ
+right: miːr piːtiː
+ripe: oŋ bɑ
+river: diːnʌ
+road: luk-dʌ
+root: ɑr cok-dʌ
+rope: bɛtmɒ-dʌ
+rotten: oŋtɑpʌ
+round: ɑr kor-dʌ
+rub: cot kʌn
+salt: tʌiiː
+sand: tɔwer
+say: o wɑr kʌn
+say: o wɑr kʌn
+scratch: ɑb ŋot kʌn
+scratch: ote por kʌn
+sea: cirɛ
+seed: iːr ule
+see: ɛr tiː lu
+see: iːr tiːlu kʌn
+sew: cɒt kʌn
+sew: mɑr kʌn
+sharp: iːr rɛtʌ
+short: ote dɛdʌbɑ
+shoulder: mɑ bɛn-dʌ
+shoulder: mʌ kwɒpiː
+sing: ɟiːɒ cərɒ kʌn
+sister: ɑr culutu
+sit: ote liːtiː kʌn
+skin: ote kʌič
+sky: lɛmer
+sleep: moliː kʌn
+small: kɛtʌwʌ
+smell: copɒ
+smoke: lɛb
+smooth: ote liŋeriː
+snake: -cupe
+son: dɛl
+sour: miːrmɑ
+spit: kutʌk
+spit: tɛlɛpo
+split: o kɑte pʌl kʌn
+squeeze: tuŋ bɑtɛ otum bɑt
+stand: cɛ kʌr
+star: kʌicen
+stone: mɛ-dʌ
+straight: tole dɛm
+suck: kɑmenɛ kʌn
+suck: pʌi kʌn
+sun: oute
+sweet: kɒič ci
+swell: pɛten
+swim: ɑtʌ kʌn
+tail: ɑr cɑlim
+take: diː kʌn
+take: tɑp-kɛ
+that: kuic
+they: iːye
+thick: mu kʌn
+thin: i¾r tɑriː
+think: tiːwu-kot
+this: iːte
+this: iːte
+thorn: iːrcɛ
+thorn: iːrtɑtʌ
+thou: ŋiːe
+thou: ŋulʌ
+thou: ŋule
+throat: o ɛnɑ nurum
+throw: ɛte tɒiiː kʌn
+thunder: bɛrʌ kʌn
+tie: o cɑ kʌn
+tomorrow: wo poiʌ
+tongue: otɑtel
+tooth: mɒ pɛlɑ
+tooth: piːlɑ ule
+tree: o toŋ-dʌ
+turn: otʌm kʌitek
+two: iːr pol
+unripe: dop
+vagina: ɑr tɛlʌŋ
+vomit: om kue
+walk: ciːd kʌn
+walk: coleke
+walk: kuiː kʌn
+walk: kuiːrɑ kʌn
+walk: tɑpʌl kʌn
+walk: unʌ kʌn
+warm: wiːrewʌk
+warm: wiːriːwʌk
+wash: ŋɒin cɑt kʌn
+water: ɛnɑ
+weep: biːlʌp kʌm
+we: mule
+we: mule
+we: tiː-ye
+wet: ot ɛnɑ
+what: mɑ-dʌ
+when: tʌiceiniː
+where: iːlɛ
+white: pomer
+who: mɛcele
+wide: tiːwe durŋʌ
+wife: ɑbob
+wind: pɑte
+wipe: tiːwu loːtɒrɑr
+with: bʌicen
+woman: ɑbob
+woman: ɑb ob
+wood: tɑkel
+wood: tɑkil

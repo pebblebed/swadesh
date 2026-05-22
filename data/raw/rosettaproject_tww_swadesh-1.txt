@@ -1,0 +1,162 @@
+all: kopulo alɛ
+arrow: heani
+ashes: (ni) sapu
+back: hɛpaʔaʲ
+bad: kokoalo
+bark: miɛ ɛφɛ
+belly: sɪsomo
+belly: tifë (lowe)
+big: ɔ kɛli
+bird: ɔpɔ ~ apɔ
+black: toʷɛli
+blood: nɛmɛsi
+bone: haʲolu
+boy: hɛpitia
+breast: apɔlɔ
+brother: awa
+brother: owa
+burn: nehɔmɔ
+child: pɛlɛʔale
+chin: tatɔ
+claw: (hɛl) sɔʔɔφia
+cloud: sɛli sɛ
+cold: nɛmɛli
+come: φɛla male
+crocodile: sinapi
+cut: otawi
+day: kesi hɔlɔ
+die: φali waφalɔ
+dog: haʲɔ
+drink: asei ɔwɔ
+dry: honowalowɔ
+earth: si
+ear: wasi aʔi
+eat: te a
+egg: oφu
+elbow: yɛnapaʔalo
+emu: ɔpɔ neisi
+eye: nɔmɔ
+fall: motɔʔɔ ulɔ
+far: nɛpia
+father: ita
+fat (n.): wau
+feather: (apɔ) i
+finger: motou
+fire: ni
+fish: haʔɔ
+five: sɛnɛalɛteɔ
+fly (v.): ɔpɔ ɔ mɔluni
+foot: hɛlɛ
+foot: hetro
+forehead: (tɛ) nɛaʲɛ
+four: saʔanami
+full: tɔlɔ͂ tɔlɔlɔ͂
+girl: wolɛseʲ
+give: tɛnia
+good: pisalo
+green: me yɔʔɔle
+hair: e
+hair: ti apɛ
+hand: uani
+head: ti pɔi
+hear: tiaφaφe
+heart: φɛni
+heavy: awɛli lɔ
+he/she: tomawe
+hit: φaʲφaʷ
+hold: tɛnɛ ke
+house: ɔ
+I: ali
+kill: φaʲote lɔʷa
+knee: hɛlipaʔalo
+knee: he pa\aru
+know: taφɛli mue
+laugh: e hɛlɛhiɔ
+leaf: noφuwa
+leg: hɛlɛ
+leg: hetro
+lie: soloʷ
+liver: nɔʷɛ
+long: kɛli a
+louse: naʔalɔ
+man: tɔ
+many: waʔaʲsiφine
+meat: no
+moon: sɪlia
+morning: tɔʷɔ
+mosquito: howa
+mother: ana
+mountain: konoφu
+mouth: taʔaʲ
+name: hei
+neck: ti hoʲ
+new: loloalɛ
+night: teßi
+not: uweyo
+old: pɛtɛi
+old: sɪsɔhonowa
+old: tohonowa
+one: motou
+rain: somɔʔɔ
+rat: mameha
+red: nɛmɛsili
+river: ukɛli
+road: ɛφɛ
+root: (mi) na
+round: waulale
+salt: mɛφia
+sand: upasi
+say: tɛmali
+seed: mi sei
+short: tia
+shoulder: yɛnisɔ
+sister: awatoφo
+sit: simati ya
+skin: ɛφɛ
+small: ha
+smoke: (ni) nawi
+snake: ɔʷ
+spit: tiaφɔ
+stand: u totoφu
+star: sɛlɛmaʲya
+stone: φu
+sun: tani
+swim: wolohei
+tail: (mami-)nɛ
+take: tɛnɛ ke
+that: nepia
+they: sɛlɛyowaʲo
+they two: komaʔale
+think: yahale mina
+this: sisɔ
+thou: tɛmɛ
+thou: te ɔlɔ
+three: tɔwɛle
+tomorrow: hɔto usɔ
+tongue: taʔa aʷ
+tooth: nɛφɛ
+tree: mi
+two: potonami
+vomit: hɛbhɛlu
+walk: ɛφe yɔ
+walk: haφe neʲ
+wallaby: wasino
+warm: hɛlɛli
+water: u
+we (excl.): te aʲo
+wet: ɔposɪli
+we two (excl.): take
+what: mi nasinɔ
+when: sonɔ soinɔ
+where: ɔpɔso nasoinɔ
+white: ɔlowa
+white: waho\ore
+who: ma aweinɔ
+wind: nemɛli
+wing: (apɔ) mei
+woman: sɛsɔ
+wood: me ɔ͂
+yellow: napumaʲ
+yesterday: hɔto usɔ
+yes: yɔ
+you two: ɛleʲ

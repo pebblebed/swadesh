@@ -1,0 +1,261 @@
+arm: tana-afu
+arm: tana\afu
+arm: tana\afu
+at: gau
+at: isi
+bad: noko-rau
+belly: atu-bére
+belly: atubɛrɛ
+big: bɛrɛkama
+big: bɛrɛkama
+big: berekáma
+bird: asa
+bird: asa
+bird: asa
+bite: tio
+black: meta
+black: mɛta
+black: mɛta
+boy: mata(koi)
+branch: ate sika
+breast: atu
+breast: atu
+breast: atu
+breast: roso
+breast: rɔsɔ
+breast: rɔsɔ
+brother: kaka
+brother: noko
+chest: atu
+chest: atu
+chest: atu
+chest: roso
+chest: rɔsɔ
+chest: rɔsɔ
+child: mata(koi)
+child: mata (kɔi)
+child: mata (kɔi)
+cloud: nunudéu
+cloud: nunudɛu
+cloud: nunudɛu
+come: ma\u
+come: maʔu
+come: maʔu
+dance: waur
+day: watu
+die: umu
+die: umu
+die: umu
+die: umu
+dig: tarun
+dig: toi
+dog: defa
+dog: dɛfa
+dog: dɛfa
+drink: gehe
+drink: gɛhɛ
+drink: gɛhɛ
+dry: hatate
+dry: hatate
+dry: reple
+dry: reple
+dry: tata
+dry: tata
+earth: mo\a
+earth: wider
+eat: nawa
+eat: nawa
+eat: nawa
+eye: nana
+eye: nana
+fall: ate \u lasi
+fall: hodésa
+fall: uta
+father: boba
+father: bɔba
+finger: tana raga
+fire: ata
+fire: ata
+fish: afi
+fish: afi
+five: lima
+five: lima
+flower: fuhu
+foot: iti
+foot: iti
+forehead: bitikai
+forehead: biti-kai
+four: lolo\e
+four: lolohá
+fruit: ate isu
+fruit: atɛ isu
+girl: tufurái mata
+give: dani
+give: dani
+give: gini
+give: nake
+good: rau
+good: rau
+grass: múnu
+green: lumu
+hair: da\e asa
+hair: daʔɛ asa
+hand: tana lebe
+hand: tanalɛbɛ
+head: da\e
+head: daʔɛ
+hear: wali
+here: nana\u
+here: noto
+he/she: gi
+he/she: gi
+hit: basi
+hit: basi
+hit: basi
+hit: (mini)tutu
+hit: tabáse
+hit: tulere
+hold: nai
+hole: mana
+house: oma
+house: oma
+husband: asukai
+I: ani
+in: mutu
+in: oi
+kill: guta
+knee: itibui
+knee: iti-bui
+know: wa\en
+laugh: ia
+leaf: ate asa
+leaf: atɛ asa
+lie: iti
+lie: ta\e
+lip: turukai
+lip: turu-kai
+live: lafu
+liver: are
+long: asan
+long: asan
+man: ana
+man: ana
+man: ani
+man: anu
+man: anu
+man: asukai
+moon: uru
+moon: uru
+mother: ina
+mother: ina
+mountain: umurafa
+mountain: umuráfa
+mouth: nubukai
+mouth: nubu-kai
+name: nai
+neck: mani-kai
+new: gisu
+new: sufa
+night: gamu
+nose: muni-kain
+not: noho
+not: noto (nai)
+old: la\idá
+old: laite
+old: matu
+one: eu
+one: u
+one: u
+one: u
+one: ʔu
+other: haulitak
+pull: rei
+rain: ai
+rain: ai
+river: wair
+road: i\a
+road: iʔa
+root: ate amu
+root: atɛ amu
+sand: danakini
+sand: danakíni
+sand: méti wáli
+sand: sarakini
+say: lolin
+say: lolo
+see: ena
+see: ɛna
+short: digar
+shoulder: fahilai
+shoulder: fahilai
+sing: leu
+sister: kaka tufurái
+sister: noko tufurái
+sit: mi:t
+sit: miːt
+sky: lo:
+sleep: ta\e
+sleep: taɛ
+small: kaʔulai
+small: ka\úlai
+smoke: ata teuru
+smoke: ata teuru
+star: fi bere
+star: fi bɛrɛ
+stone: afa
+stone: afa
+sun: watu
+sun: watu
+tail: ula
+take: lia
+take: seman
+there: weredete
+they: era
+thigh: ate
+think: gamu
+think: ger
+this: uwere
+thou: ai
+three: lolitu
+three: lol-itu
+throw: lian
+thunder: mó\a dúgu
+tomorrow: usanana
+tongue: anamata
+tongue: ánamáta
+tooth: wasi
+tooth: wasi
+tree: ate
+tree: atɛ
+two: lol-a\e
+two: loloi
+walk: la\a
+walk: laʔa
+warm: ar
+warm: ar
+warm: ra
+warm: ra
+warm: tim(i)n(i)
+wash: bani
+water: ira
+water: ira
+weep: iar
+weep: iar
+weep: reko
+we: fi
+we (incl.): fi
+we: ini
+what: na\i
+white: butik
+white: butik
+wife: tufurái
+wind: gawa
+wind: gawa
+with: mahi
+woman: tufurai
+woman: tufurái
+wood: ata
+wood: atɛ
+yellow: lumu
+yesterday: esere
+you: i

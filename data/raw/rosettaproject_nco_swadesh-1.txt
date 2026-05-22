@@ -1,0 +1,341 @@
+all: okopo
+all: okopoʔ
+and: maka
+animal: pe:kopo
+arrow: bah
+arrow: toka
+ashes: sɪpu
+ashes: sɪpuh
+back: biro
+back: namu-uko
+bad: olen
+bad: orɛŋ
+bark: kabu (koɪnakonala)
+bark: kambʊh
+belly: kɛbo
+belly: kɛbo
+big: pagem
+big: paŋgɛŋ
+big: panna
+big: panna
+bird: ßarɛŋkɛ
+bird: walegɛ
+bite: kaking
+black: mʊːnɪʔ
+black: munɪ
+blood: ɛle
+blood: ɛrɛ
+bone: kona
+bone: koʔnaʔ
+boy: nugan
+boy: ßaikarah
+breast: masɪva
+breast: nonoʔ
+brother: bʷataːtɑ
+brother: watata
+burn: ßaritoʔ urumbariɛʔ
+burn: ulubalɪ
+child: ɛʔ
+child: wolɪ waɪkɛsɪ
+chin: apɛs
+chin: apɪs
+claw: magɛ
+claw: maŋgɛʔ
+cloud: kamo
+cloud: kamoʔ
+cold: kamalɪ
+cold: kamaːri
+come: poɪ
+come: poh
+day: mʊdɛkinaʔ
+day: mubekina
+die: ßoparanna ŋgaßara
+die: wop-alɪ
+dirty: kumi
+dog: mosɪka
+dog: mosɪkah
+drink: nai-alɪ
+drink: naiara
+dry: kaposɪʔ
+dry: oalaɪ
+ear: i ~ oŋ
+ear: lon
+earth: mɛsɪ
+earth: mɛsɪʔ
+eat: wau ala
+eat: wau aramai
+egg: kaka
+egg: kak ~ kaːka
+elbow: kapata
+elbow: nogoroma
+emu: walegɛ
+eye: uta
+eye: wutah
+fall: lula-alɪ
+fall: puʔari
+far: isipo
+father: bʷomah
+father: mma
+father: woma
+fat (n.): sisi
+fat (n.): tsɪsiʔ
+feather: koßɛtaʔ
+feather: kovɛta
+few: waikala
+finger: paŋgariŋgɛ
+fire: waritoʔ
+fire: waɪto
+fish: kalegɛ
+fish: karɛngɛ
+five: panoko
+five: paʔnokoʔ
+fly (v.): amarui
+fly (v.): pulenɪ
+foot: pɛnaʔ
+foot: penan
+forehead: oi
+forehead: wolɛ
+four: kalekago
+four: karɛkaŋgoʔ
+full: kɛsɪʔ
+full: mardom
+girl: mani kuma
+girl: nɛraiʔna
+give: amai
+give: nɪ amɪ
+good: tabɛn
+good: tambɛm
+green: kirɛʔ
+green: ɣɪlɪn
+hair: lapo
+hair: lapo
+hand: kapata
+hand: uŋgah
+head: borɛʔ
+head: volɛ
+hear: talavɪ
+hear: tarabʷui
+hear: taraumai
+heart: masiva
+heart: masiwa
+heavy: asɪla
+heavy: asɪraʔ
+he/she: tɛ
+he/she: tɛ
+he/she: tɛ
+he/she: tɛ
+he/she: wakam
+he/she: wakam
+hit: banakitabʷi
+hit: nan-alɪ
+hit: naŋarih
+horn: kaida
+house: pauah
+house: pava
+how: arewa
+husband: ing
+I: nɪ
+I: nɪ
+kill: taßui
+kill: tauko
+knee: mɪ
+knee: mi
+know: anapɪ-ɛ
+know: taripuyä
+laugh: nɛgɛnɪ
+laugh: nɪgɛnuh
+leaf: paba
+leaf: pandaʔ
+leg: peban
+leg: pɛnaʔ
+lie: asɪ palɪ
+lie: ßɛrywariä
+liver: nunah
+liver: upɪta
+long: ɪsɪkalo
+long: ɪskarah
+louse: pasɪ
+louse: pasɪ
+man: nugam ~ nuŋgaŋ
+man: nugan
+many: pagago
+many: paŋganoh
+meat: ßio
+meat: vio
+moon: pɛgɪa
+moon: pɛːŋgiaʔ
+morning: taneno
+morning: tanɛʔnoʔ
+mother: bʷokɔ
+mother: n.go
+mother: woko
+mountain: mɛtɛ
+mountain: mɛtɛʔ
+mouth: nua
+mouth: nuah
+name: mɪ
+name: mɪrɪ
+neck: kʊruh
+neck: kulu
+new: nelakala
+new: nerakara
+night: mʊːna
+night: mule
+nose: keng
+not: -lea
+not: malaka
+not: malaka
+not: marakʰa
+not: -waruh
+old: kalasɪ
+old: kalasɪ
+old: paga
+old: paŋgara
+old: paŋgatɛʔ
+old: urikara
+one: namoʔ
+one: nau
+person: nadoh
+person: nanmɛ
+rain: apo
+rain: dua
+rain: tua
+rat: koso
+rat: kosoːʔ
+red: ʊrʊŋgasɪʔ
+red: ulugasɪ
+right: mene
+road: paŋgaukaʰ
+road: tolulu
+road: toruru
+root: koßoh
+root: pulɪpulɪa
+round: kamoa
+round: kamom
+round: maːmakarɪŋ
+sand: pisiʔmaːʔ
+sand: pɪsɪma
+say: apɪ
+say: karisaʔo
+say: karumai
+scratch: iki
+seed: kamalɪ
+seed: kamariʔ koiʔßoːri
+see: obo-alɪ
+see: oßwɪy
+sharp: irigas
+short: mapʊkarah
+short: mapukɛta
+shoulder: ukama
+shoulder: ukamaʔ
+sister: bʷaraʔmadaʔ
+sister: wamama
+sit: mamɪ
+sit: mamuyä
+skin: kabu
+skin: kambʊh
+sky: pan
+sleep: asɪ
+sleep: asiyäʔ
+small: bʷaikɛ
+small: waikɛsɪ
+small: waikis, waikisi
+smoke: e
+smoke: ih
+snake: bʷakiroh
+snake: visa
+spit: kuŋguraʔ ŋgaßarih
+spit: oponɪ
+stand: lamb-alɪ
+stand: rambariä
+star: sɪlɪbɛ
+star: sɪrimbɛʔ
+stone: kobɛlɛ
+stone: komporɛʔ
+stone: siraʔ
+sun: takɛ
+sun: takɛ
+swim: alu-alɪ
+swim: aruara
+tail: ßarih
+tail: tutuʔ
+tail: waɪ
+that: oŋgaʔ
+that: tɛ
+they: okopoʔ
+they: tevo
+they two: tɛi
+they two: tɛi
+they two: tɛvo
+they two: tɛvo
+this: o
+this: oh
+thou: la
+thou: laʔ
+thou: riː
+thou: tɛvo
+three: bɛkaŋgoʔ
+three: wɛkago
+tomorrow: akolo
+tomorrow: akoroːh
+tongue: mɛnɛ
+tongue: mɛnɛh
+tooth: karißɛ
+tooth: kavɛ
+tree: koinaʔ
+tree: koɪna
+two: kɛmokɑ
+two: kɛuka
+walk: kulapalɪ
+walk: kurapariä
+walk: nabɛka-alɪ
+walk: nambaiʔara
+wallaby: walobɪ
+warm: takataka
+warm: takʌtʌkʌ
+water: bu
+water: bu
+we (excl.): nɪ
+we (excl.): nɪ
+we (excl.): niː laʔlopah
+we (excl.): niː laʔlopah
+we: nii
+wet: sabʷasɪʔ
+wet: sambukaɪʔ
+wet: taɣomo
+we two (excl.): nɛʔ laʔlopah
+we two (excl.): nɛʔ laʔlopah
+we two (excl.): nɪnga
+we two (excl.): nɪnga
+what: amɪ
+what: ami
+when: aiʔnaŋ
+when: aɪnan
+where: ale
+where: arɛ
+white: kakata
+white: kaːkataʔ
+who: bʷaːʔ
+who: wa
+wife: iina
+wind: loßih
+wind: lovɪ
+wing: nan-na
+wing: nanʔnaʔ
+with: noun+nga or anga
+woman: manikuma
+woman: manikuma
+wood: banaʔ
+wood: losɪkan
+worm: kilili
+year: mai
+yellow: ɪalo
+yellow: loriko
+yes: eu
+yes: ɛuʔ
+yesterday: anka
+yesterday: kɛʔmaːkɪʔ
+you two: langa
+you two: langa
+you two: lɛ
+you two: lɛ

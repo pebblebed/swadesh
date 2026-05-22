@@ -1,0 +1,498 @@
+all: bun-mo
+all: bun-mo
+arm: -ben
+arm: -bɛn
+arrow: sabɛk
+ashes: butbut
+ashes: butbut
+back: -bun
+back: -bun
+bad: mein
+bad: mɛin
+belly: -gem
+belly: -gɛm
+belly: -gem beko\
+belly: -gɛm bɛkoʔ
+big: yah
+big: yah
+bird: ah
+bird: ah
+bite: -mug-
+bite: -mug-
+black: dub
+black: dub
+blood: -nedan
+blood: -nedan
+blow: ulam-
+blow: ulam-
+bone: -ditin
+bone: -ditin
+boy: mat minmin
+boy: mat minmin
+breast: -sus
+breast: -usu
+brother: -bab
+brother: -bab
+brother: -bab museran
+brother: -bab museran
+burn: muder-
+burn: mudɛr-
+butterfly: kabob
+butterfly: kabob
+calf: kokin
+calf: kokin
+cassowary: zaur
+chest: -ban
+chest: -ban
+child: amun
+child: amun
+chin: -nog
+chin: -nog
+cloud: tim a-beko\
+cloud: tim a-bekoʔ
+cloud: waibut
+cloud: waibut
+cold: muditin
+cold: muditin
+come: bol-
+come: bol-
+crocodile: fay
+crocodile: fay
+crocodile: tagum
+crocodile: tagum
+cut: horay-
+cut: horay-
+cut: orot-
+cut: orot-
+dance: bar waz-
+day: anu-an
+day: imisor
+day: imisor
+die: mo-
+dig: ulum-
+dig: ulum-
+dig: yaiton-
+dig: yaiton-
+dig: zilay-
+dig: zilay-
+dirty: anumian
+dirty: anumlam
+dog: gaun
+dog: gaun
+dry: tumay
+dry: tumay
+ear: -deksan
+ear: -deksan
+earth: og
+earth: og
+eat: ne-
+eat: ne-
+eat: titilon-
+egg: -kokin
+egg: -kokin
+elbow: -beil
+elbow: -beil
+emu: zaur
+excrement: -beko\
+eye: -me (nagin)
+eye: -mɛ (nagin)
+face: -mabel
+face: -mabɛl
+face: -nobun
+face: -nobun
+fall: way-
+fall: wo-
+fall: wo-
+far: fesain-mo
+far: fesain-mo
+father: kamam
+father: kamam
+father: -mam
+father: -mam
+fat (n.): moyan
+fat (n.): moyan
+fear: rab
+fear: rab
+few: asor
+few: asor
+fight: nol-
+fight: wol-
+finger: abainagin
+finger: abainagin
+fingernail: -betgeik
+fingernail: -betgeik
+fire: fa\
+fire: faʔ
+fish: nabi\
+fish: nabiʔ
+fly (n.): honam
+fly (n.): honam
+fly (v.): mel-
+fly (v.): mɛl-
+fog: o:nas
+fog: oːnas
+forest: garan
+forest: garan
+fruit: -nagin
+fruit: -nagin
+full: a-te tu-gal-
+full: a-te tu-gal-
+full: so\or-
+full: soor-
+girl: aw baras
+girl: aw barras
+give: -ug-
+give: -ug-
+good: dimun
+good: dimun
+grass: rey
+green: ainan kaye
+green: ainan kaye
+guts: -gem beko\
+guts: -gɛm bɛkoʔ
+hair: -enan
+hair: -enan
+head: -duman
+head: -fain
+head: -fain
+head: -huain
+head: -huain
+head: -main
+hear: -hurit-
+hear: -hurit-
+heart: -babuan
+heart: -babuan
+heavy: afa\an
+heavy: afaʔan
+here: kawa
+here: kawa
+he/she: -a-
+he/she: -a-
+he/she: a-
+he/she: in
+he/she: in
+he/she: in
+he/she: in
+he/she: in
+he/she: in-
+he/she: ø-
+hit: nol-
+hit: nol-
+hit: wol-
+hit: wol-
+hold: waz-
+hold: waz-
+house: bit
+house: bit
+how: ganin
+I: i-
+I: i-
+I: i-
+I: i-
+in: a-dugan-ib
+I: ya
+I: ya-
+I: ya-
+I: ya-
+I: ya-
+I: ye
+kill: i:tu-
+kill: iːtu-
+kill: ulum-
+kill: ulum-
+knee: -damagan
+knee: -damagan
+laugh: yu\uw-
+laugh: yuuw-
+left: inaseran
+left: inasɛran
+leg: -sen
+leg: -sɛn
+lightning: meulik em-
+lightning: mɛulik em-
+liver: -util
+liver: -util
+long: sisa\ta
+long: sisaʔta
+louse: gau
+louse: gau
+man: mat
+man: mat-
+man: mat-
+man: mat/mataw
+many: kabem
+many: kabɛm
+meat: mizan
+meat: mizan
+moon: kalam
+moon: kalam
+morning: saw hastaya
+morning: saw hastaya
+morning: tarowmo
+morning: tarow-mo
+mosquito: uni
+mosquito: uni
+mother: kanen
+mother: kanɛn
+mother: -nen
+mother: -nɛn
+mountain: garah
+mountain: garah
+mouth: te -dugan
+mouth: te -dugan
+name: -nan
+name: -nan
+nape: -bun batan
+nape: -bun batan
+navel: -bosonam
+navel: -bosonan
+near: sinsin
+near: sinsin
+neck: -nat duman
+neck: -nat duman
+neck: -nat edu
+neck: -nat edu
+new: mutu
+new: mutu
+night: rumri
+night: rumri
+night: tarow ti-
+night: tarow ti-
+nose: -motugu
+not: haigam
+not: haigam
+old: kʷasi
+old: kwasi
+old: nenap
+old: nenap
+one: amuligmo
+one: amuligo
+pull: hure-
+pull: hure-
+push: ulumsun-
+push: ulumsun-
+rain: urom
+rain: urom
+rat: kudui
+rat: kudui
+red: bem
+red: bɛm
+red: kaka\
+red: kakaʔ
+right: abun
+right: abun
+ripe: abeman
+ripe: abɛman
+ripe: tiham
+ripe: tiham
+road: dan
+road: dan
+root: -ninin
+root: -ninin
+root: -titin
+root: -titin
+rope: zɛmun
+salt: kamis
+salt: kamis
+sand: ibur
+sand: iburr
+sand: lanis
+say: -bilen-
+say: -bilen-/bulon-
+say: (gamug) bila-
+say: (gamug) bila-
+scratch: teh-
+scratch: teh-
+sea: kamis
+sea: kamis
+see: a-hol biy-
+see: a-hol biy-/a-hol wa-
+see: a-hol wa-
+see: a-hol- wa-
+sharp: amena
+sharp: siso-
+short: siim
+shoulder: -betar
+shoulder: -betarr
+sing: dor-
+sister: -hi:
+sister: -hiː
+sister: -hi amigta
+sister: -hi amigta
+sit: os-
+sit: os-
+skin: -san
+skin: -san
+sky: kait
+sky: kait
+sleep: us-
+sleep: us-
+small: amig
+small: amig
+smell: a-huran hurit
+smoke: -s
+smoke: -s
+smoke: -sin
+smoke: -sin
+snake: mam
+snake: mam
+snake: naga
+snake: naga
+spit: lu\uw-
+spit: -skuluan
+spit: -skuluan
+split: wazilay-
+split: wazilay-
+stand: era-
+stand: tir-
+stand: tur-
+stand: turr-
+star: ulig
+star: ulig
+stick: batan
+stone: gi:g
+stone: giːg
+straight: titinon
+straight: titinon
+sun: ze
+sun: zɛ
+swell: um-
+swell: um-
+tail: -be karugan
+tail: -be karugan
+tail: -bulikin
+tail: -bulikin
+take: waz-
+take: waz-
+that: ko
+that: ko
+there: kowa
+there: kowa
+they: gi-
+they: gi-
+they: gi-
+they: gi-
+they: in
+they: in
+they: in-
+they: in-
+they: ne-
+they: ne-
+thigh: -bet
+thigh: -bɛt
+think: -nad em-
+think: -nad em-
+this: ka
+this: ka
+thou: gi-
+thou: gi-
+thou: ne
+thou: ne-
+thou: ne-
+thou: ni
+thou: ni
+thou: ni-
+thou: ni-
+thou: ni-
+thou: ni-
+thou: nin
+thou: nin-
+throat: -burrwogin
+throat: -burwogin
+throat: -zian
+throat: -zian
+throw: huneg-
+throw: huneg-
+thunder: wilam wo-
+thunder: wilam wo-
+tie: hureug-
+tie: hurreug-
+tomorrow: babe
+tomorrow: babe
+tomorrow: ilato
+tongue: -mele\
+tongue: -meleʔ
+tooth: -te
+tooth: -te
+tree: ay
+tree: ay
+tree: -bearr
+tree: lihan
+tree: lulin
+tree: -lulin
+turn: buliy-
+turn: buliy-
+two: giger
+two: gigɛr
+vagina: -nas
+vagina: -nas
+vomit: nil-
+walk: leh-
+walk: leh-
+walk: leh-
+walk: leh-
+walk: sib-mo leh-
+wallaby: sawan
+wallaby: sawan
+wallaby: waken
+wallaby: waken
+warm: afan
+warm: afan
+wash: hus-
+wash: hus-
+wash: hus + "give
+wash: hus- -ug-
+water: yu
+water: yu
+weep: ga-
+weep: ga-
+we: gi-
+we: gi-
+we: gi-
+we: gi-
+we: iy
+we: iy
+we: iy-
+we: iy-
+we: iy-
+we: iy-
+wet: ayunyun
+wet: ayunyun
+what: eza
+what: eza
+what: nagah
+what: nagah
+where: edop
+where: edop
+white: hus
+white: hus
+white: nal
+white: nal
+who: nok
+who: nok
+wind: tim
+wind: tim
+wing: -ben gaik
+wing: -bɛn gaik
+woman: aw
+woman: aw-
+woman: aw-
+woman: aw/on
+woman: on
+wood: aya-nabun
+wood: aya-nabun
+wood: batan
+yellow: mali
+yellow: mali
+yes: ao
+yes: ao
+yes: ee
+yes: e\e
+yesterday: irimo
+yesterday: irimo
+yesterday: irimo menta
+you: ge-
+you: gi-
+you: ne
+you: ne-
+you: ne-

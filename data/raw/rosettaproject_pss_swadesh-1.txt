@@ -1,0 +1,183 @@
+all: mosop
+and: ma
+animal: li ken-ŋin-an
+ashes: ekas
+back: euli-n
+bad: leŋβal
+bark: sa elit
+because: epo
+belly: ekupin
+bird: ekiŋ
+bite: tuk
+black: ku
+blood: kalol-an
+blow: kun
+bone: pokoi-n
+breast: susu-n
+breathe: βiŋos
+burn: i
+child: hoin
+cloud: hiŋis
+cold: ŋlik
+come: me
+correct: sik
+count: tik
+cut: klat
+die: hun
+dig: kil
+dirty: po-n leŋßal
+dog: rlβa
+drink: um
+dry: malβol
+dull: ŋin som
+dust: nekukβa
+ear: kiŋa-n
+earth: mulus
+egg: eβari-n
+empty: mi-n eŋun
+eye: mata-n
+fall: mo-nauuʔ
+far: hiin
+father: iyok
+fat (n.): tuleŋ
+fear: lem
+few: sakun
+fingernail: kanuku
+fire: iyau
+fish: esma
+five: eip
+float: [plot]
+flower: ŋa-ɔ̀la
+flow: sut
+fly (v.): yap
+fog: pi ka-kuin-ŋin-an
+foot: kii-n
+forest: misuk
+four: nal
+frog: kaok
+fruit: hiyu-n
+full: kol
+give: βa-i si ta
+good: tunus
+grass: epilil
+green: keŋ
+guts: emulun
+guts: emulun
+hair: iyut
+hand: βili-n
+head: mihi-n
+hear: hul
+heart: buai-
+heavy: maik
+he: hiyaŋ
+horn: iŋis
+how: tua
+hunt: hip
+husband: titiyen
+if: taku
+I: ŋo
+in: mi
+kill: βi
+knee: poβut
+know: hop
+lake: ehuŋ
+large: nuhum
+laugh:  les
+leaf: kin
+left: βorilin tin eto iliomen
+leg: kii-n put
+lie:  -e? si?
+live: in
+liver: eyat
+long: nomalak
+louse: emut
+many: munuman
+man: βi
+meat: emalin
+moon: namih
+mother: inu
+mountain: put-pi
+mouth: βo-n
+name: ia
+narrow: βo-n tun
+near: tikayuŋ
+neck: βut
+new: homan
+night: piluk
+nose: hut
+old:   hiaŋan
+one: tehen
+person: po tunus
+play: kop
+pull: nak
+push: poet
+rain: yuŋ
+red: mhe
+right: βorilin tin eto sa men
+river: eki nesiliŋ
+road: soput nuhum
+root: imut
+rope: elik
+rotten: βhuk
+round: molmol
+rub: luk
+salt: sauli
+sand: namak
+say: βo
+sea: βiyu
+sea: βiyu
+seed: hiyu-n
+sew: tit
+sharp: ŋin
+short: hut yis
+sing: lut
+sit: uŋ
+skin: elit
+sky: βet-pi
+sleep: nahuŋ
+small: tun
+smell: pek
+smoke: iyau kuin
+smooth: po yeye
+snake: isaliŋ
+some: kara
+spit: kimos
+split: pal
+stab: ni
+stand: pit
+star: aβeŋ
+stick: kamtuk-ŋin
+suck: slup
+sun: sinaŋ
+tail: kut
+they: po
+thick: epum
+thin: enep
+think: mata-n ira
+thou: ŋon
+thou: βom
+three: miuk
+throw: psik
+tie: kan
+tongue: mamai
+tree: sa
+turn: phai
+two: ponβal
+vomit: mutβok
+warm: ŋeŋŋeŋ
+wet: pis
+what: ele
+when: to pi elini
+which: tin akani
+white: eun
+who: ate
+why: epo ele
+wide: βo-n nuhum
+wife: titiyen
+wind: eip
+wing: mhit
+woman: βut βala
+worm: mʷaʔ-eⁿgiʔ
+wrong: iyeh
+year: posan
+yellow: molo

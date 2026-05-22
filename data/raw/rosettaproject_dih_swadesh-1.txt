@@ -1,0 +1,14 @@
+big: WaaTay
+bird: Asha
+dog: Hutt
+eat: AaMow
+eat: Aasow
+eat: Aasow
+hear:  KaaYipNa
+man: Eekutch
+moon: HaThaa
+one: Sin
+salt: ESeech
+small: Estick
+two: HaWaak
+water: Ha

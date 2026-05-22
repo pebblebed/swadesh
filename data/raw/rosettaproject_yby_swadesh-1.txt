@@ -1,0 +1,341 @@
+all: muki
+all: vavuleko
+arm: hopa ohorovate
+arm: hopa ohorovate
+arm: ohovate
+arm: ohovate
+arrow: ile
+arrow: ile
+ashes: lada
+back: emesa(la)
+bad: nosami
+bad: nosami
+bad: nosa(mibo)
+bark: esuva
+belly: morute
+belly: morute
+belly: ohuma(la)
+big: napa
+big: napa
+big: napa
+bird: nama
+bird: nama
+bird: nama
+bite: koh(iye)
+bite: ud(aze)
+black: lubuha
+black: lubuhanesa
+black: lubuhánesa
+blood: olada(la)
+blood: orada
+blood: órada
+bone: abuha(la)
+bone: abuhavate
+bone: abuhávate
+boy: ipa
+boy: orumo rasorasi
+boy: orumo rasorasi
+breast: amida(la)
+breast: amidate
+breast: amidate
+brother: unane
+brother: unane
+brother: ya(la)
+brother: yane
+brother: yane
+burn: l(iye)
+cassowary: oroda
+chest: ohu\mate
+chest: ohuʔmate
+child: aida
+chin: imila
+claw: ova
+cloud: limu
+cloud: rimuʔ
+cloud: simu\
+cold: eha
+cold: lasi
+come: ano
+come: ano
+come: nis(iye)
+day: ludaka
+die: hel(iye)
+die: herekai
+die: herekai
+dog: ula
+dog: ura
+dog: ura
+drink: (no)n(aiye)
+drink: nozo numa no
+drink: nozo numa no
+dry: opati(bo)
+ear: ata(la)
+ear: lata
+ear: lata
+earth: mika
+earth: mika
+earth: mika
+eat: n(aiye)
+eat: woko no
+eat: woko no
+egg: omuda(la)
+elbow: (ade) bo(la)
+emu: oloda
+emu: oroda
+eye: lomuda
+eye: lomuda
+eye: omuda(la)
+fall: lemo ǯ(iye)
+father: aho(la)
+father: ahone
+father: ahone
+fat (n.): auva(la)
+fat (n.): ava(lava)
+fat (n.): avora
+fat (n.): avora
+feather: yopa(la)
+finger: olopa(va)
+finger: umava
+fire: dzo\
+fire: dzoʔ
+fire: ǯo
+fish: lahava
+fly (v.): ololoko v(iye)
+foot: i(la)
+foot: lite
+foot: lite
+forehead: etipate
+forehead: etipate
+forehead: otipa(la)
+forest: yauka
+forest: yauka
+full: vaito(ne)
+girl: olu
+girl: o\rudasora
+girl: oʔrudasora
+give: (ni)m(iye)
+good: dotalibo
+good: dovaloko
+good: dzanisasa
+good: dzanisasa
+green: makililivago
+green: ohugo
+hair: yopa(la)
+hair: yopate
+hair: yopáte
+hand: ade(la)
+hand: lade
+hand: lade
+head: latate
+head: latate
+head: mado(na)
+hear: el(iye)
+hear: ereminoe
+hear: ereminoe
+heart: oboha(la)
+heavy: eda
+he/she: emo
+he/she: e(mo)
+hit: koh(aiye)
+horn: sipiya
+house: numuda
+house: numuda
+house: numuda
+I: nemo
+I: ne(mo)
+I: -u
+kill: ko(ha heliye)
+knee: ibo(la)
+knee: ribura
+knee: ribura
+know: ele(na)
+laugh: iya (iye)
+laugh: iǯa (iye)
+leaf: aila
+leaf: ya ira
+leaf: ya ira
+leg: i(la)
+leg: rimidavate
+leg: rimidavate
+lie: ud(aiye)
+lip: lepate
+lip: lepate
+liver: sili(na)
+long: hana
+long: hana
+louse: nama
+man: ve
+man: ve
+man: ve
+many: muki
+many: wawuleko
+meat: mida(va)
+meat: ǯa
+moon: ukada
+moon: ukada
+moon: ukada
+morning: nekeva
+mother: do(la)
+mother: done
+mother: done
+mountain: bola
+mountain: veufa
+mountain: véufa
+mouth: epa(la)
+mouth: leparura
+mouth: leparura
+name: ri
+name: ri
+name: uli(va)
+neck: eno(la)
+neck: ninumate
+neck: ninumate
+new: ohatama
+night: lubuka
+nose: lokepa
+not: -am
+not: minam(iye)
+not: oʔe
+not: savaye
+old: asihava
+old: (mena) iloho
+old: (ve) hamola
+old: (ve) iloho
+one: mako(ko)
+person: vevena
+person: weina
+rain: go
+rain: go:
+rain: goː
+rain: o
+rat: ukela
+red: laho
+red: rahonesa
+red: rahónesa
+road: anu
+road: anu
+road: anu
+root: luhava
+rope: maunda
+round: lubola
+sand: ake
+say: garukaji
+say: garukaǯi
+say: l(iye)
+seed: (ya) ihila
+seed: yuha
+see: mud(aiye)
+see: mudaminoe
+see: mudaminoe
+short: minava
+short: minavasi
+shoulder: atanate
+shoulder: atánate
+shoulder: ele(la)
+sing: namaretiye
+sister: ato(la)
+sister: orune
+sister: orune
+sit: (mikalo n)ø(e)
+sit: minenaŋgore
+skin: upa(la)
+sky: okuruma
+sky: okuruma
+sleep: ud(aiye)
+small: lasola
+small: sainilasora
+small: sainilasora
+smoke: (ǯo)kila
+snake: oleteha
+spit: otu (iye)
+stand: cinone
+stand: činone
+stand: sin(aiye)
+star: sonohi
+star: sonohi
+star: sonohi
+stick: amuda
+stone: ehada
+stone: ihata
+stone: ihata
+sun: ho
+sun: ho:
+sun: hoː
+swim: asoda (ǯiye)
+tail: aisa(va)
+take: erekuwo
+take: erekuwo
+take: ukerenoe
+take: ukerenoe
+that: tobaiyane
+that: yola(ya)
+they: -a
+they: edimo
+they: edi(mo)
+they two: -ai
+they two: edi(mo) love
+they two: rove
+thigh: uhate
+thigh: uhate
+this: ma(ya)
+thou: -an
+thou: edi(mo)
+thou: e(mo)
+thou: gemo
+thou: ge(mo)
+thou: lerimo
+three: loveki makoki
+throat: enote
+throat: enote
+tomorrow: aiyo
+tongue: reporuma
+tongue: reporuma
+tongue: uluma
+tooth: elava
+tooth: rodavate
+tooth: rodávate
+tree: ya
+tree: ya
+tree: ya
+two: love
+walk: lolosa (ǯiye)
+walk: mon(iye)
+walk: wo
+walk: wo
+wallaby: oponi
+warm: mumusi
+water: no
+water: no
+water: no
+weep: vijemanamoro
+weep: viǯemanamoro
+we: lemo
+we: le(mo)
+wet: eha (ǯene)
+we two (incl.): lemo
+we two (incl.): le(mo) love
+we two: -u
+we: -un
+what: nena(ye)
+when: nena hekoi
+when: nena yupe(mae)
+where: nakaha(lokae)
+white: iyopa
+white: ukulo
+who: eka(himae)
+wind: lasi
+wind: sasi
+wind: yasi
+wing: lasi
+wing: okana(va)
+woman: mena
+woman: mena
+woman: mena
+wood: oiǯo
+yellow: sihuka
+yes: oː
+yesterday: aiyo
+you: -a
+you two: -ai
+you two: edi(mo) love
+you two: lemote

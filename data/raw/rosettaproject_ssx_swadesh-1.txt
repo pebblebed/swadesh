@@ -1,0 +1,290 @@
+all: payao
+all: payao
+arm: kiki
+arm: kiki
+ashes: lankä
+ashes: pere
+ashes: pere
+back: hoki
+bad: hoire
+bad: hoke
+bark: yogeleke
+bark: yogeleke
+belly: palo
+belly: palo/waleke
+belly: waleke
+big: hiege
+big: tieke
+big: tieke
+bird: ba
+bird: ba
+bite: lu naleme
+bite: lu nalɛme
+black: punu ribaleme
+black: punu ribalɛme
+blood: fore
+blood: we
+blood: we
+bone: holiki
+bone: holiki
+boy: weke
+breast: adu
+breast: adu
+breast: andu
+brother: hameme
+burn: ti taleme
+burn: ti talɛme
+chin: yankake
+claw: age kebo
+claw: age kebo
+cloud: hapueke
+cloud: koa
+cloud: koa/hapueke
+cold: kose peleme
+cold: kosɛ pɛlɛme
+come: ipu
+come: púleme
+come: pulɛme
+cut: hãmpere-
+dark: punu pä
+die: homä
+die: ote homeleme
+die: otɛ homɛlɛme
+dog: ena
+dog: kika
+dog: kika
+dog: na
+drink: ikalinalɛme
+drink: ikali nalome
+dry: hapu lae
+dry: hapuleme
+dry: hapulɛme
+ear: haleke
+ear: haleke
+ear: kerake
+earth: su
+earth: yu
+earth: yu
+eat: na
+eat: naleme
+eat: nalɛme
+egg: hapeke
+egg: hapeke
+eye: le:gi
+eye: leke
+eye: leki
+father: apa
+fat (n.): imeke
+fat (n.): imeke
+feather: itiki
+feather: itiki
+fire: ti
+fire: ti
+fish: tepeli
+fish: tɛpeli
+fly (v.): tiao puleme
+fly (v.): tiao pulɛme
+foot: ã:ki
+foot: anke
+forehead: wenoko
+full: tuba uleme
+full: tuba ulɛme
+give: kitä
+give: kiteleme
+give: kitɛlɛme
+good: epeke
+good: epeke
+good: epele
+good: heregi
+green: haka rɛlɛme
+green: hako releme
+hair: irigi
+hair: itiki
+hair: iti(ki)
+hand: kigi
+hand: kiki
+head: aboke
+head: you
+head: yuridara
+hear: opuä
+hear: opueleme
+hear: opuɛlɛme
+heart: honoka
+heart: honoka
+heavy: kändä
+he/she: ipiki
+he/she: neki
+hit: litä
+hit: muru-
+hold: minä
+horn: ekeke
+horn: ekeke
+house: nda
+I: i
+I: i͂
+I: ia
+kill: liteleme
+kill: litɛlɛme
+knee: tumiki
+knee: tumiki
+know: hadeleme
+know: hadɛlɛme
+laugh: ki talä
+leaf: katake
+leaf: katake
+leg: age
+leg: age
+leg: anke
+lie: peliä
+lie: pelieleme
+lie: pɛliɛlɛme
+liver: puki
+liver: puki
+long: hokulu
+long: hokulu
+long: hua
+louse: lämä
+louse: leme
+louse: lɛmɛ
+man: hali
+man: hali
+man: hari
+many: wopu wotu
+many: wopu ~ wotu
+meat: mänä
+meat: mene
+meat: mɛnɛ
+moon: ege
+moon: eke
+moon: subɛ
+mother: ama
+mountain: pote
+mountain: pote
+mouth: kake
+mouth: kake
+name: bigi
+name: biki
+name: biki
+neck: make
+neck: make
+new: panakeki
+new: panakeki
+night: tiba
+night: tiba
+nose: meneke
+not: diä
+not: na-
+not: na-
+one: homeke
+one: homeke
+person: hali
+person: hali
+rain: lako
+rain: lako/yei
+rain: yei
+red: we peleme
+red: we pɛlɛme
+road: pota
+road: pota
+root: piki
+root: piki
+round: bolu bolu peleme
+round: bolu bolu pɛlɛme
+salt: epi
+sand: hou
+sand: hou
+say: alä
+say: aleme
+say: alɛme
+seed: wae
+seed: wae
+see: hadeleme
+see: hadɛlɛme
+see: hãdu
+see: handä
+shoulder: pyoko
+sister: beliki
+sit: pilä
+sit: pileme
+sit: pilɛme
+skin: yogeleke
+skin: yogeleke
+skin: yonkele-ke
+sleep: u pelieleme
+sleep: u͂ peliɛlɛme
+small: harisigi
+small: hosiki
+small: hosiki
+smell: punku mi
+smoke: lumu
+smoke: lumu
+spit: hoto alä
+stand: tiaseme
+stand: tiasɛme
+star: hõbu(lage)
+star: hobulagə
+stone: sepo
+stone: sepo/topi
+stone: topi
+sun: nari
+sun: nate
+sun: nate
+swim: mokela puleme
+swim: mokɛla pulɛme
+tail: medeke
+tail: mɛdeke
+that: mo
+that: mo
+they: iki
+they: ípona
+they two: ibirigi
+they two: ipiliki
+this: do
+this: do
+thou: iki
+thou: neke
+thou: neke
+thou: neki
+three: tepo
+tongue: kekeke
+tongue: kekeke
+tooth: kake
+tooth: kake
+tree: ti
+tree: ti
+two: yapo
+two: yapo
+two: yäpo
+walk: pu
+walk: puleme
+walk: pulɛme
+warm: tiripu
+warm: tiripu
+water: igari
+water: ikali
+water: ikali
+water: ipi
+water: ipi
+we (incl.): niki
+we (incl.): niki
+we: nigi
+we: niki
+we two: digi
+we two (incl.): diki
+what: aleke
+what: aleke
+when: handimä
+white: hake pä
+white: hake peleme
+white: hake pɛlɛme
+who: epi
+who: epi
+woman: wade
+woman: wãde
+yellow: hami pae
+yellow: hami peleme
+yellow: hami pɛlɛme
+yesterday: amvaneke
+you: i:gi
+you two: ibirigi
+you two: ipiliki

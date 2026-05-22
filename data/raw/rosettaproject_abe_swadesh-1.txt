@@ -1,0 +1,140 @@
+all: mziwi
+and: ni, (ta)
+ashes: skwedaipegui
+back: wkeskwan
+bad: maji-, majigek
+bark: walagaskw
+because: oji alla, ali
+belly: wlazgi
+big: kchi-
+bird: sips
+bite: sagamômuk
+black: mkazawi
+blood: bagakaw
+blow: podawawogan
+bone: wskaw, wskan
+breast: wdolka
+burn: chegasôzik
+child: awonssis
+cloud: mnasokw
+cold: nkwaskwaji
+come: paiômuk
+correct: sasagi
+count: agimômuk
+cut: tamezôzik
+day: kisokw
+dig: kodkahômuk, -yik
+dog: alemos, adia
+drink: kadoasmimek
+dry: pakwsasôzik
+dust: towipegw
+earth: ki
+ear: wdawagw
+eat: mitsimuk
+egg: wôwan
+eye: wsizukw
+far: nopaiwi
+father: n-dadan
+fat (n.): wika
+fear: sagizmek, -ik
+feather: miguen
+few: tagasiwi
+fight: migakamuk
+fingernail: mkaz-ak
+fire: skweda
+fish: namas
+five: nlan
+fog: pesgawan (awan)
+foot: wzid
+forest: kpiwi
+four: iaw
+freeze: kalajimuk
+full: pasanba, psanawi
+good: wligen
+grass: mskiko
+green: askakui, askaskuigan
+guts: piassoal
+hair: wdepkwan-al
+hand: welji
+head: mdup, (wdep)
+hear: tapsedôzik
+heart: mlawogan (5)
+heavy: tkuigui: takwiguak, takwiguelek
+here: u, iu, u tali
+he: w-
+hold: kogalnômuk, -zik
+horn: askan
+how: tôni
+hunt: nadialimuk
+husband: sanoba, nizwia
+ice: pkwami
+if: chaga
+I: nia
+knee: mkedukw
+lake: nbes
+leaf: wanibagw
+leg: wkond*, wkot
+louse: kemô
+man: sanoba
+many: kassi
+meat: wios
+moon: pgwas, nahnibssat
+mother: nigawes
+mountain: wajo, wajos
+mouth: wdon*, mdon
+near: pasojiwi
+neck: wkuedôgan
+new: wski-, pili-, pildowi
+night: tebokw
+nose: wjonl*, mejol
+not: o-da
+one: pazekw, pazego
+rain: soglon
+red: mkui, mkuigen
+river: tegw, (sibo)
+road: o-wdi
+root: wajabk
+rope: pihan
+salt: siwanaigamuk
+sand: pegui
+say: idôzik, ikôlômuk
+sea: sobagw
+see: namitôzik, namibômuk
+sew: aliguawômuk
+sing: lintomek
+sit: abimek
+sleep: kawimek, kawizuk
+small: tsi-dzis
+smoke: odamômek
+snake: skog
+snow: psôn, wazoli
+star: alakws
+stone: asen, sen
+straight: sasagiwi
+sun: gizos
+tail: wzôkw
+that: waji, ni, iya
+there: ni enni, ni tali
+thick: kpagi, kapagizit, kapagak
+thin: wazabi, wazabizit
+this: yo
+thou: kia
+three: nas
+tongue: wilalo
+tooth: wibid
+tree: abazi
+two: nis, nisoak
+walk: pmossa, pmossamek
+wash: kazebaalmuk, kazebaadigamuk
+water: nebi
+we: k-, kiuna-, n-
+what: gagwi?
+when: chiga
+where: tôni?
+white: wôbi
+wife: behanem, nizwia
+wind: kzelômsen
+woman: behanem
+year: gaden
+yellow: wizôwi
+you: kiuwô, kia

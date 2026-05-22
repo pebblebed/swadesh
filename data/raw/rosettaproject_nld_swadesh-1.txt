@@ -1,0 +1,403 @@
+all: al
+all: al, ales
+all: alle
+and: en
+and: en
+animal: beest
+animal: bîest
+ashes: as, asen
+ashes: as, assen
+at: op
+at: up, bâ
+back: terug
+back: trüch
+bad: shlecht
+bad: slecht
+bark: blafe(n)
+bark: blaffen
+because: omdat
+because: umda(t)
+belly: bûek
+belly: buik
+big: dik,ghrûet
+big: groot, dik
+bird: vogel
+bird: vôghel
+bite: bâite(n)
+bite: bijten
+black: zwart
+black: zwet
+blood: blôd
+blood: bloed
+blow: blazen
+bone: been
+bone: bîen
+breast: borst
+breast: tète(n), borste(n)
+breathe: ademen
+breathe: ôdeme(n)
+burn: branden
+burn: brande(n)
+child: kind
+child: kind, klâene
+cloud: wolk
+cloud: wolke(n)
+cold: kâd
+cold: koud
+come: komen
+come: kôme(n)
+correct: juist
+correct: jüst,corect
+count: tèle(n)
+count: tellen, rekenen
+cut: snâie(n)
+cut: snijden
+day: dach
+day: dag
+die: stèreve(n)
+die: sterven
+dig: graven
+dirty: vûel, dèghutant
+dirty: vuil
+dog: hond
+dog: ont
+drink: drinken
+drink: drinke(n)
+dry: droog
+dry: drûegh
+dull: bot
+dull: dof
+dull: saai
+dust: stof
+earth: aarde
+earth: ôrde
+ear: ûer
+ear: (v.) horen, (n.) oor
+eat: eten
+eat: ête(n)
+egg: â
+egg: ei
+eye: oog
+eye: ûegh
+fall: vale(n)
+fall: vallen
+far: ver
+far: vèr
+father: vader
+father: vôder, pa, papa
+fat (n.): vet
+fat (n.): vèt
+fear: angst
+fear: benât zèn
+fear: vrees
+feather: plûem
+feather: pluim
+feather: veer
+few: ènkele
+few: weinig
+fight: vechten
+fight: vèchte(n)
+fingernail: nagel
+fingernail: nôghel
+fire: vör
+fire: vuur (v.) vuren
+fish: vis
+fish: vis
+five: vâef
+five: vijf
+float: drijven
+flower: bloem
+flower: blum
+flow: vloeden
+fly (v.): vlééghe(n)
+fly (v.): vliegen
+fog: mist
+foot: voet
+foot: vôt
+forest: bos
+forest: bos
+four: véér
+four: vier
+freeze: vrééze(n), vrîeze(n)
+freeze: vriezen
+fruit: freet
+fruit: fruit
+full: vol
+full: vol
+give: geven
+give: ghêve(n)
+good: gôd
+good: goed
+grass: ghras
+grass: gras
+green: groen
+green: grôn
+guts: darmen
+hair: haar
+hair: ôr
+hand: and, ant
+hand: hand
+head: kop
+head: kop, hoofd
+hear: horen
+hear: hûere(n)
+heart: èt, art
+heart: hart
+heavy: zwaar
+heavy: zwôr
+he: hâe, hê
+he: hij
+here: éé
+here: hier
+hit: raken
+hit: rôke(n)
+hold: âde(n)
+hold: houden
+horn: hoorn
+horn: ûern
+how: hoe
+how: ô
+hunt: jagen
+hunt: jôghe, shasêre(n)
+husband: man
+husband: man, echtgenote
+ice: âes
+ice: ijs
+if: indéén, as
+if: indien, als
+I: ik
+I: ik
+in: in
+in: in
+kill: vermoorden
+kill: vermûerde(n)
+knee: knéé
+knee: knie
+know: weten
+know: wête(n)
+lake: lac
+lake: meer
+laugh: lachen
+laugh: lache(n)
+leaf: blad
+leaf: blad
+left: links
+left: links
+leg: been
+leg: bîen
+lie: liggen
+lie: lighe(n)
+live: leven
+live: lêve(n)
+liver: lever
+liver: lêver
+long: lang
+long: lang
+louse: lûes
+louse: luis
+man: man
+man: man
+many: veel
+many: veel
+meat: vlees
+meat: vlîes
+moon: maan
+moon: môn
+mother: moeder
+mother: mooder
+mountain: beregh
+mountain: berg
+mouth: mond
+mouth: mond
+name: naam
+name: nôm
+narrow: smal
+narrow: smal
+near: dichtbij
+near: nefest
+neck: nek
+neck: nek
+new: nieuw
+new: nö
+night: nacht
+night: nacht
+nose: nees
+nose: neus
+not: ni
+not: niet
+old: âv, âd
+old: oud
+one: een
+one: îen
+other: ander
+other: ander
+person: persoon
+person: persûen, mèns
+play: spelen
+play: spêle(n)
+pull: trèke(n)
+pull: trekken
+push: duwen
+push: düwe(n)
+rain: regen
+rain: rêghe(n)
+red: rood
+red: rûed
+right: rechts
+right: rechts
+river: rivéér, bêk
+river: rivier
+road: strôt, wegh, Rü
+road: weg
+root: wortel
+rope: koord, touw
+rope: kôrd
+rotten: rot
+rotten: rot
+round: rond
+round: rond
+rub: wrijven
+salt: zât
+salt: zout
+sand: zand
+sand: zand
+say: zeggen
+say: zeghe(n)
+scratch: kras, scratch
+sea: zee
+sea: zéén
+seed: zaad
+seed: zôd
+see: zîe
+see: zien
+sew: naaien
+sharp: scherp
+sharp: scherp
+short: ket
+short: kort
+sing: zingen
+sing: zinge(n)
+sit: zite(n), nê zete
+sit: zitten
+skin: huid
+skin: vel
+sky: hemel
+sky: hêmel
+sleep: slapen
+sleep: slôpe(n)
+small: klein
+small: smal
+smell: rieken
+smell: rîke(n)
+smell: ruiken
+smoke: fuméé;
+smoke: roken
+smooth: zacht
+smooth: zacht
+snake: slang
+snow: sneeuw
+snow: snîe
+some: em bètshe
+some: sommige, een beetje
+spit: spike(n)
+spit: spuit
+split: delen
+squeeze: knijpen
+squeeze: persen
+stab: steek
+stand: staan
+stand: stôn
+star: ster
+star: ster
+stick: steken
+stone: steen
+stone: stîen
+straight: direct
+straight: direct
+straight: recht
+suck: zûeghe
+suck: zuigen
+sun: zon
+sun: zon
+swell: zwellen
+swell: zwole(n)
+swim: zweme(n)
+swim: zwemmen
+tail: staart
+tail: stôrt
+that: da, date, dade
+that: dat, die
+there: daar
+there: dô
+they: zâe
+they: zij
+thick: dik
+thick: dik
+thin: dun
+thin: dun
+think: denken
+think: pâze(n)
+this: da, dad éé
+this: dit, deze
+thou: ghâe, ghe
+thou: jij, je
+three: drâ
+three: drie
+throw: werpen
+tie: binden
+tongue: tong
+tongue: tong
+tooth: tand
+tooth: tand
+tree: boom
+tree: bûem
+turn: draaien
+turn: drôie(n)
+two: twee
+two: twîe
+vomit: braaksel
+vomit: kotse(n)
+walk: gaan
+walk: lopen
+walk: marchêre(n)
+warm: warm
+warm: wèrem
+wash: wase(n)
+wash: wassen
+water: water
+water: wôter
+wet: nat
+wet: nat
+we: wâ,wâele
+we: wij
+what: wat
+what: wa, wat, wadde
+when: wanîer
+when: wanneer
+where: waar
+where: wô
+white: wit
+white: wit
+who: wéé
+who: wie
+wide: breed
+wide: brîed
+wife: vrouw, echtgenote, bruid
+wife: wâef, vrâ
+wind: wind
+wind: wind
+wing: vleeghel
+wing: vleugel
+wipe: efasêre(n)
+wipe: wissen
+with: met
+with: mè(t)
+woman: vrâ, moke
+woman: vrouw
+worm: worm
+year: jaar
+year: yôr
+yellow: geel
+yellow: ghêl
+you: ghae
+you: u

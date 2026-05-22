@@ -1,0 +1,183 @@
+all: məkəǰaŋ
+and: aǰak
+animal: buron
+ashes: abu
+back: tundun
+bad: ǰəle
+bark: kulit
+because: apan
+belly: basaŋ
+bird: kədis
+bite: ñəgut (čəgut)
+black: səbm
+blood: gətih
+blow: ŋ-upin
+bone: tulaŋ
+breast: ñoño
+breathe: aŋkih-an
+burn: nuñǰəl (tuñǰəl)
+child: anak čənik
+cloud: guləm
+cold: diŋin
+come: təkə
+correct: bənəh
+count: mətek(pətek)
+cut: nugəl (tugəl)
+die: mati
+dig: (baŋbaŋ)
+dirty: daki
+dog: čičiŋ
+drink: ŋ-inəm
+dry: tuh
+dull: puntul
+dust: buk
+ear: kupiŋ
+earth: [gumi]
+egg: taluh
+egg: taluh
+empty: puyuŋ
+eye: matə
+fall: tîpʷɔ
+far: ǰoh
+father: bapə
+fat (n.): muluk
+fear: ǰəǰəh
+few: bədik
+fingernail: ʔasa
+fire: api
+fish: be
+five: limə
+float: ŋambaŋ (kambaŋ)
+flower: buŋə
+flow: ŋ-əmbah
+fly (v.): mə-kəbər
+fog: limut
+foot: batis
+forest: alas
+four: pat
+frog: katak
+fruit: [buah]
+full: bək
+give: maaŋ (baaŋ)
+good: luuŋ
+grass: padaŋ
+green: gadaŋ
+guts: basaŋ
+guts: basaŋ
+hair: bok
+hand: limə
+head: təndas
+hear: niŋəh (diŋəh)
+heart: (pə)pusuh-an
+heavy: baat
+he: iə
+hit: ñagur (ǰagur)
+horn: tanduk
+how: kenken
+hunt: mə-[boros]
+husband: No specific term
+ice: [es]
+if: [yen]
+I: [(i)čaŋ]
+in: (di) teŋah
+kill: ŋə-mati-aŋ
+knee: əntud
+know: tau
+lake: danu
+large: [gəde]
+laugh: kədek
+leaf: don
+left: kebot
+leg: batis
+lie: mə-[sare]
+live: idup
+liver: ati
+long: dawə
+louse: kutu
+man: anak muani
+many: liu
+meat: isi
+moon: bulan
+mother: meme
+mountain: gunuŋ
+mouth: buŋut
+name: adan
+narrow: čupit
+near: paək
+neck: baoŋ
+new: marḳ
+night: Pətəŋ
+nose: čuŋuh
+old: tuə
+one: s(ə)-
+person: anak
+play: mə-čandə
+pull: ŋədəŋ (kədəŋ)
+push: ñorog (sorog)
+rain: uǰan
+red: barak
+right: təŋawan
+river: tukad
+road: [ruruŋ]
+root: akah
+rope: tali
+rotten: bərək
+round: bundər
+rub: ñutsut (sutsut)
+salt: uyah
+sand: bias
+say: ŋ-[orah]-aŋ
+sea: pasih
+sea: pasih
+seed: batu
+sew: ñait (ǰait)
+sharp: maŋan
+short: bawak
+sing: gəndiŋ
+sit: nəgak  (təgak)
+skin: kulit
+sky: laŋit
+sleep: puləs
+small: čənik
+smell: ŋ-adək(-in)
+smoke: andus
+smooth: bəlig
+snake: (Iə)lipi
+spit: mə-kəčuh
+split: ñibak (sibak)
+stab: nəbək (təbək)
+stand: mə-ǰuǰuk
+star: biηtaŋ
+stick: tuŋkəd
+suck: ñə(p)səp  (sə(p)səp)
+sun: ai
+tail: ikut
+thick: təbəl
+think: mə-kənəh
+thin: tipis
+thou: čai
+three: təlu
+throw: ñabat (sabat)
+tie: nəgul (təgul)
+tongue: layah
+tooth: gigi
+tree: puña-n kayu
+turn: madiŋaŋ
+two: duə
+vomit: ŋ-utah
+warm: kəbus
+wet: bəlus
+what: apə
+when: pidan
+which: əñčen
+white: putih
+who: ñen
+why: ŋudə
+wide: lombeŋ
+wind: aŋin
+wing: kampid
+woman: anak luh
+worm: ǰlati
+wrong: pəlih
+year: tiban
+yellow: kuniŋ

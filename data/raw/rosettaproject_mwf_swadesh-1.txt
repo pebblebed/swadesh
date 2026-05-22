@@ -1,0 +1,170 @@
+and: i
+arm: nici ~ -be-
+back: paŋkin ~ -dari-
+belly: maːda
+belly: maḍa ~ -maḍa-
+big: ŋala
+bite: -lele
+blood: gumuluŋ
+bone: munu
+bone: muṇu
+brother: ŋat̪an
+cheek: t̪amuru ~ ðamuru-
+chest: maḍa yidi ~ -maḍa-
+child: mamay
+child: wakal
+cold: burbur
+crocodile: kanantuṭuṭ
+cut: -ṭal-
+cut: -waḷ-
+die: -pup-
+dig: -bir-
+dig: -tuy-
+dog: weɹ̣e
+drink: -guduk-
+dry: tumtum
+ear: ɟe ~ -ye-
+eat: -ac-
+egg: dumdum
+emu: kanaŋant̪an
+eye: gamal
+eye: kaḍirak ~ kaḍari-
+eye: kamaḷ ~ -ŋka-
+face: kamaḷ ~ -ŋka-
+fall: -bat-
+far: ŋacpar
+father: yile
+fire: d̪uŋgu
+fish: ŋuḷmiḷ
+fly (n.): moːl
+fog: t̪apak
+foot: me ~ -me-
+forehead: wulumu ~ -lu-
+full: -ðalet-
+full: ðaletet
+give: -mut-
+good: pat̪a
+hand: maŋe ~ -ma-
+head: bɛlbid
+head: pelpic ~ -we-
+hear: -yepup-
+here: kaɲi
+he/she: gaɲi
+he/she: -na-
+he/she: -ŋe-
+he/she: nigunu
+he/she: nigunu
+he/she: nukunu
+he/she: nukunu
+he/she: -ø-
+he/she: -ø-
+hit: -ḍe-
+hold: -yit-
+house: celput
+how: t̪aŋku-ɹ̣e
+I: -ŋa-
+I: ŋai
+I: ŋay
+I: ŋay
+I: -ŋi-
+kangaroo: ŋalmuŋgu
+knee: piŋkaḷ ~ -wiŋka-
+leg: lawali ~ -bu-
+lip: t̪at̪pi ~ -ðawi-
+liver: pun̪u
+man: gadu
+man: -neme
+man: nugaṇ
+many: teɹ̣et
+meat: ŋen
+moon: mɛrg
+mother: kale
+mouth: dädbi
+mouth: t̪at̪pi ~ -ðawi-
+narrow: ŋalɟe
+neck: t̪amaḷ ~ -ðama-
+night: ɟipiɲi
+not: meɹ̣e
+old: muɟiŋka
+person: kaḍu
+play: ɟekɟek
+pull: -ɹ̣ur-
+rain: -yel-
+rain: yelyel
+river: ŋipilin̪
+see: -yer-
+shoulder: lamala ~ -mala-
+sit: -wup-
+sleep: -wit-
+small: wakal
+smoke: wanag
+smooth: tiðaltiðalmam
+snake: paŋkuy
+stand: -dal-
+stone: paʎer
+sun: ŋuŋa
+sun: ŋuŋa
+sun: tina
+sweet: ɟiðay
+take: -bac-
+that: pana
+there: paŋu
+they: bɛː
+they: -n-
+they: pigunu
+they: -ra-
+they two: bɛːninda
+they two: ...-ŋint̪a
+they two: -nku-... -nint̪a
+they two: peni-
+this: kaɲi
+thou: -ɲi-
+thou: ɲiɲi
+thou: ɲiɲi
+thou: ɲiɲi
+thou: -mpa-
+thou: -nan-
+thou: nangu
+thou: nanki
+thou: -nara-
+three: -nɛmɛ
+throw: -bat-
+tongue: ɟɛman
+tongue: ɟemen ~ -t̪anme-
+tooth: dimu ~ -di-
+tree: t̪ay
+two: -ninda
+vomit: -be-
+vomit: bebe
+walk: -ø-
+walk: -wiɲat-
+wallaby: lawaṇka
+wash: -puḷ-
+water: goɹ̣a
+water: kuɹ̣a
+we (excl.): ŋangu
+we (excl.): ŋanki-
+we (incl.): ŋangu
+we: -ŋan-
+we: -ŋara-
+we two (excl.): ŋanguninda
+we two (excl.): ŋanku-
+we two (excl.): -ŋanku-... -nint̪a
+we two (excl.): ...-ŋint̪a
+we two (incl.): -ɲe-
+we two (incl.): nɛgi
+we two (incl.): neki-
+what: ŋara
+when: minɟiɹ̣e
+where: ŋara waŋu
+white: bamam
+who: naŋkal
+wife: palŋun
+wind: wirir
+woman: balŋun
+woman: -ŋime
+yesterday: kuŋiniɹ̣e
+you two: nanguninda
+you two: nanku-
+you two: -nanku-... -nint̪a
+you two: ...-ŋint̪a

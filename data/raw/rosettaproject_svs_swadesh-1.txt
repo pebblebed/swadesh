@@ -1,0 +1,748 @@
+all: dulo
+all: dulo
+all: ndulu(zepo)
+and: zu
+and: zu
+arm: kakau
+arm: kakau
+arm: kakau
+arrow: kukauti
+ashes: lavu
+ashes: lavu
+ashes: le.yo
+ashes: ravu
+back: potopoto
+back: potopoto
+bad: isa-rongo
+bad: isaroŋo
+bad: isaroŋo
+bad: isa-rono
+bad: ise
+bad: omandi
+bark: korakora
+bark: korakora
+bark: korakora
+because: apoi
+belly: peka
+belly: pika
+belly: pika
+big: d(u)irongo
+big: duzi
+big: ngai
+big: ŋai
+big: ŋai
+bird: kasu
+bird: kosu
+bird: kosu
+bird: kosu
+bite: l-ou
+bite: lovali
+bite: l-ova-li
+bite: l-ova-li
+bitter: mamai
+black: boraga
+black: boraga
+black: borayai
+black: lavumal
+black: mbɔraɣa
+blood: ɣambu
+blood: gabu
+blood: gabu
+blow: vuili
+bone: tovolo
+bone: tovolo
+bone: tovolo
+branch: angge
+branch: aŋge
+breast: susu
+breast: susu
+breast: susu
+breathe: azeaze
+brother: ŋai tone
+brother: tone
+burn: ora
+burn: ora
+burn: orai
+burn: tuŋili
+butterfly: bebeula
+butterfly: bebuela (m./f.)
+butterfly: gangala
+butterfly: mbembeula
+cheek: labe
+cheek: labe
+chest: tutusua
+child: ñuba/zu(m)ba
+child: ɲuba
+child: zuba
+child: zumba ~ ɲumba
+chin: ngoa
+chin: ŋoa
+cloud: muzi
+cloud: muzi
+cloud: muzi
+cloud: ndara
+cold: ɣaule
+cold: gaule
+cold: gaule
+cold: kahasui
+cold: kakasu
+come: ba
+come: ba
+come: mbaia
+come: (m)baia
+correct: ⁿdaisa patulo
+count: paⁿdali
+count: pandali
+crocodile: vua
+crocodile: vua
+crocodile: vu(w)a
+cut: ⁿdukuli
+cut: (n)dukuli
+cut: sarili
+cut: sukili
+dance: dele
+daughter: ñuba
+daughter: ɲuba
+daughter: zuba
+daughter: zuba
+day: ivagho
+day: ivaɣu
+day: manga
+day: maŋa
+die: ave
+die: ave
+die: ave(i)
+dig: bopa
+dig: nggore
+dig: ŋgore
+dirty: lumusa
+dirty: mboraɣa
+dog: misu
+dog: misu
+dog: misu
+drink: pisoi
+drink: pizo
+drink: pizo-(l)i
+drink: pizo/pizo-li
+dry: viɣe
+dry: viŋge
+dry: vingge(i)
+dust: reka
+dust: reka
+ear: taɣalu
+ear: tanggalu
+ear: taŋgalu
+earth: doi
+earth: doi
+earth: doi
+earth: doi
+earth: ⁿdoi
+earth: magini
+earth: ñapat
+eat: lou
+eat: l-ou
+eat: lo-u
+eat: samu
+eat: samu
+eat: samu(-i)
+egg: kolei
+egg: kolei
+egg: si
+egg: si
+egg: si
+elbow: pulika
+excrement: zugha
+eye: nito
+eye: nito
+eye: nito
+eye: nito-isi
+face: lambi
+face: nggele-nggele
+face: nito
+fall: tani
+fall: tau
+far: savola
+far: suɣu(la)
+father: mao
+father: mau
+father: mau
+father: mau
+fat (n.): duisa
+fat (n.): duisa
+fat (n.): sereɣa
+fat (n.): seregha
+fear: ⁿdaⁿda
+fear: ndandai
+feather: sivuɣa
+feather: sivuga
+feather: sivuga
+fight: kise
+finger: karakara-bizi
+finger: nae-rieikina (?)
+fingernail: kelekelemuzi
+finger: ririkina
+finger: ririkina
+fire: keda
+fire: keda
+fire: keⁿda
+fire: kende
+fire: ruru
+fish: mi
+fish: mi
+fish: mi(i)
+five: ara
+five: ara
+five: ara
+five: araga
+float: tave
+flower: sisi
+flower: sisi
+flower: sisi
+flow: raɣe
+fly (n.): kuriɣiⁿdi
+fly (v.): pevu
+fly (v.): pevu
+fly (v.): pevu
+fog: lavo
+fog: lavo
+fog: lavo
+foot: malambalambasua
+foot: nato
+foot: nato
+forehead: seɣeseɣe
+forehead: sengesenge
+forest: ao
+four: aɣava
+four: agava
+four: agava
+fruit: aegu
+fruit: aigu
+fruit: aigu
+fruit: aiɣu
+fruit: igu
+full: seɣe
+full: sege
+full: sege
+give: lameli
+give: lame-li
+give: lame-li
+give: lemoli
+good: ⁿdai
+good: dai toa
+good: dai (toa)
+good: ditoa
+good: uria-
+grass: buruburu
+grass: buruburu
+grass: mburumburu
+green: eko
+green: ekɔ
+green: gola kiba
+green: kola kiba
+green: ŋgolakimba
+guts: boli
+guts: mboli
+hair: luta
+hair: sinita
+hair: sivuɣa
+hair: sivuga
+hair: sivuga
+hand: kakau
+hand: kakau
+hand: kakau-kika
+head: batu
+head: batu
+head: kinighe
+head: mbatu
+hear: ene
+hear: eneli
+hear: ene-li
+hear: ene(-li)
+heart: kidopuruma
+heart: kidopuruma
+heart: kindopurama
+heavy: mboze
+heavy: (m)bozei
+here: ata
+he/she: -gi
+he/she: go
+he/she: k-
+he/she: ko
+he/she: ko
+he/she: ko
+he/she: l-
+he/she: -li
+he/she: lo
+he/she: lo
+he/she: lo
+he/she: lo
+he/she: lo
+he/she: lova
+he/she: lova
+hit: kisei
+hit: lali
+hit: (l-)ali
+hit: l-ali
+hit: lumulumui
+hit: zaghata
+hold: late
+hold: latei
+hold: lava/lama/lagelo/lame(-ga)
+hole: (n)duru
+house: tuvi
+house: tuvi
+house: tuvi
+how: aketi
+how: aketi (?)
+how: alea
+how: maitei
+how: mai tei sua (?)
+hunt: ruɣu
+I: ai
+I: aɲi
+I: aɲi
+I: aiva ~ aima
+I: añi
+if: kia
+I: ñ-
+I: ñe
+I: -ñi
+in: pale
+jaw: ngoa
+jaw: ŋoa
+kill: l-ali
+kill: lali laveli
+knee: tuturinga
+knee: tuturiŋa
+knee: tuturiŋa
+know: lolomi
+know: lolomi
+know: lomi
+know: olomi
+know: savu-li
+know: savu-li
+laugh: leka
+laugh: leka(i)
+leaf: kiba
+leaf: kiba
+leaf: kimba
+left: male
+left: male
+leg: nato
+leg: nato
+leg: nato
+lie: pau
+lie: pau
+lie: pau
+lightning: vila
+lightning: vila
+liver: kalakala
+liver: kalakala
+liver: kalakala
+live: taunya
+live: toghoi
+live: toɣo sua
+long: sangava
+long: saŋava
+long: savaŋa ~ saŋava
+louse: dole
+louse: dole
+louse: ⁿdole
+louse: doli
+louse: lise
+man: mapa
+man: mapa
+man: mapa
+man: mapa
+man: mapa
+man: tada
+man: tada
+man: tanda
+many: supu
+many: supu
+many: supuroŋo
+many: supu-torongo
+meat: melomelo
+meat: melomelo
+meat: melomelo
+meat: melomelo
+meat: melomelo
+moon: kuɣe
+moon: kuge
+moon: kuge
+moon: kughe
+morning: ropo
+morning: ropo
+morning: ropo
+mosquito: namunamu
+mosquito: ñoñokea (m./f.)
+mosquito: ɲoɲokea
+mosquito: ɲoɲokea
+mother: mama
+mother: mama
+mother: mama
+mountain: teteɣa
+mountain: tetega
+mountain: tetega
+mouth: napu
+mouth: napu
+mouth: napu
+name: nini
+name: nini
+name: nini
+narrow: koghaza(i)
+navel: lambu
+near: manela
+near: ɣoita
+neck: tua
+neck: tua
+neck: tua
+new: iɣe sua
+new: ige sua
+new: ige sua
+new: ighesua
+night: musanga
+night: musaŋa
+night: musaya
+night: muzi
+night: muzi
+night: muzi
+nose: ñoko
+not: goma
+not: goma
+not: ɣɔma
+old: ⁿdakimapa
+old: lumu
+old: lumusai
+old: sua
+old: taⁿdamapa
+old: ta\nda
+old: ta\nda
+one: ela
+one: ela
+one: ela
+one: pa
+one: pa
+one: pa
+person: mapa
+person: mapa
+person: mapa
+person: perongo
+play: kakami
+pull: raghili
+pull: raɣili
+push: erili
+push: erili
+rain: kuma
+rain: kuma
+rain: kuma
+rain: uza
+rat: kuzi
+rat: kuzi
+rat: kuzi
+red: sisi
+red: sisi
+red: sisi
+right: tovi
+right: tovila
+river: njai
+river: ⁿǯai
+road: keva
+road: keva
+road: keva
+root: oɲe
+root: oɲe
+root: oñe
+rope: gue
+rope: gue
+rope: mili
+rope: mili
+rope: ropu
+rope: ropu
+rotten: mboto
+rotten: mora
+rotten: mora(i)
+round: taligu
+round: taligu
+rub: ɣaⁿǯiɣaⁿǯi
+salt: ñañue
+salt: nanui
+sand: nughut
+sand: nugunugu
+sand: nugunugu
+sand: nuɣunuɣu
+say: savoli
+say: savule
+say: savuli
+say: savu-li
+say: savu-li
+say: tei
+say: tei
+say: tei
+say: veragu
+scratch: karikari
+sea: ɲaɲui
+sea: ɲaɲui
+sea: ñañui
+sea: zorara
+seed: aigu
+seed: aigu
+seed: kato
+seed: ka:to
+see: leɣe
+see: (l-)ege
+see: l-ege
+sew: sukisuki
+sharp: nemeali
+short: kula
+short: ku:lai
+shoulder: lakelake
+shoulder: lakelake
+sing: linge
+sing: liŋe
+sister: toka
+sister: totoa
+sister: totoa
+sit: epi
+sit: epi
+sit: epi(a)
+skin: korakora
+skin: korakora
+skin: korakora
+sky: ho
+sky: oka
+sky: pa(n)da
+sky: pda
+sleep: izi
+sleep: izi
+sleep: izi
+sleep: ziale
+small: ɲari
+small: nari
+small: nari
+small: ñarisai
+smell: eneli
+smell: kinu eneli
+smoke: akuaku
+smoke: azua-li
+smoke: azuazu
+smoke: azuazu
+smoke: azuazu
+smooth: mambo
+snake: pepei
+snake: pepei
+snake: pepel
+son: ñuba
+son: ɲuba
+son: zuba
+son: zuba
+sour: nuneui
+spit: suasua
+split: votali
+squeeze: lusili
+stab: nggulunggalui
+stand: alu
+stand: alu
+stand: alu
+stand: da(n)dai
+star: simusimu
+star: simusimu
+star: simusimu
+star: vituvu
+stone: kato
+stone: kato
+stone: kato
+stone: kobarei
+straight: lolotɔ
+suck: uzili
+sun: kuli
+sun: kuli
+sun: kuli
+sweet: imo
+sweet: kinokino
+swell: uva
+swim: olo
+swim: puɲe
+swim: puñe
+tail: kodo
+tail: kodo
+tail: koⁿdo
+take: l-au
+take: l-au
+take: vanavanaghoi
+take: vanavanaɣo
+that: lo
+that: lo/ko/to/lo
+there: ota
+they: -mi
+they two: t-
+they two: te
+they two: -ti
+they two: to
+they two: to
+they two: to
+they two: to
+they two: to
+they: z-
+they: ze
+they: ze(-po)
+they: ze(po)
+they: zepo ~ ze
+they: zeva
+thick: uzuma
+thick: uzuma(i)
+thigh: kususua
+think: ɣanaɣana
+think: ghanaghana(i)
+thin: uve
+thin: uvei
+this: ai ko
+this: ai lo
+this: ailo ~ aiko
+this: ai lo/ko/to/lo
+thorn: karu-karu
+thou: me
+thou: meva
+thou: n-
+thou: -ni
+thou: no
+thou: no
+thou: no
+thou: nova
+three: igava
+three: igiva
+three: iɣiva
+throat: tave-tave
+throw: solu(i)
+thunder: dulodulo
+thunder: dulodulo
+thunder: paⁿda
+thunder: pa(n)da
+tie: laungasi
+tie: pitili
+tie: piti-li
+tie: pitipiti
+tie: pitipiti
+today: aziɣa
+tomorrow: poŋgala
+tongue: lapi
+tongue: lapi
+tongue: lapi
+tooth: nale
+tooth: nale
+tooth: nale
+tooth: ngale
+tree: kola
+tree: kola
+tree: kola
+turn: piliza
+two: edo
+two: edo
+two: eⁿdo
+vagina: kai
+vomit: mumuta
+walk: bo
+walk: bua
+walk: lelakeva
+walk: mbo
+walk: mboi
+walk: rage
+walk: vanovano
+walk: vanovano
+warm: parapara
+warm: parapara
+warm: parapara
+wash: saɣilia
+wash: uasi
+water: piva
+water: piva
+water: piva
+water: pivu
+we: ave
+weep: langili
+weep: ngei
+weep: ngei
+weep: ŋei
+we (excl.): age
+we (excl.): age
+we (excl.): ave
+we (excl.): ave
+we (excl.): aveva
+we (incl.): mai
+we (incl.): mai
+we (incl.): mai
+we (incl.): mai
+we (incl.): mai
+we (incl.): maiva
+we (incl.): maiva
+we (incl.): me
+we (incl.): -miñi
+we (incl.): ñ-
+we: ñ-
+wet: mizo
+wet: mizo(i)
+we two: age
+we two (excl.): aɣe
+we two (excl.): aɣe
+we two (excl.): ave
+we two (excl.): ave
+we two: ge
+we two: -gi
+we two (incl.): mai
+we two (incl.): mai
+we two (incl.): mai
+we two (incl.): mai
+we two (incl.): mai
+we two (incl.): me
+we two (incl.): -miñi
+we two (incl.): ñ-
+we two: ñ-
+we: ve
+we: -viñi
+what: ake
+what: ake
+what: apa
+what: apoi
+what: apoi
+what: lapoi ~ apoi
+what: mai tei sua
+what: mai te sua
+when: avasa
+when: avasa
+where: ala
+where: alalia
+white: sere
+white: sere
+white: sere
+who: ai
+who: ai
+who: ai
+wife: madaki
+wind: ghulighuli
+wind: guliguli
+wind: guliguli
+wind: ɣuliɣuli
+wing: ɣavara
+wing: g(h)avara
+wipe: maŋomaŋo
+woman: adaki
+woman: adaki
+woman: aⁿdaki
+woman: adoki
+year: eleɣo
+yellow: oreorega
+yellow: posovata
+yellow: posovata
+yellow: posovata
+yes: eo
+yesterday: moibi
+yesterday: moimbia
+you: m-
+you: me
+you: me
+you: -mi
+you two: p-
+you two: pe
+you two: pe
+you two: pe
+you two: -pi

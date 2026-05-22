@@ -1,0 +1,298 @@
+all: láːzak
+all: sɔ́n
+and: ʔbɔ
+and: go
+and: nɛ
+and: ŋmgbáŋ
+and: tɛ
+animal: saʔde
+arm: ʔbaka
+arm: ér˗
+arrow: kura
+ashes: búː˗wey
+back: ʔdoŋ
+back: kɔ́r˗
+bad: ʔnáŋ
+bark: fyo
+because: wen
+belly: súʔbé
+belly: zaŋ
+big: ga͂́sá
+big: zɔm
+bird: ŋgeri(á)
+bird: yɔ͂ŋ˗á
+bite: nɔ͂́y
+bite: yɔ͂ŋ˗á
+black: tu͂˗ɔ́
+blood: tɔ͂k
+blow: dɔm˗á
+blow: yu˗ó
+bone: gba͂ra
+breast: bere
+breathe: ɔm˗á
+brother: ya͂́˗wéey
+burn: ber˗á
+burn: dɔ˗á
+chest: ŋguʔdú
+child: bé˗
+child: béem
+chin: zaʔda
+cloud: bú˗záan
+cloud: kóro
+cold: gɛ͂ɛ́
+come: tɛ˗á
+correct: ɔ́ nɛ́ ʔdoŋ˗wáraː
+count: tɔ͂r˗á
+cut: du͂m˗ɔ́
+cut: gɔn˗á
+cut: sɛ͂k˗á
+cut: tok˗á
+dark: tu͂˗ɔ́
+daughter: bé˗kóo
+day: wesé
+die: fe˗á
+die: fey
+dig: gu͂n˗ɔ́
+dig: za͂˗á
+dirty: ndíiŋ
+dog: toró
+drink: nɔ˗á
+dry: bɛrɛ
+dust: fire˗nu
+earth: nu
+ear: zɛra
+eat: yɔ͂ŋ˗á
+egg: kúri
+eye: ríp
+face: ríp
+fall: aya˗á
+fall: ri͂k nu
+fall: tek˗á
+far: yɛ͂r˗á
+father: yám
+fat (n.): nɔ
+fat (n.): nɔ
+fear: kéey
+feather: vúmɔ́˗nɔ́y
+few: ndéː
+fight: bi biro
+finger: eŕ˗
+fingernail: ŋgɔ́k˗éː
+fire: wey
+fish: zoro
+five: mɔ͂ːrɔ́
+flower: dóá te
+flow: fok˗á
+fly (n.): zi͂́
+fly (v.): bu͂ri(ɔ́)
+fog: kutú
+foot: náŋ
+forehead: dɔ͂́ɔ́tí
+four: na͂́á
+fruit: wáyá
+girl: bé˗kóo
+give: ha˗á
+good: dé
+good: déʔdé
+grass: zɔ͂́
+guts: ya͂k˗zaŋ
+hair: vúmɔ́
+hair: vúmɔ́
+hand: ér˗
+head: tan
+head: zu
+heart: ʔbúrúŋgú
+hear: zer˗á
+hear: zeː wen
+heavy: di͂˗rɔ́
+heavy: di͂ti(ɔ́)
+here: di͂́i
+here: na
+he/she: a͂
+he/she: a͂
+hit: ri͂k˗ɔ́
+hit: ro˗á
+hold: ka͂si(á)
+hole: kɔ͂
+hole: woro
+horn: zak
+house: tuwa
+how: ʔdoŋ˗wáː
+hunt: kiʔdi saʔde
+husband: wéey
+if: gán
+I: mbí
+in: dɔr˗
+in: kɔ͂
+kill: gbɛ˗á
+knee: zu˗goro
+know: i͂ŋ˗ɔ́
+laugh: mam˗á
+leaf: wa͂́
+left: gale
+leg: kú
+lie: ɔ nu
+lightning: pi͂́ɔ́ kóro
+lip: wéːy˗nú
+live: du͂ŋ˗ɔ́
+live: kpasi(á)
+liver: sɛra
+long: dur˗ó
+man: wéey
+man: wéey
+many: dɔ́ka
+meat: kiri˗tɛ
+meat: mu͂r˗
+meat: saʔde
+meat: saʔde˗tɛ
+moon: ze
+morning: fara ʔbaː
+morning: ture
+mother: naː
+mountain: kara
+mountain: kara
+mouth: nú
+name: yín
+near: dɔ͂́ɔ́
+neck: gɛ́r˗
+new: mbé
+night: ga͂́á fara
+night: mbóro
+night: zɛ
+not: gan... ná
+old: a͂́
+old: sɔ́kái
+old: sɔ́kái
+one: kpém
+one: tí
+person: wí˗
+person: wí˗ré
+play: dɛ˗saː
+pull: gbur˗ó
+pull: yɔy˗á
+push: ir˗ó
+push: ʔnɔŋ
+rain: kóro
+red: gbɛ͂˗á
+right: wáː˗wéey
+river: bé˗ri
+river: ri
+road: ʔdoŋ˗wáː
+road: wár˗
+root: yín
+rope: pɛ́r˗
+rotten: mbɔr˗á
+round: kokoroŋ
+round: kor
+rub: ho͂ŋ˗á
+rub: nu͂r˗ɔ́
+salt: tɔ́ŋ
+sand: rɛ͂mɛ
+say: tɔ͂˗á
+say: tɔ͂ wen
+seed: gba͂ra
+see: kɛ͂r˗á ~ kɛ͂ɛ
+see: zɔk˗á
+sew: fu͂r˗ɔ́
+sew: kɔk˗á
+sew: tok˗á
+sharp: tɔ˗á
+short: dɔ͂́ɔ́
+shoulder: zu˗ʔbaka
+sing: sa gima
+sister: ya͂́
+sister: ya͂́˗kóo
+sit: du͂ŋ˗ɔ́
+sit: soy˗á
+skin: ʔbor˗á
+skin: yɔ
+sky: ríp˗záan
+sleep: yara
+small: bé˗
+small: gɛk
+smoke: zɛ͂́˗wey
+smooth: rɔk˗á
+snake: gɔ́k
+snow: mu͂́rú
+son: bé˗ŋgay
+son: bé˗wéey
+sour: kpa͂y˗á
+spit: kɔli(á)
+split: mbaŋ˗á
+stand: yor˗á
+star: sɔ́rá
+stone: ta
+straight: tan˗á
+suck: am˗á
+sun: wesé
+sweet: nɔ́˗gɔ͂rɔ
+sweet: ri˗gɔ͂rɔ
+swim: zoy ri
+tail: ti͂r˗
+take: ba˗á
+take: kay˗á
+take: zu˗ó
+that: i͂́í
+there: aáyɛ
+there: fyɛ
+there: iyɛ
+there: mɛ
+they: wa
+thick: ndoti(á)
+think: saː sɛ́k
+this: ɛ͂ɛ́
+this: ŋɔ́ɔ
+thou: mɛ́
+three: taː
+three: tar˗
+throat: gɛ́r˗
+throw: a˗á
+throw: e˗á
+throw: pi͂˗ɔ́
+thunder: kóro dik
+tie: hɛ͂r˗á
+tie: kpo˗á
+today: sɔ́ɔ
+tongue: lép
+tooth: gogo
+tooth: yín
+tree: te
+turn: gam tɛ
+turn: kip tɛ
+two: ríːto
+vagina: mɔ˗foyo
+vagina: ton
+vomit: ɔ͂y˗á
+walk: nɛ˗á
+walk: nɛ nɔ
+walk: yar˗á
+walk: zaʔdi yui
+warm: gbɛŋ˗á
+wash: fɔr˗á
+wash: zoy ri
+water: ri
+weep: hey kɔ͂wá
+weep: mu͂́rú˗kɔ͂wá
+we: ɛ́rɛ́
+wet: ŋma˗á
+what: ge
+when: ge wesé˗ge
+where: íye
+white: bú
+white: zólóló
+who: ge wí˗ge ndé
+who: o
+wide: pesi(á)
+wife: kóo
+wind: búk
+wing: ʔbaka
+with: ín
+with: nɛ́
+woman: kó˗
+woman: kóo
+woman: zɔ́ŋá
+wood: bé˗te
+wood: te
+year: pɛ
+yesterday: zɛ́ɛ
+you: wí

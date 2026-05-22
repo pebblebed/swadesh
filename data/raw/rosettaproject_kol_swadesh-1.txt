@@ -1,0 +1,168 @@
+all: kuaŋ
+arrow: toi
+ashes: sɒːno
+back: sui
+back: tiː (mo)
+bad: ka maːno
+bark: kalißo
+belly: koßia
+big: puːo
+bird: ule
+bite: gɒːgo
+black: keːreː
+blood: beːla
+bone: tiːle
+boy: gol tiːniŋ
+breast: tombo
+brother: moːpal
+burn: gansal ma
+child: gol tipateŋ
+chin: koŋ
+claw: ulußɒ
+cloud: iɒːno
+cold: goːroneŋ
+come: gemo
+day: al
+day: ilatogo
+die: olo mo
+dog: kuɒː
+drink: meliŋ
+dry: seː
+ear: bula
+earth: kari
+eat: raŋ kal oy
+egg: kondola
+elbow: pola ku poloi
+emu: puele
+eye: penel
+fall: ga mo
+father: moːmaŋ
+fat (n.): komɛː
+feather: ul
+finger: perare
+fire: kuong
+fire: kuoŋ
+fish: oŋare
+five: aːmeleŋ
+fly (v.): ma bari pigaːre
+foot: peːre itetaː
+forehead: aːre
+four: keasːso
+full: gunoka
+girl: gol rin raːl
+give: meː ma o io
+good: maːna
+green: moːleː
+hair: komɒ
+hand: poloi
+head: kela
+hear: melalo
+heart: ule ti miŋ
+heavy: buliŋ
+he/she: mo
+he/she: mo
+hit: bakel
+horn: toi
+house: melaː
+I: io
+kill: moː olo mo
+knee: nere
+know: rutuŋ
+laugh: ropiɛː
+leaf: kelambol
+leaf: tamono
+leg: peːre
+lie: baː oŋ
+liver: ule ti bonɒŋ
+long: piaː
+louse: tare
+man: tɒː tiːniŋ
+many: pitɒuoŋ
+meat: uragɒ
+moon: igu
+morning: gerißiŋ
+mother: moːnaŋ
+mountain: gunɒ
+mouth: koru
+mouth: koru
+name: ole
+neck: kie
+neck: kiɛː
+new: pitalpe
+night: togo
+not: eße
+not: ka
+old: oliel
+old: peuŋ
+old: riateŋ
+one: pusuɒ
+person: titerarogo
+rain: riel
+rat: mieːle
+red: biniŋ
+road: keria
+root: kierogo
+round: ma memili
+sand: morɒːno
+say: geoŋ
+see: biso
+seed: klek
+seed: kuke
+short: pi ka pɛː
+shoulder: tanaße
+sister: moːial
+sit: muːal
+skin: tomolu
+sleep: gopolɒː
+small: ka puːo
+smoke: tiːni
+snake: teːna
+spit: go kal oŋ
+stand: roeːßiŋ
+star: kopie
+stone: lela
+sun: karege
+swim: guruŋ tiː gonu
+tail: gina
+tail: reː
+that: pe
+they: neŋ
+they two: neŋ tereŋ
+they two: neŋ tereŋ
+this: po
+thou: ne
+thou: ne
+thou: ŋo
+three: tetepe kosuɒ
+tomorrow: ikeɒːno
+tongue: ra\al
+tooth: mire
+tree: tiːnel
+two: tetepe
+walk: bari
+walk: boi
+wallaby: lueta
+warm: kareː
+water: gonu
+we (excl.): maŋ
+we (excl.): maŋ
+we (incl.): ñang
+we: mang
+wet: kuɛː
+we two (excl.): maŋ tereŋ
+we two (excl.): maŋ tereŋ
+what: kale
+when: pikoloŋ
+where: ikɒ
+white: paːle
+who: anto
+wind: ilu
+wing: pageː
+woman: raːl
+wood: te tiːnel
+yellow: kaːgeː
+yes: oia
+yesterday: keːta
+you: ngo
+you two: ŋo tereŋ
+you two: ŋo tereŋ

@@ -1,0 +1,101 @@
+all: eqa(na)
+arm: hipa
+ashes: wataaka
+bark: (yï)hviwa
+belly: awaqa
+big: naaqa
+bird: yanga
+bite: ta a-tav-qi
+black: heaawiqa
+blood: hangeqa
+bone: yankinta
+breast: aangwa
+burn: ta hanaqa asïqï
+claw: haapïnga
+cloud: qakwa
+cold: ïsïqa
+come: a-p-iqi
+die: apakwonatïnqï
+dog: hivyeqa
+drink: eqï a-n-ki
+dry: ye
+ear: qata
+earth: qwaa
+eat: a-n-ki
+egg: qwi
+eye: hingwa
+fat (n.): baawa
+feather: a
+fire: ta
+fish: hamapaka
+fly (v.): havyawa awïqi
+full: maankwï
+give: an-taap-ïai
+good: aankwa
+green: hevaatïqa
+hair: mdal mta
+head: mnyanga
+hear: qata w-i-gi
+heart: kameqwa
+horn: hiqwaanga
+I: nyi
+kill: pizaqa a-pa-sïqi
+knee: gwonga
+know: naaqïnka
+leaf: quwaïqa
+leg: zuka
+lie: hïqaqa a-wi
+liver: qeqa
+long: qwaavqa
+louse: yaaqa
+man: qoka
+many: qwaapa
+meat: haangwï
+moon: qaangwa
+mountain: qwaqwanga
+mouth: maanga
+name: yavqa
+neck: hingoqo
+new: hanga
+night: haatïqa
+nose: hima
+not: ma-
+one: hïnkwona
+person: amaaqa
+rain: piya
+red: hangesïqa
+road: hvanaqa
+root: huka
+round: pankwï
+sand: hika we
+say: atïqi
+seed: pika
+see: hingwa aqïna
+sit: qwaama a-pï-me
+skin: hviwa
+sleep: hiqaqa awi
+small: waang a
+smoke: suaaka
+stand: paamal
+stand: qwaama atiq-ava
+star: qataqweqa
+stone: hika
+sun: mapa(tïqa)
+swim: eqa ha-ki-qi
+tail: hawïqa
+that: ile
+this: ta
+thou: si
+tongue: tewa
+tooth: eqwaanga
+tree: iya
+two: hïnawaaqwo
+walk: qaanga a-w-ïqi
+warm: tïnanga
+water: eqa
+we (incl.): ne
+what: ïvsïge
+white: qapaaiqa
+who: tïqwe
+woman: apak
+yellow: waaqwusïqa

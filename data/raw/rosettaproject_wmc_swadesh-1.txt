@@ -1,0 +1,477 @@
+all: abubunita
+all: abubunita
+arm: ave-
+arm: avɛ-
+arrow: ʌːgri
+ashes: giagi
+ashes: giagi
+ashes: pamu
+ashes: pamu
+back: segeme-
+back: sɛgɛmɛ-
+bad: nʌː
+bad: në:
+belly: oa-
+belly: oa-
+belly: si
+belly: si
+big: me
+big: mɛ
+bird: ʌ
+bird: a:i
+bird: y
+bite: kɛye-
+bite: keye-/ke-
+black: pëmu
+black: pʌmu
+blood: ti
+blood: ti-
+blow: foti-
+blow: foti-
+bone: fahulu-
+bone: fahulu-
+boy: na kuma
+boy: na kuma
+breast: au
+breast: au
+brother: aßa-
+brother: aun-
+brother: aun-
+brother: ava-
+brother: kamun-
+brother: kamun-
+burn: malar-
+burn: malar-
+butterfly: bubur
+butterfly: bubur
+butterfly: pageri:bu
+butterfly: pagɛriːbu
+calf: dau
+calf: dau
+cassowary: du:wau
+cassowary: kiwë:ri
+chest: kogomu-
+chest: kogumu-
+child: na
+child: na
+chin: mai-
+chin: mai-
+cloud: saßɛ mɛgu
+cloud: saßɛ onʌmo
+cloud: save megu
+cloud: save onëmo
+cold: pau
+cold: pau
+cold: suhu
+cold: suhu
+come: so-
+come: so-
+crocodile: oni
+crocodile: oni
+crocodile: yamëy
+crocodile: yamʌy
+cut: katur-
+cut: katur-
+cut: ko-
+cut: ko-
+cut: ko-
+day: suhabë:g
+day: suhabʌːg
+die: ma-
+die: ma-
+dig: kar-
+dig: kar-
+dig: mo-
+dig: mo-
+dirty: duge horor
+dirty: duge hɔrɔr
+dog: pëi
+dog: pʌi
+dry: moëmau
+dry: moʌmau
+ear: dav-
+ear: dav-
+earth: wane
+earth: wane
+eat: za-
+eat: za-
+eat: zaifug-
+egg: hegu
+egg: hɛgu
+elbow: sunë(r)- fahu
+elbow: sunʌ(r)- fahu
+emu: duːwau
+emu: kiwʌːri
+excrement: si
+eye: ami
+eye: ami-
+face: ura-
+face: ura-
+fall: ba-
+fall: ba-
+fall: ko-
+far: batʌː
+far: batë:
+father: mama-
+father: mama-
+fat (n.): sumu
+fat (n.): sumu
+fear: vanëg-
+fear: vanʌg-
+few: fogʌ
+few: fogë
+fight: marʌ-
+finger: aßia
+finger: avia
+fingernail: kë:ru
+fingernail: kʌːru
+fire: ëre
+fire: ʌrɛ
+fish: marawa:ri
+fish: marawaːri
+fly (n.): buhë:ge
+fly (n.): buhʌːgɛ
+fly (v.): talikaha-
+fly (v.): talikaha-
+fog: të:gu
+fog: tʌːgu
+forehead: ura-
+forest: kuru
+forest: kuru
+fruit: ë:gu
+fruit: ʌːgu
+full: ë:mug how
+full: ʌːmug how
+full: wete-
+full: wetɛ-
+girl: nahe
+girl: nahɛ
+give: ža-
+give: zha/me-/mo-
+good: kië:gi
+good: kiʌːgi
+good: tɛiwotʌ
+good: teiwotë
+grass: seb
+guts: si
+guts: si
+hair: ßili
+hair: vili
+head: kimu
+head: tavi- karu
+head: tavi- karu
+hear: do-
+hear: do-
+heart: ti guta:u
+heart: ti gutaːu
+heavy: ku:a
+heavy: kuːa
+here: ame
+here: amɛ
+here: geame
+he/she: -d-
+he/she: -d-
+he/she: -d-
+he/she: -əg
+he/she: -əg
+he/she: nugo
+he/she: nugo
+he/she: nugo
+he/she: -ø
+he/she: -ø-
+he/she: -u
+he/she: -u
+he/she: -u
+he/she: -Vg
+hit: marë-
+hit: marë-
+hold: ët-
+hold: ʌt-
+house: ɟʌ
+house: jë
+how: katata
+I: -a
+I: -a
+I: -e
+I: -ɛ
+I: -i
+I: -i
+in: zëbo
+I: -r-
+I: -r-
+I: sa
+I: sa
+kill: marëre ma-
+kill: marʌrɛ ma-
+knee: tavar- ëmu
+knee: tavar- ʌmu
+laugh: kahe imo-
+laugh: kahe imo-
+left: nanimo
+left: nanimo
+leg: bëtëri-
+leg: bʌtʌri-
+lightning: amem ahi-
+lightning: amɛm ahi-
+liver: game-
+liver: gamɛ-
+long: wouta
+long: wouta
+louse: mi
+louse: mi
+man: dana
+man: dana
+man: gabo
+man: gabo
+many: kageni
+many: kagɛni
+many: wagide
+many: wagidɛ
+meat: dau
+meat: dau
+moon: noai
+moon: noai
+morning: tumërege
+morning: tumʌrɛgɛ
+morning: wanekilu
+morning: wanɛkilu
+mosquito: makene
+mosquito: makɛnɛ
+mother: ana-
+mother: ana-
+mountain: bori
+mountain: bori
+mouth: kauru-
+mouth: kauru-
+name: bina-
+name: bina-
+nape: nu- a:mu
+nape: nu- aːmu
+navel: sumuli-
+navel: sumuli-
+near: bi
+near: bi
+neck: gomore
+neck: gomorɛ
+new: kauta
+new: kauta
+new: vouva
+new: vouva
+night: tumahimou
+night: tumahimou
+nose: nowi-
+not: pi
+not: pi
+old: gedeme
+old: gedeme
+old: sagu
+old: sagu
+one: nonogota
+one: nonogɔta
+pull: aha-
+pull: aha-
+rain: vo
+rain: vɔ
+rat: pë:huna
+rat: pʌːhuna
+red: tita
+red: tita
+right: teibo
+right: tɛibo
+ripe: bele
+ripe: bɛlɛ
+road: i:bu
+road: iːbu
+root: sig
+root: sig
+rope: kɔːre
+salt: së:mu
+salt: sʌːmu
+sand: kehë:re
+sand: kɛhʌːrɛ
+sand: tasin
+say: ai + "give
+say: ai ža-
+say: nin \pa-
+say: nin ʔpa-
+scratch: ger-
+scratch: gɛr-
+sea: gagi
+sea: gagi
+see: aboyɛ-
+see: aß(o)-
+see: av(o)-/aboye-
+see: diʔpo-
+sharp: ë:guta:
+sharp: ʌːgutaː
+sharp: mete-
+short: tu:
+short: tuː
+shoulder: paya fahu
+shoulder: paya fahu
+sing: kahu ver-
+sister: kaßin-
+sister: kaßin- inahita
+sister: kavin-
+sister: kavin- inahita
+sit: kin-
+sit: kin-
+skin: gara-
+skin: gara-
+sleep: nig-
+sleep: nig-
+small: nëheta
+small: nʌhɛta
+smell: muhu aido-
+smoke: muhi
+smoke: muhi
+snake: mat
+snake: mat
+spit: daurɛ-
+spit: sonoma
+spit: sonoma
+split: sabilio-
+split: sabilio-
+stand: bata-
+stand: bata-
+stand: tari kah-
+star: bi:hi
+star: biːhi
+stick: bënore
+stone: ki
+stone: ki
+straight: mua
+straight: mua
+sun: bihi
+sun: bihi
+swell: ibid-
+tail: mëlu
+tail: mʌlu
+tail: sihëru
+tail: sihʌru
+take: ʌ-
+take: ë-
+that: baːtʌ
+that: ba:të
+there: wa
+there: wa
+they: -ad-
+they: -ad-
+they: -gar
+they: -gar
+they two: -at-
+they two: -ay
+they two: ay arita
+they: zou naga
+they: zou naga
+thigh: fo-
+thigh: fɔ-
+think: dava mo-
+think: dava mo-
+this: biːtʌ
+this: bi:të
+this: e
+this: ɛ
+thou: -ad-
+thou: -ah-
+thou: -ah-
+thou: -eh-
+thou: -ɛh-
+thou: -gar
+thou: ʌgɛ
+thou: -n
+thou: -n
+thou: -na
+thou: -na
+thou: nage
+thou: nagɛ
+thou: -te
+thou: -tɛ
+throat: gomore- ëgu
+throat: gomorɛ- ʌgu
+throw: fo-
+throw: fo-
+thunder: sabe po-
+thunder: sabɛ po-
+tie: kaha-
+tie: kaha-
+tomorrow: kilu:
+tomorrow: kiluː
+tomorrow: ya:hige
+tongue: merë:ru-
+tongue: mɛrʌːru
+tooth: ʌ-
+tooth: ë-
+tree: kaimo
+tree: kaimo
+tree: muː
+tree: taba
+turn: bilinʌ-
+turn: bilinë-
+two: ëritë
+two: ʌritʌ
+vagina: bua-
+vagina: bua-
+vomit: fah-
+walk: batini kug-
+walk: kug-
+walk: kug-
+walk: kug-
+walk: kug-
+wallaby: bede
+wallaby: bɛdɛ
+warm: arëtë
+warm: arʌtʌ
+wash: jhi za-
+wash: za ya-
+wash: za ya-/zau-
+wash: ǯi za-
+water: zhi
+water: ži
+weep: bia-
+weep: bia-
+we: -ig
+we: -ig
+we: -ig-
+we: -ig-
+we two: -it
+we two: -it-
+we two: zo arita
+wet: zhi tau
+wet: ži tau
+we: zogo
+we: zogo
+what: kata
+what: kata
+where: aramo
+where: aramo
+white: kië:gi
+white: kiʌːgi
+who: wene
+who: wɛnɛ
+wind: warahi
+wind: warahi
+wing: garʌ
+wing: garë
+woman: ahe
+woman: ahɛ
+woman: anau
+woman: anau
+wood: bʌnorə
+wood: fogʌ
+wood: fogë
+wood: tu
+wood: tu
+yellow: sohobere
+yellow: sohobɛrɛ
+yesterday: toëhe
+yesterday: tu
+yesterday: tʰu
+yes: ʔuʔu
+yes: u\u
+you: -ad-
+you: ëge
+you: -gar
+you two: -at-
+you two: -ay
+you two: aye arita
