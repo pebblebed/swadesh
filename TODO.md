@@ -6,23 +6,35 @@
       Downloader: `scripts/download.py` (idempotent/resumable, 12-way concurrent).
       RESULT: **1229/1229 downloaded, 0 failures** (`data/raw/`, 7.8 MB). The 17 transient
       HTTP 500s on the first pass all succeeded on a second idempotent re-run.
-- [~] **Investigate regularity of the corpus; how many separate categories are there?**
+- [x] **Investigate regularity of the corpus; how many separate categories are there?**
       Strong result: the corpus is HIGHLY regular (see FINDINGS - format regularity).
-      Still TODO: build the gloss inventory + measure cross-list gloss alignment.
-- [ ] **Store normalized versions of them all** (parse `gloss: transcription`, dedupe lines,
-      normalize encoding quirks — see FINDINGS).
+      Gloss inventory + cross-list alignment now built (`data/normalized/glossary.tsv`):
+      315 distinct glosses; all 207 canonical items appear; the most universal glosses
+      (eye/fire/i/head/dog) occur in ~1100/1229 lists. See FINDINGS (normalize results).
+- [x] **Store normalized versions of them all** (parse `gloss: transcription`, dedupe lines,
+      normalize encoding quirks). DONE: `scripts/normalize.py` -> `data/normalized/swadesh.jsonl`
+      (295,369 records; 72 MB, gitignored — regenerate with `python scripts/normalize.py`).
+      Each record: {identifier, lang_code, variant, language, kind, gloss, gloss_raw,
+      in_canonical, transcription_raw, transcription_norm}. Conservative norm (NFC, ws-collapse,
+      U+01DD->U+0259); raw kept verbatim. Per-file stats in `metadata/normalize_report.tsv`.
 - [ ] Structured representations (?) of IPA: e.g., "glottal fricative" instead of raw symbol.
 - [ ] Strategy to leverage known tendencies of IPA drift from known languages.
 
 ## Next concrete steps (for upcoming loop passes)
-1. Confirm download completed; inspect `download_failures.tsv`; re-run downloader to retry.
-2. Decide handling of the 8 non-Swadesh items (vocab/morsyn/phon/contents) — exclude or
-   archive separately. Currently EXCLUDED by `scripts/download.py` (filters `_swadesh-`).
-3. Write `scripts/normalize.py`: parse each raw file into structured records, handle the
-   encoding quirks below, dedupe repeated lines, emit a single normalized dataset
-   (e.g. JSONL: {identifier, lang_code, gloss, transcription_raw, transcription_norm}).
-4. Build a glossary: the set of distinct English glosses across all lists, to measure how
-   "regular"/aligned the lists are (do they all use the same ~100/207 Swadesh items?).
+1. **Gloss canonicalization / alignment cleanup.** 315 distinct glosses vs 207 canonical.
+   The extras are near-synonyms & noise: "thou" (1107 lists) and "man" (1094) are widespread
+   but DON'T match canonical ("you (singular)", "man (adult male)") because of parenthetical
+   /spelling differences; plus typos ("tonge", "snooth", "tsy"). Build a gloss-alias map
+   (thou->you (singular), etc.) + fix obvious typos, so the ~1100-list-wide glosses fold onto
+   canonical ranks. Lets us assemble a clean (gloss x language) cognate matrix.
+2. **Confusable normalization, done safely (deferred from normalize.py).** Cyrillic 'й'
+   (186 occ / 22 files) is a /j/ confusable in Latin-script lists BUT a real letter in the
+   Cyrillic-script lists (rus/bul/mdf). Add per-list script detection, then map 'й'->'j' ONLY
+   in predominantly-Latin lists. Survey other confusables (e.g. Greek vs Latin look-alikes).
+3. Structured IPA features (TODO above): tokenize transcription_norm into IPA segments;
+   attach phonetic features (place/manner/voicing) per segment.
+4. (optional) The 8 non-Swadesh items + the 5 stub lists (<10 entries, e.g. akq="thou: ni")
+   are out of scope / unusable — leave excluded, but a flag in the dataset could note tiny lists.
 
 ## FINDINGS (data source & format)
 - Blog post: rosettaproject.org/blog/02010/sep/20/Rosetta_Project_Swadesh_List_Data/
@@ -47,9 +59,15 @@
   marks (e.g. `all: ʔe:`), so split on the first `:` only.
 - Glosses may carry POS parentheticals, e.g. `fly (v.)`.
 - Quirk 1: duplicate lines occur (e.g. `man: kho:n sa:j` twice in puo) -> dedupe on normalize.
-- Quirk 2: **stray Cyrillic characters mixed into IPA** — `й` (U+0439) and `ǝ` vs `ə`. In puo,
-  `ʔaй`, `йuk`, `ʔkiй` almost certainly mean a /j/ glide; `ǝ` (U+04DD) is being used for schwa
-  `ə` (U+0259). Likely OCR/transcription artifacts -> build a confusable-normalization map.
+- Quirk 2: **stray look-alike characters mixed into IPA.** Two cases, corrected after a
+  full-corpus codepoint scan (earlier guesses in this file were off):
+  * The schwa substitute is **U+01DD LATIN SMALL LETTER TURNED E** (`ǝ`), NOT U+04DD. It's a
+    Latin letter mis-used for schwa `ə` (U+0259). 588 records across the corpus. SAFE to map
+    U+01DD->U+0259 -> **done in normalize.py** (transcription_norm only; raw kept verbatim).
+  * `й` (U+0439, Cyrillic short-i) — 186 occ in 22 files. In Latin-script lists (puo etc.) it's
+    a /j/ confusable, BUT in the genuinely Cyrillic-script lists (**rus/bul/mdf**) it is a real
+    letter. A blanket й->j would CORRUPT those. So normalize.py leaves й ALONE; the safe fix
+    needs per-list script detection (see Next steps #2).
 
 ## FINDINGS (format regularity — scan of all 1229 files)
 The corpus is remarkably uniform. By fraction of non-blank lines containing a `:`:
@@ -62,5 +80,18 @@ The corpus is remarkably uniform. By fraction of non-blank lines containing a `:
     (DASH-delimited) with a 4-line header. **NOT UTF-8** (shows U+FFFD; Hungarian -> try CP1250/Latin-2).
 => normalize.py needs: a standard colon parser (1227 files), plus 2 special-case parsers, plus
    per-file encoding detection (don't assume UTF-8 everywhere).
-NOTE: still need to confirm the format of the other multi-list variants (the 4 remaining swadesh-2
-and the 1 swadesh-3) — they passed the colon test but eyeball them during normalize.
+CONFIRMED during normalize — the other variants are all standard colon format, but note their
+"transcription" is not always IPA (recorded as `kind` in the dataset):
+- `cmn_swadesh-2`: Chinese orthography (Hanzi), not IPA.   - `hin_swadesh-2`/`tgl_swadesh-2`: romanizations, with per-gloss synonyms on separate lines.
+- `fra_swadesh-3`: French words with synonyms (e.g. `all: tous` / `all: tout`).
+
+## FINDINGS (normalize.py results — full corpus pass)
+- 1229 lists -> **295,369 records**, **315 distinct glosses** (data/normalized/swadesh.jsonl).
+- Only **1** non-blank line in the entire colon corpus lacked a colon (tay "strike", no value)
+  -> the `gloss: transcription` model is essentially exceptionless.
+- **All 207 canonical glosses appear** in >=1 list. Most universal: eye(1152), fire(1149),
+  i(1136), head(1135), dog(1128) — i.e. ~93% of lists. Strong cross-list alignment.
+- 66,104 lines dropped as exact (gloss, norm-transcription) duplicates within their file.
+- List-size distribution (entries kept per list): 16 stubs(<10), 84 small(10-49),
+  216 partial(50-99), 333 standard(100-199), 580 large(200+). **913 lists have >=100 entries.**
+- Encoding: 1228 files UTF-8, exactly 1 CP1250 (`hun_swadesh-2`, Hungarian é/ő/ű confirmed).
