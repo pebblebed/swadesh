@@ -17,8 +17,8 @@
       Each record: {identifier, lang_code, variant, language, kind, gloss, gloss_raw,
       in_canonical, transcription_raw, transcription_norm}. Conservative norm (NFC, ws-collapse,
       U+01DD->U+0259); raw kept verbatim. Per-file stats in `metadata/normalize_report.tsv`.
-- [ ] Structured representations (?) of IPA: e.g., "glottal fricative" instead of raw symbol.
-- [ ] Strategy to leverage known tendencies of IPA drift from known languages.
+- [ ] (STRATEGY) Structured representations (?) of IPA: e.g., "glottal fricative" instead of raw symbol.
+- [ ] (STRATEGY) Somehow leverage known tendencies of IPA drift from known languages.
 
 ## Next concrete steps (for upcoming loop passes)
 1. **Gloss canonicalization / alignment cleanup.** 315 distinct glosses vs 207 canonical.
