@@ -70,16 +70,30 @@ PLAN (easiest -> hardest):
   - [x] Tier 1 Americanist->IPA. DONE: `scripts/to_ipa.py` builds the IPA layer
     `data/normalized/ipa.jsonl` (gitignored, regenerable) with per-record ipa / ipa_method /
     ipa_confidence. Methods: native_ipa (605 ipa_dense lists pass through, 143,423 recs),
-    americanist (10 lists, 2,936 recs via `metadata/americanist_ipa_map.tsv`), deferred_*
-    (slavic 361, native 2,358, latin 146,078). Conservative map = caron core only
-    (č->t͡ʃ ǯ/ǰ->d͡ʒ š->ʃ ž->ʒ ñ->ɲ); already-IPA symbols left as-is; tradition-specific
-    symbols (j/y, dot-below emphatics, accents) left as flagged RESIDUALS. Result: 2,597
-    high-confidence + 339 medium. Czech+Slovak SPLIT OUT (carons are native orthography ->
-    deferred_slavic). Human-review file: `data/normalized/ipa_americanist_review.tsv`;
-    tallies `metadata/ipa_conversion_summary.tsv`. Cheyenne worst (62/188) due to '\'
-    corruption + ê/ô/â orthography -> revisit under Tier 3 / data-cleanup.
-    REMAINING Tier-1-ish: Czech/Slovak need a small Slavic G2P rule set (vowel length
-    á/í/ý->Vː, ě, ř->r̝, ť/ď/ň->c/ɟ/ɲ, c->t͡s, ch->x, h->ɦ).
+    americanist (10 lists, 2,936 recs via `metadata/americanist_ipa_map.tsv`), slavic_g2p
+    (Czech+Slovak, 361 recs), deferred_* (native 2,358, latin 146,078). Conservative map =
+    caron core only (č->t͡ʃ ǯ/ǰ->d͡ʒ š->ʃ ž->ʒ ñ->ɲ); already-IPA symbols left as-is;
+    tradition-specific symbols (j/y, dot-below emphatics, accents) left as flagged RESIDUALS.
+    Result: 2,597 high-confidence + 339 medium. Czech+Slovak SPLIT OUT (carons are native
+    orthography, handled by the Slavic G2P below). Human-review file:
+    `data/normalized/ipa_americanist_review.tsv`; tallies `metadata/ipa_conversion_summary.tsv`.
+    Cheyenne worst (62/188) due to '\' corruption + ê/ô/â orthography -> revisit under
+    Tier 3 / data-cleanup.
+  - [x] Tier 1 Slavic (Czech+Slovak) G2P. DONE: `scripts/slavic_g2p.py` (rule-based,
+    NOT a flat char map) called from `to_ipa.py` as method `slavic_g2p`. Converts all 361
+    ces/slk records, ALL high-confidence with ZERO residuals. Implements: digraphs (ch->x,
+    SK dz/dž->affricates); palatalization (ď/ť/ň + SK ľ -> ɟ/c/ɲ/ʎ, and plain d/t/n + SK l
+    before soft vowels -- CZ i/í/ě, SK i/í & the i-diphthongs); CZ ě glides (bě/pě/vě/fě->Cjɛ,
+    mě->mɲɛ); vowel length á/é/í/ó/ú/ů/ý->Vː; SK diphthongs ia/ie/iu/ô + ä->æ; CZ ou/au/eu;
+    syllabic r/l (krk->kr̩k, slnko->sl̩ŋkɔ); n->ŋ before velars; REGRESSIVE voicing assimilation
+    + final devoicing (kde->ɡdɛ, vták->ftaːk, zub->zup, dážď->daːʃc); CZ ř progressive
+    devoicing after voiceless (tři->tr̝̥ɪ); homorganic stop+affricate coalescence (srdce->sr̩t͡sɛ).
+    Handles synonym lists (split on ,/;), multi-word forms (báť sa->baːc sa), and strips
+    (m.)-type annotations. Embedded self-test: 59 hand-derived gold forms, run via
+    `python scripts/slavic_g2p.py`. Review file: `data/normalized/ipa_slavic_review.tsv`.
+    KNOWN LIMITATION (documented in module): SK d/t/n/l before plain 'e' NOT palatalized
+    (lexical in Slovak: ten=[tɛn] vs deň=[ɟɛɲ]); we default to the majority hard reading.
+    Other Slavic lists are NOT this tier: pol=latin_diacritic (Tier 3), rus/bul=Cyrillic (Tier 2).
   - Tier 1b (orig plan, superseded): y->j was DROPPED as unsafe -- several lists contrast
     j vs ǯ, so y/j values are list-specific. Resolve per-list if needed.
   - Tier 2 native scripts (11): use epitran / language tools. Easy: Kana, Greek. Hard: abjads

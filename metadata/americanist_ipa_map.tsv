@@ -2,8 +2,8 @@
 #
 # Applied by scripts/to_ipa.py to lists classified `americanist`, EXCEPT Czech
 # (ces) and Slovak (slk): there the carons are native Slavic ORTHOGRAPHY, not
-# Americanist notation, so they are deferred to a Slavic G2P handler (method
-# `deferred_slavic`) instead of being mis-converted here.
+# Americanist notation, so they are routed to the rule-based Slavic G2P handler
+# (scripts/slavic_g2p.py, method `slavic_g2p`) instead of being mis-converted here.
 #
 # Only UNAMBIGUOUS, tradition-independent correspondences are listed. Already-IPA
 # symbols in these lists (ð ə θ ʔ ɲ ɣ ʎ ʒ ç ʂ ŋ ⁿ and IPA diacritics) are left
