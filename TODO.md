@@ -78,11 +78,12 @@ data/normalized/transcription_systems.tsv) over 1229 lists:
   native scripts 11 (Arabic 3, Cyrillic 3, Greek/Han/Hebrew/Kana/Thai 1 each) | gloss_only 1.
   => 605 IPA-ready now; 623 need conversion. Each list has scores (ipa_density, ipa_char_ratio,
   nonascii_ratio, americanist_ratio) so thresholds stay re-judgeable.
-PROGRESS (lists with IPA populated, by `python scripts/to_ipa.py`): 631 / 1229 lists ->
-  617 ipa_dense (native_ipa) + 10 Americanist + 2 Czech/Slovak + 1 Greek + 1 Kana. By RECORDS:
-  149,519 / 295,369 have a non-empty `ipa`. (ipa_dense rose 605->617 over the two confusable
-  passes, which revealed IPA chars hidden as Greek φ/ε/λ/η and Cyrillic ӡ/ш/ф.) Remaining:
-  9 native-script lists (Tier 2) + ~555 Latin/light_ipa lists (Tier 3) + americanist cleanup.
+PROGRESS (lists with IPA populated, by `python scripts/to_ipa.py`): 633 / 1229 lists ->
+  617 ipa_dense (native_ipa) + 10 Americanist + 2 Czech/Slovak + 1 Greek + 1 Kana + 2 Cyrillic
+  (rus/bul). By RECORDS: 149,952 / 295,369 have a non-empty `ipa`. Remaining: 7 native-script
+  lists (Tier 2: mdf + abjads + Han + Thai) + ~555 Latin/light_ipa lists (Tier 3) + americanist
+  cleanup. NEXT BIG ITEM: structured IPA features (tokenize ipa into segments + place/manner/
+  voicing) -- now well-fed by 633 lists / ~150k records of IPA.
 Bonus: transcription system CORRELATES with template category. sahul_extended is mostly
   ipa_dense/light_ipa (real phonetic fieldwork); core_swadesh holds ALL 11 native-script lists
   and most orthographic ones (major languages in their own spelling).
@@ -134,14 +135,28 @@ PLAN (easiest -> hardest):
     Review: `data/normalized/ipa_native_review.tsv`. DOCUMENTED limits: Greek medial μπ/ντ/γκ
     keep the nasal (careful reading; casual denasalizes); λ/ν palatalized only via synizesis;
     Japanese ざ-row not word-initially affricated (none occur), pitch accent not marked.
-  - Tier 2 REMAINING native scripts (9 lists): Cyrillic rus/bul/mdf (need a real G2P like the
-    Slavic one -- Russian akanye/ikanye + palatalization + final devoicing; Bulgarian simpler;
-    Moksha more involved; NB rus/bul interleave a romanized synonym line per gloss -- the native
-    line is the Cyrillic one). Abjads HARD: Arabic arb/pbt/pes + Hebrew-script ydd (short vowels
-    unwritten -- but ydd=Yiddish actually writes vowels with א/ע/ו/י, so it's tractable, unlike
-    arb/pbt/pes). Han cmn needs a Hanzi->reading dict (pinyin/zhuyin) then ->IPA. Thai tha is
-    HARD (no word spaces, complex vowel placement, tone) BUT this list ALREADY carries a
-    romanization-with-tone-numbers synonym line per gloss (e.g. thang55) -- parse THAT instead.
+  - [x] Tier 2 Russian + Bulgarian Cyrillic G2P. DONE: `scripts/cyrillic_g2p.py` (rule-based,
+    mirrors slavic_g2p), called from to_ipa.py as method `cyrillic_g2p`. Converts all 433 Cyrillic
+    records (rus 226 + bul 207), ALL high-confidence, ZERO residuals. BROAD PHONEMIC, NO vowel
+    reduction: none of these lists mark stress, and Russian/Bulgarian akanye/ikanye is
+    stress-dependent -> not recoverable, deliberately not applied (it's allophonic noise for
+    cross-list comparison anyway). Everything recoverable from spelling IS done: palatalization
+    (Cʲ before soft vowels/ь; hard л=ɫ vs soft lʲ; ж ш ц always hard, ч щ always soft),
+    iotation (я/е/ё/ю -> Cʲ+V after a consonant, j+V initially/after vowel/ъ/ь), regressive
+    voicing assimilation + final devoicing (зуб->zup, водка->votka, сделать->zdʲeɫatʲ; в a target
+    not a trigger). Per-language: ru ж/ш=ʐ/ʂ ч=t͡ɕ щ=ɕː ы=ɨ, ъ silent; bg ъ=ɤ (a vowel!) о=ɔ е=ɛ,
+    palatalization only before я/ю/ь (ден=dɛn), щ=ʃt, дж/дз digraphs, ж/ш/ч=ʒ/ʃ/t͡ʃ. Per-record
+    gating via is_cyrillic() routes only the Cyrillic line (rus/bul interleave a romanized Latin
+    synonym line, left unconverted: 74 rus + ~195 bul). Embedded self-test: 49 gold forms
+    (`python scripts/cyrillic_g2p.py`). Review: `data/normalized/ipa_cyrillic_review.tsv`.
+    DEFERRED: mdf (Moksha, Uralic) -- different palatalization, reduced vowel, voiceless
+    sonorants; needs language-specific rules + verification (194 records still deferred_native).
+  - Tier 2 REMAINING native scripts (7 lists): mdf (Moksha Cyrillic, see above). Abjads HARD:
+    Arabic arb/pbt/pes + Hebrew-script ydd (short vowels unwritten -- but ydd=Yiddish actually
+    writes vowels with א/ע/ו/י, so it's tractable, unlike arb/pbt/pes). Han cmn needs a
+    Hanzi->reading dict (pinyin/zhuyin) then ->IPA. Thai tha is HARD (no word spaces, complex
+    vowel placement, tone) BUT this list ALREADY carries a romanization-with-tone-numbers synonym
+    line per gloss (e.g. thang55) -- parse THAT instead.
   - Tier 3 Latin orthography + light_ipa (~570): low-resource langs, no off-the-shelf G2P.
     Leverage the TEMPLATE/source clustering (same fieldwork source shares orthography conventions
     -> per-source rule sets convert many at once). Emit confidence; full narrow-IPA not achievable

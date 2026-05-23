@@ -3,7 +3,8 @@ method	n_records
 native_ipa	145937
 deferred_latin	143564
 americanist	2936
-deferred_native	2073
+deferred_native	1640
+cyrillic_g2p	433
 slavic_g2p	361
 empty	213
 greek_g2p	207
@@ -12,6 +13,7 @@ kana_g2p	78
 method	confidence	n_records
 americanist	high	2597
 americanist	medium	339
+cyrillic_g2p	high	433
 greek_g2p	high	207
 kana_g2p	high	78
 native_ipa	high	145937
