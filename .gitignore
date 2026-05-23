@@ -7,6 +7,7 @@ __pycache__/
 # The compact derived artifacts (glossary.tsv, *_review.tsv, *summary.tsv) ARE tracked.
 data/normalized/swadesh.jsonl
 data/normalized/ipa.jsonl
+data/normalized/ipa_features.jsonl
 
 # machine-local Claude Code session settings (permissions, etc.)
 .claude/settings.local.json

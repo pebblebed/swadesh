@@ -20,9 +20,21 @@
       Each record: {identifier, lang_code, variant, language, kind, gloss, gloss_raw,
       in_canonical, transcription_raw, transcription_norm}. Conservative norm (NFC, ws-collapse,
       U+01DD->U+0259); raw kept verbatim. Per-file stats in `metadata/normalize_report.tsv`.
-- [ ] (STRATEGY) Structured representations (?) of IPA: e.g., "glottal fricative" instead of raw symbol.
-      BLOCKED ON: the corpus is only ~half IPA. See "IPA CONVERSION STRATEGY" below; Tier 0
-      (classify each list's transcription system) is DONE.
+- [x] (STRATEGY) Structured representations of IPA: e.g., "glottal fricative" instead of raw symbol.
+      DONE: `scripts/ipa_features.py` tokenizes the IPA layer into phonetic SEGMENTS and attaches
+      articulatory features (consonant: voice/place/manner; vowel: height/backness/rounding; plus
+      length, nasalized, syllabic, tone, secondary articulations). h -> "voiceless glottal
+      fricative". 99.72% segment coverage over 149,952 records / 772,660 segments; 823 distinct
+      known segments. Outputs: `data/normalized/ipa_features.jsonl` (per-record segments,
+      gitignored/regen), `metadata/ipa_segment_inventory.tsv` + `ipa_features_summary.tsv`
+      (TRACKED). Tokenizer: NFC -> PRESUB (caron/digraph consonants č->t͡ʃ etc.) -> NFD (so
+      precomposed accented vowels split to base+diacritic) -> greedy segment (tie-bar affricates,
+      trailing combining marks + spacing modifiers; ⁿ prenasalization attaches forward;
+      dot-below=retroflex; ASCII ':' = length; non-phonetic punctuation skipped). Embedded
+      self-test: 23 gold forms. REMAINING unknowns (0.28%): archiphoneme capitals (N/V/T cover
+      symbols), the deliberately-flagged Cyrillic э, and ß (1158 occ/134 lists -- a confusable:
+      word-initial β in Papuan lists like abt/yuj, but /s/ in German -> resolve per-language in a
+      normalize confusable pass, NOT here).
 - [ ] (STRATEGY) Somehow leverage known tendencies of IPA drift from known languages.
 
 ## Next concrete steps (for upcoming loop passes)
@@ -65,9 +77,9 @@
    total) through native_ipa. Full audit: `metadata/confusables_report.tsv`.
    NEXT: decide э per-list (sample whether it contrasts with ə); the ӓ/ӧ->æ/ø phonetic refinement
    belongs in the Caucasus IPA tier, not normalize.
-5. Structured IPA features (TODO above): tokenize transcription_norm into IPA segments;
-   attach phonetic features (place/manner/voicing) per segment. ONLY meaningful for the
-   ipa_dense lists until conversion (Tiers 1-3) extends coverage.
+5. [x] Structured IPA features. DONE (see STRATEGY item above): `scripts/ipa_features.py`,
+   99.72% coverage. NEXT refinements: ß->β/s per-language confusable (normalize.py); optionally
+   capture tone numbers/downstep; map the few archiphoneme capitals if a convention is found.
 6. (optional) The 8 non-Swadesh items + the 16 stub lists (<10 entries) are out of scope /
    unusable. Now flagged: category="stub" in list_templates.tsv marks the tiny lists.
 
@@ -82,8 +94,8 @@ PROGRESS (lists with IPA populated, by `python scripts/to_ipa.py`): 633 / 1229 l
   617 ipa_dense (native_ipa) + 10 Americanist + 2 Czech/Slovak + 1 Greek + 1 Kana + 2 Cyrillic
   (rus/bul). By RECORDS: 149,952 / 295,369 have a non-empty `ipa`. Remaining: 7 native-script
   lists (Tier 2: mdf + abjads + Han + Thai) + ~555 Latin/light_ipa lists (Tier 3) + americanist
-  cleanup. NEXT BIG ITEM: structured IPA features (tokenize ipa into segments + place/manner/
-  voicing) -- now well-fed by 633 lists / ~150k records of IPA.
+  cleanup. STRUCTURED IPA FEATURES now built on this layer (scripts/ipa_features.py, 99.72%
+  segment coverage) -- extending IPA coverage (Tier 3) directly grows the featurized data.
 Bonus: transcription system CORRELATES with template category. sahul_extended is mostly
   ipa_dense/light_ipa (real phonetic fieldwork); core_swadesh holds ALL 11 native-script lists
   and most orthographic ones (major languages in their own spelling).

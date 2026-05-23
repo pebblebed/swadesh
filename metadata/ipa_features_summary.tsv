@@ -1,0 +1,52 @@
+# IPA feature coverage over the IPA layer.
+records_with_ipa	149952
+total_segments	772660
+segment_occurrences_known	770535
+segment_occurrences_unknown	2125
+coverage_pct	99.72
+distinct_segments	894
+distinct_known	823
+distinct_unknown	71
+
+# Top unmapped segments (candidates for the feature table / cleanup)
+segment	n_occurrences	n_lists
+ß	1158	134
+E	158	5
+L	155	7
+T	68	5
+V	65	31
+A	39	8
+H	39	2
+э	34	17
+B	34	4
+Q	32	4
+I	25	15
+¶	22	7
+G	20	7
+Ļ:	20	3
+¬	20	7
+	20	7
+D	16	4
+X	15	5
+N	11	9
+R	11	3
+M	11	10
+ßʷ	10	3
+O	9	3
+	9	2
+§	9	4
+Ļ	8	3
+C	8	3
+A:	7	1
+≈	5	2
+U	5	3
+Ú	5	1
+P	4	4
+ƒ	4	4
+^	4	4
+Ý	4	4
+_	3	3
+Gʷ	3	1
+¹	3	2
+ε	3	3
+℮	3	3
