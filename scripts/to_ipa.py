@@ -16,6 +16,7 @@ Currently implemented:
                    and tha (Thai, +Chao tones) carry, via scripts/romanize.py.    [Tier 2]
   - cmn          : Mandarin Hanzi -> pinyin (curated metadata/cmn_hanzi_pinyin.tsv)
                    -> IPA via scripts/pinyin_g2p.py.                               [Tier 2]
+  - yiddish_g2p  : Yiddish (Hebrew script, YIVO) -> IPA via scripts/yiddish_g2p.py.[Tier 2]
   - deferred_*   : recognized but not yet converted (other native scripts,
                    low-resource Latin) -> ipa left empty for later tiers.
 
@@ -37,6 +38,7 @@ import native_g2p
 import pinyin_g2p
 import romanize
 import slavic_g2p
+import yiddish_g2p
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ND = os.path.join(ROOT, "data", "normalized")
@@ -51,6 +53,7 @@ NATIVE_REVIEW = os.path.join(ND, "ipa_native_review.tsv")
 CYR_REVIEW = os.path.join(ND, "ipa_cyrillic_review.tsv")
 ROM_REVIEW = os.path.join(ND, "ipa_romanization_review.tsv")
 CMN_REVIEW = os.path.join(ND, "ipa_cmn_review.tsv")
+YDD_REVIEW = os.path.join(ND, "ipa_yiddish_review.tsv")
 SUMMARY = os.path.join(ROOT, "metadata", "ipa_conversion_summary.tsv")
 
 SLAVIC = {"ces", "slk"}  # lang_codes whose carons are native orthography, not Americanist
@@ -138,6 +141,7 @@ def main():
     cyrillic_review = []
     romanization_review = []
     cmn_review = []
+    yiddish_review = []
     residual_by_list = collections.defaultdict(collections.Counter)
 
     with open(JSONL, encoding="utf-8") as fin, \
@@ -209,6 +213,15 @@ def main():
                     residual_by_list[ident][c] += 1
                 cmn_review.append((ident, r["lang_code"], r["gloss"],
                                    t + " " + cmn_map[t], ipa, "".join(residual)))
+            elif system == "native:Hebrew" and r["lang_code"] == "ydd":
+                ipa, residual_set = yiddish_g2p.to_ipa(t)
+                residual = sorted(residual_set)
+                conf = "high" if not residual else "medium"
+                method = "yiddish_g2p"
+                for c in residual:
+                    residual_by_list[ident][c] += 1
+                yiddish_review.append((ident, r["lang_code"], r["gloss"], t, ipa,
+                                       "".join(residual)))
             elif system.startswith("native:"):
                 method = "deferred_native"
             else:  # light_ipa, latin_diacritic, plain_ascii
@@ -225,7 +238,8 @@ def main():
 
     for path, rows in ((REVIEW, review), (SLAVIC_REVIEW, slavic_review),
                        (NATIVE_REVIEW, native_review), (CYR_REVIEW, cyrillic_review),
-                       (ROM_REVIEW, romanization_review), (CMN_REVIEW, cmn_review)):
+                       (ROM_REVIEW, romanization_review), (CMN_REVIEW, cmn_review),
+                       (YDD_REVIEW, yiddish_review)):
         with open(path, "w", encoding="utf-8", newline="\n") as f:
             f.write("identifier\tlang_code\tgloss\ttranscription_norm\tipa\tresidual\n")
             for row in sorted(rows):
@@ -247,7 +261,7 @@ def main():
             f.write(f"{ident}\t{sum(cc.values())}\t{chars}\n")
 
     tier2 = (methods["greek_g2p"] + methods["kana_g2p"] + methods["cyrillic_g2p"]
-             + methods["romanization"] + methods["cmn"])
+             + methods["romanization"] + methods["cmn"] + methods["yiddish_g2p"])
     conv = (methods["native_ipa"] + methods["americanist"]
             + methods["slavic_g2p"] + tier2)
     print(f"records processed : {sum(methods.values())}  -> {OUT}")
@@ -258,13 +272,14 @@ def main():
           f"({methods['americanist']} Americanist + {methods['slavic_g2p']} Slavic, Tier 1; "
           f"{methods['greek_g2p']} Greek + {methods['kana_g2p']} Kana + "
           f"{methods['cyrillic_g2p']} Cyrillic + {methods['romanization']} romanization + "
-          f"{methods['cmn']} Mandarin, Tier 2)")
+          f"{methods['cmn']} Mandarin + {methods['yiddish_g2p']} Yiddish, Tier 2)")
     print(f"review -> {REVIEW}")
     print(f"slavic -> {SLAVIC_REVIEW}")
     print(f"native -> {NATIVE_REVIEW}")
     print(f"cyril  -> {CYR_REVIEW}")
     print(f"roman  -> {ROM_REVIEW}")
     print(f"cmn    -> {CMN_REVIEW}")
+    print(f"ydd    -> {YDD_REVIEW}")
     print(f"summary -> {SUMMARY}")
     return 0
 

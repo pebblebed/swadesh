@@ -91,12 +91,12 @@ data/normalized/transcription_systems.tsv) over 1229 lists:
   native scripts 11 (Arabic 3, Cyrillic 3, Greek/Han/Hebrew/Kana/Thai 1 each) | gloss_only 1.
   => 605 IPA-ready now; 623 need conversion. Each list has scores (ipa_density, ipa_char_ratio,
   nonascii_ratio, americanist_ratio) so thresholds stay re-judgeable.
-PROGRESS (lists with IPA populated, by `python scripts/to_ipa.py`): 636 / 1229 lists ->
+PROGRESS (lists with IPA populated, by `python scripts/to_ipa.py`): 637 / 1229 lists ->
   617 ipa_dense (native_ipa) + 10 Americanist + 2 Czech/Slovak + 1 Greek + 1 Kana + 2 Cyrillic
-  (rus/bul) + 2 romanization (arb/tha) + 1 Mandarin (cmn). By RECORDS: 150,362 / 295,369 have a
-  non-empty `ipa`. Remaining native-script (Tier 2): ydd (do next), mdf (needs verification),
-  pes/pbt abjads (defer). Plus ~555 Latin/light_ipa lists (Tier 3). STRUCTURED IPA FEATURES built
-  on this layer (scripts/ipa_features.py, 99.88% segment coverage) -- growing IPA grows features.
+  (rus/bul) + 2 romanization (arb/tha) + 1 Mandarin (cmn) + 1 Yiddish (ydd). By RECORDS:
+  150,571 / 295,369 have a non-empty `ipa`. Remaining native-script (Tier 2): mdf (needs Moksha
+  verification), pes/pbt abjads (defer). Plus ~555 Latin/light_ipa lists (Tier 3). STRUCTURED IPA
+  FEATURES built on this layer (scripts/ipa_features.py, 99.88% coverage) -- growing IPA grows it.
 Bonus: transcription system CORRELATES with template category. sahul_extended is mostly
   ipa_dense/light_ipa (real phonetic fieldwork); core_swadesh holds ALL 11 native-script lists
   and most orthographic ones (major languages in their own spelling).
@@ -183,11 +183,16 @@ PLAN (easiest -> hardest):
     apical -i after zh/ch/sh/r -> ɻ̩ and after z/c/s -> ɹ̩; tones 1-4 -> Chao letters (˥ ˧˥ ˨˩˦
     ˥˩), neutral unmarked; affricates tie-barred (zh=ʈ͡ʂ). Embedded self-test: 27 gold forms.
     Review: ipa_cmn_review.tsv. (全部->t͡ɕʰɥɛn˧˥pu˥˩, 血->ɕɥe˥˩, 死->sɹ̩˨˩˦, 我们->wo˨˩˦mən.)
-  - Tier 2 REMAINING native scripts (4 lists):
-    * ydd (Yiddish, Hebrew script, 209 recs): TRACTABLE -- YIVO writes vowels (אַ=a ע=e ו=u/o
-      י=i, digraphs וו=v יי=ej וי=oj טש=t͡ʃ זש=ʒ). Wrinkle: loshn-koydesh (Hebrew-origin) words
-      like חיה 'animal'=/xaje/ are spelled consonantally, NOT phonetically -> flag those as
-      residual. Needs a Hebrew-script (RTL, final forms ך ם ן ף ץ) G2P module. <- DO NEXT.
+  - [x] Tier 2 Yiddish (ydd) Hebrew-script G2P. DONE: `scripts/yiddish_g2p.py` (YIVO ortho),
+    method `yiddish_g2p` in to_ipa.py. All 209 records, high-confidence, ZERO residuals. Vowels
+    אַ=a אָ=ɔ ע=ɛ ו=u (bare א silent); diphthong ligatures ײ=ej ײַ=aj ױ=ɔj; yud = /j/ before a
+    vowel letter (יאָגן=jɔɡn) else /i/ (בילן=biln, יִ=i); consonants with dagesh/rofe (פּ=p פֿ=f,
+    בּ=b בֿ=v, כּ=k כֿ/כ/ך=x), final forms ם/ן/ף/ך/ץ, affricates טש=t͡ʃ דז=d͡z זש=ʒ דזש=d͡ʒ, צ=t͡s
+    ש=ʃ. Hebrew script is stored in logical order so we just iterate. LOSHN-KOYDESH (Hebrew-origin,
+    spelled consonantally / unwritten vowels) -- only 5 in this list -- given directly in a HEBREW
+    override: חיה=xajɛ ים=jam מורא=mɔjrɛ לבֿנה=lɛvɔnɛ סך=sax. Broad phonemic, no reduction.
+    Embedded self-test: 37 gold forms. Review: ipa_yiddish_review.tsv.
+  - Tier 2 REMAINING native scripts (3 lists):
     * mdf (Moksha Cyrillic, 194 recs): doable by extending cyrillic_g2p, BUT needs Moksha-specific
       verification first -- does it have final devoicing (Uralic, probably NOT, unlike Russian)?
       я=ä vs ja? the reduced vowel ə? voiceless sonorants? Don't ship a Russian-shaped guess.

@@ -3,11 +3,12 @@ method	n_records
 native_ipa	145937
 deferred_latin	143564
 americanist	2936
-deferred_native	1230
+deferred_native	1021
 cyrillic_g2p	433
 slavic_g2p	361
 romanization	309
 empty	213
+yiddish_g2p	209
 greek_g2p	207
 cmn	101
 kana_g2p	78
@@ -23,6 +24,7 @@ native_ipa	high	145937
 romanization	high	308
 romanization	medium	1
 slavic_g2p	high	361
+yiddish_g2p	high	209
 
 # Converted lists: residual (unconverted) symbols still present
 identifier	n_records_w_residual	residual_chars
