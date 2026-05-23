@@ -41,7 +41,9 @@ OUT_DIR = os.path.join(ROOT, "data", "normalized")
 MANIFEST = os.path.join(ROOT, "metadata", "manifest.json")
 JSONL = os.path.join(OUT_DIR, "swadesh.jsonl")
 GLOSSARY = os.path.join(OUT_DIR, "glossary.tsv")
+COVERAGE = os.path.join(OUT_DIR, "canonical_coverage.tsv")
 REPORT = os.path.join(ROOT, "metadata", "normalize_report.tsv")
+ALIASES = os.path.join(ROOT, "metadata", "gloss_aliases.tsv")
 
 MASTER = "rosettaproject_eng_swadesh-2"  # canonical 207-item gloss list
 HUN300 = "rosettaproject_hun_swadesh-2"  # CP1250 dash-delimited 300-Languages list
@@ -113,6 +115,27 @@ def parse_hun300(text):
         yield g.strip(), t.strip()
 
 
+def load_aliases():
+    """surface gloss (norm_gloss key) -> canonical gloss (norm_gloss key).
+
+    Curated in metadata/gloss_aliases.tsv. Conservative: only unambiguous
+    synonyms/typos/variants; genuine extra concepts and ambiguous glosses are
+    intentionally absent (see that file's header)."""
+    aliases = {}
+    with open(ALIASES, encoding="utf-8") as f:
+        for ln in f:
+            ln = ln.rstrip("\n")
+            if not ln.strip() or ln.lstrip().startswith("#"):
+                continue
+            parts = ln.split("\t")
+            if len(parts) < 2 or parts[0] == "alias":  # skip header row
+                continue
+            alias, canon = norm_gloss(parts[0]), norm_gloss(parts[1])
+            if alias and canon:
+                aliases[alias] = canon
+    return aliases
+
+
 def load_titles():
     """identifier -> human-readable language name (from the manifest title)."""
     docs = json.load(open(MANIFEST, encoding="utf-8"))["response"]["docs"]
@@ -140,9 +163,16 @@ def main():
             canonical.append(k)
     canonical_set = set(canonical)
 
-    gloss_lists = {}  # normalized gloss -> set of identifiers that contain it
+    aliases = load_aliases()
+    # Sanity: an alias target should itself be canonical (except deliberate
+    # surface-only unifications onto a non-canonical concept, e.g. "claw").
+    noncanon_targets = sorted({v for v in aliases.values() if v not in canonical_set})
+
+    gloss_lists = {}  # surface gloss -> set of identifiers that contain it
+    concept_lists = {}  # canonical_gloss (post-alias) -> set of identifiers
     report_rows = []
     n_records = 0
+    n_aliased = 0
 
     with open(JSONL, "w", encoding="utf-8", newline="\n") as out:
         for path in files:
@@ -171,6 +201,9 @@ def main():
                     dropped += 1
                     continue
                 seen_pairs.add(pair)
+                canonical_gloss = aliases.get(gloss, gloss)
+                if canonical_gloss != gloss:
+                    n_aliased += 1
                 rec = {
                     "identifier": ident,
                     "lang_code": lang_code,
@@ -179,23 +212,40 @@ def main():
                     "kind": kind,
                     "gloss": gloss,
                     "gloss_raw": gloss_raw,
-                    "in_canonical": gloss in canonical_set,
+                    "canonical_gloss": canonical_gloss,
+                    "in_canonical": canonical_gloss in canonical_set,
                     "transcription_raw": tr_raw,
                     "transcription_norm": tr_norm,
                 }
                 out.write(json.dumps(rec, ensure_ascii=False) + "\n")
                 gloss_lists.setdefault(gloss, set()).add(ident)
+                concept_lists.setdefault(canonical_gloss, set()).add(ident)
                 kept += 1
                 n_records += 1
             report_rows.append((ident, enc, kind, kept, dropped))
 
-    # Glossary: every distinct gloss, how many lists use it, canonical membership.
+    rank = {k: i + 1 for i, k in enumerate(canonical)}
+
+    # Glossary: every distinct SURFACE gloss, its list frequency, and what canonical
+    # concept it folds onto (canonical_gloss == gloss when it is not an alias).
     with open(GLOSSARY, "w", encoding="utf-8", newline="\n") as g:
-        g.write("gloss\tn_lists\tin_canonical\tcanonical_rank\n")
-        rank = {k: i + 1 for i, k in enumerate(canonical)}
+        g.write("gloss\tn_lists\tcanonical_gloss\tin_canonical\tcanonical_rank\n")
         for gloss in sorted(gloss_lists, key=lambda k: (-len(gloss_lists[k]), k)):
-            g.write(f"{gloss}\t{len(gloss_lists[gloss])}\t"
-                    f"{int(gloss in canonical_set)}\t{rank.get(gloss, '')}\n")
+            canon = aliases.get(gloss, gloss)
+            g.write(f"{gloss}\t{len(gloss_lists[gloss])}\t{canon}\t"
+                    f"{int(canon in canonical_set)}\t{rank.get(canon, '')}\n")
+
+    # Coverage: the 207 canonical concepts in rank order, with how many lists attest
+    # each AFTER alias resolution -- the payoff of the alias map. Plus the largest
+    # non-canonical concepts (extra glosses the corpus carries beyond the 207).
+    with open(COVERAGE, "w", encoding="utf-8", newline="\n") as c:
+        c.write("canonical_rank\tconcept\tn_lists\tin_canonical\n")
+        for k in canonical:
+            c.write(f"{rank[k]}\t{k}\t{len(concept_lists.get(k, ()))}\t1\n")
+        extras = sorted(((k, v) for k, v in concept_lists.items()
+                         if k not in canonical_set), key=lambda kv: -len(kv[1]))
+        for k, ids in extras:
+            c.write(f"\t{k}\t{len(ids)}\t0\n")
 
     with open(REPORT, "w", encoding="utf-8", newline="\n") as r:
         r.write("identifier\tencoding\tkind\tkept\tdropped\n")
@@ -203,13 +253,18 @@ def main():
             r.write("\t".join(map(str, row)) + "\n")
 
     n_lists = len(files)
-    covered = sum(1 for k in canonical if k in gloss_lists)
+    surface_cov = sum(1 for k in canonical if k in gloss_lists)
+    concept_cov = sum(1 for k in canonical if concept_lists.get(k))
     sys.stdout.reconfigure(encoding="utf-8")
     print(f"lists processed     : {n_lists}")
     print(f"records written     : {n_records}  -> {JSONL}")
-    print(f"distinct glosses    : {len(gloss_lists)}  -> {GLOSSARY}")
-    print(f"canonical 207 items : {len(canonical)} "
-          f"({covered} appear in >=1 list)")
+    print(f"distinct surface gl.: {len(gloss_lists)}  -> {GLOSSARY}")
+    print(f"alias rules loaded  : {len(aliases)}  ({n_aliased} records folded)")
+    if noncanon_targets:
+        print(f"  surface-only folds (target not canonical): {noncanon_targets}")
+    print(f"canonical 207 items : {len(canonical)}")
+    print(f"  attested by surface gloss : {surface_cov}/207")
+    print(f"  attested after aliasing   : {concept_cov}/207  -> {COVERAGE}")
     return 0
 
 

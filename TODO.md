@@ -21,12 +21,18 @@
 - [ ] (STRATEGY) Somehow leverage known tendencies of IPA drift from known languages.
 
 ## Next concrete steps (for upcoming loop passes)
-1. **Gloss canonicalization / alignment cleanup.** 315 distinct glosses vs 207 canonical.
-   The extras are near-synonyms & noise: "thou" (1107 lists) and "man" (1094) are widespread
-   but DON'T match canonical ("you (singular)", "man (adult male)") because of parenthetical
-   /spelling differences; plus typos ("tonge", "snooth", "tsy"). Build a gloss-alias map
-   (thou->you (singular), etc.) + fix obvious typos, so the ~1100-list-wide glosses fold onto
-   canonical ranks. Lets us assemble a clean (gloss x language) cognate matrix.
+1. [x] **Gloss canonicalization / alignment cleanup.** DONE. Curated alias map in
+   `metadata/gloss_aliases.tsv` (22 rules), applied by normalize.py as a new lossless
+   `canonical_gloss` field (surface `gloss` kept verbatim). New report
+   `data/normalized/canonical_coverage.tsv` = the 207 concepts by post-alias attestation.
+   RESULT: 10,433 records folded; the big wins are pronoun/man concepts that were attested
+   in only ~2 lists (just the English reference lists) because the corpus uses the
+   Swadesh-100 surface forms: thou->you (singular) 2->1109, man->man (adult male) 2->1096,
+   person->man (human being) 2->660, he/she->he 138->859, ye->you (plural) 2->16, large->big.
+   Canonical items attested in >=500 lists: 134->138; median coverage 666->681.
+   DELIBERATELY left unmapped (ambiguous, flagged in the alias file header): you, fly,
+   grease, woods, breat, tsy, male/female. NEXT refinement: resolve those few by sampling
+   the actual transcriptions / etymology, and consider male->man (adult male)/female->woman.
 2. **Confusable normalization, done safely (deferred from normalize.py).** Cyrillic 'й'
    (186 occ / 22 files) is a /j/ confusable in Latin-script lists BUT a real letter in the
    Cyrillic-script lists (rus/bul/mdf). Add per-list script detection, then map 'й'->'j' ONLY
@@ -95,3 +101,18 @@ CONFIRMED during normalize — the other variants are all standard colon format,
 - List-size distribution (entries kept per list): 16 stubs(<10), 84 small(10-49),
   216 partial(50-99), 333 standard(100-199), 580 large(200+). **913 lists have >=100 entries.**
 - Encoding: 1228 files UTF-8, exactly 1 CP1250 (`hun_swadesh-2`, Hungarian é/ő/ű confirmed).
+
+## FINDINGS (gloss canonicalization + corpus is a SUPERSET of the 207)
+- The corpus is a SUPERSET of the canonical 207, not just spelling drift. After folding the
+  22 true aliases, ~90 distinct non-canonical concepts remain that are GENUINE extra glosses
+  (left unmapped on purpose). They cluster into recognizable extended templates -> a partial
+  answer to "how many categories": beyond core-207 lists there are regional/extended
+  variants, notably an **Australianist template** (emu 412, crocodile 399, kangaroo 166,
+  wallaby 313, cassowary 275, woomera 69, boomerang-style items) and broad **body-part**
+  (shoulder 537, chin 443, navel 434, elbow 481, thigh 416, forehead 454, chest 434) and
+  **kinship** (brother 584, sister 540, son 211, daughter 201, boy 436, girl 415) extensions,
+  plus **time** (tomorrow 492, yesterday 473, morning 382) and rich **pronoun clusivity/dual**
+  marking (we incl./excl., we two, you two, they two) common in Australian/Austronesian lists.
+  NEXT: cluster lists by which extra-gloss template they follow to enumerate the categories.
+- Aliasing is data-driven (`metadata/gloss_aliases.tsv`) + lossless (`canonical_gloss` field;
+  surface `gloss` untouched), so judgement calls stay reviewable and reversible.

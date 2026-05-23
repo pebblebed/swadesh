@@ -1,0 +1,42 @@
+# Curated gloss alias map: surface gloss -> canonical gloss.
+#
+# Folds non-canonical surface glosses onto their canonical 207-item equivalent so
+# the corpus aligns into a clean (concept x language) matrix. Applied by
+# scripts/normalize.py (field `canonical_gloss`); the surface `gloss` is kept
+# verbatim, so this is lossless and reversible.
+#
+# Keys/values are matched after norm_gloss() (NFC, lowercased, ws-collapsed).
+# Every `canonical` target below is a real member of the eng_swadesh-2 207 list.
+# Lines starting with '#' and blank lines are ignored. Columns: alias<TAB>canonical<TAB>note
+#
+# DELIBERATELY NOT MAPPED (ambiguous -> needs human/etymological review; see TODO.md):
+#   you (549)  -> singular or plural? ; fly (2) -> n. or v.? ; grease (2) -> fat (n.)?
+#   woods (3)  -> forest or wood? ; breat (1) -> breast or breathe? ; tsy (1) -> unknown
+#   male/female (1 each), heat (1) -> low impact, unclear part of speech
+# NOT mapped because they are GENUINE extra concepts (a superset of the 207), e.g.
+#   house, brother, sister, finger, shoulder, chin, navel, elbow, claw, fly (n.),
+#   emu/kangaroo/crocodile/..., tomorrow/yesterday, we (incl.)/we two/you two, etc.
+#
+alias	canonical	note
+thou	you (singular)	archaic 2sg; the classic Swadesh-100 gloss for canonical #2
+ye	you (plural)	archaic 2pl gloss for canonical #5
+he/she	he	gender-neutral rendering of 3sg (canonical #3)
+man	man (adult male)	standard Swadesh convention: bare "man" = adult male (#37)
+person	man (human being)	"person" = the human-being sense (canonical #38)
+large	big	synonym of canonical "big" (#27)
+ash	ashes	singular spelling of canonical "ashes" (#168)
+tonge	tongue	typo for canonical "tongue" (#78)
+snooth	smooth	typo for canonical "smooth" (#193)
+meat?	meat	stray annotation mark; canonical "meat" (#63)
+fat	fat (n.)	bare "fat" = the substance, canonical #66
+fat n.	fat (n.)	punctuation variant of canonical "fat (n.)" (#66)
+fly v.	fly (v.)	punctuation variant of canonical "fly (v.)" (#120)
+full(ness)	full	nominalized variant of canonical "full" (#182)
+fullness	full	nominalized variant of canonical "full" (#182)
+walk (go)	walk	gloss-with-synonym for canonical "walk" (#121)
+burn tr.	burn	transitive annotation; canonical "burn" (#169)
+how?	how	punctuation variant of canonical "how" (#15)
+when?	when	punctuation variant of canonical "when" (#14)
+where?	where	punctuation variant of canonical "where" (#13)
+claw(nail)	claw	malformed surface form; unify with the "claw" concept
+claw (nail	claw	malformed/truncated surface form; unify with "claw"
