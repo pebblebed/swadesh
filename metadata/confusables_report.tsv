@@ -3,23 +3,24 @@
 section	char	maps_to	script	occurrences	n_lists	example_lists
 applied	φ	ɸ	Greek	1433	134	afz_swadesh-1 ain_swadesh-1 amf_swadesh-1 amm_swadesh-1 amp_swadesh-1 amt_swadesh-1
 applied	ε	ɛ	Greek	298	11	ace_swadesh-1 bbc_swadesh-1 bzh_swadesh-1 irh_swadesh-1 jae_swadesh-1 jav_swadesh-1
+applied	ӡ	ʒ	Cyrillic	105	16	bdq_swadesh-1 bfw_swadesh-1 crw_swadesh-1 jeh_swadesh-1 jun_swadesh-1 kfp_swadesh-1
 applied	й	j	Cyrillic	94	19	bdq_swadesh-1 blr_swadesh-1 cog_swadesh-1 crw_swadesh-1 jeh_swadesh-1 jun_swadesh-1
+applied	λ	ɬ	Greek	66	12	ady_swadesh-1 akv_swadesh-1 ani_swadesh-1 ava_swadesh-1 bbl_swadesh-1 cji_swadesh-1
+applied	ӓ	ä	Cyrillic	36	4	che_swadesh-1 ddo_swadesh-1 kap_swadesh-1 kjj_swadesh-1
+applied	η	ŋ	Greek	26	16	ban_swadesh-1 bug_swadesh-1 bzh_swadesh-1 gil_swadesh-1 irh_swadesh-1 jav_swadesh-1
+applied	ф	f	Cyrillic	22	4	dad_swadesh-1 irh_swadesh-1 kvo_swadesh-1 woe_swadesh-1
+applied	ӧ	ö	Cyrillic	16	4	anq_swadesh-1 kap_swadesh-1 kjg_swadesh-1 tcx_swadesh-1
+applied	ӡ	d͡z	Cyrillic	15	5	abk_swadesh-1 abq_swadesh-1 ady_swadesh-1 bbl_swadesh-1 kbd_swadesh-1
 applied	γ	ɣ	Greek	15	4	bzh_swadesh-1 lml_swadesh-1 rug_swadesh-1 tay_swadesh-1
+applied	ш	ʃ	Cyrillic	12	6	ace_swadesh-1 akl_swadesh-1 bug_swadesh-1 jav_swadesh-1 mah_swadesh-1 nem_swadesh-1
+applied	ί	i	Greek	11	10	akl_swadesh-1 bug_swadesh-1 caa_swadesh-1 mad_swadesh-1 mam_swadesh-1 mqy_swadesh-1
 applied	δ	ð	Greek	10	4	dru_swadesh-1 fij_swadesh-1 snc_swadesh-1 wyy_swadesh-1
+applied	е	e	Cyrillic	9	6	jav_swadesh-1 lid_swadesh-1 mhs_swadesh-1 mqy_swadesh-1 ppk_swadesh-1 wlo_swadesh-1
+applied	є	ɛ	Cyrillic	7	3	irh_swadesh-1 mah_swadesh-1 szw_swadesh-1
+applied	І	i	Cyrillic	6	3	mah_swadesh-1 pwn_swadesh-1 szw_swadesh-1
 applied	ϑ	θ	Greek	4	1	tcx_swadesh-1
-flagged	ӡ		Cyrillic	120	21	abk_swadesh-1 abq_swadesh-1 ady_swadesh-1 bbl_swadesh-1 bdq_swadesh-1 bfw_swadesh-1
-flagged	λ		Greek	66	12	ady_swadesh-1 akv_swadesh-1 ani_swadesh-1 ava_swadesh-1 bbl_swadesh-1 cji_swadesh-1
+applied	έ	ɛ	Greek	3	1	pap_swadesh-1
+applied	ӯ	ū	Cyrillic	2	2	kfa_swadesh-1 tcx_swadesh-1
+applied	Ш	ʃ	Cyrillic	1	1	bug_swadesh-1
 flagged	э		Cyrillic	36	19	ace_swadesh-1 bps_swadesh-1 bzh_swadesh-1 cgc_swadesh-1 irh_swadesh-1 jav_swadesh-1
-flagged	ӓ		Cyrillic	36	4	che_swadesh-1 ddo_swadesh-1 kap_swadesh-1 kjj_swadesh-1
-flagged	η		Greek	26	16	ban_swadesh-1 bug_swadesh-1 bzh_swadesh-1 gil_swadesh-1 irh_swadesh-1 jav_swadesh-1
-flagged	ф		Cyrillic	22	4	dad_swadesh-1 irh_swadesh-1 kvo_swadesh-1 woe_swadesh-1
-flagged	ӧ		Cyrillic	16	4	anq_swadesh-1 kap_swadesh-1 kjg_swadesh-1 tcx_swadesh-1
-flagged	ш		Cyrillic	12	6	ace_swadesh-1 akl_swadesh-1 bug_swadesh-1 jav_swadesh-1 mah_swadesh-1 nem_swadesh-1
-flagged	ί		Greek	11	10	akl_swadesh-1 bug_swadesh-1 caa_swadesh-1 mad_swadesh-1 mam_swadesh-1 mqy_swadesh-1
-flagged	е		Cyrillic	9	6	jav_swadesh-1 lid_swadesh-1 mhs_swadesh-1 mqy_swadesh-1 ppk_swadesh-1 wlo_swadesh-1
-flagged	є		Cyrillic	7	3	irh_swadesh-1 mah_swadesh-1 szw_swadesh-1
-flagged	І		Cyrillic	6	3	mah_swadesh-1 pwn_swadesh-1 szw_swadesh-1
-flagged	έ		Greek	3	1	pap_swadesh-1
-flagged	ӯ		Cyrillic	2	2	kfa_swadesh-1 tcx_swadesh-1
-flagged	Ш		Cyrillic	1	1	bug_swadesh-1
 flagged	υ		Greek	1	1	jav_swadesh-1

@@ -51,17 +51,20 @@
    per-list gate would have corrupted them. A wrong-script char is mapped ONLY when its own
    transcription is predominantly Latin. Map (`SCRIPT_CONFUSABLES`): Cyrillic й->j (94 occ/19
    lists) + Greek-for-IPA φ->ɸ (1433/134!), ε->ɛ (298/11), γ->ɣ (15/4), δ->ð (10/4), ϑ->θ (4/1)
-   = 1854 chars fixed. Greek β/θ/χ DELIBERATELY kept (valid IPA codepoints). Genuine native
-   lines verified untouched (bul 'майка', mdf 'шулей', ell 'μεγάλο' all preserved; raw kept
-   verbatim so reversible). FLAGGED (not mapped, 374 chars) for future review in
-   `metadata/confusables_report.tsv`: Cyrillic ӡ(120) э(36) ӓ(36) ф(22) ӧ(16) ш е є І -- the
-   Caucasus lists (abk/ady/...) use a deliberate Cyrillic-Latin hybrid phonetic notation, not
-   sloppy confusables; Greek λ(66, Caucasian lateral) η(26, =ŋ in some lists, vowel in others)
-   ί έ υ. SIDE EFFECT: cleaner IPA chars reclassified 7 lists light_ipa/latin_diacritic ->
-   ipa_dense (605->612), so to_ipa now passes ~1,976 more records through native_ipa.
-   NEXT refinement: the pure Cyrillic/Latin homoglyphs (а о е р с х у к ...) seen in
-   Latin-dominant lines are almost certainly typos too -- map them after per-line verification
-   (currently flagged 'е' 9 occ); resolve the Caucasus ӡ/λ per-language (likely ӡ->d͡z, λ->ɬ/tɬ).
+   Greek β/θ/χ DELIBERATELY kept (valid IPA codepoints). Genuine native lines verified untouched
+   (bul 'майка', mdf 'шулей', ell 'μεγάλο' all preserved; raw kept verbatim so reversible).
+   PASS 2 (homoglyphs + per-Caucasian resolution) added: pure homoglyphs е->e ј->j І->i ӓ->ä
+   ӧ->ö ӯ->ū ί->i έ->ɛ є->ɛ; phonetic-value confusables η->ŋ (biηtaŋ=bintaŋ) ш->ʃ ф->f; the
+   Caucasian lateral λ->ɬ (66/12 lists; the lateral AFFRICATE ƛ U+019B is left as-is); and
+   ӡ resolved PER-LANGUAGE via `LANG_CONFUSABLES`: ӡ->d͡z in NW-Caucasian/Nakh (abk/abq/ady/
+   kbd/bbl: Abkhaz 'water' аӡы=[aˈd͡zə]) but ӡ->ʒ elsewhere (the ezh homoglyph, ~16 Austroasiatic
+   lists). Now 2191 chars fixed; only 37 still FLAGGED -- Cyrillic э (36/19, genuinely ambiguous
+   ə vs ɛ across Austronesian lists that ALSO use ə) + one stray Greek υ. Front vowels ӓ/ӧ kept
+   as Latin ä/ö at this layer (phon. ~æ/ø) for a later IPA pass. SIDE EFFECT: cleaner IPA chars
+   reclassified 12 lists -> ipa_dense (605->617); to_ipa now passes ~2,514 more recs (149,519
+   total) through native_ipa. Full audit: `metadata/confusables_report.tsv`.
+   NEXT: decide э per-list (sample whether it contrasts with ə); the ӓ/ӧ->æ/ø phonetic refinement
+   belongs in the Caucasus IPA tier, not normalize.
 5. Structured IPA features (TODO above): tokenize transcription_norm into IPA segments;
    attach phonetic features (place/manner/voicing) per segment. ONLY meaningful for the
    ipa_dense lists until conversion (Tiers 1-3) extends coverage.
@@ -75,11 +78,11 @@ data/normalized/transcription_systems.tsv) over 1229 lists:
   native scripts 11 (Arabic 3, Cyrillic 3, Greek/Han/Hebrew/Kana/Thai 1 each) | gloss_only 1.
   => 605 IPA-ready now; 623 need conversion. Each list has scores (ipa_density, ipa_char_ratio,
   nonascii_ratio, americanist_ratio) so thresholds stay re-judgeable.
-PROGRESS (lists with IPA populated, by `python scripts/to_ipa.py`): 626 / 1229 lists ->
-  612 ipa_dense (native_ipa) + 10 Americanist + 2 Czech/Slovak + 1 Greek + 1 Kana. By RECORDS:
-  148,981 / 295,369 have a non-empty `ipa`. (ipa_dense rose 605->612 after the confusable
-  cleanup revealed IPA chars hidden as Greek φ/ε.) Remaining: 9 native-script lists (Tier 2) +
-  ~560 Latin/light_ipa lists (Tier 3) + the americanist data-cleanup (Cheyenne etc.).
+PROGRESS (lists with IPA populated, by `python scripts/to_ipa.py`): 631 / 1229 lists ->
+  617 ipa_dense (native_ipa) + 10 Americanist + 2 Czech/Slovak + 1 Greek + 1 Kana. By RECORDS:
+  149,519 / 295,369 have a non-empty `ipa`. (ipa_dense rose 605->617 over the two confusable
+  passes, which revealed IPA chars hidden as Greek φ/ε/λ/η and Cyrillic ӡ/ш/ф.) Remaining:
+  9 native-script lists (Tier 2) + ~555 Latin/light_ipa lists (Tier 3) + americanist cleanup.
 Bonus: transcription system CORRELATES with template category. sahul_extended is mostly
   ipa_dense/light_ipa (real phonetic fieldwork); core_swadesh holds ALL 11 native-script lists
   and most orthographic ones (major languages in their own spelling).

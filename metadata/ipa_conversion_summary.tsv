@@ -1,7 +1,7 @@
 # IPA conversion methods over all records.
 method	n_records
-native_ipa	145399
-deferred_latin	144102
+native_ipa	145937
+deferred_latin	143564
 americanist	2936
 deferred_native	2073
 slavic_g2p	361
@@ -14,7 +14,7 @@ americanist	high	2597
 americanist	medium	339
 greek_g2p	high	207
 kana_g2p	high	78
-native_ipa	high	145399
+native_ipa	high	145937
 slavic_g2p	high	361
 
 # Converted lists: residual (unconverted) symbols still present

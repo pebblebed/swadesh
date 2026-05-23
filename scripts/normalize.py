@@ -24,13 +24,16 @@ Transcription normalization is conservative and lossless-by-default:
       * whitespace trim + internal-whitespace collapse
       * U+01DD (LATIN SMALL LETTER TURNED E, mis-used for schwa) -> U+0259 (ə)
       * wrong-SCRIPT confusables, PER-LINE gated: a non-Latin codepoint typed
-        where a Latin/IPA symbol was meant (Cyrillic й->j; Greek φ->ɸ ε->ɛ γ->ɣ
-        δ->ð ϑ->θ) is fixed ONLY in transcriptions that are themselves
-        predominantly Latin-script. Genuine Cyrillic/Greek/Arabic transcriptions
-        -- the Cyrillic lines interleaved in bul/rus/mdf, the all-Greek ell list,
-        the Arabic/Thai native lines -- are never touched. Greek β/θ/χ are NOT
-        mapped (they are valid IPA codepoints). See SCRIPT_CONFUSABLES below and
-        metadata/confusables_report.tsv (what was applied + flagged candidates).
+        where a Latin/IPA symbol was meant is fixed ONLY in transcriptions that
+        are themselves predominantly Latin-script. Two kinds: pure homoglyphs
+        (Cyrillic й->j е->e ј->j І->i ӓ->ä ӧ->ö ӡ->ʒ; Greek look-alikes) and
+        phonetic-value confusables (Greek φ->ɸ ε->ɛ γ->ɣ δ->ð η->ŋ λ->ɬ; Cyrillic
+        ш->ʃ ф->f). Per-language overrides (LANG_CONFUSABLES) resolve the
+        Caucasian ӡ->d͡z (abk/abq/ady/kbd/bbl). Genuine native transcriptions --
+        the Cyrillic lines in bul/rus/mdf, the all-Greek ell list, the Arabic/Thai
+        native lines -- are never touched; Greek β/θ/χ are kept (valid IPA). See
+        SCRIPT_CONFUSABLES below + metadata/confusables_report.tsv (applied +
+        still-flagged candidates, notably Cyrillic э).
 """
 import collections
 import glob
@@ -63,23 +66,49 @@ _CONFUSE_RE = re.compile("|".join(map(re.escape, CONFUSABLES)))
 # symbol was meant. Applied ONLY to a transcription that is itself predominantly
 # Latin-script (the _latin_dominant gate below), so genuine Cyrillic/Greek/Arabic
 # transcriptions -- the Cyrillic lines interleaved in bul/rus/mdf, the all-Greek
-# ell list, the Arabic/Thai native lines -- are NEVER touched.
-#   Deliberately NOT mapped (see TODO 'confusable survey'):
+# ell list, the Arabic/Thai native lines -- are NEVER touched. Each value was set
+# from a corpus survey of actual usage (see metadata/confusables_report.tsv and
+# TODO 'confusable survey').
+#   Two kinds: (a) pure homoglyphs (the Cyrillic/Greek glyph is identical to a
+#   Latin/IPA one) and (b) phonetic-value confusables (a wrong-script letter used
+#   for its sound -- NOT its look-alike: Cyrillic с is /s/, not Latin c).
+#   Deliberately NOT mapped:
 #     - β θ χ : these Greek codepoints ARE valid IPA (voiced bilabial / voiceless
 #               dental / voiceless uvular fricatives); Unicode has no Latin form.
-#     - λ η   : language-specific & ambiguous (Caucasian lateral λ; η is ŋ in some
-#               lists but a vowel in others) -- flagged in the report, not changed.
-#     - Cyrillic ӡ э ш ӓ ӧ ... : deliberate (if non-standard) Caucasus phonetic
-#               notation, not sloppy confusables -- flagged for human review.
+#     - э     : ambiguous between schwa /ə/ and /ɛ/ across the ~20 Austronesian
+#               lists that use it (they already use ə separately) -- left flagged.
 SCRIPT_CONFUSABLES = {
-    "й": "j",   # U+0439 CYRILLIC SHORT I   -> j  (palatal approximant)
+    # -- Greek-for-IPA (the symbol exists in IPA as a Latin-block codepoint) --
     "φ": "ɸ",   # U+03C6 GREEK PHI          -> ɸ  U+0278 (bilabial fricative)
     "ε": "ɛ",   # U+03B5 GREEK EPSILON      -> ɛ  U+025B (open-mid front vowel)
     "γ": "ɣ",   # U+03B3 GREEK GAMMA        -> ɣ  U+0263 (velar fricative)
     "δ": "ð",   # U+03B4 GREEK DELTA        -> ð  U+00F0 (dental fricative)
     "ϑ": "θ",   # U+03D1 GREEK THETA SYMBOL -> θ  U+03B8 (the standard IPA theta)
+    "ί": "i",   # U+03AF GREEK IOTA+TONOS   -> i  (stray accented vowel)
+    "έ": "ɛ",   # U+03AD GREEK EPSILON+TONOS-> ɛ
+    "η": "ŋ",   # U+03B7 GREEK ETA used for the velar nasal (biηtaŋ = bintaŋ)
+    "λ": "ɬ",   # U+03BB GREEK LAMBDA = Caucasian voiceless lateral fricative ɬ
+                #         (the lateral AFFRICATE is written ƛ U+019B, kept as-is)
+    # -- pure homoglyphs (Cyrillic/Greek glyph identical to a Latin/IPA one) --
+    "й": "j",   # U+0439 CYRILLIC SHORT I   -> j   (palatal approximant)
+    "е": "e",   # U+0435 CYRILLIC IE        -> e
+    "ј": "j",   # U+0458 CYRILLIC JE        -> j
+    "І": "i",   # U+0406 CYRILLIC BYELORUSSIAN-UKRAINIAN I -> i
+    "є": "ɛ",   # U+0454 CYRILLIC UKRAINIAN IE  ~ ɛ
+    "ӓ": "ä",   # U+04D3 CYRILLIC A+DIAERESIS -> ä  (glyph-normalize; phon. ~ æ)
+    "ӧ": "ö",   # U+04E7 CYRILLIC O+DIAERESIS -> ö  (glyph-normalize; phon. ~ ø)
+    "ӯ": "ū",   # U+04EF CYRILLIC U+MACRON    -> ū
+    "ӡ": "ʒ",   # U+04E1 CYRILLIC ABKHASIAN DZE ~ IPA ezh ʒ (Caucasus -> d͡z, below)
+    # -- phonetic-value confusables (Cyrillic letter used for its sound) --
+    "ш": "ʃ",   # U+0448 CYRILLIC SHA -> ʃ
+    "Ш": "ʃ",   # U+0428 CYRILLIC capital SHA -> ʃ
+    "ф": "f",   # U+0444 CYRILLIC EF  -> f
 }
-_SCRIPT_CONFUSE_RE = re.compile("|".join(map(re.escape, SCRIPT_CONFUSABLES)))
+# Per-language overrides, applied (within the same Latin gate) before the table
+# above. The Abkhasian Dze ӡ is the IPA ezh ʒ by default, but in these
+# NW-Caucasian / Nakh lists it is the voiced alveolar affricate /d͡z/ -- e.g.
+# Abkhaz 'water' аӡы = [aˈd͡zə], Kabardian 'tooth' ӡa = [d͡za].
+LANG_CONFUSABLES = {lc: {"ӡ": "d͡z"} for lc in ("abk", "abq", "ady", "kbd", "bbl")}
 _LEGIT_IPA_GREEK = set("βθχ")  # valid-IPA Greek codepoints: never flag as foreign
 
 _NONLATIN_RANGES = [
@@ -132,21 +161,29 @@ def norm_gloss(g):
     return _WS_RE.sub(" ", unicodedata.normalize("NFC", g).strip().lower())
 
 
-def norm_transcription(t):
+def norm_transcription(t, lang=""):
     """Normalize a transcription for transcription_norm. Returns
-    (norm, applied, flagged): `applied` lists confusable source chars that were
-    replaced; `flagged` lists foreign-script letters left UNMAPPED in a
-    Latin-dominant line (survey candidates -- recorded for review, not changed)."""
+    (norm, applied, flagged): `applied` lists (src, dst) confusable pairs that
+    were replaced; `flagged` lists foreign-script letters left UNMAPPED in a
+    Latin-dominant line (survey candidates -- recorded for review, not changed).
+    Wrong-script confusables fire only when the line is Latin-dominant; `lang`
+    selects any per-language override (LANG_CONFUSABLES)."""
     t = unicodedata.normalize("NFC", t).strip()
     t = _CONFUSE_RE.sub(lambda m: CONFUSABLES[m.group(0)], t)
     applied, flagged = [], []
     if _latin_dominant(t):
+        overrides = LANG_CONFUSABLES.get(lang, {})
+        out = []
         for c in t:
-            if c in SCRIPT_CONFUSABLES:
-                applied.append(c)
-            elif c.isalpha() and c not in _LEGIT_IPA_GREEK and script_of(c) != "Latin":
-                flagged.append(c)
-        t = _SCRIPT_CONFUSE_RE.sub(lambda m: SCRIPT_CONFUSABLES[m.group(0)], t)
+            repl = overrides.get(c) or SCRIPT_CONFUSABLES.get(c)
+            if repl is not None:
+                applied.append((c, repl))
+                out.append(repl)
+            else:
+                if c.isalpha() and c not in _LEGIT_IPA_GREEK and script_of(c) != "Latin":
+                    flagged.append(c)
+                out.append(c)
+        t = "".join(out)
     return _WS_RE.sub(" ", t), applied, flagged
 
 
@@ -268,15 +305,15 @@ def main():
                 if not gloss:
                     dropped += 1
                     continue
-                tr_norm, applied_cs, flagged_cs = norm_transcription(tr_raw)
+                tr_norm, applied_cs, flagged_cs = norm_transcription(tr_raw, lang_code)
                 pair = (gloss, tr_norm)
                 if pair in seen_pairs:
                     dropped += 1
                     continue
                 seen_pairs.add(pair)
-                for c in applied_cs:
-                    applied_stats[c][0] += 1
-                    applied_stats[c][1].add(ident)
+                for sd in applied_cs:               # sd = (src, dst)
+                    applied_stats[sd][0] += 1
+                    applied_stats[sd][1].add(ident)
                 for c in flagged_cs:
                     flagged_stats[c][0] += 1
                     flagged_stats[c][1].add(ident)
@@ -339,9 +376,9 @@ def main():
         f.write("# Wrong-script confusables in transcription_norm (per-line Latin-gated).\n")
         f.write("# transcription_raw keeps the verbatim source, so this is reversible.\n")
         f.write("section\tchar\tmaps_to\tscript\toccurrences\tn_lists\texample_lists\n")
-        for c in sorted(applied_stats, key=lambda c: -applied_stats[c][0]):
-            occ, lists = applied_stats[c]
-            f.write(f"applied\t{c}\t{SCRIPT_CONFUSABLES[c]}\t{script_of(c)}\t"
+        for (c, repl) in sorted(applied_stats, key=lambda k: -applied_stats[k][0]):
+            occ, lists = applied_stats[(c, repl)]
+            f.write(f"applied\t{c}\t{repl}\t{script_of(c)}\t"
                     f"{occ}\t{len(lists)}\t{_ex(lists)}\n")
         for c in sorted(flagged_stats, key=lambda c: -flagged_stats[c][0]):
             occ, lists = flagged_stats[c]
@@ -356,8 +393,8 @@ def main():
     print(f"distinct surface gl.: {len(gloss_lists)}  -> {GLOSSARY}")
     print(f"alias rules loaded  : {len(aliases)}  ({n_aliased} records folded)")
     n_applied = sum(v[0] for v in applied_stats.values())
-    applied_desc = ", ".join(f"{c}->{SCRIPT_CONFUSABLES[c]}:{applied_stats[c][0]}"
-                             for c in sorted(applied_stats, key=lambda c: -applied_stats[c][0]))
+    applied_desc = ", ".join(f"{c}->{repl}:{applied_stats[(c, repl)][0]}"
+                             for (c, repl) in sorted(applied_stats, key=lambda k: -applied_stats[k][0]))
     print(f"confusables applied : {n_applied} chars in Latin-dominant lines "
           f"({applied_desc})")
     print(f"  flagged (unmapped): {sum(v[0] for v in flagged_stats.values())} chars "

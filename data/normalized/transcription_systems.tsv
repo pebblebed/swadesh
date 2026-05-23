@@ -5,13 +5,13 @@ rosettaproject_aar_swadesh-1	aar	Afar	147	Latin	0.422	0.111	0.222	0.0	ipa_dense
 rosettaproject_aau_swadesh-1	aau	Abau	96	Latin	0.208	0.052	0.061	0.0	light_ipa
 rosettaproject_abe_swadesh-1	abe	Abenaki, Western	140	Latin	0.0	0.0	0.022	0.0	latin_diacritic
 rosettaproject_abj_swadesh-1	abj	Aka-Bea	899	Latin	0.444	0.182	0.158	0.0	ipa_dense
-rosettaproject_abk_swadesh-1	abk	Abkhaz	114	Latin	0.412	0.106	0.315	0.05	ipa_dense
-rosettaproject_abq_swadesh-1	abq	Abaza	114	Latin	0.474	0.129	0.307	0.057	ipa_dense
+rosettaproject_abk_swadesh-1	abk	Abkhaz	114	Latin	0.421	0.105	0.308	0.049	ipa_dense
+rosettaproject_abq_swadesh-1	abq	Abaza	114	Latin	0.482	0.128	0.305	0.056	ipa_dense
 rosettaproject_abt_swadesh-1	abt	Ambulas	481	Latin	0.339	0.107	0.222	0.0	ipa_dense
 rosettaproject_abw_swadesh-1	abw	Pal	323	Latin	0.241	0.067	0.105	0.0	light_ipa
 rosettaproject_aby_swadesh-1	aby	Aneme Wake	101	Latin	0.0	0.0	0.002	0.002	plain_ascii
 rosettaproject_abz_swadesh-1	abz	Abui	548	Latin	0.157	0.049	0.082	0.0	light_ipa
-rosettaproject_ace_swadesh-1	ace	Aceh	182	Latin	0.544	0.175	0.224	0.012	ipa_dense
+rosettaproject_ace_swadesh-1	ace	Aceh	182	Latin	0.555	0.18	0.224	0.012	ipa_dense
 rosettaproject_ach_swadesh-1	ach	Acholi	13	Latin	0.538	0.2	0.37	0.1	ipa_dense
 rosettaproject_aci_swadesh-1	aci	Aka-Cari	529	Latin	0.476	0.158	0.154	0.0	ipa_dense
 rosettaproject_ack_swadesh-1	ack	Aka-Kora	268	Latin	0.0	0.0	0.113	0.0	latin_diacritic
@@ -19,7 +19,7 @@ rosettaproject_acl_swadesh-1	acl	Akar-Bale	695	Latin	0.465	0.196	0.182	0.0	ipa_d
 rosettaproject_acr_swadesh-1	acr	Achi	84	Latin	0.0	0.0	0.0	0.0	plain_ascii
 rosettaproject_acx_swadesh-1	acx	Arabic, Omani Spoken	98	Latin	0.184	0.042	0.142	0.0	light_ipa
 rosettaproject_ado_swadesh-1	ado	Abu	18	Latin	0.333	0.083	0.149	0.0	ipa_dense
-rosettaproject_ady_swadesh-1	ady	Adyghe	114	Latin	0.561	0.169	0.39	0.047	ipa_dense
+rosettaproject_ady_swadesh-1	ady	Adyghe	114	Latin	0.596	0.186	0.389	0.047	ipa_dense
 rosettaproject_aey_swadesh-1	aey	Amele	390	Latin	0.285	0.097	0.095	0.001	ipa_dense
 rosettaproject_afb_swadesh-1	afb	Arabic, Gulf Spoken	94	Latin	0.33	0.07	0.159	0.0	ipa_dense
 rosettaproject_afi_swadesh-1	afi	Akrukay	19	Latin	0.316	0.072	0.143	0.0	ipa_dense
@@ -37,10 +37,10 @@ rosettaproject_akc_swadesh-1	akc	Mpur	657	Latin	0.248	0.083	0.131	0.0	light_ipa
 rosettaproject_akh_swadesh-1	akh	Angal Heneng	53	Latin	0.038	0.011	0.086	0.037	americanist
 rosettaproject_aki_swadesh-1	aki	Aiome	25	Latin	0.28	0.08	0.119	0.0	ipa_dense
 rosettaproject_akj_swadesh-1	akj	Aka-Jeru	38	Latin	0.0	0.0	0.027	0.0	latin_diacritic
-rosettaproject_akl_swadesh-1	akl	Inakeanon	185	Latin	0.405	0.083	0.162	0.0	ipa_dense
+rosettaproject_akl_swadesh-1	akl	Inakeanon	185	Latin	0.411	0.084	0.161	0.0	ipa_dense
 rosettaproject_akm_swadesh-1	akm	Aka-Bo	267	Latin	0.921	0.284	0.268	0.002	ipa_dense
 rosettaproject_akq_swadesh-1	akq	Ak	1	Latin	0.0	0.0	0.0	0.0	plain_ascii
-rosettaproject_akv_swadesh-1	akv	Akhvakh	113	Latin	0.195	0.044	0.202	0.032	light_ipa
+rosettaproject_akv_swadesh-1	akv	Akhvakh	113	Latin	0.23	0.054	0.202	0.032	light_ipa
 rosettaproject_akx_swadesh-1	akx	Aka-Kede	524	Latin	0.462	0.156	0.149	0.0	ipa_dense
 rosettaproject_aky_swadesh-1	aky	Aka-Kol	668	Latin	0.449	0.123	0.109	0.0	ipa_dense
 rosettaproject_alh_swadesh-1	alh	Alawa	407	Latin	0.302	0.056	0.146	0.0	ipa_dense
@@ -61,7 +61,7 @@ rosettaproject_amy_swadesh-1	amy	Ami	141	Latin	0.475	0.126	0.163	0.0	ipa_dense
 rosettaproject_amz_swadesh-1	amz	Atampaya	486	Latin	0.414	0.073	0.157	0.0	ipa_dense
 rosettaproject_anc_swadesh-1	anc	Ngas	72	Latin	0.639	0.306	0.553	0.0	ipa_dense
 rosettaproject_anh_swadesh-1	anh	Nend	383	Latin	0.337	0.087	0.182	0.0	ipa_dense
-rosettaproject_ani_swadesh-1	ani	Andi	113	Latin	0.195	0.052	0.185	0.038	light_ipa
+rosettaproject_ani_swadesh-1	ani	Andi	113	Latin	0.265	0.069	0.185	0.038	ipa_dense
 rosettaproject_anj_swadesh-1	anj	Anor	106	Latin	0.038	0.01	0.138	0.0	latin_diacritic
 rosettaproject_anq_swadesh-1	anq	Jarawa	1327	Latin	0.335	0.116	0.136	0.007	ipa_dense
 rosettaproject_anu_swadesh-1	anu	Anuak	97	Latin	0.804	0.296	0.429	0.056	ipa_dense
@@ -96,7 +96,7 @@ rosettaproject_auk_swadesh-1	auk	Heyo	54	Latin	0.222	0.052	0.086	0.0	light_ipa
 rosettaproject_aun_swadesh-1	aun	One, Molmo	60	Latin	0.15	0.04	0.05	0.0	light_ipa
 rosettaproject_auw_swadesh-1	auw	Awyi	643	Latin	0.036	0.008	0.036	0.0	latin_diacritic
 rosettaproject_auy_swadesh-1	auy	Awiyaana	693	Latin	0.206	0.037	0.062	0.001	light_ipa
-rosettaproject_ava_swadesh-1	ava	Avar	114	Latin	0.184	0.053	0.189	0.022	light_ipa
+rosettaproject_ava_swadesh-1	ava	Avar	114	Latin	0.228	0.064	0.189	0.022	light_ipa
 rosettaproject_avl_swadesh-1	avl	Arabic, Eastern Egyptian Bedawi Spoken	100	Latin	0.68	0.173	0.257	0.0	ipa_dense
 rosettaproject_avt_swadesh-1	avt	Au	176	Latin	0.364	0.095	0.109	0.0	ipa_dense
 rosettaproject_awb_swadesh-1	awb	Awa	611	Latin	0.159	0.035	0.055	0.0	light_ipa
@@ -112,11 +112,11 @@ rosettaproject_ban_swadesh-1	ban	Bali	180	Latin	0.383	0.102	0.181	0.027	ipa_dens
 rosettaproject_bbc_swadesh-1	bbc	Batak Toba	197	Latin	0.284	0.072	0.13	0.008	ipa_dense
 rosettaproject_bbd_swadesh-1	bbd	Bau	390	Latin	0.3	0.098	0.1	0.0	ipa_dense
 rosettaproject_bbf_swadesh-1	bbf	Baibai	280	Latin	0.454	0.11	0.208	0.0	ipa_dense
-rosettaproject_bbl_swadesh-1	bbl	Bats	118	Latin	0.153	0.044	0.273	0.017	light_ipa
+rosettaproject_bbl_swadesh-1	bbl	Bats	118	Latin	0.203	0.052	0.271	0.017	light_ipa
 rosettaproject_bbr_swadesh-1	bbr	Girawa	394	Latin	0.31	0.107	0.116	0.002	ipa_dense
 rosettaproject_bdh_swadesh-1	bdh	Baka	24	Latin	0.208	0.057	0.12	0.0	light_ipa
 rosettaproject_bdi_swadesh-1	bdi	Burun	95	Latin	0.632	0.2	0.309	0.038	ipa_dense
-rosettaproject_bdq_swadesh-1	bdq	Bahnar	91	Latin	0.593	0.187	0.224	0.0	ipa_dense
+rosettaproject_bdq_swadesh-1	bdq	Bahnar	91	Latin	0.593	0.196	0.224	0.0	ipa_dense
 rosettaproject_bds_swadesh-1	bds	Burunge	188	Latin	0.362	0.08	0.164	0.022	ipa_dense
 rosettaproject_bdw_swadesh-1	bdw	Baham	351	Latin	0.006	0.001	0.017	0.0	latin_diacritic
 rosettaproject_bdy_swadesh-1	bdy	Bandjalang	785	Latin	0.501	0.11	0.155	0.0	ipa_dense
@@ -127,7 +127,7 @@ rosettaproject_beu_swadesh-1	beu	Blagar	629	Latin	0.102	0.033	0.073	0.001	light_
 rosettaproject_bey_swadesh-1	bey	Beli	73	Latin	0.151	0.043	0.108	0.0	light_ipa
 rosettaproject_bfa_swadesh-1	bfa	Bari	11	Latin	0.636	0.188	0.566	0.0	ipa_dense
 rosettaproject_bfn_swadesh-1	bfn	Bunak	305	Latin	0.115	0.052	0.059	0.0	light_ipa
-rosettaproject_bfw_swadesh-1	bfw	Bondo	95	Latin	0.4	0.122	0.164	0.0	ipa_dense
+rosettaproject_bfw_swadesh-1	bfw	Bondo	95	Latin	0.411	0.124	0.164	0.0	ipa_dense
 rosettaproject_bgo_swadesh-1	bgo	Baga Koga	24	Latin	0.417	0.124	0.318	0.0	ipa_dense
 rosettaproject_bgv_swadesh-1	bgv	Warkay-Bipim	109	Latin	0.119	0.028	0.082	0.0	light_ipa
 rosettaproject_bhf_swadesh-1	bhf	Odiai	573	Latin	0.461	0.143	0.207	0.0	ipa_dense
@@ -181,7 +181,7 @@ rosettaproject_bsk_swadesh-1	bsk	Burushaski	1791	Latin	0.61	0.201	0.359	0.015	ip
 rosettaproject_bsp_swadesh-1	bsp	Baga Sitemu	28	Latin	0.536	0.196	0.336	0.0	ipa_dense
 rosettaproject_bst_swadesh-1	bst	Basketo	97	Latin	0.763	0.209	0.265	0.045	ipa_dense
 rosettaproject_bsw_swadesh-1	bsw	Baiso	84	Latin	0.405	0.1	0.132	0.012	ipa_dense
-rosettaproject_bug_swadesh-1	bug	Bugis	185	Latin	0.384	0.082	0.156	0.03	ipa_dense
+rosettaproject_bug_swadesh-1	bug	Bugis	185	Latin	0.395	0.084	0.155	0.03	ipa_dense
 rosettaproject_bul_swadesh-1	bul	Bulgarian	409	Latin	0.0	0.0	0.536	0.022	native:Cyrillic
 rosettaproject_bun_swadesh-1	bun	Sherbro	423	Latin	0.537	0.167	0.406	0.022	ipa_dense
 rosettaproject_buo_swadesh-1	buo	Terei	399	Latin	0.073	0.014	0.018	0.0	light_ipa
@@ -208,7 +208,7 @@ rosettaproject_bzh_swadesh-1	bzh	Buang, Mapos	181	Latin	0.58	0.184	0.338	0.001	i
 rosettaproject_bzp_swadesh-1	bzp	Kemberano	628	Latin	0.032	0.006	0.072	0.007	latin_diacritic
 rosettaproject_bzr_swadesh-1	bzr	Biri	291	Latin	0.1	0.02	0.084	0.0	light_ipa
 rosettaproject_bzu_swadesh-1	bzu	Burmeso	316	Latin	0.123	0.023	0.066	0.007	light_ipa
-rosettaproject_caa_swadesh-1	caa	Ch'orti'	144	Latin	0.0	0.0	0.004	0.0	plain_ascii
+rosettaproject_caa_swadesh-1	caa	Ch'orti'	144	Latin	0.0	0.0	0.003	0.0	plain_ascii
 rosettaproject_cac_swadesh-1	cac	Chuj	142	Latin	0.0	0.0	0.019	0.0	latin_diacritic
 rosettaproject_cae_swadesh-1	cae	Laalaa	135	Latin	0.748	0.282	0.32	0.018	ipa_dense
 rosettaproject_cak_swadesh-1	cak	Kaqchikel	143	Latin	0.0	0.0	0.027	0.0	latin_diacritic
@@ -222,7 +222,7 @@ rosettaproject_cgc_swadesh-1	cgc	Kagayanen	183	Latin	0.311	0.075	0.115	0.0	ipa_d
 rosettaproject_che_swadesh-1	che	Chechen	115	Latin	0.191	0.048	0.154	0.024	light_ipa
 rosettaproject_chr_swadesh-1	chr	Cherokee	35	Latin	0.0	0.0	0.0	0.0	plain_ascii
 rosettaproject_chy_swadesh-1	chy	Cheyenne	188	Latin	0.0	0.0	0.048	0.017	americanist
-rosettaproject_cji_swadesh-1	cji	Chamalal	115	Latin	0.209	0.062	0.247	0.03	light_ipa
+rosettaproject_cji_swadesh-1	cji	Chamalal	115	Latin	0.261	0.077	0.247	0.03	ipa_dense
 rosettaproject_cjn_swadesh-1	cjn	Chenapian	15	Latin	0.0	0.0	0.0	0.0	plain_ascii
 rosettaproject_cjv_swadesh-1	cjv	Chuave	200	Latin	0.075	0.014	0.032	0.0	light_ipa
 rosettaproject_cmn_swadesh-2	cmn	Chinese, Mandarin	101	Han	0.0	0.0	1.0	0.0	native:Han
@@ -230,9 +230,9 @@ rosettaproject_cns_swadesh-1	cns	Asmat, Central	847	Latin	0.02	0.005	0.021	0.001
 rosettaproject_cog_swadesh-1	cog	Chong	94	Latin	0.468	0.143	0.155	0.0	ipa_dense
 rosettaproject_cra_swadesh-1	cra	Chara	61	Latin	0.328	0.082	0.238	0.047	ipa_dense
 rosettaproject_crk_swadesh-1	crk	Cree, Plains	183	Latin	0.0	0.0	0.0	0.0	plain_ascii
-rosettaproject_crw_swadesh-1	crw	Chrau	89	Latin	0.461	0.15	0.165	0.0	ipa_dense
+rosettaproject_crw_swadesh-1	crw	Chrau	89	Latin	0.461	0.156	0.165	0.0	ipa_dense
 rosettaproject_css_swadesh-1	css	Ohlone, Southern	96	Latin	0.573	0.115	0.192	0.032	ipa_dense
-rosettaproject_dad_swadesh-1	dad	Marik	182	Latin	0.06	0.014	0.082	0.0	light_ipa
+rosettaproject_dad_swadesh-1	dad	Marik	182	Latin	0.06	0.014	0.078	0.0	light_ipa
 rosettaproject_daj_swadesh-1	daj	Daju, Dar Fur	320	Latin	0.381	0.099	0.206	0.057	ipa_dense
 rosettaproject_dal_swadesh-1	dal	Dahalo	225	Latin	0.618	0.155	0.334	0.013	ipa_dense
 rosettaproject_dan_swadesh-1	dan	Danish	226	Latin	0.0	0.0	0.051	0.0	latin_diacritic
@@ -245,7 +245,7 @@ rosettaproject_dbf_swadesh-1	dbf	Edopi	248	Latin	0.23	0.066	0.073	0.005	light_ip
 rosettaproject_dbl_swadesh-1	dbl	Dyirbal	262	Latin	0.458	0.099	0.152	0.0	ipa_dense
 rosettaproject_ddg_swadesh-1	ddg	Fataluku	397	Latin	0.02	0.005	0.009	0.0	plain_ascii
 rosettaproject_ddj_swadesh-1	ddj	Jaru	222	Latin	0.387	0.088	0.175	0.0	ipa_dense
-rosettaproject_ddo_swadesh-1	ddo	Dido	117	Latin	0.171	0.049	0.186	0.033	light_ipa
+rosettaproject_ddo_swadesh-1	ddo	Dido	117	Latin	0.197	0.056	0.186	0.033	light_ipa
 rosettaproject_dec_swadesh-1	dec	Dagik	149	Latin	0.819	0.321	0.601	0.0	ipa_dense
 rosettaproject_ded_swadesh-1	ded	Dedua	223	Latin	0.067	0.017	0.062	0.0	light_ipa
 rosettaproject_deg_swadesh-1	deg	Degema	110	Latin	0.718	0.331	0.595	0.0	ipa_dense
@@ -370,7 +370,7 @@ rosettaproject_ghs_swadesh-1	ghs	Guhu-Samane	63	Latin	0.397	0.109	0.108	0.0	ipa_
 rosettaproject_gia_swadesh-1	gia	Kitja	28	Latin	0.571	0.126	0.207	0.0	ipa_dense
 rosettaproject_gil_swadesh-1	gil	Kiribati	183	Latin	0.082	0.017	0.082	0.0	light_ipa
 rosettaproject_gim_swadesh-1	gim	Gimi	171	Latin	0.363	0.073	0.06	0.0	ipa_dense
-rosettaproject_gin_swadesh-1	gin	Hinukh	111	Latin	0.135	0.037	0.169	0.039	light_ipa
+rosettaproject_gin_swadesh-1	gin	Hinukh	111	Latin	0.18	0.049	0.169	0.039	light_ipa
 rosettaproject_gla_swadesh-1	gla	Gaelic, Scottish	263	Latin	0.0	0.0	0.045	0.0	latin_diacritic
 rosettaproject_gle_swadesh-1	gle	Gaelic, Irish	211	Latin	0.0	0.0	0.062	0.0	latin_diacritic
 rosettaproject_glg_swadesh-1	glg	Galician	212	Latin	0.0	0.0	0.027	0.0	latin_diacritic
@@ -422,7 +422,7 @@ rosettaproject_huf_swadesh-1	huf	Humene	440	Latin	0.316	0.107	0.174	0.009	ipa_de
 rosettaproject_hui_swadesh-1	hui	Huli	469	Latin	0.102	0.02	0.068	0.001	light_ipa
 rosettaproject_hun_swadesh-1	hun	Hungarian	221	Latin	0.0	0.0	0.123	0.0	latin_diacritic
 rosettaproject_hun_swadesh-2	hun	rosettaproject_hun_swadesh-1	202	Latin	0.0	0.0	0.126	0.0	latin_diacritic
-rosettaproject_huz_swadesh-1	huz	Hunzib	114	Latin	0.43	0.147	0.321	0.039	ipa_dense
+rosettaproject_huz_swadesh-1	huz	Hunzib	114	Latin	0.43	0.149	0.321	0.039	ipa_dense
 rosettaproject_hye_swadesh-1	hye	Armenian	81	Latin	0.0	0.0	0.153	0.0	latin_diacritic
 rosettaproject_ian_swadesh-1	ian	Iatmul	509	Latin	0.483	0.152	0.247	0.005	ipa_dense
 rosettaproject_iar_swadesh-1	iar	Purari	483	Latin	0.031	0.006	0.015	0.0	latin_diacritic
@@ -436,7 +436,7 @@ rosettaproject_imn_swadesh-1	imn	Imonda	315	Latin	0.27	0.083	0.11	0.0	ipa_dense
 rosettaproject_imo_swadesh-1	imo	Imbongu	132	Latin	0.076	0.015	0.046	0.015	light_ipa
 rosettaproject_iou_swadesh-1	iou	Tuma-Irumu	50	Latin	0.36	0.11	0.144	0.0	ipa_dense
 rosettaproject_ipo_swadesh-1	ipo	Ipiko	252	Latin	0.107	0.025	0.147	0.0	light_ipa
-rosettaproject_irh_swadesh-1	irh	Irarutu	177	Latin	0.791	0.282	0.304	0.006	ipa_dense
+rosettaproject_irh_swadesh-1	irh	Irarutu	177	Latin	0.791	0.283	0.294	0.006	ipa_dense
 rosettaproject_irk_swadesh-1	irk	Iraqw	454	Latin	0.37	0.087	0.197	0.011	ipa_dense
 rosettaproject_irx_swadesh-1	irx	Kamberau	218	Latin	0.078	0.016	0.049	0.0	light_ipa
 rosettaproject_isa_swadesh-1	isa	Isabi	274	Latin	0.19	0.058	0.079	0.0	light_ipa
@@ -450,11 +450,11 @@ rosettaproject_jac_swadesh-1	jac	Jakalteko	143	Latin	0.0	0.0	0.03	0.0	latin_diac
 rosettaproject_jae_swadesh-1	jae	Yabem	182	Latin	0.462	0.136	0.252	0.0	ipa_dense
 rosettaproject_jao_swadesh-1	jao	Yanyuwa	398	Latin	0.196	0.033	0.07	0.0	light_ipa
 rosettaproject_jaq_swadesh-1	jaq	Yaqay	335	Latin	0.015	0.005	0.024	0.0	latin_diacritic
-rosettaproject_jav_swadesh-1	jav	Javanese	201	Latin	0.473	0.133	0.208	0.021	ipa_dense
+rosettaproject_jav_swadesh-1	jav	Javanese	201	Latin	0.478	0.134	0.207	0.021	ipa_dense
 rosettaproject_jay_swadesh-1	jay	Yan-nhangu	264	Latin	0.269	0.051	0.147	0.0	ipa_dense
 rosettaproject_jbj_swadesh-1	jbj	Arandai	556	Latin	0.009	0.002	0.041	0.0	latin_diacritic
 rosettaproject_jbn_swadesh-1	jbn	Nafusi	99	Latin	0.586	0.16	0.24	0.054	ipa_dense
-rosettaproject_jeh_swadesh-1	jeh	Jeh	90	Latin	0.411	0.092	0.112	0.0	ipa_dense
+rosettaproject_jeh_swadesh-1	jeh	Jeh	90	Latin	0.422	0.094	0.112	0.0	ipa_dense
 rosettaproject_jei_swadesh-1	jei	Yei	346	Latin	0.017	0.003	0.026	0.0	latin_diacritic
 rosettaproject_jel_swadesh-1	jel	Yelmek	503	Latin	0.062	0.014	0.08	0.001	light_ipa
 rosettaproject_jet_swadesh-1	jet	Manem	664	Latin	0.009	0.002	0.02	0.0	latin_diacritic
@@ -468,11 +468,11 @@ rosettaproject_jng_swadesh-1	jng	Yangman	240	Latin	0.279	0.045	0.137	0.0	ipa_den
 rosettaproject_jnj_swadesh-1	jnj	Yemsa	97	Latin	0.814	0.224	0.263	0.047	ipa_dense
 rosettaproject_jpn_swadesh-1	jpn	Japanese	78	Kana	0.0	0.0	1.0	0.0	native:Kana
 rosettaproject_jum_swadesh-1	jum	Jumjum	96	Latin	0.688	0.226	0.405	0.031	ipa_dense
-rosettaproject_jun_swadesh-1	jun	Juang	90	Latin	0.0	0.0	0.067	0.0	latin_diacritic
+rosettaproject_jun_swadesh-1	jun	Juang	90	Latin	0.1	0.022	0.067	0.0	light_ipa
 rosettaproject_kab_swadesh-1	kab	Kabyle	147	Latin	0.463	0.138	0.204	0.0	ipa_dense
 rosettaproject_kan_swadesh-1	kan	Kannada	103	Latin	0.0	0.0	0.214	0.008	latin_diacritic
-rosettaproject_kap_swadesh-1	kap	Bezhta	117	Latin	0.111	0.029	0.221	0.026	light_ipa
-rosettaproject_kbd_swadesh-1	kbd	Kabardian	113	Latin	0.54	0.157	0.35	0.025	ipa_dense
+rosettaproject_kap_swadesh-1	kap	Bezhta	117	Latin	0.137	0.035	0.221	0.026	light_ipa
+rosettaproject_kbd_swadesh-1	kbd	Kabardian	113	Latin	0.602	0.174	0.345	0.025	ipa_dense
 rosettaproject_kbe_swadesh-1	kbe	Kanju	94	Latin	0.191	0.037	0.136	0.0	light_ipa
 rosettaproject_kbk_swadesh-1	kbk	Koiari, Grass	240	Latin	0.0	0.0	0.001	0.0	plain_ascii
 rosettaproject_kbl_swadesh-1	kbl	Kanembu	120	Latin	0.5	0.13	0.301	0.029	ipa_dense
@@ -498,7 +498,7 @@ rosettaproject_kfa_swadesh-1	kfa	Kodava	83	Latin	0.373	0.1	0.256	0.0	ipa_dense
 rosettaproject_kfb_swadesh-1	kfb	Kolami, Northwestern	76	Latin	0.0	0.0	0.155	0.0	latin_diacritic
 rosettaproject_kfc_swadesh-1	kfc	Konda-Dora	76	Latin	0.013	0.004	0.176	0.0	latin_diacritic
 rosettaproject_kfe_swadesh-1	kfe	Kota	80	Latin	0.0	0.0	0.182	0.0	latin_diacritic
-rosettaproject_kfp_swadesh-1	kfp	Korwa	85	Latin	0.082	0.02	0.081	0.0	light_ipa
+rosettaproject_kfp_swadesh-1	kfp	Korwa	85	Latin	0.224	0.06	0.081	0.0	light_ipa
 rosettaproject_kgf_swadesh-1	kgf	Kube	201	Latin	0.07	0.019	0.046	0.0	light_ipa
 rosettaproject_kgg_swadesh-1	kgg	Kusunda	494	Latin	0.476	0.122	0.166	0.007	ipa_dense
 rosettaproject_kgl_swadesh-1	kgl	Kunggari	246	Latin	0.142	0.03	0.098	0.0	light_ipa
@@ -522,7 +522,7 @@ rosettaproject_kiy_swadesh-1	kiy	Kirikiri	389	Latin	0.195	0.055	0.062	0.0	light_
 rosettaproject_kja_swadesh-1	kja	Mlap	168	Latin	0.036	0.008	0.062	0.0	latin_diacritic
 rosettaproject_kjc_swadesh-1	kjc	Konjo, Coastal	183	Latin	0.29	0.057	0.14	0.014	ipa_dense
 rosettaproject_kjd_swadesh-1	kjd	Kiwai, Southern	930	Latin	0.057	0.011	0.012	0.001	light_ipa
-rosettaproject_kjg_swadesh-1	kjg	Khmu	176	Latin	0.58	0.192	0.234	0.006	ipa_dense
+rosettaproject_kjg_swadesh-1	kjg	Khmu	176	Latin	0.58	0.194	0.234	0.006	ipa_dense
 rosettaproject_kjj_swadesh-1	kjj	Khinalugh	111	Latin	0.252	0.086	0.235	0.033	ipa_dense
 rosettaproject_kjs_swadesh-1	kjs	Kewa, East	86	Latin	0.163	0.042	0.045	0.0	light_ipa
 rosettaproject_kjx_swadesh-1	kjx	Ramopa	151	Latin	0.397	0.068	0.084	0.0	ipa_dense
@@ -550,7 +550,7 @@ rosettaproject_kmx_swadesh-1	kmx	Waboda	356	Latin	0.006	0.001	0.002	0.0	plain_as
 rosettaproject_knc_swadesh-1	knc	Kanuri, Central	459	Latin	0.359	0.084	0.347	0.026	ipa_dense
 rosettaproject_knd_swadesh-1	knd	Konda	172	Latin	0.017	0.003	0.008	0.002	plain_ascii
 rosettaproject_knf_swadesh-1	knf	Mankanya	256	Latin	0.816	0.186	0.385	0.026	ipa_dense
-rosettaproject_kns_swadesh-1	kns	Kensiu	101	Latin	0.762	0.236	0.28	0.004	ipa_dense
+rosettaproject_kns_swadesh-1	kns	Kensiu	101	Latin	0.792	0.253	0.28	0.004	ipa_dense
 rosettaproject_knv_swadesh-1	knv	Tabo	376	Latin	0.037	0.008	0.015	0.0	latin_diacritic
 rosettaproject_knw_swadesh-1	knw	Kung-Ekoka	298	Latin	0.238	0.071	0.315	0.032	light_ipa
 rosettaproject_koe_swadesh-1	koe	Kacipo-Balesi	81	Latin	0.21	0.059	0.154	0.066	light_ipa
@@ -582,7 +582,7 @@ rosettaproject_kuo_swadesh-1	kuo	Kumukio	51	Latin	0.039	0.009	0.033	0.0	latin_di
 rosettaproject_kup_swadesh-1	kup	Kunimaipa	430	Latin	0.042	0.01	0.024	0.003	latin_diacritic
 rosettaproject_kux_swadesh-1	kux	Kukatja	17	Latin	0.471	0.123	0.28	0.0	ipa_dense
 rosettaproject_kuy_swadesh-1	kuy	Kuuku-Ya'u	61	Latin	0.492	0.124	0.203	0.0	ipa_dense
-rosettaproject_kvo_swadesh-1	kvo	Dobel	182	Latin	0.555	0.133	0.15	0.0	ipa_dense
+rosettaproject_kvo_swadesh-1	kvo	Dobel	182	Latin	0.555	0.133	0.145	0.0	ipa_dense
 rosettaproject_kwe_swadesh-1	kwe	Kwerba	594	Latin	0.067	0.013	0.048	0.008	light_ipa
 rosettaproject_kwl_swadesh-1	kwl	Kofyar	67	Latin	0.224	0.085	0.3	0.0	light_ipa
 rosettaproject_kwo_swadesh-1	kwo	Kwomtari	306	Latin	0.448	0.147	0.201	0.0	ipa_dense
@@ -611,7 +611,7 @@ rosettaproject_leq_swadesh-1	leq	Lembena	297	Latin	0.438	0.106	0.204	0.003	ipa_d
 rosettaproject_lev_swadesh-1	lev	Lamma	327	Latin	0.196	0.059	0.108	0.0	light_ipa
 rosettaproject_lgn_swadesh-1	lgn	Opuuo	239	Latin	0.418	0.125	0.194	0.04	ipa_dense
 rosettaproject_lgt_swadesh-1	lgt	Pahi	55	Latin	0.255	0.054	0.066	0.003	ipa_dense
-rosettaproject_lid_swadesh-1	lid	Nyindrou	181	Latin	0.326	0.066	0.104	0.0	ipa_dense
+rosettaproject_lid_swadesh-1	lid	Nyindrou	181	Latin	0.326	0.066	0.102	0.0	ipa_dense
 rosettaproject_liq_swadesh-1	liq	Libido	81	Latin	0.741	0.18	0.205	0.026	ipa_dense
 rosettaproject_liu_swadesh-1	liu	Logorik	173	Latin	0.497	0.132	0.192	0.02	ipa_dense
 rosettaproject_liv_swadesh-1	liv	Liv	53	Latin	0.0	0.0	0.0	0.0	plain_ascii
@@ -631,11 +631,11 @@ rosettaproject_lun_swadesh-1	lun	Lunda	92	Latin	0.0	0.0	0.0	0.0	plain_ascii
 rosettaproject_luo_swadesh-1	luo	Dholuo	33	Latin	0.121	0.032	0.044	0.013	light_ipa
 rosettaproject_lwo_swadesh-1	lwo	Luwo	26	Latin	0.538	0.167	0.316	0.056	ipa_dense
 rosettaproject_lww_swadesh-1	lww	Lewo	181	Latin	0.133	0.027	0.046	0.002	light_ipa
-rosettaproject_mad_swadesh-1	mad	Madura	185	Latin	0.514	0.123	0.218	0.033	ipa_dense
-rosettaproject_mah_swadesh-1	mah	Marshallese	181	Latin	0.381	0.113	0.274	0.0	ipa_dense
+rosettaproject_mad_swadesh-1	mad	Madura	185	Latin	0.514	0.123	0.217	0.033	ipa_dense
+rosettaproject_mah_swadesh-1	mah	Marshallese	181	Latin	0.409	0.121	0.271	0.0	ipa_dense
 rosettaproject_mai_swadesh-1	mai	Maithili	98	Latin	0.0	0.0	0.0	0.0	plain_ascii
 rosettaproject_mal_swadesh-1	mal	Malayalam	97	Latin	0.0	0.0	0.193	0.007	latin_diacritic
-rosettaproject_mam_swadesh-1	mam	Mam	143	Latin	0.0	0.0	0.093	0.0	latin_diacritic
+rosettaproject_mam_swadesh-1	mam	Mam	143	Latin	0.0	0.0	0.092	0.0	latin_diacritic
 rosettaproject_mas_swadesh-1	mas	Maasai	45	Latin	0.133	0.056	0.381	0.0	light_ipa
 rosettaproject_mci_swadesh-1	mci	Mesem	245	Latin	0.29	0.096	0.167	0.0	ipa_dense
 rosettaproject_mcr_swadesh-1	mcr	Menya	101	Latin	0.0	0.0	0.049	0.0	latin_diacritic
@@ -673,7 +673,7 @@ rosettaproject_mhd_swadesh-1	mhd	Mbugu	242	Latin	0.26	0.072	0.214	0.011	ipa_dens
 rosettaproject_mhf_swadesh-1	mhf	Mamaa	52	Latin	0.346	0.103	0.144	0.0	ipa_dense
 rosettaproject_mhg_swadesh-1	mhg	Margu	250	Latin	0.424	0.091	0.174	0.0	ipa_dense
 rosettaproject_mhl_swadesh-1	mhl	Mauwake	370	Latin	0.316	0.092	0.124	0.0	ipa_dense
-rosettaproject_mhs_swadesh-1	mhs	Buru	183	Latin	0.011	0.002	0.015	0.001	latin_diacritic
+rosettaproject_mhs_swadesh-1	mhs	Buru	183	Latin	0.011	0.002	0.013	0.001	latin_diacritic
 rosettaproject_mic_swadesh-1	mic	Micmac	169	Latin	0.0	0.0	0.045	0.0	latin_diacritic
 rosettaproject_mid_swadesh-1	mid	Mandaic	93	Latin	0.054	0.011	0.236	0.027	light_ipa
 rosettaproject_mif_swadesh-1	mif	Mofu-Gudur	51	Latin	0.196	0.061	0.477	0.0	light_ipa
@@ -693,7 +693,7 @@ rosettaproject_mmi_swadesh-1	mmi	Musar	398	Latin	0.354	0.105	0.144	0.0	ipa_dense
 rosettaproject_mmp_swadesh-1	mmp	Siawi	190	Latin	0.4	0.117	0.177	0.0	ipa_dense
 rosettaproject_mmq_swadesh-1	mmq	Musak	396	Latin	0.298	0.082	0.154	0.0	ipa_dense
 rosettaproject_mna_swadesh-1	mna	Mbula	179	Latin	0.017	0.003	0.113	0.0	latin_diacritic
-rosettaproject_mnw_swadesh-1	mnw	Mon	101	Latin	0.139	0.036	0.1	0.0	light_ipa
+rosettaproject_mnw_swadesh-1	mnw	Mon	101	Latin	0.178	0.048	0.1	0.0	light_ipa
 rosettaproject_mnx_swadesh-1	mnx	Manikion	345	Latin	0.02	0.004	0.006	0.0	plain_ascii
 rosettaproject_mnz_swadesh-1	mnz	Moni	450	Latin	0.042	0.01	0.041	0.001	latin_diacritic
 rosettaproject_mok_swadesh-1	mok	Morori	227	Latin	0.009	0.002	0.034	0.0	latin_diacritic
@@ -715,8 +715,8 @@ rosettaproject_mqr_swadesh-1	mqr	Mander	118	Latin	0.008	0.001	0.003	0.0	plain_as
 rosettaproject_mqs_swadesh-1	mqs	Makian, West	357	Latin	0.0	0.0	0.007	0.0	plain_ascii
 rosettaproject_mqv_swadesh-1	mqv	Mosimo	339	Latin	0.245	0.075	0.092	0.003	light_ipa
 rosettaproject_mqw_swadesh-1	mqw	Murupi	372	Latin	0.263	0.074	0.092	0.0	ipa_dense
-rosettaproject_mqy_swadesh-1	mqy	Manggarai	182	Latin	0.231	0.053	0.155	0.029	light_ipa
-rosettaproject_mra_swadesh-1	mra	Mlabri	89	Latin	0.674	0.205	0.248	0.003	ipa_dense
+rosettaproject_mqy_swadesh-1	mqy	Manggarai	182	Latin	0.231	0.053	0.152	0.029	light_ipa
+rosettaproject_mra_swadesh-1	mra	Mlabri	89	Latin	0.697	0.22	0.248	0.003	ipa_dense
 rosettaproject_mrf_swadesh-1	mrf	Elseng	418	Latin	0.1	0.023	0.082	0.0	light_ipa
 rosettaproject_mrx_swadesh-1	mrx	Dineor	18	Latin	0.0	0.0	0.0	0.0	plain_ascii
 rosettaproject_mrz_swadesh-1	mrz	Marind	804	Latin	0.241	0.053	0.09	0.0	light_ipa
@@ -737,7 +737,7 @@ rosettaproject_mty_swadesh-1	mty	Nabi	59	Latin	0.203	0.059	0.12	0.0	light_ipa
 rosettaproject_mur_swadesh-1	mur	Murle	255	Latin	0.569	0.184	0.324	0.048	ipa_dense
 rosettaproject_muu_swadesh-1	muu	Yaaku	80	Latin	0.15	0.053	0.137	0.034	light_ipa
 rosettaproject_muz_swadesh-1	muz	Mursi	150	Latin	0.433	0.12	0.484	0.028	ipa_dense
-rosettaproject_mva_swadesh-1	mva	Manam	184	Latin	0.299	0.072	0.099	0.0	ipa_dense
+rosettaproject_mva_swadesh-1	mva	Manam	184	Latin	0.299	0.072	0.098	0.0	ipa_dense
 rosettaproject_mvq_swadesh-1	mvq	Moere	336	Latin	0.327	0.097	0.13	0.0	ipa_dense
 rosettaproject_mwb_swadesh-1	mwb	Juwal	252	Latin	0.659	0.183	0.213	0.005	ipa_dense
 rosettaproject_mwd_swadesh-1	mwd	Mudbura	40	Latin	0.25	0.07	0.181	0.0	ipa_dense
@@ -771,7 +771,7 @@ rosettaproject_ndx_swadesh-1	ndx	Nduga	111	Latin	0.081	0.018	0.037	0.0	light_ipa
 rosettaproject_ndz_swadesh-1	ndz	Ndogo	7	Latin	0.429	0.176	0.176	0.0	ipa_dense
 rosettaproject_nec_swadesh-1	nec	Nedebang	191	Latin	0.424	0.143	0.187	0.0	ipa_dense
 rosettaproject_nej_swadesh-1	nej	Neko	31	Latin	0.226	0.058	0.081	0.0	light_ipa
-rosettaproject_nem_swadesh-1	nem	Nemi	183	Latin	0.137	0.037	0.144	0.0	light_ipa
+rosettaproject_nem_swadesh-1	nem	Nemi	183	Latin	0.142	0.038	0.144	0.0	light_ipa
 rosettaproject_nen_swadesh-1	nen	Nengone	178	Latin	0.039	0.008	0.113	0.042	americanist
 rosettaproject_ner_swadesh-1	ner	Yahadian	208	Latin	0.0	0.0	0.003	0.0	plain_ascii
 rosettaproject_net_swadesh-1	net	Nete	82	Latin	0.695	0.203	0.242	0.004	ipa_dense
@@ -834,7 +834,7 @@ rosettaproject_owi_swadesh-1	owi	Owiniga	224	Latin	0.281	0.063	0.114	0.0	ipa_den
 rosettaproject_oyd_swadesh-1	oyd	Oyda	96	Latin	0.74	0.204	0.247	0.038	ipa_dense
 rosettaproject_pag_swadesh-1	pag	Pangasinan	257	Latin	0.0	0.0	0.193	0.0	latin_diacritic
 rosettaproject_pam_swadesh-1	pam	Pampangan	139	Latin	0.0	0.0	0.038	0.0	latin_diacritic
-rosettaproject_pap_swadesh-1	pap	Papiamentu	102	Latin	0.039	0.012	0.175	0.0	latin_diacritic
+rosettaproject_pap_swadesh-1	pap	Papiamentu	102	Latin	0.069	0.018	0.175	0.0	light_ipa
 rosettaproject_pbo_swadesh-1	pbo	Papel	127	Latin	0.819	0.21	0.413	0.027	ipa_dense
 rosettaproject_pbp_swadesh-1	pbp	Badyara	120	Latin	0.758	0.171	0.368	0.027	ipa_dense
 rosettaproject_pbt_swadesh-1	pbt	Pashto, Southern	99	Arabic	0.0	0.0	0.994	0.0	native:Arabic
@@ -856,12 +856,12 @@ rosettaproject_pnb_swadesh-1	pnb	Panjabi, Western	194	Latin	0.0	0.0	0.0	0.0	plai
 rosettaproject_pnn_swadesh-1	pnn	Pinai-Hagahai	582	Latin	0.445	0.155	0.298	0.007	ipa_dense
 rosettaproject_pnr_swadesh-1	pnr	Panim	338	Latin	0.246	0.077	0.091	0.001	light_ipa
 rosettaproject_pnw_swadesh-1	pnw	Panytyima	272	Latin	0.349	0.068	0.189	0.0	ipa_dense
-rosettaproject_poc_swadesh-1	poc	Poqomam	258	Latin	0.0	0.0	0.017	0.0	latin_diacritic
+rosettaproject_poc_swadesh-1	poc	Poqomam	258	Latin	0.0	0.0	0.016	0.0	latin_diacritic
 rosettaproject_pol_swadesh-1	pol	Polish	216	Latin	0.0	0.0	0.139	0.0	latin_diacritic
 rosettaproject_pon_swadesh-1	pon	Pohnpeian	180	Latin	0.217	0.059	0.208	0.0	light_ipa
 rosettaproject_por_swadesh-1	por	Portuguese	305	Latin	0.0	0.0	0.02	0.0	latin_diacritic
 rosettaproject_ppe_swadesh-1	ppe	Papi	135	Latin	0.244	0.045	0.088	0.0	light_ipa
-rosettaproject_ppk_swadesh-1	ppk	Uma	182	Latin	0.5	0.099	0.165	0.01	ipa_dense
+rosettaproject_ppk_swadesh-1	ppk	Uma	182	Latin	0.5	0.099	0.164	0.01	ipa_dense
 rosettaproject_ppo_swadesh-1	ppo	Folopa	746	Latin	0.111	0.023	0.052	0.0	light_ipa
 rosettaproject_ppq_swadesh-1	ppq	Pei	70	Latin	0.786	0.228	0.238	0.0	ipa_dense
 rosettaproject_ppt_swadesh-1	ppt	Pare	248	Latin	0.27	0.081	0.137	0.0	ipa_dense
@@ -875,7 +875,7 @@ rosettaproject_puo_swadesh-1	puo	Puoc	94	Latin	0.596	0.206	0.233	0.0	ipa_dense
 rosettaproject_pup_swadesh-1	pup	Pulabu	300	Latin	0.27	0.083	0.123	0.0	ipa_dense
 rosettaproject_pwa_swadesh-1	pwa	Pawaia	387	Latin	0.245	0.073	0.122	0.006	light_ipa
 rosettaproject_pwm_swadesh-1	pwm	Molbog	182	Latin	0.258	0.053	0.081	0.003	ipa_dense
-rosettaproject_pwn_swadesh-1	pwn	Paiwan	177	Latin	0.565	0.156	0.279	0.0	ipa_dense
+rosettaproject_pwn_swadesh-1	pwn	Paiwan	177	Latin	0.565	0.156	0.275	0.0	ipa_dense
 rosettaproject_quc_swadesh-1	quc	K'iche'	25	Latin	0.0	0.0	0.019	0.0	latin_diacritic
 rosettaproject_rac_swadesh-1	rac	Rasawa	285	Latin	0.147	0.034	0.08	0.0	light_ipa
 rosettaproject_ran_swadesh-1	ran	Riantana	332	Latin	0.142	0.033	0.098	0.02	light_ipa
@@ -905,7 +905,7 @@ rosettaproject_sad_swadesh-1	sad	Sandawe	606	Latin	0.447	0.118	0.255	0.01	ipa_de
 rosettaproject_saj_swadesh-1	saj	Sahu	590	Latin	0.0	0.0	0.014	0.0	latin_diacritic
 rosettaproject_sao_swadesh-1	sao	Sause	96	Latin	0.062	0.015	0.055	0.0	light_ipa
 rosettaproject_sas_swadesh-1	sas	Sasak	179	Latin	0.514	0.133	0.195	0.01	ipa_dense
-rosettaproject_sat_swadesh-1	sat	Santali	98	Latin	0.133	0.037	0.095	0.0	light_ipa
+rosettaproject_sat_swadesh-1	sat	Santali	98	Latin	0.265	0.073	0.095	0.0	ipa_dense
 rosettaproject_sav_swadesh-1	sav	Saafi-Saafi	133	Latin	0.647	0.231	0.281	0.022	ipa_dense
 rosettaproject_saw_swadesh-1	saw	Sawi	151	Latin	0.325	0.077	0.077	0.0	ipa_dense
 rosettaproject_sba_swadesh-1	sba	Ngambay	53	Latin	0.736	0.322	0.522	0.0	ipa_dense
@@ -913,7 +913,7 @@ rosettaproject_sbf_swadesh-1	sbf	Shabo	307	Latin	0.342	0.084	0.148	0.045	ipa_den
 rosettaproject_sbi_swadesh-1	sbi	Seti	84	Latin	0.262	0.065	0.111	0.0	ipa_dense
 rosettaproject_scn_swadesh-1	scn	Sicilian	132	Latin	0.0	0.0	0.02	0.0	latin_diacritic
 rosettaproject_sds_swadesh-1	sds	Sened	44	Latin	0.523	0.159	0.234	0.039	ipa_dense
-rosettaproject_sea_swadesh-1	sea	Semai	96	Latin	0.604	0.183	0.219	0.0	ipa_dense
+rosettaproject_sea_swadesh-1	sea	Semai	96	Latin	0.635	0.211	0.219	0.0	ipa_dense
 rosettaproject_sej_swadesh-1	sej	Sene	51	Latin	0.373	0.119	0.137	0.0	ipa_dense
 rosettaproject_seo_swadesh-1	seo	Suarmin	1	Latin	0.0	0.0	0.0	0.0	plain_ascii
 rosettaproject_ses_swadesh-1	ses	Songhay, Koyraboro Senni	520	Latin	0.242	0.061	0.097	0.014	light_ipa
@@ -960,7 +960,7 @@ rosettaproject_spd_swadesh-1	spd	Saep	381	Latin	0.247	0.066	0.1	0.0	light_ipa
 rosettaproject_spi_swadesh-1	spi	Saponi	349	Latin	0.473	0.148	0.149	0.011	ipa_dense
 rosettaproject_spl_swadesh-1	spl	Selepet	252	Latin	0.306	0.099	0.155	0.0	ipa_dense
 rosettaproject_spm_swadesh-1	spm	Sepen	23	Latin	0.348	0.108	0.187	0.0	ipa_dense
-rosettaproject_srb_swadesh-1	srb	Sora	100	Latin	0.24	0.058	0.106	0.0	light_ipa
+rosettaproject_srb_swadesh-1	srb	Sora	100	Latin	0.33	0.091	0.106	0.0	ipa_dense
 rosettaproject_srl_swadesh-1	srl	Isirawa	476	Latin	0.155	0.037	0.06	0.006	light_ipa
 rosettaproject_srm_swadesh-1	srm	Saramaccan	112	Latin	0.0	0.0	0.228	0.0	latin_diacritic
 rosettaproject_srn_swadesh-1	srn	Sranan	177	Latin	0.0	0.0	0.182	0.0	latin_diacritic
@@ -983,18 +983,18 @@ rosettaproject_swn_swadesh-1	swn	Sawknah	64	Latin	0.547	0.123	0.225	0.066	ipa_de
 rosettaproject_swt_swadesh-1	swt	Sawila	205	Latin	0.4	0.104	0.162	0.002	ipa_dense
 rosettaproject_syc_swadesh-1	syc	Syriac	57	Latin	0.86	0.249	0.357	0.024	ipa_dense
 rosettaproject_sys_swadesh-1	sys	Sinyar	55	Latin	0.545	0.167	0.267	0.009	ipa_dense
-rosettaproject_sza_swadesh-1	sza	Semelai	99	Latin	0.596	0.219	0.269	0.0	ipa_dense
+rosettaproject_sza_swadesh-1	sza	Semelai	99	Latin	0.616	0.235	0.269	0.0	ipa_dense
 rosettaproject_szb_swadesh-1	szb	Ngalum	33	Latin	0.0	0.0	0.031	0.0	latin_diacritic
-rosettaproject_szc_swadesh-1	szc	Semaq Beri	84	Latin	0.69	0.257	0.323	0.0	ipa_dense
+rosettaproject_szc_swadesh-1	szc	Semaq Beri	84	Latin	0.726	0.28	0.323	0.0	ipa_dense
 rosettaproject_szp_swadesh-1	szp	Suabo	466	Latin	0.011	0.002	0.036	0.0	latin_diacritic
-rosettaproject_szw_swadesh-1	szw	Sawai	185	Latin	0.654	0.208	0.216	0.008	ipa_dense
+rosettaproject_szw_swadesh-1	szw	Sawai	185	Latin	0.67	0.213	0.215	0.008	ipa_dense
 rosettaproject_tad_swadesh-1	tad	Tause	543	Latin	0.223	0.054	0.073	0.01	light_ipa
 rosettaproject_tag_swadesh-1	tag	Tagoi	408	Latin	0.431	0.141	0.44	0.002	ipa_dense
 rosettaproject_tah_swadesh-1	tah	Tahitian	184	Latin	0.451	0.108	0.166	0.0	ipa_dense
 rosettaproject_tam_swadesh-1	tam	Tamil	117	Latin	0.0	0.0	0.218	0.007	latin_diacritic
 rosettaproject_tao_swadesh-1	tao	Yami	185	Latin	0.27	0.059	0.162	0.008	ipa_dense
 rosettaproject_tat_swadesh-1	tat	Tatar	204	Latin	0.0	0.0	0.2	0.0	latin_diacritic
-rosettaproject_tay_swadesh-1	tay	Atayal	183	Latin	0.612	0.138	0.254	0.033	ipa_dense
+rosettaproject_tay_swadesh-1	tay	Atayal	183	Latin	0.612	0.138	0.253	0.033	ipa_dense
 rosettaproject_taz_swadesh-1	taz	Tocho	195	Latin	0.79	0.3	0.637	0.052	ipa_dense
 rosettaproject_tbc_swadesh-1	tbc	Takia	180	Latin	0.006	0.001	0.027	0.0	latin_diacritic
 rosettaproject_tbd_swadesh-1	tbd	Kaki Ae	414	Latin	0.621	0.239	0.252	0.0	ipa_dense
@@ -1012,7 +1012,7 @@ rosettaproject_tcm_swadesh-1	tcm	Tanahmerah	205	Latin	0.005	0.001	0.002	0.0	plai
 rosettaproject_tcq_swadesh-1	tcq	Kaiy	199	Latin	0.01	0.003	0.003	0.0	plain_ascii
 rosettaproject_tcx_swadesh-1	tcx	Toda	85	Latin	0.153	0.052	0.312	0.02	light_ipa
 rosettaproject_tcy_swadesh-1	tcy	Tulu	104	Latin	0.0	0.0	0.144	0.0	latin_diacritic
-rosettaproject_tdr_swadesh-1	tdr	Todrah	95	Latin	0.442	0.128	0.163	0.0	ipa_dense
+rosettaproject_tdr_swadesh-1	tdr	Todrah	95	Latin	0.453	0.13	0.163	0.0	ipa_dense
 rosettaproject_tds_swadesh-1	tds	Doutai	315	Latin	0.206	0.045	0.053	0.006	light_ipa
 rosettaproject_tei_swadesh-1	tei	Torricelli	219	Latin	0.721	0.29	0.322	0.002	ipa_dense
 rosettaproject_tel_swadesh-1	tel	Telugu	147	Latin	0.0	0.0	0.086	0.0	latin_diacritic
@@ -1029,7 +1029,7 @@ rosettaproject_thv_swadesh-1	thv	Tamahaq, Tahaggart	298	Latin	0.047	0.012	0.086	
 rosettaproject_tic_swadesh-1	tic	Tira	178	Latin	0.584	0.232	0.58	0.014	ipa_dense
 rosettaproject_tif_swadesh-1	tif	Tifal	51	Latin	0.0	0.0	0.017	0.0	latin_diacritic
 rosettaproject_tim_swadesh-1	tim	Timbe	234	Latin	0.299	0.092	0.168	0.0	ipa_dense
-rosettaproject_tin_swadesh-1	tin	Tindi	112	Latin	0.179	0.046	0.202	0.029	light_ipa
+rosettaproject_tin_swadesh-1	tin	Tindi	112	Latin	0.25	0.064	0.202	0.029	ipa_dense
 rosettaproject_tiw_swadesh-1	tiw	Tiwi	520	Latin	0.462	0.098	0.195	0.0	ipa_dense
 rosettaproject_tlb_swadesh-1	tlb	Tobelo	416	Latin	0.024	0.004	0.018	0.0	latin_diacritic
 rosettaproject_tlf_swadesh-1	tlf	Telefol	231	Latin	0.004	0.001	0.117	0.0	latin_diacritic
@@ -1115,7 +1115,7 @@ rosettaproject_wkw_swadesh-1	wkw	Wakawaka	329	Latin	0.304	0.074	0.135	0.0	ipa_de
 rosettaproject_wla_swadesh-1	wla	Walio	155	Latin	0.406	0.104	0.153	0.0	ipa_dense
 rosettaproject_wlg_swadesh-1	wlg	Kunbarlang	233	Latin	0.571	0.142	0.216	0.0	ipa_dense
 rosettaproject_wli_swadesh-1	wli	Waioli	82	Latin	0.134	0.032	0.046	0.002	light_ipa
-rosettaproject_wlo_swadesh-1	wlo	Wolio	183	Latin	0.213	0.049	0.1	0.012	light_ipa
+rosettaproject_wlo_swadesh-1	wlo	Wolio	183	Latin	0.213	0.049	0.099	0.012	light_ipa
 rosettaproject_wlu_swadesh-1	wlu	Wuliwuli	51	Latin	0.255	0.059	0.148	0.0	ipa_dense
 rosettaproject_wlw_swadesh-1	wlw	Walak	127	Latin	0.142	0.052	0.058	0.006	light_ipa
 rosettaproject_wmb_swadesh-1	wmb	Wambaya	380	Latin	0.445	0.089	0.181	0.0	ipa_dense
@@ -1131,7 +1131,7 @@ rosettaproject_wnp_swadesh-1	wnp	Wanap	83	Latin	0.253	0.061	0.119	0.0	ipa_dense
 rosettaproject_wnu_swadesh-1	wnu	Usan	369	Latin	0.325	0.096	0.14	0.0	ipa_dense
 rosettaproject_woa_swadesh-1	woa	Tyaraity	135	Latin	0.407	0.098	0.134	0.0	ipa_dense
 rosettaproject_wod_swadesh-1	wod	Wolani	116	Latin	0.086	0.019	0.059	0.011	light_ipa
-rosettaproject_woe_swadesh-1	woe	Woleaian	179	Latin	0.279	0.077	0.337	0.0	ipa_dense
+rosettaproject_woe_swadesh-1	woe	Woleaian	179	Latin	0.279	0.077	0.334	0.0	ipa_dense
 rosettaproject_wog_swadesh-1	wog	Wogamusin	98	Latin	0.071	0.018	0.035	0.0	light_ipa
 rosettaproject_woi_swadesh-1	woi	Kamang	614	Latin	0.134	0.046	0.114	0.0	light_ipa
 rosettaproject_wra_swadesh-1	wra	Warapu	201	Latin	0.229	0.054	0.12	0.0	light_ipa
