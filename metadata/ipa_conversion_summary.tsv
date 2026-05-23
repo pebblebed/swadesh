@@ -4,15 +4,16 @@ deferred_latin	146078
 native_ipa	143423
 americanist	2936
 deferred_native	2358
-deferred_slavic	361
+slavic_g2p	361
 empty	213
 
 method	confidence	n_records
 americanist	high	2597
 americanist	medium	339
 native_ipa	high	143423
+slavic_g2p	high	361
 
-# Americanist lists: residual (unconverted) symbols still present
+# Converted lists: residual (unconverted) symbols still present
 identifier	n_records_w_residual	residual_chars
 rosettaproject_akh_swadesh-1	5	é:2 ú:2 á:1
 rosettaproject_bhg_swadesh-1	3	ß:3
