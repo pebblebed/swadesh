@@ -142,6 +142,8 @@ MODS = {
     0x02C0: ("mod", "glottalized"),
     0x02B9: ("mod", "palatalized"), 0x02D2: ("mod", "more-rounded"),
     0x02D3: ("mod", "less-rounded"),
+    0x02E5: ("mod", "tone5"), 0x02E6: ("mod", "tone4"),   # Chao tone letters
+    0x02E7: ("mod", "tone3"), 0x02E8: ("mod", "tone2"), 0x02E9: ("mod", "tone1"),
 }
 # Superscript nasals mark PREnasalization of the FOLLOWING consonant (ⁿd, ᵐb),
 # so they attach forward, not as a trailing mark of the previous segment.

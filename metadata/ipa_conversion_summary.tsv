@@ -3,9 +3,10 @@ method	n_records
 native_ipa	145937
 deferred_latin	143564
 americanist	2936
-deferred_native	1640
+deferred_native	1331
 cyrillic_g2p	433
 slavic_g2p	361
+romanization	309
 empty	213
 greek_g2p	207
 kana_g2p	78
@@ -17,6 +18,8 @@ cyrillic_g2p	high	433
 greek_g2p	high	207
 kana_g2p	high	78
 native_ipa	high	145937
+romanization	high	308
+romanization	medium	1
 slavic_g2p	high	361
 
 # Converted lists: residual (unconverted) symbols still present
@@ -28,5 +31,6 @@ rosettaproject_med_swadesh-1	13	ö:5 á:3 ó:2 í:1 ë:1 ô:1
 rosettaproject_ncm_swadesh-1	27	ö:11 \:11 ò:3 Õ:1 ë:1
 rosettaproject_nen_swadesh-1	14	ḍ:10 ō:1 ṇ:1 ū:1 ì:1
 rosettaproject_oua_swadesh-1	37	\:33 ḍ:4
+rosettaproject_tha_swadesh-1	5	¢:1 Ò:1 Õ:1 à:1 é:1
 rosettaproject_thv_swadesh-1	59	\:54 ḍ:4 ẓ:1
 rosettaproject_zen_swadesh-1	56	\:55 ṭ:1

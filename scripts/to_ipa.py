@@ -12,6 +12,8 @@ Currently implemented:
   - kana_g2p     : Japanese hiragana -> IPA via scripts/native_g2p.py.            [Tier 2]
   - cyrillic_g2p : Russian/Bulgarian Cyrillic -> IPA via scripts/cyrillic_g2p.py
                    (broad phonemic; Moksha deferred).                             [Tier 2]
+  - romanization : the Latin/IPA romanization line that arb (Arabic, already IPA)
+                   and tha (Thai, +Chao tones) carry, via scripts/romanize.py.    [Tier 2]
   - deferred_*   : recognized but not yet converted (other native scripts,
                    low-resource Latin) -> ipa left empty for later tiers.
 
@@ -30,6 +32,7 @@ import os
 
 import cyrillic_g2p  # sibling modules in scripts/ (on sys.path when run as a script)
 import native_g2p
+import romanize
 import slavic_g2p
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -42,6 +45,7 @@ REVIEW = os.path.join(ND, "ipa_americanist_review.tsv")
 SLAVIC_REVIEW = os.path.join(ND, "ipa_slavic_review.tsv")
 NATIVE_REVIEW = os.path.join(ND, "ipa_native_review.tsv")
 CYR_REVIEW = os.path.join(ND, "ipa_cyrillic_review.tsv")
+ROM_REVIEW = os.path.join(ND, "ipa_romanization_review.tsv")
 SUMMARY = os.path.join(ROOT, "metadata", "ipa_conversion_summary.tsv")
 
 SLAVIC = {"ces", "slk"}  # lang_codes whose carons are native orthography, not Americanist
@@ -51,6 +55,9 @@ NATIVE_G2P = {"native:Greek": ("Greek", "greek_g2p"),
 # Cyrillic-script lang_codes with a Tier-2 G2P (cyrillic_g2p). mdf (Moksha,
 # Uralic) is deferred -- needs language-specific rules + separate verification.
 CYRILLIC_G2P = {"rus", "bul"}
+# Native-script lists that carry a Latin/IPA ROMANIZATION line per gloss; we
+# convert that line (sidestepping the script). lang_code -> converter.
+ROMANIZE = {"tha": romanize.thai_to_ipa, "arb": romanize.arabic_to_ipa}
 
 
 def is_cyrillic(t):
@@ -59,6 +66,15 @@ def is_cyrillic(t):
     cyr = sum(1 for c in t if 0x0400 <= ord(c) <= 0x04FF)
     other = sum(1 for c in t if c.isalpha() and not 0x0400 <= ord(c) <= 0x04FF)
     return cyr > other
+
+
+def is_latin_line(t):
+    """True if the record is the Latin/IPA romanization line (not the native
+    script). IPA-extension letters count as Latin-family."""
+    lat = sum(1 for c in t if c.isalpha() and (ord(c) < 0x0300 or 0x0250 <= ord(c) <= 0x02AF))
+    non = sum(1 for c in t if c.isalpha()
+              and not (ord(c) < 0x0300 or 0x0250 <= ord(c) <= 0x02AF))
+    return lat > non
 
 # Codepoints that are legitimately IPA (so they don't count as conversion residue):
 # IPA Extensions + Spacing Modifier Letters + Combining Diacritics + tie bar,
@@ -103,6 +119,7 @@ def main():
     slavic_review = []
     native_review = []
     cyrillic_review = []
+    romanization_review = []
     residual_by_list = collections.defaultdict(collections.Counter)
 
     with open(JSONL, encoding="utf-8") as fin, \
@@ -155,6 +172,16 @@ def main():
                     residual_by_list[ident][c] += 1
                 cyrillic_review.append((ident, r["lang_code"], r["gloss"], t, ipa,
                                         "".join(residual)))
+            elif (system.startswith("native:") and r["lang_code"] in ROMANIZE
+                  and is_latin_line(t)):
+                ipa, residual_set = ROMANIZE[r["lang_code"]](t)
+                residual = sorted(residual_set)
+                conf = "high" if not residual else "medium"
+                method = "romanization"
+                for c in residual:
+                    residual_by_list[ident][c] += 1
+                romanization_review.append((ident, r["lang_code"], r["gloss"], t, ipa,
+                                            "".join(residual)))
             elif system.startswith("native:"):
                 method = "deferred_native"
             else:  # light_ipa, latin_diacritic, plain_ascii
@@ -170,7 +197,8 @@ def main():
             fout.write(json.dumps(rec, ensure_ascii=False) + "\n")
 
     for path, rows in ((REVIEW, review), (SLAVIC_REVIEW, slavic_review),
-                       (NATIVE_REVIEW, native_review), (CYR_REVIEW, cyrillic_review)):
+                       (NATIVE_REVIEW, native_review), (CYR_REVIEW, cyrillic_review),
+                       (ROM_REVIEW, romanization_review)):
         with open(path, "w", encoding="utf-8", newline="\n") as f:
             f.write("identifier\tlang_code\tgloss\ttranscription_norm\tipa\tresidual\n")
             for row in sorted(rows):
@@ -191,7 +219,8 @@ def main():
             chars = " ".join(f"{c}:{n}" for c, n in cc.most_common())
             f.write(f"{ident}\t{sum(cc.values())}\t{chars}\n")
 
-    tier2 = (methods["greek_g2p"] + methods["kana_g2p"] + methods["cyrillic_g2p"])
+    tier2 = (methods["greek_g2p"] + methods["kana_g2p"] + methods["cyrillic_g2p"]
+             + methods["romanization"])
     conv = (methods["native_ipa"] + methods["americanist"]
             + methods["slavic_g2p"] + tier2)
     print(f"records processed : {sum(methods.values())}  -> {OUT}")
@@ -201,11 +230,12 @@ def main():
     print(f"\nIPA populated now : {conv} records "
           f"({methods['americanist']} Americanist + {methods['slavic_g2p']} Slavic, Tier 1; "
           f"{methods['greek_g2p']} Greek + {methods['kana_g2p']} Kana + "
-          f"{methods['cyrillic_g2p']} Cyrillic, Tier 2)")
+          f"{methods['cyrillic_g2p']} Cyrillic + {methods['romanization']} romanization, Tier 2)")
     print(f"review -> {REVIEW}")
     print(f"slavic -> {SLAVIC_REVIEW}")
     print(f"native -> {NATIVE_REVIEW}")
     print(f"cyril  -> {CYR_REVIEW}")
+    print(f"roman  -> {ROM_REVIEW}")
     print(f"summary -> {SUMMARY}")
     return 0
 
