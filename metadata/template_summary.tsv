@@ -1,0 +1,23 @@
+# Swadesh list template taxonomy -- counts over 1229 lists
+category	n_lists	w/_dual_clusivity
+sahul_extended	449	271
+extended_worldwide	189	77
+lightly_extended	108	34
+core_swadesh	467	40
+stub	16	2
+
+block	n_lists_present	min_hits	n_members
+sahul_fauna	449	2	6
+body_part	605	3	19
+kinship_age	595	2	6
+time_deixis	499	2	4
+weather	296	2	2
+dual_clusivity	424	2	7
+
+questionnaire_blocks_present	n_lists
+0	483
+1	143
+2	84
+3	146
+4	170
+5	203

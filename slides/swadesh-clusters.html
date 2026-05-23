@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Beyond the 207 — Extension Clusters in the Rosetta Swadesh Corpus</title>
+<style>
+  :root{
+    --bg:#0d1117; --bg2:#161b22; --ink:#e6edf3; --dim:#8b949e; --line:#30363d;
+    --c-sahul:#f0883e; --c-body:#58a6ff; --c-kin:#bc8cff; --c-time:#3fb950;
+    --c-weather:#f7d154; --c-pron:#ff7b9c; --c-free:#56d4dd;
+    --card:#1b222b;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;height:100%}
+  body{
+    background:radial-gradient(1200px 800px at 80% -10%,#1d2733 0%,var(--bg) 55%);
+    color:var(--ink); font-family:"Segoe UI",system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif;
+    overflow:hidden;
+  }
+  /* monospace for glosses / numbers */
+  .mono{font-family:"Cascadia Code",ui-monospace,"SF Mono",Consolas,monospace}
+
+  #deck{height:100vh;width:100vw;position:relative}
+  .slide{
+    position:absolute;inset:0;display:none;flex-direction:column;justify-content:center;
+    padding:5vh 8vw;opacity:0;transform:translateY(14px);
+    transition:opacity .45s ease,transform .45s ease;
+  }
+  .slide.active{display:flex;opacity:1;transform:none}
+  .kicker{letter-spacing:.22em;text-transform:uppercase;font-size:.78rem;color:var(--accent,var(--dim));font-weight:700}
+  h1{font-size:clamp(2rem,4.6vw,4rem);line-height:1.05;margin:.25em 0 .15em}
+  h2{font-size:clamp(1.5rem,3.1vw,2.6rem);line-height:1.1;margin:.1em 0 .35em}
+  .lede{font-size:clamp(1rem,1.5vw,1.35rem);color:var(--dim);max-width:60ch;line-height:1.5}
+  .accentbar{height:5px;width:84px;border-radius:3px;background:var(--accent,#fff);margin:.2em 0 1em}
+
+  /* layout helpers */
+  .grid2{display:grid;grid-template-columns:1.05fr .95fr;gap:3vw;align-items:center}
+  .stack{display:flex;flex-direction:column;gap:.7rem}
+  .note{color:var(--dim);font-size:.95rem;line-height:1.5;max-width:52ch}
+  .note b{color:var(--ink)}
+  .pill{display:inline-block;background:var(--card);border:1px solid var(--line);border-radius:999px;
+        padding:.28em .7em;font-size:.82rem;margin:.18em .25em 0 0;color:var(--dim)}
+  .pill .mono{color:var(--ink)}
+
+  /* bar chart */
+  .chart{display:flex;flex-direction:column;gap:.5rem;width:100%}
+  .row{display:grid;grid-template-columns:8.5rem 1fr auto;align-items:center;gap:.7rem}
+  .row .lbl{font-size:.92rem;text-align:right;color:var(--ink)}
+  .track{background:#0a0e14;border:1px solid var(--line);border-radius:7px;height:1.5rem;overflow:hidden}
+  .fill{height:100%;width:0;border-radius:6px 0 0 6px;
+        background:linear-gradient(90deg,var(--accent),color-mix(in srgb,var(--accent) 55%,#fff));
+        transition:width 1s cubic-bezier(.2,.8,.2,1);}
+  .row .val{font-variant-numeric:tabular-nums;color:var(--dim);font-size:.9rem;min-width:6.5rem}
+  .row .val b{color:var(--ink)}
+
+  /* jaccard link chips */
+  .links{display:flex;flex-direction:column;gap:.85rem}
+  .link{display:flex;align-items:center;gap:.5rem;flex-wrap:wrap}
+  .node{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:.32em .7em;
+        font-size:1rem}
+  .edge{position:relative;flex:0 0 64px;height:2px;background:linear-gradient(90deg,var(--accent),transparent);}
+  .jac{font-variant-numeric:tabular-nums;font-weight:700;color:var(--accent);font-size:1.05rem;
+       border:1px solid var(--accent);border-radius:6px;padding:.05em .45em;background:color-mix(in srgb,var(--accent) 14%,transparent)}
+
+  /* hero stats */
+  .stats{display:flex;gap:2.5rem;flex-wrap:wrap;margin-top:.4em}
+  .stat .big{font-size:clamp(2.4rem,5vw,4.2rem);font-weight:800;line-height:1;color:var(--accent,#fff);font-variant-numeric:tabular-nums}
+  .stat .cap{color:var(--dim);font-size:.95rem;margin-top:.2em;max-width:18ch}
+
+  /* cluster cards (overview) */
+  .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin-top:1rem}
+  .ccard{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--ac);border-radius:12px;padding:1rem 1.1rem}
+  .ccard h3{margin:.1em 0 .3em;font-size:1.1rem;color:var(--ink)}
+  .ccard p{margin:0;color:var(--dim);font-size:.86rem;line-height:1.45}
+  .ccard .tag{font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ac);font-weight:700}
+
+  /* family tags */
+  .fam{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.6rem}
+  .fam span{background:color-mix(in srgb,var(--accent) 12%,var(--card));border:1px solid color-mix(in srgb,var(--accent) 45%,var(--line));
+            border-radius:7px;padding:.28em .6em;font-size:.84rem}
+
+  /* chrome */
+  #bar{position:fixed;left:0;bottom:0;height:4px;background:linear-gradient(90deg,#58a6ff,#bc8cff,#f0883e);width:0;transition:width .3s}
+  #counter{position:fixed;right:18px;bottom:14px;color:var(--dim);font-size:.8rem;font-variant-numeric:tabular-nums}
+  #hint{position:fixed;left:18px;bottom:12px;color:var(--dim);font-size:.78rem}
+  #hint kbd{background:var(--card);border:1px solid var(--line);border-bottom-width:2px;border-radius:5px;padding:.05em .45em;margin:0 .1em;font-family:inherit}
+  .nav{position:fixed;top:0;height:100%;width:12vw;cursor:pointer;opacity:0;z-index:5}
+  #prev{left:0}#next{right:0}
+  .big-quote{font-size:clamp(1.6rem,3.3vw,2.8rem);line-height:1.25;font-weight:600;max-width:24ch}
+  .hl{color:var(--accent);}
+  .em{color:var(--c-sahul)}
+  ul.clean{list-style:none;padding:0;margin:.4em 0 0}
+  ul.clean li{padding:.3em 0 .3em 1.4em;position:relative;color:var(--dim);line-height:1.45}
+  ul.clean li::before{content:"▸";position:absolute;left:0;color:var(--accent)}
+  ul.clean li b{color:var(--ink)}
+</style>
+</head>
+<body>
+<div id="deck">
+
+  <!-- 1 — TITLE -->
+  <section class="slide" style="--accent:#f0883e">
+    <div class="kicker">Rosetta Project · Swadesh Corpus</div>
+    <h1>Beyond the&nbsp;207</h1>
+    <div class="accentbar"></div>
+    <p class="lede">What the <b style="color:var(--ink)">86 extra word-concepts</b> in 1,229 Swadesh lists reveal — and why they cluster into <b style="color:var(--ink)">one shared fieldwork questionnaire</b>, a regional add-on, and a few genuinely independent patterns.</p>
+    <div class="stats" style="margin-top:1.4em">
+      <div class="stat"><div class="big" data-count="1229">0</div><div class="cap">Swadesh lists</div></div>
+      <div class="stat" style="--accent:#58a6ff"><div class="big" data-count="207">0</div><div class="cap">canonical glosses</div></div>
+      <div class="stat" style="--accent:#bc8cff"><div class="big" data-count="86">0</div><div class="cap">distinct extension concepts</div></div>
+    </div>
+  </section>
+
+  <!-- 2 — QUESTION & METHOD -->
+  <section class="slide" style="--accent:#58a6ff">
+    <div class="kicker">The question</div>
+    <h2>Are the extensions <span class="hl">coherent</span> — or just noise?</h2>
+    <div class="grid2">
+      <p class="note">After folding 22 surface synonyms onto the canonical 207, <b>86 non-canonical concepts remain</b>. The test for a real "cluster" is not that words are <i>semantically</i> related, but that they <b>co-occur in the same lists</b> — i.e. they came from the same questionnaire.
+      <br><br>Two measures drive every slide that follows:</p>
+      <div class="stack">
+        <div class="ccard" style="--ac:#58a6ff"><span class="tag">measure 1</span><h3>Jaccard overlap</h3><p>How often two glosses appear together: |A∩B| / |A∪B|. High ⇒ they travel as a pair.</p></div>
+        <div class="ccard" style="--ac:#f0883e"><span class="tag">measure 2</span><h3>Regional lift</h3><p>P(gloss | template lists) ÷ P(gloss | the rest). High ⇒ the gloss is geographically pinned.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 3 — OVERVIEW MAP OF CLUSTERS -->
+  <section class="slide" style="--accent:#bc8cff">
+    <div class="kicker">The landscape</div>
+    <h2>Six patterns, two kinds</h2>
+    <div class="cards">
+      <div class="ccard" style="--ac:var(--c-sahul)"><span class="tag">regional add-on</span><h3>① Sahul fauna</h3><p>emu, cassowary, wallaby, crocodile, kangaroo, woomera — Australia + New Guinea.</p></div>
+      <div class="ccard" style="--ac:var(--c-body)"><span class="tag">questionnaire block</span><h3>② Body parts</h3><p>arm, shoulder, elbow, chin, navel, thigh, calf, nape…</p></div>
+      <div class="ccard" style="--ac:var(--c-kin)"><span class="tag">questionnaire block</span><h3>③ Kinship & age</h3><p>brother/sister, boy/girl, son, daughter.</p></div>
+      <div class="ccard" style="--ac:var(--c-time)"><span class="tag">questionnaire block</span><h3>④ Time</h3><p>tomorrow, yesterday, morning, today.</p></div>
+      <div class="ccard" style="--ac:var(--c-weather)"><span class="tag">questionnaire block</span><h3>⑤ Weather</h3><p>thunder, lightning.</p></div>
+      <div class="ccard" style="--ac:var(--c-pron)"><span class="tag">grammatical · cross-family</span><h3>⑥ Dual / clusivity</h3><p>we two, you two, they two, we (incl./excl.).</p></div>
+    </div>
+    <p class="note" style="max-width:none;margin-top:1rem">Blocks ②–⑤ aren't separate traditions — they're <b>pages of one extended ~200-item list</b>. Only ① is geographic and only ⑥ is partly grammatical.</p>
+  </section>
+
+  <!-- 4 — SAHUL -->
+  <section class="slide" style="--accent:var(--c-sahul)">
+    <div class="kicker">Cluster ① · regional add-on</div>
+    <h2>The Sahul fauna page</h2>
+    <div class="grid2">
+      <div class="chart" data-max="449">
+        <div class="row"><span class="lbl mono">emu</span><div class="track"><div class="fill" data-val="412"></div></div><span class="val"><b>412</b> · lift 53×</span></div>
+        <div class="row"><span class="lbl mono">crocodile</span><div class="track"><div class="fill" data-val="399"></div></div><span class="val"><b>399</b> · lift 7×</span></div>
+        <div class="row"><span class="lbl mono">wallaby</span><div class="track"><div class="fill" data-val="313"></div></div><span class="val"><b>313</b> · lift 53×</span></div>
+        <div class="row"><span class="lbl mono">cassowary</span><div class="track"><div class="fill" data-val="275"></div></div><span class="val"><b>275</b> · lift 33×</span></div>
+        <div class="row"><span class="lbl mono">kangaroo</span><div class="track"><div class="fill" data-val="166"></div></div><span class="val"><b>166</b> · lift 27×</span></div>
+        <div class="row"><span class="lbl mono">woomera</span><div class="track"><div class="fill" data-val="69"></div></div><span class="val"><b>69</b> · lift 120×</span></div>
+      </div>
+      <div>
+        <p class="note"><b>449 lists</b> carry ≥2 of these endemics. <span class="mono">woomera</span> (a spear-thrower) appears <b>only</b> here — lift 120×.
+        <br><br>The languages are a true <b>Sahul</b> mix, not just Australian — <span class="mono">cassowary</span> (a New Guinea bird) is as common as <span class="mono">kangaroo</span>:</p>
+        <div class="fam">
+          <span>🇦🇺 Gureng Gureng</span><span>🇦🇺 Atampaya</span>
+          <span>🇵🇬 Abun</span><span>🇵🇬 Anjam</span><span>🇵🇬 Apali</span><span>🇵🇬 Kapriman</span><span>🇵🇬 Kemtuik</span>
+        </div>
+        <p class="note" style="margin-top:.8rem"><span class="mono">mosquito</span> (463) & <span class="mono">butterfly</span> (364) ride along with this page too (lift ~5×).</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 5 — BODY PARTS -->
+  <section class="slide" style="--accent:var(--c-body)">
+    <div class="kicker">Cluster ② · questionnaire block</div>
+    <h2>Body parts — the biggest expansion</h2>
+    <div class="grid2">
+      <div class="chart" data-max="700">
+        <div class="row"><span class="lbl mono">arm</span><div class="track"><div class="fill" data-val="691"></div></div><span class="val"><b>691</b></span></div>
+        <div class="row"><span class="lbl mono">shoulder</span><div class="track"><div class="fill" data-val="537"></div></div><span class="val"><b>537</b></span></div>
+        <div class="row"><span class="lbl mono">finger</span><div class="track"><div class="fill" data-val="522"></div></div><span class="val"><b>522</b></span></div>
+        <div class="row"><span class="lbl mono">elbow</span><div class="track"><div class="fill" data-val="481"></div></div><span class="val"><b>481</b></span></div>
+        <div class="row"><span class="lbl mono">forehead</span><div class="track"><div class="fill" data-val="454"></div></div><span class="val"><b>454</b></span></div>
+        <div class="row"><span class="lbl mono">chin</span><div class="track"><div class="fill" data-val="443"></div></div><span class="val"><b>443</b></span></div>
+        <div class="row"><span class="lbl mono">chest · navel</span><div class="track"><div class="fill" data-val="434"></div></div><span class="val"><b>434</b></span></div>
+        <div class="row"><span class="lbl mono">thigh · calf · nape</span><div class="track"><div class="fill" data-val="416"></div></div><span class="val"><b>416–290</b></span></div>
+      </div>
+      <div>
+        <p class="note">Roughly <b>doubles</b> the canonical body-part inventory. Internal cohesion is high — these glosses elicit together:</p>
+        <div class="links" style="margin-top:.9rem">
+          <div class="link"><span class="node mono">shoulder</span><span class="edge"></span><span class="jac">0.73</span><span class="edge"></span><span class="node mono">elbow</span></div>
+          <div class="link"><span class="node mono">elbow</span><span class="edge"></span><span class="jac">0.72</span><span class="edge"></span><span class="node mono">chin / forehead</span></div>
+          <div class="link"><span class="node mono">chest</span><span class="edge"></span><span class="jac">0.71</span><span class="edge"></span><span class="node mono">navel</span></div>
+        </div>
+        <p class="note" style="margin-top:.9rem">…plus <span class="mono">throat, lip, face, ankle</span>.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 6 — KINSHIP + TIME + WEATHER -->
+  <section class="slide" style="--accent:var(--c-kin)">
+    <div class="kicker">Clusters ③ ④ ⑤ · questionnaire blocks</div>
+    <h2>Tight pairs: kinship, time, weather</h2>
+    <p class="note" style="max-width:none">The strongest Jaccard signals in the whole corpus are these elicitation pairs — the survey always asks them back-to-back.</p>
+    <div class="links" style="margin-top:1.1rem;gap:1.4rem">
+      <div class="link" style="--accent:var(--c-kin)"><span class="node mono">brother</span><span class="edge"></span><span class="jac">0.87</span><span class="edge"></span><span class="node mono">sister</span><span style="color:var(--dim);margin-left:1rem">584 · 540 lists</span></div>
+      <div class="link" style="--accent:var(--c-kin)"><span class="node mono">boy</span><span class="edge"></span><span class="jac">0.79</span><span class="edge"></span><span class="node mono">girl</span><span style="color:var(--dim);margin-left:1rem">436 · 415 &nbsp;(+ son, daughter)</span></div>
+      <div class="link" style="--accent:var(--c-time)"><span class="node mono">tomorrow</span><span class="edge"></span><span class="jac">0.85</span><span class="edge"></span><span class="node mono">yesterday</span><span style="color:var(--dim);margin-left:1rem">492 · 473 &nbsp;(+ morning, today)</span></div>
+      <div class="link" style="--accent:var(--c-weather)"><span class="node mono">thunder</span><span class="edge"></span><span class="jac">0.78</span><span class="edge"></span><span class="node mono">lightning</span><span style="color:var(--dim);margin-left:1rem">350 · 325 lists</span></div>
+    </div>
+    <p class="note" style="margin-top:1.2rem">These fill gaps Swadesh deliberately left out — he kept only mother/father/husband/wife, and day/night/year.</p>
+  </section>
+
+  <!-- 7 — CLUSIVITY -->
+  <section class="slide" style="--accent:var(--c-pron)">
+    <div class="kicker">Cluster ⑥ · grammatical, cross-family</div>
+    <h2>Dual & clusivity pronouns</h2>
+    <div class="grid2">
+      <div>
+        <div class="links">
+          <div class="link"><span class="node mono">you two</span><span class="edge"></span><span class="jac">0.90</span><span class="edge"></span><span class="node mono">they two</span></div>
+        </div>
+        <div class="chart" data-max="320" style="margin-top:1rem">
+          <div class="row"><span class="lbl mono">we (incl.)</span><div class="track"><div class="fill" data-val="317"></div></div><span class="val"><b>317</b></span></div>
+          <div class="row"><span class="lbl mono">you two</span><div class="track"><div class="fill" data-val="307"></div></div><span class="val"><b>307</b></span></div>
+          <div class="row"><span class="lbl mono">they two</span><div class="track"><div class="fill" data-val="292"></div></div><span class="val"><b>292</b></span></div>
+          <div class="row"><span class="lbl mono">we two (incl.)</span><div class="track"><div class="fill" data-val="248"></div></div><span class="val"><b>248</b></span></div>
+          <div class="row"><span class="lbl mono">we (excl.)</span><div class="track"><div class="fill" data-val="230"></div></div><span class="val"><b>230</b></span></div>
+        </div>
+      </div>
+      <div>
+        <p class="note">Of <b>528</b> lists with a dual/clusivity pronoun, <b>225 are NOT Sahul</b>. So this one reflects <b>real grammar</b> of the languages — number & inclusive/exclusive systems — not just the questionnaire. It spans wildly different families:</p>
+        <div class="fam">
+          <span>Khoisan · //Xegwi, /Xam</span><span>Andamanese · Aka-Kora</span>
+          <span>NE Caucasian · Akhvakh, Andi</span><span>Ainu</span><span>Papuan · Abau, Ambulas</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 8 — KEY FINDING: ONE INSTRUMENT -->
+  <section class="slide" style="--accent:#f0883e">
+    <div class="kicker">The key finding</div>
+    <p class="big-quote">It's mostly <span class="hl">one</span> instrument — used worldwide.</p>
+    <div class="grid2" style="margin-top:.6em">
+      <p class="note">Blocks ②–⑤ are not independent. <b>265 non-Sahul lists</b> with ≥8 extensions share the <i>same</i> extras — and they span every corner of the map. The Sahul fauna is simply the regional page of a single extended wordlist.</p>
+      <div>
+        <div class="fam" style="--accent:#f0883e">
+          <span>Khoisan</span><span>Andamanese (whole Aka-* family)</span><span>Ainu</span><span>African</span><span>Papuan</span>
+        </div>
+        <p class="note" style="margin-top:.9rem">Shared extras in those 265 lists:</p>
+        <p>
+          <span class="pill"><span class="mono">arm</span> 225</span><span class="pill"><span class="mono">house</span> 211</span>
+          <span class="pill"><span class="mono">weep</span> 192</span><span class="pill"><span class="mono">brother</span> 180</span>
+          <span class="pill"><span class="mono">finger</span> 170</span><span class="pill"><span class="mono">shoulder</span> 161</span>
+          <span class="pill"><span class="mono">yesterday</span> 151</span><span class="pill"><span class="mono">chest</span> 144</span>
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 9 — NOT CLUSTERS -->
+  <section class="slide" style="--accent:var(--c-free)">
+    <div class="kicker">The exceptions</div>
+    <h2>Not clusters — free-floating substitutes</h2>
+    <div class="grid2">
+      <p class="note">A few high-frequency extras spread <b>evenly everywhere</b> (lift ≈ 1, Jaccard ≈ 0.28 with everything). They're individual lexical choices, not templates:</p>
+      <ul class="clean">
+        <li><b class="mono">claw</b> — 387 lists (144 Sahul / 243 not). The Swadesh-<b>100</b> word standing in for the 207-list's <span class="mono">fingernail</span>.</li>
+        <li><b class="mono">you</b> — 549 lists. A bare 2nd person where the 207 splits singular / plural.</li>
+        <li><b class="mono">house, fly (n.), wood</b> — the universal "everyone adds these" extensions.</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- 10 — TAKEAWAYS -->
+  <section class="slide" style="--accent:#3fb950">
+    <div class="kicker">So, how many categories?</div>
+    <h2>Takeaways</h2>
+    <ul class="clean" style="font-size:1.05rem">
+      <li><b>One dominant extended questionnaire</b> (~200 items) underlies most large lists, decomposing into tight body-part / kinship / time / weather sub-blocks.</li>
+      <li><b>One regional add-on</b> — the Sahul fauna page (449 lists, Australia + New Guinea).</li>
+      <li><b>One genuinely grammatical cluster</b> — dual/clusivity pronouns, cross-family (Khoisan → Caucasian → Ainu).</li>
+      <li><b>A handful of free-floating substitutes</b> (claw, you) that belong to no template.</li>
+    </ul>
+    <p class="note" style="margin-top:1.1rem">Next loop step → <span class="mono">scripts/templates.py</span>: tag every list with its template profile, turning this qualitative read into a hard taxonomy.</p>
+    <div class="accentbar" style="margin-top:1.4em"></div>
+    <div class="kicker">pebblebed/swadesh · derived from data/normalized/swadesh.jsonl</div>
+  </section>
+
+</div>
+
+<div id="prev" class="nav" title="Previous"></div>
+<div id="next" class="nav" title="Next"></div>
+<div id="bar"></div>
+<div id="counter">1 / 10</div>
+<div id="hint"><kbd>←</kbd><kbd>→</kbd> navigate · <kbd>Space</kbd> next · <kbd>F</kbd> fullscreen · <kbd>Home</kbd>/<kbd>End</kbd></div>
+
+<script>
+(function(){
+  const slides=[...document.querySelectorAll('.slide')];
+  let i=0;
+  const counter=document.getElementById('counter');
+  const bar=document.getElementById('bar');
+
+  function animateBars(slide){
+    slide.querySelectorAll('.chart').forEach(ch=>{
+      const max=parseFloat(ch.dataset.max)||100;
+      ch.querySelectorAll('.fill').forEach((f,k)=>{
+        const v=parseFloat(f.dataset.val)||0;
+        f.style.width='0%';
+        // stagger for a nice cascade
+        setTimeout(()=>{ f.style.width=Math.max(2,Math.min(100,v/max*100))+'%'; }, 60+k*80);
+      });
+    });
+  }
+  function countUp(slide){
+    slide.querySelectorAll('[data-count]').forEach(el=>{
+      const target=+el.dataset.count, dur=900, t0=performance.now();
+      function tick(t){
+        const p=Math.min(1,(t-t0)/dur);
+        el.textContent=Math.round(target*(1-Math.pow(1-p,3))).toLocaleString();
+        if(p<1) requestAnimationFrame(tick);
+      }
+      requestAnimationFrame(tick);
+    });
+  }
+  function show(n){
+    i=(n+slides.length)%slides.length;
+    slides.forEach((s,k)=>s.classList.toggle('active',k===i));
+    counter.textContent=(i+1)+' / '+slides.length;
+    bar.style.width=((i)/(slides.length-1)*100)+'%';
+    const cur=slides[i];
+    animateBars(cur); countUp(cur);
+  }
+  function next(){show(i+1)} function prev(){show(i-1)}
+
+  document.addEventListener('keydown',e=>{
+    if(['ArrowRight','PageDown',' ','Spacebar','l','j'].includes(e.key)){e.preventDefault();next();}
+    else if(['ArrowLeft','PageUp','k','h'].includes(e.key)){e.preventDefault();prev();}
+    else if(e.key==='Home'){show(0);}
+    else if(e.key==='End'){show(slides.length-1);}
+    else if(e.key==='f'||e.key==='F'){ if(!document.fullscreenElement){document.documentElement.requestFullscreen&&document.documentElement.requestFullscreen();} else {document.exitFullscreen&&document.exitFullscreen();} }
+    else if(/^[1-9]$/.test(e.key)){ show(+e.key-1); }
+  });
+  document.getElementById('next').addEventListener('click',next);
+  document.getElementById('prev').addEventListener('click',prev);
+
+  show(0);
+})();
+</script>
+</body>
+</html>

@@ -7,10 +7,13 @@
       RESULT: **1229/1229 downloaded, 0 failures** (`data/raw/`, 7.8 MB). The 17 transient
       HTTP 500s on the first pass all succeeded on a second idempotent re-run.
 - [x] **Investigate regularity of the corpus; how many separate categories are there?**
-      Strong result: the corpus is HIGHLY regular (see FINDINGS - format regularity).
-      Gloss inventory + cross-list alignment now built (`data/normalized/glossary.tsv`):
-      315 distinct glosses; all 207 canonical items appear; the most universal glosses
-      (eye/fire/i/head/dog) occur in ~1100/1229 lists. See FINDINGS (normalize results).
+      ANSWERED. Format is HIGHLY regular (see FINDINGS - format regularity); gloss inventory
+      + cross-list alignment in `data/normalized/glossary.tsv` (315 surface glosses; all 207
+      canonical items appear; eye/fire/i/head/dog occur in ~1100/1229 lists). CATEGORIES
+      formalized by `scripts/templates.py` -> `data/normalized/list_templates.tsv` +
+      `metadata/template_summary.tsv`. Five categories by extension profile:
+      core_swadesh 467, sahul_extended 449, extended_worldwide 189, lightly_extended 108,
+      stub 16. See FINDINGS (template taxonomy).
 - [x] **Store normalized versions of them all** (parse `gloss: transcription`, dedupe lines,
       normalize encoding quirks). DONE: `scripts/normalize.py` -> `data/normalized/swadesh.jsonl`
       (295,369 records; 72 MB, gitignored — regenerate with `python scripts/normalize.py`).
@@ -33,14 +36,18 @@
    DELIBERATELY left unmapped (ambiguous, flagged in the alias file header): you, fly,
    grease, woods, breat, tsy, male/female. NEXT refinement: resolve those few by sampling
    the actual transcriptions / etymology, and consider male->man (adult male)/female->woman.
-2. **Confusable normalization, done safely (deferred from normalize.py).** Cyrillic 'й'
+2. [x] **Template taxonomy (enumerate the categories).** DONE: `scripts/templates.py` ->
+   `data/normalized/list_templates.tsv` + `metadata/template_summary.tsv`. See FINDINGS
+   (template taxonomy). Possible refinement: sub-cluster within sahul_extended (Australian vs
+   New Guinea), and detect a possible source/project signature per template.
+3. **Confusable normalization, done safely (deferred from normalize.py).** Cyrillic 'й'
    (186 occ / 22 files) is a /j/ confusable in Latin-script lists BUT a real letter in the
    Cyrillic-script lists (rus/bul/mdf). Add per-list script detection, then map 'й'->'j' ONLY
    in predominantly-Latin lists. Survey other confusables (e.g. Greek vs Latin look-alikes).
-3. Structured IPA features (TODO above): tokenize transcription_norm into IPA segments;
+4. Structured IPA features (TODO above): tokenize transcription_norm into IPA segments;
    attach phonetic features (place/manner/voicing) per segment.
-4. (optional) The 8 non-Swadesh items + the 5 stub lists (<10 entries, e.g. akq="thou: ni")
-   are out of scope / unusable — leave excluded, but a flag in the dataset could note tiny lists.
+5. (optional) The 8 non-Swadesh items + the 16 stub lists (<10 entries) are out of scope /
+   unusable. Now flagged: category="stub" in list_templates.tsv marks the tiny lists.
 
 ## FINDINGS (data source & format)
 - Blog post: rosettaproject.org/blog/02010/sep/20/Rosetta_Project_Swadesh_List_Data/
@@ -116,3 +123,25 @@ CONFIRMED during normalize — the other variants are all standard colon format,
   NEXT: cluster lists by which extra-gloss template they follow to enumerate the categories.
 - Aliasing is data-driven (`metadata/gloss_aliases.tsv`) + lossless (`canonical_gloss` field;
   surface `gloss` untouched), so judgement calls stay reviewable and reversible.
+
+## FINDINGS (template taxonomy — scripts/templates.py)
+Co-occurrence (Jaccard) shows the extensions are NOT many independent traditions but mostly
+ONE shared extended fieldwork questionnaire (~200 items) used worldwide, plus a regional add-on
+and one grammatical dimension. Blocks (non-canonical glosses that co-occur tightly), present in
+a list when it has >= min_hits members:
+  - sahul_fauna (>=2 of emu/kangaroo/wallaby/cassowary/crocodile/woomera) — Australia+New Guinea
+    regional add-on; woomera lift 120x. 449 lists.
+  - body_part (>=3 of arm/shoulder/elbow/chin/navel/thigh/calf/nape/...) — 605 lists.
+  - kinship_age (brother/sister 0.87, boy/girl 0.79; +son/daughter) — 595 lists.
+  - time_deixis (tomorrow/yesterday 0.85; +morning/today) — 499 lists.
+  - weather (thunder/lightning 0.78) — 296 lists.
+  - dual_clusivity (you two/they two 0.90; we incl./excl., we two) — 424 lists, ORTHOGONAL:
+    spread across ALL categories & families (Khoisan, Andamanese, NE Caucasian, Ainu, Papuan)
+    => a real grammatical feature, reported as its own flag, not a category.
+PRIMARY CATEGORIES (one per list, `data/normalized/list_templates.tsv`):
+  core_swadesh 467 (med 101 entries, ~100 canonical, ~2 extras — the classic lists),
+  sahul_extended 449 (med 337 entries; PNG/Australian), extended_worldwide 189 (the same big
+  questionnaire minus Sahul fauna — e.g. the Andamanese Aka-* family lands here 6/7),
+  lightly_extended 108, stub 16 (med 2 entries, unusable).
+Validation: Aka-* (Andamanese) -> extended_worldwide as predicted; core_swadesh lists really do
+have ~0 block members. Slide deck of this analysis: `slides/swadesh-clusters.html`.
