@@ -1,0 +1,1 @@
+Normalized Swadesh lists for all of the Rosetta Project's 1235 languages; see e.g. https://rosettaproject.org/blog/02010/sep/20/Rosetta_Project_Swadesh_List_Data/. We've re-encoded the target utterances in IPA, and are planning to make this collected dataset easy to use for neural and statistical computational approaches.
