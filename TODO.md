@@ -63,6 +63,10 @@ data/normalized/transcription_systems.tsv) over 1229 lists:
   native scripts 11 (Arabic 3, Cyrillic 3, Greek/Han/Hebrew/Kana/Thai 1 each) | gloss_only 1.
   => 605 IPA-ready now; 623 need conversion. Each list has scores (ipa_density, ipa_char_ratio,
   nonascii_ratio, americanist_ratio) so thresholds stay re-judgeable.
+PROGRESS (lists with IPA populated, by `python scripts/to_ipa.py`): 619 / 1229 lists ->
+  605 ipa_dense (native_ipa) + 10 Americanist + 2 Czech/Slovak + 1 Greek + 1 Kana. By RECORDS:
+  147,005 / 295,369 have a non-empty `ipa`. Remaining: 9 native-script lists (Tier 2) + ~570
+  Latin/light_ipa lists (Tier 3) + the americanist data-cleanup (Cheyenne etc.).
 Bonus: transcription system CORRELATES with template category. sahul_extended is mostly
   ipa_dense/light_ipa (real phonetic fieldwork); core_swadesh holds ALL 11 native-script lists
   and most orthographic ones (major languages in their own spelling).
@@ -96,8 +100,32 @@ PLAN (easiest -> hardest):
     Other Slavic lists are NOT this tier: pol=latin_diacritic (Tier 3), rus/bul=Cyrillic (Tier 2).
   - Tier 1b (orig plan, superseded): y->j was DROPPED as unsafe -- several lists contrast
     j vs ǯ, so y/j values are list-specific. Resolve per-list if needed.
-  - Tier 2 native scripts (11): use epitran / language tools. Easy: Kana, Greek. Hard: abjads
-    (Arabic/Persian/Hebrew - short vowels unwritten). Han needs Hanzi->reading dict then ->IPA.
+  - [x] Tier 2 Greek + Japanese-Kana G2P. DONE: `scripts/native_g2p.py` (rule-based),
+    called from `to_ipa.py` as methods `greek_g2p` (207 ell recs) and `kana_g2p` (78 jpn recs).
+    ALL 285 high-confidence, ZERO residuals (both lists are pristine: pure native script, no
+    romanized synonyms / multi-word / punctuation). Greek (Modern std): vowel digraphs
+    (αι=e ει/οι/υι=i ου=u); αυ/ευ -> a/e + v(before voiced)/f(voiceless/final) (αυγό=avˈɣo,
+    αυτός=afˈtos); velar palatalization before front vowels κ->c γ->ʝ χ->ç (και=ce, νύχι=ˈniçi
+    vs νύχτα=ˈnixta); prenasalized voiced-stop digraphs μπ/ντ/γκ -> b/d/ɡ initial, mb/nd/ŋɡ
+    medial (πέντε=ˈpende), γγ=ŋɡ, τσ=t͡s τζ=d͡z ξ=ks ψ=ps, double-C simplification; σ->z before
+    voiced C; SYNIZESIS (unstressed i + vowel glides: κοιλιά=ciˈʎa, ήλιος=ˈiʎos, χιόνι=ˈçoni,
+    καρδιά=karˈðʝa, ποιος=pços; stressed i stays: δύο=ˈðio); primary stress ˈ placed by an
+    onset-maximization heuristic (muta-cum-liquida, s-clusters, fricative+stop φτ kept together;
+    prenasalized cluster = one onset; diphthong-coda f excluded). Japanese (hiragana): gojūon
+    with allophony (u=ɯ r=ɾ し=ɕi ち=t͡ɕi つ=t͡sɯ は=ha ひ=çi ふ=ɸɯ に=ɲi, ざ-row fricatives),
+    sokuon っ geminates next C (はっぱ=happa), moraic ん place-assimilates (おんな=onna)/=ɴ finally,
+    bare-vowel length (おおきい=oːkiː). Embedded self-test: 65 gold forms (`python scripts/native_g2p.py`).
+    Review: `data/normalized/ipa_native_review.tsv`. DOCUMENTED limits: Greek medial μπ/ντ/γκ
+    keep the nasal (careful reading; casual denasalizes); λ/ν palatalized only via synizesis;
+    Japanese ざ-row not word-initially affricated (none occur), pitch accent not marked.
+  - Tier 2 REMAINING native scripts (9 lists): Cyrillic rus/bul/mdf (need a real G2P like the
+    Slavic one -- Russian akanye/ikanye + palatalization + final devoicing; Bulgarian simpler;
+    Moksha more involved; NB rus/bul interleave a romanized synonym line per gloss -- the native
+    line is the Cyrillic one). Abjads HARD: Arabic arb/pbt/pes + Hebrew-script ydd (short vowels
+    unwritten -- but ydd=Yiddish actually writes vowels with א/ע/ו/י, so it's tractable, unlike
+    arb/pbt/pes). Han cmn needs a Hanzi->reading dict (pinyin/zhuyin) then ->IPA. Thai tha is
+    HARD (no word spaces, complex vowel placement, tone) BUT this list ALREADY carries a
+    romanization-with-tone-numbers synonym line per gloss (e.g. thang55) -- parse THAT instead.
   - Tier 3 Latin orthography + light_ipa (~570): low-resource langs, no off-the-shelf G2P.
     Leverage the TEMPLATE/source clustering (same fieldwork source shares orthography conventions
     -> per-source rule sets convert many at once). Emit confidence; full narrow-IPA not achievable
