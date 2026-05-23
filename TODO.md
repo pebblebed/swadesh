@@ -91,12 +91,12 @@ data/normalized/transcription_systems.tsv) over 1229 lists:
   native scripts 11 (Arabic 3, Cyrillic 3, Greek/Han/Hebrew/Kana/Thai 1 each) | gloss_only 1.
   => 605 IPA-ready now; 623 need conversion. Each list has scores (ipa_density, ipa_char_ratio,
   nonascii_ratio, americanist_ratio) so thresholds stay re-judgeable.
-PROGRESS (lists with IPA populated, by `python scripts/to_ipa.py`): 635 / 1229 lists ->
+PROGRESS (lists with IPA populated, by `python scripts/to_ipa.py`): 636 / 1229 lists ->
   617 ipa_dense (native_ipa) + 10 Americanist + 2 Czech/Slovak + 1 Greek + 1 Kana + 2 Cyrillic
-  (rus/bul) + 2 romanization (arb/tha). By RECORDS: 150,261 / 295,369 have a non-empty `ipa`.
-  Remaining native-script (Tier 2): mdf, ydd, cmn (doable -- need a G2P/dict) + arb/pes/pbt
-  abjads (defer). Plus ~555 Latin/light_ipa lists (Tier 3). STRUCTURED IPA FEATURES built on
-  this layer (scripts/ipa_features.py, 99.88% segment coverage) -- growing IPA grows the features.
+  (rus/bul) + 2 romanization (arb/tha) + 1 Mandarin (cmn). By RECORDS: 150,362 / 295,369 have a
+  non-empty `ipa`. Remaining native-script (Tier 2): ydd (do next), mdf (needs verification),
+  pes/pbt abjads (defer). Plus ~555 Latin/light_ipa lists (Tier 3). STRUCTURED IPA FEATURES built
+  on this layer (scripts/ipa_features.py, 99.88% segment coverage) -- growing IPA grows features.
 Bonus: transcription system CORRELATES with template category. sahul_extended is mostly
   ipa_dense/light_ipa (real phonetic fieldwork); core_swadesh holds ALL 11 native-script lists
   and most orthographic ones (major languages in their own spelling).
@@ -175,19 +175,25 @@ PLAN (easiest -> hardest):
     (each ends in its tone digits). Per-record is_latin_line() routes only the romanization line;
     the 224 Thai-script + 128 Arabic-script records stay deferred. Chao tone letters added to
     ipa_features MODS. Embedded self-test: 19 gold forms. Review: ipa_romanization_review.tsv.
-  - Tier 2 REMAINING native scripts (5 lists), all needing real script G2P or external data:
-    * mdf (Moksha Cyrillic, 194 recs): doable by extending cyrillic_g2p, BUT needs Moksha-specific
-      verification first -- does it have final devoicing (Uralic, probably NOT, unlike Russian)?
-      я=ä vs ja? the reduced vowel ə? voiceless sonorants? Don't ship a Russian-shaped guess.
+  - [x] Tier 2 Mandarin (cmn) Hanzi -> pinyin -> IPA. DONE: curated dict
+    `metadata/cmn_hanzi_pinyin.tsv` (101 Hanzi -> pinyin, the lexical step a bare-Hanzi list
+    lacks) + `scripts/pinyin_g2p.py` (the deterministic pinyin->IPA engine), method `cmn` in
+    to_ipa.py. All 101 records, high-confidence, ZERO residuals. pinyin_g2p handles the spelling
+    quirks: zero-initial y/w -> i/u glide, j/q/x+u -> ü, iu/ui/un -> iou/uei/uen, b/p/m/f+o -> uo,
+    apical -i after zh/ch/sh/r -> ɻ̩ and after z/c/s -> ɹ̩; tones 1-4 -> Chao letters (˥ ˧˥ ˨˩˦
+    ˥˩), neutral unmarked; affricates tie-barred (zh=ʈ͡ʂ). Embedded self-test: 27 gold forms.
+    Review: ipa_cmn_review.tsv. (全部->t͡ɕʰɥɛn˧˥pu˥˩, 血->ɕɥe˥˩, 死->sɹ̩˨˩˦, 我们->wo˨˩˦mən.)
+  - Tier 2 REMAINING native scripts (4 lists):
     * ydd (Yiddish, Hebrew script, 209 recs): TRACTABLE -- YIVO writes vowels (אַ=a ע=e ו=u/o
       י=i, digraphs וו=v יי=ej וי=oj טש=t͡ʃ זש=ʒ). Wrinkle: loshn-koydesh (Hebrew-origin) words
       like חיה 'animal'=/xaje/ are spelled consonantally, NOT phonetically -> flag those as
-      residual. Needs a Hebrew-script (RTL, final forms ך ם ן ף ץ) G2P module.
-    * cmn (Mandarin Han, 101 recs): bare Hanzi, NO romanization -> needs a curated Hanzi->pinyin
-      ->IPA table (101 entries, like americanist_ipa_map.tsv). Bounded + verifiable; high value.
-    * arb/pbt/pes Arabic-SCRIPT lines + pbt (Pashto) + pes (Farsi): true abjads, short vowels
-      unwritten (pes has partial harakat). Consonantal skeleton only -> low value; needs a
-      lexicon / epitran-style tool. DEFER.
+      residual. Needs a Hebrew-script (RTL, final forms ך ם ן ף ץ) G2P module. <- DO NEXT.
+    * mdf (Moksha Cyrillic, 194 recs): doable by extending cyrillic_g2p, BUT needs Moksha-specific
+      verification first -- does it have final devoicing (Uralic, probably NOT, unlike Russian)?
+      я=ä vs ja? the reduced vowel ə? voiceless sonorants? Don't ship a Russian-shaped guess.
+    * pbt (Pashto) + pes (Farsi) Arabic-SCRIPT, and the arb/pbt Arabic-script lines: true abjads,
+      short vowels unwritten (pes has partial harakat). Consonantal skeleton only -> low value;
+      needs a lexicon / epitran-style tool. DEFER.
   - Tier 3 Latin orthography + light_ipa (~570): low-resource langs, no off-the-shelf G2P.
     Leverage the TEMPLATE/source clustering (same fieldwork source shares orthography conventions
     -> per-source rule sets convert many at once). Emit confidence; full narrow-IPA not achievable

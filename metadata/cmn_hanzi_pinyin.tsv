@@ -1,0 +1,105 @@
+# Curated Hanzi -> pinyin readings for the cmn (Mandarin) Swadesh list.
+# The lexical step the bare-Hanzi list lacks; pinyin_g2p.py converts pinyin -> IPA.
+# Keyed on the Hanzi (transcription_norm). Tone digits 1-4, 5 = neutral. ü written as ü.
+gloss	hanzi	pinyin
+all	全部	quan2 bu4
+ashes	灰	hui1
+bark	树皮	shu4 pi2
+belly	腹部	fu4 bu4
+big	大	da4
+bird	鸟	niao3
+bite	咬	yao3
+black	黑	hei1
+blood	血	xue4
+bone	骨头	gu3 tou5
+breast	乳房	ru3 fang2
+burn	点着	dian3 zhao2
+burn	烧	shao1
+cloud	云	yun2
+cold	冷	leng3
+come	来	lai2
+die	死	si3
+dog	狗	gou3
+drink	喝	he1
+dry	干	gan1
+earth	土地	tu3 di4
+ear	耳朵	er3 duo5
+eat	吃	chi1
+egg	蛋	dan4
+eye	眼睛	yan3 jing1
+fat (n.)	油脂	you2 zhi1
+feather	羽毛	yu3 mao2
+fingernail	指甲	zhi3 jia3
+fire	火	huo3
+fish	鱼	yu2
+fly (v.)	飞	fei1
+foot	脚	jiao3
+full	满	man3
+give	给	gei3
+good	好	hao3
+green	绿	lü4
+hair	头发	tou2 fa5
+hand	手	shou3
+head	头	tou2
+heart	心	xin1
+hear	听	ting1
+horn	卵	luan3
+i	我	wo3
+kill	杀	sha1
+knee	膝部	xi1 bu4
+know	知道	zhi1 dao4
+leaf	叶子	ye4 zi5
+lie	躺	tang3
+liver	肝脏	gan1 zang4
+long	长	chang2
+louse	虱子	shi1 zi5
+many	许多	xu3 duo1
+man	男人	nan2 ren2
+meat	肉	rou4
+moon	月亮	yue4 liang5
+mountain	山	shan1
+mouth	口	kou3
+name	名字	ming2 zi5
+neck	脖子	bo2 zi5
+new	新	xin1
+night	夜	ye4
+nose	鼻子	bi2 zi5
+not	不	bu4
+one	一	yi1
+person	人	ren2
+rain	雨	yu3
+red	红	hong2
+road	路	lu4
+root	根	gen1
+round	圆	yuan2
+sand	沙子	sha1 zi5
+say	说	shuo1
+seed	种子	zhong3 zi5
+see	看	kan4
+sit	坐	zuo4
+skin	皮肤	pi2 fu1
+sleep	睡眠	shui4 mian2
+small	小	xiao3
+smoke	烟	yan1
+stand	站	zhan4
+star	星	xing1
+stone	石头	shi2 tou5
+sun	太阳	tai4 yang2
+swim	游泳	you2 yong3
+tail	尾巴	wei3 ba5
+that	那	na4
+this	这	zhe4
+thou	你	ni3
+tongue	舌头	she2 tou5
+tooth	牙齿	ya2 chi3
+tree	树	shu4
+two	二	er4
+walk	走	zou3
+warm	热	re4
+water	水	shui3
+we	我们	wo3 men5
+what	什么	shen2 me5
+white	白	bai2
+who	谁	shei2
+woman	女人	nü3 ren2
+yellow	黄	huang2
