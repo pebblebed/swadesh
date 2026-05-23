@@ -1,0 +1,16 @@
+# Transcription-system classification of 1229 lists (Tier 0).
+# thresholds: ipa_dense>=0.25 light_ipa>=0.05 native>=0.30 americanist>=0.01 plain_ascii<0.01 (nonascii)
+transcription_system	n_lists
+ipa_dense	605
+light_ipa	321
+americanist	12
+latin_diacritic	186
+plain_ascii	93
+gloss_only	1
+native:Arabic	3
+native:Cyrillic	3
+native:Greek	1
+native:Han	1
+native:Hebrew	1
+native:Kana	1
+native:Thai	1

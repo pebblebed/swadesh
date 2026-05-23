@@ -21,6 +21,8 @@
       in_canonical, transcription_raw, transcription_norm}. Conservative norm (NFC, ws-collapse,
       U+01DD->U+0259); raw kept verbatim. Per-file stats in `metadata/normalize_report.tsv`.
 - [ ] (STRATEGY) Structured representations (?) of IPA: e.g., "glottal fricative" instead of raw symbol.
+      BLOCKED ON: the corpus is only ~half IPA. See "IPA CONVERSION STRATEGY" below; Tier 0
+      (classify each list's transcription system) is DONE.
 - [ ] (STRATEGY) Somehow leverage known tendencies of IPA drift from known languages.
 
 ## Next concrete steps (for upcoming loop passes)
@@ -40,14 +42,46 @@
    `data/normalized/list_templates.tsv` + `metadata/template_summary.tsv`. See FINDINGS
    (template taxonomy). Possible refinement: sub-cluster within sahul_extended (Australian vs
    New Guinea), and detect a possible source/project signature per template.
-3. **Confusable normalization, done safely (deferred from normalize.py).** Cyrillic 'й'
+3. [x] **IPA strategy Tier 0: classify transcription systems.** DONE: `scripts/classify_transcription.py`
+   -> `data/normalized/transcription_systems.tsv` (per list, joins to list_templates.tsv on
+   identifier) + `metadata/transcription_summary.tsv`. See "IPA CONVERSION STRATEGY" below.
+4. **Confusable normalization, done safely (deferred from normalize.py).** Cyrillic 'й'
    (186 occ / 22 files) is a /j/ confusable in Latin-script lists BUT a real letter in the
    Cyrillic-script lists (rus/bul/mdf). Add per-list script detection, then map 'й'->'j' ONLY
    in predominantly-Latin lists. Survey other confusables (e.g. Greek vs Latin look-alikes).
-4. Structured IPA features (TODO above): tokenize transcription_norm into IPA segments;
-   attach phonetic features (place/manner/voicing) per segment.
-5. (optional) The 8 non-Swadesh items + the 16 stub lists (<10 entries) are out of scope /
+   NOTE: transcription_systems.tsv now gives the per-list script -> use it to gate this safely.
+5. Structured IPA features (TODO above): tokenize transcription_norm into IPA segments;
+   attach phonetic features (place/manner/voicing) per segment. ONLY meaningful for the
+   ipa_dense lists until conversion (Tiers 1-3) extends coverage.
+6. (optional) The 8 non-Swadesh items + the 16 stub lists (<10 entries) are out of scope /
    unusable. Now flagged: category="stub" in list_templates.tsv marks the tiny lists.
+
+## IPA CONVERSION STRATEGY (tiered)  [Tier 0 DONE]
+Problem: only ~half the corpus is usable IPA. Tier-0 audit (scripts/classify_transcription.py,
+data/normalized/transcription_systems.tsv) over 1229 lists:
+  ipa_dense 605 | light_ipa 321 | latin_diacritic 186 | plain_ascii 93 | americanist 12 |
+  native scripts 11 (Arabic 3, Cyrillic 3, Greek/Han/Hebrew/Kana/Thai 1 each) | gloss_only 1.
+  => 605 IPA-ready now; 623 need conversion. Each list has scores (ipa_density, ipa_char_ratio,
+  nonascii_ratio, americanist_ratio) so thresholds stay re-judgeable.
+Bonus: transcription system CORRELATES with template category. sahul_extended is mostly
+  ipa_dense/light_ipa (real phonetic fieldwork); core_swadesh holds ALL 11 native-script lists
+  and most orthographic ones (major languages in their own spelling).
+PLAN (easiest -> hardest):
+  - Tier 1 Americanist->IPA (12 lists): near-deterministic notation table (č->t͡ʃ, š->ʃ, ž->ʒ,
+    ǰ/ǯ->d͡ʒ, y->j, ñ->ɲ). High ROI, rule-based.
+  - Tier 2 native scripts (11): use epitran / language tools. Easy: Kana, Greek. Hard: abjads
+    (Arabic/Persian/Hebrew - short vowels unwritten). Han needs Hanzi->reading dict then ->IPA.
+  - Tier 3 Latin orthography + light_ipa (~570): low-resource langs, no off-the-shelf G2P.
+    Leverage the TEMPLATE/source clustering (same fieldwork source shares orthography conventions
+    -> per-source rule sets convert many at once). Emit confidence; full narrow-IPA not achievable
+    for all.
+CROSS-CUTTING: anchor to external gold IPA (ASJP - coarse 41-symbol alphabet built for exactly
+  this; also Lexibank/CLDF, NorthEuraLex, PHOIBLE) to validate/borrow. STRONG OPTION: do
+  cross-list comparison in an ASJP-style sound-class alphabet (collapses IPA vs Americanist vs
+  orthography, robust to noise) rather than chasing perfect narrow IPA for 570 orthographic lists.
+DATA-QUALITY NOTE (seen during audit, for the cleanup tier): stray '\' in transcriptions
+  (Afar "kul\li"), '/' as variant separator ("tambi/tabekobe"), and "(...)"/"[...]" optional
+  material ("(ban-)[dum]") -- parse/strip these when tokenizing.
 
 ## FINDINGS (data source & format)
 - Blog post: rosettaproject.org/blog/02010/sep/20/Rosetta_Project_Swadesh_List_Data/
