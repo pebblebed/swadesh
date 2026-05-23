@@ -1,0 +1,23 @@
+# Americanist phonetic notation -> IPA (Tier 1 of the IPA conversion strategy).
+#
+# Applied by scripts/to_ipa.py to lists classified `americanist`, EXCEPT Czech
+# (ces) and Slovak (slk): there the carons are native Slavic ORTHOGRAPHY, not
+# Americanist notation, so they are deferred to a Slavic G2P handler (method
+# `deferred_slavic`) instead of being mis-converted here.
+#
+# Only UNAMBIGUOUS, tradition-independent correspondences are listed. Already-IPA
+# symbols in these lists (ð ə θ ʔ ɲ ɣ ʎ ʒ ç ʂ ŋ ⁿ and IPA diacritics) are left
+# untouched. Tradition-specific symbols are DELIBERATELY not mapped and instead
+# reported as `residual` for per-list review:
+#   - dot-below ḍ ṇ ṭ ẓ ṣ : retroflex (Indic) vs pharyngealized (Berber) -- context-dependent
+#   - j / y               : Americanist j=ʒ/d͡ʒ, y=glide; but some lists contrast j vs ǯ
+#   - accent/tone marks á é í ó ú ê ô â, ä ö ü, ˗ : tone/stress/quality, list-specific
+#   - stray '\'           : data-corruption artifact (see TODO data-quality notes)
+#
+# columns: source<TAB>ipa<TAB>note
+č	t͡ʃ	voiceless postalveolar affricate
+ǯ	d͡ʒ	voiced postalveolar affricate (ezh + caron)
+ǰ	d͡ʒ	voiced postalveolar affricate (j + caron)
+š	ʃ	voiceless postalveolar fricative
+ž	ʒ	voiced postalveolar fricative
+ñ	ɲ	palatal nasal

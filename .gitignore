@@ -2,11 +2,11 @@ __pycache__/
 *.pyc
 *.part
 
-# Bulk normalized dataset (72 MB): deterministically regenerated from data/raw
-# + scripts/normalize.py, so we don't bloat the repo with it. Run the script to
-# rebuild. The compact derived artifacts (glossary.tsv, normalize_report.tsv) ARE
-# tracked.
+# Bulk derived datasets (~72 MB each): deterministically regenerated from data/raw
+# + the scripts, so we don't bloat the repo with them. Run the scripts to rebuild.
+# The compact derived artifacts (glossary.tsv, *_review.tsv, *summary.tsv) ARE tracked.
 data/normalized/swadesh.jsonl
+data/normalized/ipa.jsonl
 
 # machine-local Claude Code session settings (permissions, etc.)
 .claude/settings.local.json

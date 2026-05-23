@@ -67,8 +67,21 @@ Bonus: transcription system CORRELATES with template category. sahul_extended is
   ipa_dense/light_ipa (real phonetic fieldwork); core_swadesh holds ALL 11 native-script lists
   and most orthographic ones (major languages in their own spelling).
 PLAN (easiest -> hardest):
-  - Tier 1 Americanist->IPA (12 lists): near-deterministic notation table (č->t͡ʃ, š->ʃ, ž->ʒ,
-    ǰ/ǯ->d͡ʒ, y->j, ñ->ɲ). High ROI, rule-based.
+  - [x] Tier 1 Americanist->IPA. DONE: `scripts/to_ipa.py` builds the IPA layer
+    `data/normalized/ipa.jsonl` (gitignored, regenerable) with per-record ipa / ipa_method /
+    ipa_confidence. Methods: native_ipa (605 ipa_dense lists pass through, 143,423 recs),
+    americanist (10 lists, 2,936 recs via `metadata/americanist_ipa_map.tsv`), deferred_*
+    (slavic 361, native 2,358, latin 146,078). Conservative map = caron core only
+    (č->t͡ʃ ǯ/ǰ->d͡ʒ š->ʃ ž->ʒ ñ->ɲ); already-IPA symbols left as-is; tradition-specific
+    symbols (j/y, dot-below emphatics, accents) left as flagged RESIDUALS. Result: 2,597
+    high-confidence + 339 medium. Czech+Slovak SPLIT OUT (carons are native orthography ->
+    deferred_slavic). Human-review file: `data/normalized/ipa_americanist_review.tsv`;
+    tallies `metadata/ipa_conversion_summary.tsv`. Cheyenne worst (62/188) due to '\'
+    corruption + ê/ô/â orthography -> revisit under Tier 3 / data-cleanup.
+    REMAINING Tier-1-ish: Czech/Slovak need a small Slavic G2P rule set (vowel length
+    á/í/ý->Vː, ě, ř->r̝, ť/ď/ň->c/ɟ/ɲ, c->t͡s, ch->x, h->ɦ).
+  - Tier 1b (orig plan, superseded): y->j was DROPPED as unsafe -- several lists contrast
+    j vs ǯ, so y/j values are list-specific. Resolve per-list if needed.
   - Tier 2 native scripts (11): use epitran / language tools. Easy: Kana, Greek. Hard: abjads
     (Arabic/Persian/Hebrew - short vowels unwritten). Han needs Hanzi->reading dict then ->IPA.
   - Tier 3 Latin orthography + light_ipa (~570): low-resource langs, no off-the-shelf G2P.
