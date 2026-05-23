@@ -31,10 +31,8 @@
       precomposed accented vowels split to base+diacritic) -> greedy segment (tie-bar affricates,
       trailing combining marks + spacing modifiers; ⁿ prenasalization attaches forward;
       dot-below=retroflex; ASCII ':' = length; non-phonetic punctuation skipped). Embedded
-      self-test: 23 gold forms. REMAINING unknowns (0.28%): archiphoneme capitals (N/V/T cover
-      symbols), the deliberately-flagged Cyrillic э, and ß (1158 occ/134 lists -- a confusable:
-      word-initial β in Papuan lists like abt/yuj, but /s/ in German -> resolve per-language in a
-      normalize confusable pass, NOT here).
+      self-test: 23 gold forms. Coverage 99.88% after the ß->β fix. REMAINING unknowns (0.12%):
+      archiphoneme capitals (N/V/T cover symbols) + the deliberately-flagged Cyrillic э + mojibake.
 - [ ] (STRATEGY) Somehow leverage known tendencies of IPA drift from known languages.
 
 ## Next concrete steps (for upcoming loop passes)
@@ -70,16 +68,19 @@
    Caucasian lateral λ->ɬ (66/12 lists; the lateral AFFRICATE ƛ U+019B is left as-is); and
    ӡ resolved PER-LANGUAGE via `LANG_CONFUSABLES`: ӡ->d͡z in NW-Caucasian/Nakh (abk/abq/ady/
    kbd/bbl: Abkhaz 'water' аӡы=[aˈd͡zə]) but ӡ->ʒ elsewhere (the ezh homoglyph, ~16 Austroasiatic
-   lists). Now 2191 chars fixed; only 37 still FLAGGED -- Cyrillic э (36/19, genuinely ambiguous
-   ə vs ɛ across Austronesian lists that ALSO use ə) + one stray Greek υ. Front vowels ӓ/ӧ kept
+   lists). PASS 3 added the Latin-block confusable ß->β (2238 occ across 215 phonetic lists --
+   Papuan/African, often paired with ɸ; Hebrew/Syriac spirantized bet ~[v]/[β]) with per-language
+   override deu->s (German 'groß'->gros). Now 4439 chars fixed; only 37 still FLAGGED -- Cyrillic
+   э (36/19, genuinely ambiguous ə vs ɛ across Austronesian lists that ALSO use ə) + one stray
+   Greek υ. Front vowels ӓ/ӧ kept
    as Latin ä/ö at this layer (phon. ~æ/ø) for a later IPA pass. SIDE EFFECT: cleaner IPA chars
    reclassified 12 lists -> ipa_dense (605->617); to_ipa now passes ~2,514 more recs (149,519
    total) through native_ipa. Full audit: `metadata/confusables_report.tsv`.
    NEXT: decide э per-list (sample whether it contrasts with ə); the ӓ/ӧ->æ/ø phonetic refinement
    belongs in the Caucasus IPA tier, not normalize.
 5. [x] Structured IPA features. DONE (see STRATEGY item above): `scripts/ipa_features.py`,
-   99.72% coverage. NEXT refinements: ß->β/s per-language confusable (normalize.py); optionally
-   capture tone numbers/downstep; map the few archiphoneme capitals if a convention is found.
+   99.88% coverage. NEXT refinements: optionally capture tone numbers/downstep; map the few
+   archiphoneme capitals if a per-list convention is found.
 6. (optional) The 8 non-Swadesh items + the 16 stub lists (<10 entries) are out of scope /
    unusable. Now flagged: category="stub" in list_templates.tsv marks the tiny lists.
 

@@ -251,7 +251,7 @@ rosettaproject_ded_swadesh-1	ded	Dedua	223	Latin	0.067	0.017	0.062	0.0	light_ipa
 rosettaproject_deg_swadesh-1	deg	Degema	110	Latin	0.718	0.331	0.595	0.0	ipa_dense
 rosettaproject_dei_swadesh-1	dei	Demisa	131	Latin	0.229	0.052	0.084	0.013	light_ipa
 rosettaproject_dem_swadesh-1	dem	Dem	235	Latin	0.077	0.017	0.084	0.003	light_ipa
-rosettaproject_deu_swadesh-1	deu	German, Standard	242	Latin	0.0	0.0	0.019	0.0	latin_diacritic
+rosettaproject_deu_swadesh-1	deu	German, Standard	242	Latin	0.0	0.0	0.011	0.0	latin_diacritic
 rosettaproject_dev_swadesh-1	dev	Domung	51	Latin	0.314	0.1	0.136	0.0	ipa_dense
 rosettaproject_dge_swadesh-1	dge	Degenan	51	Latin	0.51	0.17	0.238	0.0	ipa_dense
 rosettaproject_dgh_swadesh-1	dgh	Dghwede	69	Latin	0.652	0.226	0.464	0.0	ipa_dense

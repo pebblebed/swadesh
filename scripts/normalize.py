@@ -103,12 +103,18 @@ SCRIPT_CONFUSABLES = {
     "ш": "ʃ",   # U+0448 CYRILLIC SHA -> ʃ
     "Ш": "ʃ",   # U+0428 CYRILLIC capital SHA -> ʃ
     "ф": "f",   # U+0444 CYRILLIC EF  -> f
+    # -- Latin-block letter used for an IPA symbol --
+    "ß": "β",   # U+00DF SHARP S = voiced bilabial fricative β in 215 phonetic lists
+                #        (Papuan/African; Hebrew/Syriac spirantized bet ~ [v]/[β];
+                #        often paired with ɸ). German deu -> s (override below).
 }
 # Per-language overrides, applied (within the same Latin gate) before the table
 # above. The Abkhasian Dze ӡ is the IPA ezh ʒ by default, but in these
 # NW-Caucasian / Nakh lists it is the voiced alveolar affricate /d͡z/ -- e.g.
-# Abkhaz 'water' аӡы = [aˈd͡zə], Kabardian 'tooth' ӡa = [d͡za].
+# Abkhaz 'water' аӡы = [aˈd͡zə], Kabardian 'tooth' ӡa = [d͡za]. And German ß is the
+# orthographic /s/ (groß, beißen), not the β default of the phonetic lists.
 LANG_CONFUSABLES = {lc: {"ӡ": "d͡z"} for lc in ("abk", "abq", "ady", "kbd", "bbl")}
+LANG_CONFUSABLES["deu"] = {"ß": "s"}
 _LEGIT_IPA_GREEK = set("βθχ")  # valid-IPA Greek codepoints: never flag as foreign
 
 _NONLATIN_RANGES = [

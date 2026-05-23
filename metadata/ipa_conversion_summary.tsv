@@ -11,8 +11,8 @@ greek_g2p	207
 kana_g2p	78
 
 method	confidence	n_records
-americanist	high	2597
-americanist	medium	339
+americanist	high	2600
+americanist	medium	336
 cyrillic_g2p	high	433
 greek_g2p	high	207
 kana_g2p	high	78
@@ -22,7 +22,6 @@ slavic_g2p	high	361
 # Converted lists: residual (unconverted) symbols still present
 identifier	n_records_w_residual	residual_chars
 rosettaproject_akh_swadesh-1	5	é:2 ú:2 á:1
-rosettaproject_bhg_swadesh-1	3	ß:3
 rosettaproject_chy_swadesh-1	153	\:103 ê:24 ô:16 â:9 á:1
 rosettaproject_kzf_swadesh-1	2	ū:1 ĵ:1
 rosettaproject_med_swadesh-1	13	ö:5 á:3 ó:2 í:1 ë:1 ô:1
