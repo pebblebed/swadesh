@@ -23,11 +23,16 @@ Transcription normalization is conservative and lossless-by-default:
       * Unicode NFC
       * whitespace trim + internal-whitespace collapse
       * U+01DD (LATIN SMALL LETTER TURNED E, mis-used for schwa) -> U+0259 (ə)
-  - Cyrillic 'й' (U+0439) is deliberately left ALONE. It is a confusable for /j/
-    in the Latin-script lists, but a genuine letter in the Cyrillic-script lists
-    (rus/bul/mdf), so a blanket replacement would silently corrupt those. Per-list
-    script disambiguation is deferred (see TODO.md).
+      * wrong-SCRIPT confusables, PER-LINE gated: a non-Latin codepoint typed
+        where a Latin/IPA symbol was meant (Cyrillic й->j; Greek φ->ɸ ε->ɛ γ->ɣ
+        δ->ð ϑ->θ) is fixed ONLY in transcriptions that are themselves
+        predominantly Latin-script. Genuine Cyrillic/Greek/Arabic transcriptions
+        -- the Cyrillic lines interleaved in bul/rus/mdf, the all-Greek ell list,
+        the Arabic/Thai native lines -- are never touched. Greek β/θ/χ are NOT
+        mapped (they are valid IPA codepoints). See SCRIPT_CONFUSABLES below and
+        metadata/confusables_report.tsv (what was applied + flagged candidates).
 """
+import collections
 import glob
 import json
 import os
@@ -44,14 +49,68 @@ GLOSSARY = os.path.join(OUT_DIR, "glossary.tsv")
 COVERAGE = os.path.join(OUT_DIR, "canonical_coverage.tsv")
 REPORT = os.path.join(ROOT, "metadata", "normalize_report.tsv")
 ALIASES = os.path.join(ROOT, "metadata", "gloss_aliases.tsv")
+CONFUSE_REPORT = os.path.join(ROOT, "metadata", "confusables_report.tsv")
 
 MASTER = "rosettaproject_eng_swadesh-2"  # canonical 207-item gloss list
 HUN300 = "rosettaproject_hun_swadesh-2"  # CP1250 dash-delimited 300-Languages list
 
-# Confusables applied to transcription_norm. Latin-internal only; see module docstring.
-CONFUSABLES = {"ǝ": "ə"}  # turned-e -> schwa
+# --- Confusable normalization (transcription_norm only; raw kept verbatim) ---
+# (1) Latin-internal, ALWAYS safe: turned-e mis-used for schwa.
+CONFUSABLES = {"ǝ": "ə"}  # U+01DD -> U+0259
 _CONFUSE_RE = re.compile("|".join(map(re.escape, CONFUSABLES)))
+
+# (2) Wrong-SCRIPT confusables: a non-Latin codepoint typed where a Latin/IPA
+# symbol was meant. Applied ONLY to a transcription that is itself predominantly
+# Latin-script (the _latin_dominant gate below), so genuine Cyrillic/Greek/Arabic
+# transcriptions -- the Cyrillic lines interleaved in bul/rus/mdf, the all-Greek
+# ell list, the Arabic/Thai native lines -- are NEVER touched.
+#   Deliberately NOT mapped (see TODO 'confusable survey'):
+#     - β θ χ : these Greek codepoints ARE valid IPA (voiced bilabial / voiceless
+#               dental / voiceless uvular fricatives); Unicode has no Latin form.
+#     - λ η   : language-specific & ambiguous (Caucasian lateral λ; η is ŋ in some
+#               lists but a vowel in others) -- flagged in the report, not changed.
+#     - Cyrillic ӡ э ш ӓ ӧ ... : deliberate (if non-standard) Caucasus phonetic
+#               notation, not sloppy confusables -- flagged for human review.
+SCRIPT_CONFUSABLES = {
+    "й": "j",   # U+0439 CYRILLIC SHORT I   -> j  (palatal approximant)
+    "φ": "ɸ",   # U+03C6 GREEK PHI          -> ɸ  U+0278 (bilabial fricative)
+    "ε": "ɛ",   # U+03B5 GREEK EPSILON      -> ɛ  U+025B (open-mid front vowel)
+    "γ": "ɣ",   # U+03B3 GREEK GAMMA        -> ɣ  U+0263 (velar fricative)
+    "δ": "ð",   # U+03B4 GREEK DELTA        -> ð  U+00F0 (dental fricative)
+    "ϑ": "θ",   # U+03D1 GREEK THETA SYMBOL -> θ  U+03B8 (the standard IPA theta)
+}
+_SCRIPT_CONFUSE_RE = re.compile("|".join(map(re.escape, SCRIPT_CONFUSABLES)))
+_LEGIT_IPA_GREEK = set("βθχ")  # valid-IPA Greek codepoints: never flag as foreign
+
+_NONLATIN_RANGES = [
+    (0x0400, 0x04FF, "Cyrillic"), (0x0370, 0x03FF, "Greek"),
+    (0x0590, 0x05FF, "Hebrew"), (0x0600, 0x06FF, "Arabic"),
+    (0x0900, 0x097F, "Devanagari"), (0x0E00, 0x0E7F, "Thai"),
+    (0x3040, 0x30FF, "Kana"), (0x4E00, 0x9FFF, "Han"), (0x3400, 0x4DBF, "Han"),
+    (0xAC00, 0xD7A3, "Hangul"),
+]
 _WS_RE = re.compile(r"\s+")
+
+
+def script_of(c):
+    cp = ord(c)
+    for lo, hi, name in _NONLATIN_RANGES:
+        if lo <= cp <= hi:
+            return name
+    return "Latin"  # Latin blocks + IPA extensions + modifier/combining marks
+
+
+def _latin_dominant(t):
+    """True if Latin-family letters are at least as many as the largest single
+    non-Latin script in the string (and there is at least one Latin letter).
+    This per-line test is what makes a stray Cyrillic/Greek letter a confusable
+    rather than genuine native content."""
+    counts = collections.Counter(script_of(c) for c in t if c.isalpha())
+    latin = counts.get("Latin", 0)
+    if not latin:
+        return False
+    other_max = max((v for k, v in counts.items() if k != "Latin"), default=0)
+    return latin >= other_max
 
 
 def decode(path):
@@ -74,9 +133,21 @@ def norm_gloss(g):
 
 
 def norm_transcription(t):
+    """Normalize a transcription for transcription_norm. Returns
+    (norm, applied, flagged): `applied` lists confusable source chars that were
+    replaced; `flagged` lists foreign-script letters left UNMAPPED in a
+    Latin-dominant line (survey candidates -- recorded for review, not changed)."""
     t = unicodedata.normalize("NFC", t).strip()
     t = _CONFUSE_RE.sub(lambda m: CONFUSABLES[m.group(0)], t)
-    return _WS_RE.sub(" ", t)
+    applied, flagged = [], []
+    if _latin_dominant(t):
+        for c in t:
+            if c in SCRIPT_CONFUSABLES:
+                applied.append(c)
+            elif c.isalpha() and c not in _LEGIT_IPA_GREEK and script_of(c) != "Latin":
+                flagged.append(c)
+        t = _SCRIPT_CONFUSE_RE.sub(lambda m: SCRIPT_CONFUSABLES[m.group(0)], t)
+    return _WS_RE.sub(" ", t), applied, flagged
 
 
 def parse_colon(text):
@@ -173,6 +244,8 @@ def main():
     report_rows = []
     n_records = 0
     n_aliased = 0
+    applied_stats = collections.defaultdict(lambda: [0, set()])   # char -> [occ, lists]
+    flagged_stats = collections.defaultdict(lambda: [0, set()])   # char -> [occ, lists]
 
     with open(JSONL, "w", encoding="utf-8", newline="\n") as out:
         for path in files:
@@ -195,12 +268,18 @@ def main():
                 if not gloss:
                     dropped += 1
                     continue
-                tr_norm = norm_transcription(tr_raw)
+                tr_norm, applied_cs, flagged_cs = norm_transcription(tr_raw)
                 pair = (gloss, tr_norm)
                 if pair in seen_pairs:
                     dropped += 1
                     continue
                 seen_pairs.add(pair)
+                for c in applied_cs:
+                    applied_stats[c][0] += 1
+                    applied_stats[c][1].add(ident)
+                for c in flagged_cs:
+                    flagged_stats[c][0] += 1
+                    flagged_stats[c][1].add(ident)
                 canonical_gloss = aliases.get(gloss, gloss)
                 if canonical_gloss != gloss:
                     n_aliased += 1
@@ -252,6 +331,22 @@ def main():
         for row in report_rows:
             r.write("\t".join(map(str, row)) + "\n")
 
+    # Confusables report: what was mapped (applied) + foreign letters left in
+    # Latin-dominant lines that we did NOT map (flagged = future-work candidates).
+    def _ex(lists):
+        return " ".join(sorted(x.replace("rosettaproject_", "") for x in lists)[:6])
+    with open(CONFUSE_REPORT, "w", encoding="utf-8", newline="\n") as f:
+        f.write("# Wrong-script confusables in transcription_norm (per-line Latin-gated).\n")
+        f.write("# transcription_raw keeps the verbatim source, so this is reversible.\n")
+        f.write("section\tchar\tmaps_to\tscript\toccurrences\tn_lists\texample_lists\n")
+        for c in sorted(applied_stats, key=lambda c: -applied_stats[c][0]):
+            occ, lists = applied_stats[c]
+            f.write(f"applied\t{c}\t{SCRIPT_CONFUSABLES[c]}\t{script_of(c)}\t"
+                    f"{occ}\t{len(lists)}\t{_ex(lists)}\n")
+        for c in sorted(flagged_stats, key=lambda c: -flagged_stats[c][0]):
+            occ, lists = flagged_stats[c]
+            f.write(f"flagged\t{c}\t\t{script_of(c)}\t{occ}\t{len(lists)}\t{_ex(lists)}\n")
+
     n_lists = len(files)
     surface_cov = sum(1 for k in canonical if k in gloss_lists)
     concept_cov = sum(1 for k in canonical if concept_lists.get(k))
@@ -260,6 +355,13 @@ def main():
     print(f"records written     : {n_records}  -> {JSONL}")
     print(f"distinct surface gl.: {len(gloss_lists)}  -> {GLOSSARY}")
     print(f"alias rules loaded  : {len(aliases)}  ({n_aliased} records folded)")
+    n_applied = sum(v[0] for v in applied_stats.values())
+    applied_desc = ", ".join(f"{c}->{SCRIPT_CONFUSABLES[c]}:{applied_stats[c][0]}"
+                             for c in sorted(applied_stats, key=lambda c: -applied_stats[c][0]))
+    print(f"confusables applied : {n_applied} chars in Latin-dominant lines "
+          f"({applied_desc})")
+    print(f"  flagged (unmapped): {sum(v[0] for v in flagged_stats.values())} chars "
+          f"-> {CONFUSE_REPORT}")
     if noncanon_targets:
         print(f"  surface-only folds (target not canonical): {noncanon_targets}")
     print(f"canonical 207 items : {len(canonical)}")
