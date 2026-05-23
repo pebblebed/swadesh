@@ -1,11 +1,11 @@
 # IPA feature coverage over the IPA layer.
-records_with_ipa	150571
-total_segments	775248
-segment_occurrences_known	774290
+records_with_ipa	150765
+total_segments	776170
+segment_occurrences_known	775212
 segment_occurrences_unknown	958
 coverage_pct	99.88
-distinct_segments	1011
-distinct_known	941
+distinct_segments	1012
+distinct_known	942
 distinct_unknown	70
 
 # Top unmapped segments (candidates for the feature table / cleanup)

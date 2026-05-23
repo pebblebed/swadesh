@@ -1,24 +1,24 @@
 # Distinct IPA segments across the corpus IPA layer, with features.
 segment	type	description	tone	n_occurrences	n_lists
-a	vowel	open front unrounded vowel		99623	634
-i	vowel	close front unrounded vowel		58060	628
-u	vowel	close back rounded vowel		47317	629
-n	consonant	voiced alveolar nasal		46384	636
-m	consonant	voiced bilabial nasal		37013	631
-r	consonant	voiced alveolar trill		31939	611
-k	consonant	voiceless velar plosive		31267	568
-e	vowel	close-mid front unrounded vowel		29858	561
-ɡ	consonant	voiced velar plosive		28263	573
-o	vowel	close-mid back rounded vowel		27706	555
-l	consonant	voiced alveolar lateral approximant		25887	593
-t	consonant	voiceless alveolar plosive		25719	569
-b	consonant	voiced bilabial plosive		22229	579
+a	vowel	open front unrounded vowel		99752	635
+i	vowel	close front unrounded vowel		58096	629
+u	vowel	close back rounded vowel		47347	630
+n	consonant	voiced alveolar nasal		46398	637
+m	consonant	voiced bilabial nasal		37095	632
+r	consonant	voiced alveolar trill		31968	612
+k	consonant	voiceless velar plosive		31331	569
+e	vowel	close-mid front unrounded vowel		29924	562
+ɡ	consonant	voiced velar plosive		28271	574
+o	vowel	close-mid back rounded vowel		27758	556
+l	consonant	voiced alveolar lateral approximant		25914	594
+t	consonant	voiceless alveolar plosive		25738	570
+b	consonant	voiced bilabial plosive		22233	580
 w	consonant	voiced labial-velar approximant		18309	583
-d	consonant	voiced alveolar plosive		17203	575
+d	consonant	voiced alveolar plosive		17219	576
 ŋ	consonant	voiced velar nasal		16723	494
-s	consonant	voiceless alveolar fricative		14825	489
+s	consonant	voiceless alveolar fricative		14892	490
 y	vowel	close front rounded vowel		14609	555
-p	consonant	voiceless bilabial plosive		13579	490
+p	consonant	voiceless bilabial plosive		13611	491
 ɛ	vowel	open-mid front unrounded vowel		13350	429
 h	consonant	voiceless glottal fricative		9528	385
 ə	vowel	mid central unrounded vowel		8524	329
@@ -28,34 +28,34 @@ h	consonant	voiceless glottal fricative		9528	385
 ë	vowel	centralized close-mid front unrounded vowel		5371	149
 ɟ	consonant	voiced palatal plosive		5095	201
 aː	vowel	long open front unrounded vowel		4293	331
-f	consonant	voiceless labiodental fricative		4123	323
+f	consonant	voiceless labiodental fricative		4131	324
 ɲ	consonant	voiced palatal nasal		3591	266
 á	vowel	open front unrounded vowel	high	3572	166
 c	consonant	voiceless palatal plosive		3131	155
 iː	vowel	long close front unrounded vowel		2879	325
 ɑ	vowel	open back unrounded vowel		2598	45
 ɪ	vowel	near-close front unrounded vowel		2335	198
-v	consonant	voiced labiodental fricative		2303	203
+v	consonant	voiced labiodental fricative		2331	204
 í	vowel	close front unrounded vowel	high	2280	143
-z	consonant	voiced alveolar fricative		2163	230
-t͡ʃ	consonant	voiceless postalveolar affricate		2003	212
+z	consonant	voiced alveolar fricative		2168	231
+t͡ʃ	consonant	voiceless postalveolar affricate		2008	213
 ɨ	vowel	close central unrounded vowel		2000	111
 ú	vowel	close back rounded vowel	high	1849	137
 uː	vowel	long close back rounded vowel		1771	268
 ï	vowel	centralized close front unrounded vowel		1690	62
-ʃ	consonant	voiceless postalveolar fricative		1664	174
+ʃ	consonant	voiceless postalveolar fricative		1684	175
 ʊ	vowel	near-close back rounded vowel		1583	131
 d͡ʒ	consonant	voiced postalveolar affricate		1553	196
 t̪	consonant	voiceless dental plosive		1536	83
 d̪	consonant	voiced dental plosive		1507	70
-j	consonant	voiced palatal approximant		1385	194
+j	consonant	voiced palatal approximant		1401	195
 ṛ	consonant	voiced retroflex trill		1353	69
 eː	vowel	long close-mid front unrounded vowel		1337	202
 ḍ	consonant	voiced retroflex plosive		1330	81
 oː	vowel	long close-mid back rounded vowel		1306	230
 β	consonant	voiced bilabial fricative		1295	139
 ò	vowel	close-mid back rounded vowel	low	1275	76
-x	consonant	voiceless velar fricative		1202	108
+x	consonant	voiceless velar fricative		1203	109
 ḷ	consonant	voiced retroflex lateral approximant		1201	76
 à	vowel	open front unrounded vowel	low	1177	71
 ɹ̣	consonant	voiced retroflex approximant		1175	67
@@ -84,7 +84,7 @@ q	consonant	voiceless uvular plosive		572	63
 ɓ	consonant	voiced bilabial implosive		476	47
 pʰ	consonant	voiceless aspirated bilabial plosive		474	57
 â	vowel	open front unrounded vowel	falling	461	36
-ʒ	consonant	voiced postalveolar fricative		450	108
+ʒ	consonant	voiced postalveolar fricative		458	109
 ð	consonant	voiced dental fricative		435	48
 ʌː	vowel	long open-mid back unrounded vowel		431	65
 ë:	vowel	long centralized close-mid front unrounded vowel		422	54
@@ -118,6 +118,7 @@ o:	vowel	long close-mid back rounded vowel		195	63
 ʁ	consonant	voiced uvular fricative		194	19
 u͂	vowel	U+0342 close back rounded vowel		189	41
 i͂	vowel	U+0342 close front unrounded vowel		189	40
+æ	vowel	near-open front unrounded vowel		188	31
 ñ	consonant	voiced nasalized alveolar nasal		186	35
 ʎ	consonant	voiced palatal lateral approximant		184	42
 î	vowel	close front unrounded vowel	falling	184	26
@@ -131,7 +132,6 @@ L	unknown	unknown		155	7
 óː	vowel	long close-mid back rounded vowel	high	153	32
 úː	vowel	long close back rounded vowel	high	153	53
 o͂	vowel	U+0342 close-mid back rounded vowel		149	41
-æ	vowel	near-open front unrounded vowel		148	30
 χ	consonant	voiceless uvular fricative		147	27
 ã	vowel	nasalized open front unrounded vowel		138	30
 ɐ	vowel	near-open central unrounded vowel		133	1
@@ -141,10 +141,10 @@ e͂	vowel	U+0342 close-mid front unrounded vowel		126	30
 ɦ	consonant	voiced glottal fricative		124	13
 ʊː	vowel	long near-close back rounded vowel		123	53
 eʲ	vowel	palatalized close-mid front unrounded vowel		119	28
+tʲ	consonant	voiceless palatalized alveolar plosive		118	16
 ç	consonant	voiceless U+0327 palatal plosive		116	13
 aʷ	vowel	labialized open front unrounded vowel		109	34
 ǂ	consonant	voiceless palatal click		105	6
-tʲ	consonant	voiceless palatalized alveolar plosive		103	15
 mʷ	consonant	voiced labialized bilabial nasal		91	31
 ɔ̃	vowel	nasalized open-mid back rounded vowel		86	12
 ɯ	vowel	close back unrounded vowel		84	11
@@ -154,13 +154,14 @@ bʷ	consonant	voiced labialized bilabial plosive		83	31
 ʊ́ː	vowel	long near-close back rounded vowel	high	78	20
 ĩ	vowel	nasalized close front unrounded vowel		74	18
 û	vowel	close back rounded vowel	falling	74	19
+t͡s	consonant	voiceless alveolar affricate		71	8
 õ	vowel	nasalized close-mid back rounded vowel		70	22
 ɪ́ː	vowel	long near-close front unrounded vowel	high	70	22
-t͡s	consonant	voiceless alveolar affricate		69	7
 T	unknown	unknown		68	5
 əː	vowel	long mid central unrounded vowel		66	28
 ɪ̀	vowel	near-close front unrounded vowel	low	65	12
 V	unknown	unknown		65	31
+lʲ	consonant	voiced palatalized alveolar lateral approximant		64	12
 ɳ	consonant	voiced retroflex nasal		64	11
 ɑː	vowel	long open back unrounded vowel		62	12
 ċ	consonant	voiceless U+0307 palatal plosive		60	9
@@ -179,6 +180,7 @@ tˁ	consonant	voiceless U+02C1 alveolar plosive		54	9
 ə̀	vowel	mid central unrounded vowel	low	51	12
 ç̌	consonant	voiceless U+0327 palatal plosive	rising	51	1
 ḉ	consonant	voiceless U+0327 palatal plosive	high	50	9
+nʲ	consonant	voiced palatalized alveolar nasal		50	11
 oʷ	vowel	labialized close-mid back rounded vowel		49	24
 ɛ͂	vowel	U+0342 open-mid front unrounded vowel		49	18
 ẽ	vowel	nasalized close-mid front unrounded vowel		46	12
@@ -187,10 +189,10 @@ dˁ	consonant	voiced U+02C1 alveolar plosive		45	7
 ɛʲ	vowel	palatalized open-mid front unrounded vowel		45	9
 ʂ	consonant	voiceless retroflex fricative		45	7
 ɨː	vowel	long close central unrounded vowel		43	14
-lʲ	consonant	voiced palatalized alveolar lateral approximant		43	11
 pʷ	consonant	voiceless labialized bilabial plosive		42	19
 s̪	consonant	voiceless dental fricative		41	2
 rˁ	consonant	voiced U+02C1 alveolar trill		41	3
+rʲ	consonant	voiced palatalized alveolar trill		41	9
 A	unknown	unknown		39	8
 lˠ	consonant	voiced velarized alveolar lateral approximant		39	4
 H	unknown	unknown		39	2
@@ -212,20 +214,20 @@ i̯	vowel	U+032F close front unrounded vowel		34	2
 t͡ʃʰ	consonant	voiceless aspirated postalveolar affricate		32	6
 Q	unknown	unknown		32	4
 ðˁ	consonant	voiced U+02C1 dental fricative		31	5
+sʲ	consonant	voiceless palatalized alveolar fricative		31	7
 ʘ	consonant	voiceless bilabial click		31	3
+dʲ	consonant	voiced palatalized alveolar plosive		30	7
 ô	vowel	close-mid back rounded vowel	falling	30	9
 ʌ́	vowel	open-mid back unrounded vowel	high	30	11
-nʲ	consonant	voiced palatalized alveolar nasal		29	10
 ɒʷ	vowel	labialized open back rounded vowel		29	2
 a͂́	vowel	U+0342 open front unrounded vowel	high	29	4
 ē	vowel	long close-mid front unrounded vowel		28	11
 ìː	vowel	long close front unrounded vowel	low	28	6
-rʲ	consonant	voiced palatalized alveolar trill		27	8
 sʰ	consonant	voiceless aspirated alveolar fricative		27	5
+r̥	consonant	voiceless alveolar trill		27	5
 kʲ	consonant	voiceless palatalized velar plosive		26	14
 òː	vowel	long close-mid back rounded vowel	low	26	8
 k̥	consonant	voiceless velar plosive		26	5
-r̥	consonant	voiceless alveolar trill		26	4
 I	unknown	unknown		25	15
 xʷ	consonant	voiceless labialized velar fricative		25	5
 ǎ	vowel	open front unrounded vowel	rising	25	10
@@ -261,11 +263,9 @@ dʻ	consonant	voiced U+02BB alveolar plosive		17	1
 pʲ	consonant	voiceless palatalized bilabial plosive		16	4
 ə:	vowel	long mid central unrounded vowel		16	7
 D	unknown	unknown		16	4
-dʲ	consonant	voiced palatalized alveolar plosive		16	6
 ŋʷ	consonant	voiced labialized velar nasal		16	5
 œ	vowel	open-mid front rounded vowel		16	6
 mʲ	consonant	voiced palatalized bilabial nasal		16	8
-sʲ	consonant	voiceless palatalized alveolar fricative		16	6
 m̀	consonant	voiced bilabial nasal	low	16	9
 i˧˧	vowel	tone3 tone3 close front unrounded vowel		16	1
 d͡z	consonant	voiced alveolar affricate		15	6
@@ -320,6 +320,7 @@ u˥˩	vowel	tone5 tone1 close back rounded vowel		10	1
 ɔ͂́	vowel	U+0342 open-mid back rounded vowel	high	10	3
 i̪	vowel	close front unrounded vowel		10	8
 é:	vowel	long close-mid front unrounded vowel	high	10	3
+zʲ	consonant	voiced palatalized alveolar fricative		10	5
 βʷ	consonant	voiced labialized bilabial fricative		10	3
 ɣʷ	consonant	voiced labialized velar fricative		9	4
 u˜	vowel	U+02DC close back rounded vowel		9	3
@@ -423,7 +424,6 @@ iˑ	vowel	half-long close front unrounded vowel		6	1
 ɔʲ	vowel	palatalized open-mid back rounded vowel		6	4
 ǽ	vowel	near-open front unrounded vowel	high	6	4
 ɒ́	vowel	open back rounded vowel	high	6	5
-zʲ	consonant	voiced palatalized alveolar fricative		6	4
 bʰ	consonant	voiced aspirated bilabial plosive		6	2
 zʰ	consonant	voiced aspirated alveolar fricative		6	1
 sː	consonant	long voiceless alveolar fricative		6	2
@@ -462,6 +462,7 @@ U	unknown	unknown		5	3
 ɛʷ	vowel	labialized open-mid front unrounded vowel		5	3
 wʷ	consonant	voiced labialized labial-velar approximant		5	3
 îː	vowel	long close front unrounded vowel	falling	5	1
+l̥	consonant	voiceless alveolar lateral approximant		5	2
 ɔ͂̀	vowel	U+0342 open-mid back rounded vowel	low	5	2
 ɑ́	vowel	open back unrounded vowel	high	5	2
 ɸʰ	consonant	voiceless aspirated bilabial fricative		5	3
@@ -486,6 +487,7 @@ P	unknown	unknown		4	4
 wʲ	consonant	voiced palatalized labial-velar approximant		4	3
 ɜ	vowel	open-mid central unrounded vowel		4	2
 ^	unknown	unknown		4	4
+t͡sʲ	consonant	voiceless palatalized alveolar affricate		4	2
 ɯ́	vowel	close back unrounded vowel	high	4	3
 ɤ́	vowel	close-mid back unrounded vowel	high	4	1
 ǐ	vowel	close front unrounded vowel	rising	4	2
@@ -661,6 +663,8 @@ oʻ	vowel	U+02BB close-mid back rounded vowel		2	2
 t̲	consonant	voiceless U+0332 alveolar plosive		2	1
 s̲	consonant	voiceless U+0332 alveolar fricative		2	1
 ɒ̄	vowel	long open back rounded vowel		2	1
+r̥ʲ	consonant	voiceless palatalized alveolar trill		2	1
+ɕː	consonant	long voiceless alveolo-palatal fricative		2	2
 ƙ	unknown	unknown		2	1
 ɡː	consonant	long voiced velar plosive		2	2
 o͂́	vowel	U+0342 close-mid back rounded vowel	high	2	2
@@ -678,7 +682,6 @@ rˁː	consonant	long voiced U+02C1 alveolar trill		2	1
 è:	vowel	long close-mid front unrounded vowel	low	2	1
 Õ	unknown	unknown		2	2
 ʢ	consonant	voiced epiglottal fricative		2	2
-l̥	consonant	voiceless alveolar lateral approximant		2	1
 o͂ː	vowel	long U+0342 close-mid back rounded vowel		2	2
 iʸ	vowel	U+02B8 close front unrounded vowel		2	1
 æ̈	vowel	centralized near-open front unrounded vowel		2	1
@@ -736,7 +739,6 @@ k̄	consonant	long voiceless velar plosive		1	1
 ɟ:	consonant	long voiced palatal plosive		1	1
 d͡ʒʰ	consonant	voiced aspirated postalveolar affricate		1	1
 ɨˀ	vowel	glottalized close central unrounded vowel		1	1
-t͡sʲ	consonant	voiceless palatalized alveolar affricate		1	1
 o˞	vowel	rhotacized close-mid back rounded vowel		1	1
 ɪ̌	vowel	near-close front unrounded vowel	rising	1	1
 ăː	vowel	long extra-short open front unrounded vowel		1	1
@@ -902,7 +904,6 @@ i͂́ː	vowel	long U+0342 close front unrounded vowel	high	1	1
 ì̀	vowel	close front unrounded vowel	low	1	1
 ɛ́́	vowel	open-mid front unrounded vowel	high	1	1
 í̀	vowel	close front unrounded vowel	low	1	1
-ɕː	consonant	long voiceless alveolo-palatal fricative		1	1
 a͂ʷ	vowel	U+0342 labialized open front unrounded vowel		1	1
 éʲ	vowel	palatalized close-mid front unrounded vowel	high	1	1
 o̰	vowel	creaky close-mid back rounded vowel		1	1

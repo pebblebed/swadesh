@@ -91,12 +91,12 @@ data/normalized/transcription_systems.tsv) over 1229 lists:
   native scripts 11 (Arabic 3, Cyrillic 3, Greek/Han/Hebrew/Kana/Thai 1 each) | gloss_only 1.
   => 605 IPA-ready now; 623 need conversion. Each list has scores (ipa_density, ipa_char_ratio,
   nonascii_ratio, americanist_ratio) so thresholds stay re-judgeable.
-PROGRESS (lists with IPA populated, by `python scripts/to_ipa.py`): 637 / 1229 lists ->
-  617 ipa_dense (native_ipa) + 10 Americanist + 2 Czech/Slovak + 1 Greek + 1 Kana + 2 Cyrillic
-  (rus/bul) + 2 romanization (arb/tha) + 1 Mandarin (cmn) + 1 Yiddish (ydd). By RECORDS:
-  150,571 / 295,369 have a non-empty `ipa`. Remaining native-script (Tier 2): mdf (needs Moksha
-  verification), pes/pbt abjads (defer). Plus ~555 Latin/light_ipa lists (Tier 3). STRUCTURED IPA
-  FEATURES built on this layer (scripts/ipa_features.py, 99.88% coverage) -- growing IPA grows it.
+PROGRESS (lists with IPA populated, by `python scripts/to_ipa.py`): 638 / 1229 lists ->
+  617 ipa_dense (native_ipa) + 10 Americanist + 2 Czech/Slovak + 1 Greek + 1 Kana + 3 Cyrillic
+  (rus/bul/mdf) + 2 romanization (arb/tha) + 1 Mandarin (cmn) + 1 Yiddish (ydd). By RECORDS:
+  150,765 / 295,369 have a non-empty `ipa`. Tier 2 native scripts now COMPLETE except the true
+  abjads (pes/pbt + Arabic-script lines, deferred). Remaining: ~555 Latin/light_ipa lists
+  (Tier 3). STRUCTURED IPA FEATURES on this layer (scripts/ipa_features.py, 99.88% coverage).
 Bonus: transcription system CORRELATES with template category. sahul_extended is mostly
   ipa_dense/light_ipa (real phonetic fieldwork); core_swadesh holds ALL 11 native-script lists
   and most orthographic ones (major languages in their own spelling).
@@ -192,13 +192,19 @@ PLAN (easiest -> hardest):
     spelled consonantally / unwritten vowels) -- only 5 in this list -- given directly in a HEBREW
     override: חיה=xajɛ ים=jam מורא=mɔjrɛ לבֿנה=lɛvɔnɛ סך=sax. Broad phonemic, no reduction.
     Embedded self-test: 37 gold forms. Review: ipa_yiddish_review.tsv.
-  - Tier 2 REMAINING native scripts (3 lists):
-    * mdf (Moksha Cyrillic, 194 recs): doable by extending cyrillic_g2p, BUT needs Moksha-specific
-      verification first -- does it have final devoicing (Uralic, probably NOT, unlike Russian)?
-      я=ä vs ja? the reduced vowel ə? voiceless sonorants? Don't ship a Russian-shaped guess.
-    * pbt (Pashto) + pes (Farsi) Arabic-SCRIPT, and the arb/pbt Arabic-script lines: true abjads,
-      short vowels unwritten (pes has partial harakat). Consonantal skeleton only -> low value;
-      needs a lexicon / epitran-style tool. DEFER.
+  - [x] Tier 2 Moksha (mdf) Cyrillic G2P. DONE: extended `scripts/cyrillic_g2p.py` with a Moksha
+    tokenizer (_moksha_word), routed via CYRILLIC_G2P={rus,bul,mdf}. All 194 records,
+    high-confidence, ZERO residuals. Verified against the corpus that Moksha differs from the
+    Slavic two: palatalization is CORONAL-ONLY (т д н с з ц л р; NOT labials/velars -- кяль=kælʲ,
+    фкя=fkæ); я=/æ/ (front), э=word-initial /e/; voiceless sonorants written with х (лх=l̥ рх=r̥
+    рьх=r̥ʲ: шалхка=ʃal̥ka, эрьхке=er̥ʲke, мархта=mar̥ta); ж=ʒ ш=ʃ ч=t͡ʃ; and crucially NO final
+    devoicing + NO voicing assimilation (proven by voiced finals од=od кев=kev сялдаз=sʲældaz
+    кальдяв=kalʲdʲæv -- Russian rules would have corrupted these). Broad phonemic, no reduction.
+    Self-test +31 Moksha gold forms (80 total). Review: ipa_cyrillic_review.tsv (now rus+bul+mdf).
+  - Tier 2 REMAINING (the true abjads, DEFER): pes (Farsi) + pbt (Pashto) Arabic-script, and the
+    arb/pbt Arabic-script lines -- short vowels unwritten (pes has partial harakat). Consonantal
+    skeleton only -> low value; needs a lexicon / epitran-style tool. Everything else in Tier 2
+    is DONE.
   - Tier 3 Latin orthography + light_ipa (~570): low-resource langs, no off-the-shelf G2P.
     Leverage the TEMPLATE/source clustering (same fieldwork source shares orthography conventions
     -> per-source rule sets convert many at once). Emit confidence; full narrow-IPA not achievable

@@ -42,7 +42,18 @@ Known, documented limitations (faithful, conservative):
   - No vowel reduction / no stress (see above).
   - We transcribe the spelling: lexical exceptions are read literally
     (что -> t͡ɕto, not the spoken ʂto; солнце keeps its written л).
-  - Moksha (mdf) is not handled here (deferred).
+
+MOKSHA (mdf), per word -- a Uralic language, so the rules differ from the Slavic
+two (verified against the corpus):
+  - Palatalization is CORONAL-ONLY: т д н с з ц л р palatalize before a soft vowel
+    (е и я ё ю) or ь; labials/velars/post-alveolars do NOT (кяль=kælʲ not kʲælʲ).
+  - Vowels: а=a о=o у=u; soft е=e и=i я=æ ё=o ю=u (я is the front /æ/!). э is the
+    word-initial / "hard" /e/ (эди=edi); after a vowel or word-initially a soft
+    vowel takes a j-glide (ёрдамс=jordams, шяярь=ʃæjærʲ); и never glides.
+  - Voiceless sonorants, written with х: лх=l̥ рх=r̥ льх=l̥ʲ рьх=r̥ʲ йх=j̊
+    (шалхка=ʃal̥ka, эрьхке=er̥ʲke, мархта=mar̥ta).
+  - ж=ʒ ш=ʃ ч=t͡ʃ ц=t͡s. NO final devoicing and NO voicing assimilation (Uralic;
+    voiced finals stay -- од=od, кев=kev, сялдаз=sʲældaz, кальдяв=kalʲdʲæv).
 
 Run `python scripts/cyrillic_g2p.py` to execute the embedded self-test.
 """
@@ -52,6 +63,8 @@ import unicodedata
 TIE = "͡"   # combining double inverted breve (affricate tie bar)
 PAL = "ʲ"  # modifier letter small j (palatalized)
 LONG = "ː"
+RING = "̥"   # combining ring below (voiceless) -- Moksha voiceless sonorants
+RING_ABOVE = "̊"  # combining ring above (voiceless j)
 
 TS, DZ = "t" + TIE + "s", "d" + TIE + "z"
 TSH, DZH = "t" + TIE + "ʃ", "d" + TIE + "ʒ"      # Bulgarian ч / дж
@@ -191,6 +204,52 @@ def _tokenize_bulgarian(w):
     return out, residual
 
 
+# ------------------------------- Moksha -----------------------------------
+
+_MK_C = {"б": "b", "в": "v", "г": "ɡ", "д": "d", "ж": "ʒ", "з": "z", "к": "k",
+         "л": "l", "м": "m", "н": "n", "п": "p", "р": "r", "с": "s", "т": "t",
+         "ф": "f", "х": "x", "ц": TS, "ч": TSH, "ш": "ʃ", "щ": SHCH, "й": "j"}
+_MK_CORONAL = set("тднсзцлр")          # only coronals palatalize in Moksha
+_MK_SOFT = set("еияёю")
+_MK_HARD_V = {"а": "a", "о": "o", "у": "u", "э": "e"}    # э = the "hard" /e/
+_MK_SOFT_BASE = {"е": "e", "и": "i", "я": "æ", "ё": "o", "ю": "u"}   # я = /æ/
+_MK_VL_SON = {"льх": "l" + RING + PAL, "рьх": "r" + RING + PAL,
+              "лх": "l" + RING, "рх": "r" + RING, "йх": "j" + RING_ABOVE}
+
+
+def _moksha_word(w):
+    """Moksha grapheme->IPA. Returns (ipa, residual). No voicing post-processing
+    (Moksha has neither final devoicing nor regressive assimilation)."""
+    out, residual, prev, i, n = [], set(), None, 0, len(w)
+    while i < n:
+        three, two, c = w[i:i + 3], w[i:i + 2], w[i]
+        if three in _MK_VL_SON:
+            out.append(_MK_VL_SON[three]); prev = "C"; i += 3; continue
+        if two in _MK_VL_SON:
+            out.append(_MK_VL_SON[two]); prev = "C"; i += 2; continue
+        if c in _MK_HARD_V:
+            out.append(_MK_HARD_V[c]); prev = "V"
+        elif c in _MK_SOFT:
+            if prev == "C":
+                out.append(_MK_SOFT_BASE[c])         # consonant absorbed the softness
+            elif c == "и":
+                out.append("i")                       # и never takes a j-glide
+            else:
+                out.append("j" + _MK_SOFT_BASE[c])    # initial / after vowel / after ь
+            prev = "V"
+        elif c == "ь":
+            prev = "soft_b"                            # palatalization done via lookahead
+        elif c in _MK_C:
+            nxt = w[i + 1] if i + 1 < n else ""
+            pal = PAL if (c in _MK_CORONAL and (nxt in _MK_SOFT or nxt == "ь")) else ""
+            out.append(_MK_C[c] + pal)
+            prev = "C"
+        else:
+            residual.add(c); out.append(c); prev = "V"
+        i += 1
+    return "".join(out), residual
+
+
 # --------------------------- shared post-processing -----------------------
 
 def _postprocess(ph):
@@ -213,6 +272,8 @@ def _postprocess(ph):
 
 
 def _word_to_ipa(word, lang):
+    if lang == "mdf":
+        return _moksha_word(word)            # no voicing post-processing
     tok = _tokenize_russian if lang == "rus" else _tokenize_bulgarian
     ph, residual = tok(word)
     return _postprocess(ph), residual
@@ -272,6 +333,20 @@ _TESTS = [
     ("bul", "къща", "kɤʃta"), ("bul", "човек", "t͡ʃɔvɛk"),
     # multi-word / synonym handling
     ("rus", "лаять, лай", "ɫajatʲ, ɫaj"),
+    # Moksha: coronal-only palatalization, я=æ, э initial, voiceless sonorants,
+    # NO final devoicing, glides.
+    ("mdf", "сембе", "sʲembe"), ("mdf", "эди", "edʲi"), ("mdf", "ракша", "rakʃa"),
+    ("mdf", "кальдяв", "kalʲdʲæv"), ("mdf", "сясьмес", "sʲæsʲmes"),
+    ("mdf", "оцю", "ot͡sʲu"), ("mdf", "нармонь", "narmonʲ"), ("mdf", "равжа", "ravʒa"),
+    ("mdf", "вер", "ver"), ("mdf", "идь", "idʲ"), ("mdf", "пакарь", "pakarʲ"),
+    ("mdf", "пря", "prʲæ"), ("mdf", "кяль", "kælʲ"), ("mdf", "кядьлапш", "kædʲlapʃ"),
+    ("mdf", "од", "od"), ("mdf", "кев", "kev"), ("mdf", "сялдаз", "sʲældaz"),
+    ("mdf", "якстерь", "jækstʲerʲ"), ("mdf", "шяярь", "ʃæjærʲ"),
+    ("mdf", "тюжя", "tʲuʒæ"), ("mdf", "тёга", "tʲoɡa"), ("mdf", "ёрдамс", "jordams"),
+    ("mdf", "эрямс", "erʲæms"), ("mdf", "эрьхке", "er̥ʲke"),
+    ("mdf", "шалхка", "ʃal̥ka"), ("mdf", "мархта", "mar̥ta"),
+    ("mdf", "нюрьхкяня", "nʲur̥ʲkænʲæ"), ("mdf", "видьме", "vidʲme"),
+    ("mdf", "пиже", "piʒe"), ("mdf", "ломань", "lomanʲ"), ("mdf", "кода", "koda"),
 ]
 
 

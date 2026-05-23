@@ -10,8 +10,8 @@ Currently implemented:
                    (rule-based G2P: palatalization, diphthongs, voicing assim.).  [Tier 1]
   - greek_g2p    : Modern Greek spelling -> IPA via scripts/native_g2p.py.        [Tier 2]
   - kana_g2p     : Japanese hiragana -> IPA via scripts/native_g2p.py.            [Tier 2]
-  - cyrillic_g2p : Russian/Bulgarian Cyrillic -> IPA via scripts/cyrillic_g2p.py
-                   (broad phonemic; Moksha deferred).                             [Tier 2]
+  - cyrillic_g2p : Russian/Bulgarian/Moksha Cyrillic -> IPA via
+                   scripts/cyrillic_g2p.py (broad phonemic).                       [Tier 2]
   - romanization : the Latin/IPA romanization line that arb (Arabic, already IPA)
                    and tha (Thai, +Chao tones) carry, via scripts/romanize.py.    [Tier 2]
   - cmn          : Mandarin Hanzi -> pinyin (curated metadata/cmn_hanzi_pinyin.tsv)
@@ -60,9 +60,9 @@ SLAVIC = {"ces", "slk"}  # lang_codes whose carons are native orthography, not A
 # native-script systems with a Tier-2 G2P -> (script arg for native_g2p, method name)
 NATIVE_G2P = {"native:Greek": ("Greek", "greek_g2p"),
               "native:Kana": ("Kana", "kana_g2p")}
-# Cyrillic-script lang_codes with a Tier-2 G2P (cyrillic_g2p). mdf (Moksha,
-# Uralic) is deferred -- needs language-specific rules + separate verification.
-CYRILLIC_G2P = {"rus", "bul"}
+# Cyrillic-script lang_codes with a Tier-2 G2P (cyrillic_g2p): Russian, Bulgarian
+# (Slavic) and Moksha (mdf, Uralic -- coronal-only palatalization, no devoicing).
+CYRILLIC_G2P = {"rus", "bul", "mdf"}
 # Native-script lists that carry a Latin/IPA ROMANIZATION line per gloss; we
 # convert that line (sidestepping the script). lang_code -> converter.
 ROMANIZE = {"tha": romanize.thai_to_ipa, "arb": romanize.arabic_to_ipa}
