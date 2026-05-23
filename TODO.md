@@ -91,12 +91,13 @@ data/normalized/transcription_systems.tsv) over 1229 lists:
   native scripts 11 (Arabic 3, Cyrillic 3, Greek/Han/Hebrew/Kana/Thai 1 each) | gloss_only 1.
   => 605 IPA-ready now; 623 need conversion. Each list has scores (ipa_density, ipa_char_ratio,
   nonascii_ratio, americanist_ratio) so thresholds stay re-judgeable.
-PROGRESS (lists with IPA populated, by `python scripts/to_ipa.py`): 638 / 1229 lists ->
-  617 ipa_dense (native_ipa) + 10 Americanist + 2 Czech/Slovak + 1 Greek + 1 Kana + 3 Cyrillic
-  (rus/bul/mdf) + 2 romanization (arb/tha) + 1 Mandarin (cmn) + 1 Yiddish (ydd). By RECORDS:
-  150,765 / 295,369 have a non-empty `ipa`. Tier 2 native scripts now COMPLETE except the true
-  abjads (pes/pbt + Arabic-script lines, deferred). Remaining: ~555 Latin/light_ipa lists
-  (Tier 3). STRUCTURED IPA FEATURES on this layer (scripts/ipa_features.py, 99.88% coverage).
+PROGRESS (lists with IPA populated, by `python scripts/to_ipa.py`): 954 / 1229 lists ->
+  617 ipa_dense + 10 Americanist + 2 Czech/Slovak + 3 Cyrillic + 1 Greek + 1 Kana + 2 romanization
+  + 1 Mandarin + 1 Yiddish (all Tier 0-2) + 316 light_ipa (Tier 3, broad/low-conf). By RECORDS:
+  244,062 / 295,369 have a non-empty `ipa`. Tier 2 COMPLETE except the pes/pbt abjads. Tier 3
+  light_ipa first-pass DONE (cleanup+passthrough, ambiguity report drives per-source next).
+  Remaining: latin_diacritic (179) + plain_ascii (93) buckets = ~50k recs (Tier 3b). STRUCTURED
+  IPA FEATURES now over 244,057 recs / 1.26M segments at 99.89% coverage (scripts/ipa_features.py).
 Bonus: transcription system CORRELATES with template category. sahul_extended is mostly
   ipa_dense/light_ipa (real phonetic fieldwork); core_swadesh holds ALL 11 native-script lists
   and most orthographic ones (major languages in their own spelling).
@@ -205,10 +206,22 @@ PLAN (easiest -> hardest):
     arb/pbt Arabic-script lines -- short vowels unwritten (pes has partial harakat). Consonantal
     skeleton only -> low value; needs a lexicon / epitran-style tool. Everything else in Tier 2
     is DONE.
-  - Tier 3 Latin orthography + light_ipa (~570): low-resource langs, no off-the-shelf G2P.
-    Leverage the TEMPLATE/source clustering (same fieldwork source shares orthography conventions
-    -> per-source rule sets convert many at once). Emit confidence; full narrow-IPA not achievable
-    for all.
+  - [~] Tier 3 light_ipa (316 lists / 93,297 recs): FIRST PASS DONE. `scripts/light_ipa.py`,
+    method `light_ipa`. These are Latin fieldwork transcriptions that are ALREADY broad IPA
+    (the ASCII letters are their own IPA values + ~23k real IPA symbols), so this is cleanup +
+    passthrough, NOT a G2P. Cleans noise (drop \ * ˗ . ? and morpheme hyphens; strip brackets
+    keeping content; split / and ~ variants into ', '-alternants), ñ->ɲ (only universally-safe
+    letter), everything else passes through. The AMBIGUOUS Latin letters c y j x q (value is
+    source-specific: y=/j/~/ɨ/~/y/, c=/k/~/t͡ʃ/, j=/d͡ʒ/~/j/) are LEFT AS-IS and reported in
+    `metadata/light_ipa_ambiguity.tsv` -- only 11% of records carry one (mostly y, concentrated
+    per-list). conf=medium if clean (89%), low if it has an ambiguous letter. Self-test: 14 forms.
+    NEXT (Tier 3b, per-source): resolve c/y/j/x/q per list/source using the ambiguity report +
+    template/source clustering -> promotes the low-conf records and the latin_diacritic/plain_ascii
+    buckets. (y->j is the common default but UNSAFE globally -- several lists use y=/ɨ/.)
+  - Tier 3 REMAINING: latin_diacritic (179) + plain_ascii (93) buckets, ~50,267 recs still
+    deferred_latin. Need per-source orthography rules (ng->ŋ, digraphs, the c/y/j/x/q values).
+    STRONG ALTERNATIVE for cross-list comparison: an ASJP-style sound-class alphabet (collapses
+    IPA/orthography noise into ~41 classes) instead of chasing narrow IPA for every orthography.
 CROSS-CUTTING: anchor to external gold IPA (ASJP - coarse 41-symbol alphabet built for exactly
   this; also Lexibank/CLDF, NorthEuraLex, PHOIBLE) to validate/borrow. STRONG OPTION: do
   cross-list comparison in an ASJP-style sound-class alphabet (collapses IPA vs Americanist vs

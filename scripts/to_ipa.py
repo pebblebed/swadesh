@@ -17,6 +17,9 @@ Currently implemented:
   - cmn          : Mandarin Hanzi -> pinyin (curated metadata/cmn_hanzi_pinyin.tsv)
                    -> IPA via scripts/pinyin_g2p.py.                               [Tier 2]
   - yiddish_g2p  : Yiddish (Hebrew script, YIVO) -> IPA via scripts/yiddish_g2p.py.[Tier 2]
+  - light_ipa    : Latin fieldwork transcriptions (already broad IPA) cleaned via
+                   scripts/light_ipa.py; ambiguous letters c/y/j/x/q left for a
+                   per-source tier (low/medium confidence).                       [Tier 3]
   - deferred_*   : recognized but not yet converted (other native scripts,
                    low-resource Latin) -> ipa left empty for later tiers.
 
@@ -34,6 +37,7 @@ import json
 import os
 
 import cyrillic_g2p  # sibling modules in scripts/ (on sys.path when run as a script)
+import light_ipa
 import native_g2p
 import pinyin_g2p
 import romanize
@@ -55,6 +59,7 @@ ROM_REVIEW = os.path.join(ND, "ipa_romanization_review.tsv")
 CMN_REVIEW = os.path.join(ND, "ipa_cmn_review.tsv")
 YDD_REVIEW = os.path.join(ND, "ipa_yiddish_review.tsv")
 SUMMARY = os.path.join(ROOT, "metadata", "ipa_conversion_summary.tsv")
+LIGHT_AMBIG = os.path.join(ROOT, "metadata", "light_ipa_ambiguity.tsv")
 
 SLAVIC = {"ces", "slk"}  # lang_codes whose carons are native orthography, not Americanist
 # native-script systems with a Tier-2 G2P -> (script arg for native_g2p, method name)
@@ -142,6 +147,8 @@ def main():
     romanization_review = []
     cmn_review = []
     yiddish_review = []
+    light_ambig = collections.defaultdict(collections.Counter)   # ident -> {ambig char: n}
+    light_stats = collections.defaultdict(lambda: [0, 0])         # ident -> [n_records, n_low]
     residual_by_list = collections.defaultdict(collections.Counter)
 
     with open(JSONL, encoding="utf-8") as fin, \
@@ -224,7 +231,15 @@ def main():
                                        "".join(residual)))
             elif system.startswith("native:"):
                 method = "deferred_native"
-            else:  # light_ipa, latin_diacritic, plain_ascii
+            elif system == "light_ipa":
+                ipa, ambiguous = light_ipa.to_ipa(t)
+                method = "light_ipa"
+                conf = "low" if ambiguous else "medium"   # broad, unverified pass
+                light_stats[ident][0] += 1
+                light_stats[ident][1] += bool(ambiguous)
+                for c in ambiguous:
+                    light_ambig[ident][c] += 1
+            else:  # latin_diacritic, plain_ascii
                 method = "deferred_latin"
 
             methods[method] += 1
@@ -260,6 +275,18 @@ def main():
             chars = " ".join(f"{c}:{n}" for c, n in cc.most_common())
             f.write(f"{ident}\t{sum(cc.values())}\t{chars}\n")
 
+    # light_ipa ambiguity report: per list, the language-specific letters (c y j x q)
+    # left unresolved -- the input to the per-source Tier-3 work.
+    with open(LIGHT_AMBIG, "w", encoding="utf-8", newline="\n") as f:
+        f.write("# light_ipa lists: records carrying ambiguous Latin letters (c y j x q)\n")
+        f.write("# whose IPA value is source-specific -> resolve per source next.\n")
+        f.write("identifier\tn_records\tn_with_ambiguous\tambiguous_letters\n")
+        for ident in sorted(light_stats):
+            n, low = light_stats[ident]
+            cc = light_ambig[ident]
+            chars = " ".join(f"{c}:{n}" for c, n in cc.most_common())
+            f.write(f"{ident}\t{n}\t{low}\t{chars}\n")
+
     tier2 = (methods["greek_g2p"] + methods["kana_g2p"] + methods["cyrillic_g2p"]
              + methods["romanization"] + methods["cmn"] + methods["yiddish_g2p"])
     conv = (methods["native_ipa"] + methods["americanist"]
@@ -268,11 +295,12 @@ def main():
     print("methods:")
     for m, n in methods.most_common():
         print(f"  {m:<18}{n:>7}")
-    print(f"\nIPA populated now : {conv} records "
+    print(f"\nIPA populated now : {conv + methods['light_ipa']} records "
           f"({methods['americanist']} Americanist + {methods['slavic_g2p']} Slavic, Tier 1; "
           f"{methods['greek_g2p']} Greek + {methods['kana_g2p']} Kana + "
           f"{methods['cyrillic_g2p']} Cyrillic + {methods['romanization']} romanization + "
-          f"{methods['cmn']} Mandarin + {methods['yiddish_g2p']} Yiddish, Tier 2)")
+          f"{methods['cmn']} Mandarin + {methods['yiddish_g2p']} Yiddish, Tier 2; "
+          f"{methods['light_ipa']} light_ipa cleanup, Tier 3)")
     print(f"review -> {REVIEW}")
     print(f"slavic -> {SLAVIC_REVIEW}")
     print(f"native -> {NATIVE_REVIEW}")
@@ -280,6 +308,7 @@ def main():
     print(f"roman  -> {ROM_REVIEW}")
     print(f"cmn    -> {CMN_REVIEW}")
     print(f"ydd    -> {YDD_REVIEW}")
+    print(f"light  -> {LIGHT_AMBIG}")
     print(f"summary -> {SUMMARY}")
     return 0
 
