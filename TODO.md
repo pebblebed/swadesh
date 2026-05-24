@@ -33,8 +33,23 @@ layer, and keep outputs model-ready (clean aligned matrix; per-language inventor
   coverage FALLBACK + LDND anchor, NOT the decoder target (vowels stay in the feature tensor).
   FUTURE: fix ç/ʝ in ipa_features.py proper (NFD splits them to palatal stop + cedilla); reproduce
   LDND and check z_language geometry vs the ASJP DB / Glottolog.
-- [ ] NEXT model-prep: export the aligned (language × concept) -> IPA/segments[/ASJP] matrix (model
-  input), restricted to well-covered concepts/lists; then per-language segment (not just vowel) inventories.
+- [x] MODEL SKELETON (PyTorch Lightning, uv-managed): `model/` package + pyproject.toml/uv.lock
+  (deps torch + pytorch-lightning + numpy; `uv sync` -> .venv). Implements the two-way factor model:
+  z_lang = Embedding(identifier), z_concept = Embedding(canonical_gloss); cond=[z_lang;z_concept]
+  initializes the LSTM (h0,c0) AND is concatenated to each step; the LSTM decodes the form as a
+  sequence of SEGMENTS, each predicted by a per-FIELD softmax head (kind/manner/place/voice/height/
+  backness/rounding/length/nasal = the 'vocal features'); loss = sum of field cross-entropies over
+  non-pad positions. Teacher forcing ([BOS]+segs -> segs+[EOS]). z_language matrix = relatedness
+  readout (model.language_embeddings()). Files: data.py (PURE/torch-free vocab+extraction, self-test
+  `python model/data.py`), datamodule.py (SwadeshDataModule + collate), decoder.py (LightningModule),
+  train.py (CLI). TESTABLE: `--smoke` runs the whole pipeline on synthetic data via fast_dev_run (no
+  corpus needed); the data self-test caught 2 bugs pre-run (PAD-tuple all-zero; field 'type'->'kind'
+  since nn.Module reserves .type). VALIDATED on real data: 8k recs -> 32 langs/278 concepts, val_loss
+  6.89->6.59->6.37 over 3 epochs (conditioning learns). Source = ipa.jsonl via ipa_features.segments();
+  concept = canonical_gloss, language = identifier, first comma-alternant, max_len 32. See model/README.md.
+  NEXT: hold-out eval by (concept) for relatedness probing; optional ASJP backbone head + masked fine
+  vowel heads (notes/asjp.html factored output); decode/inference + nearest-segment readout; z_language
+  distance vs ASJP DB / Glottolog. Replaces the old 'export aligned matrix' prep (the data layer IS it).
 
 ## In progress / done
 - [x] **Download the Swadesh lists** from the Rosetta collection on the Internet Archive.

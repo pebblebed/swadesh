@@ -1,0 +1,15 @@
+[project]
+name = "swadesh"
+version = "0.1.0"
+description = "Modeling (vocalic) sound change over the Rosetta Swadesh corpus: learn language & concept representations, decode phonetic features conditioned on both."
+requires-python = ">=3.11"
+dependencies = [
+    "torch>=2.6",
+    "pytorch-lightning>=2.4",
+    "numpy>=2",
+]
+
+# This repo is an application, not a distributable library: uv manages the venv +
+# lockfile but does not build/install the project itself.
+[tool.uv]
+package = false

@@ -13,5 +13,10 @@ data/normalized/asjp.jsonl
 # the tracked summary is metadata/practical_ortho_report.tsv (per list).
 data/normalized/ipa_practical_review.tsv
 
+# uv-managed virtualenv (regenerate with `uv sync`); uv.lock IS tracked.
+.venv/
+# Lightning run artifacts
+lightning_logs/
+
 # machine-local Claude Code session settings (permissions, etc.)
 .claude/settings.local.json
