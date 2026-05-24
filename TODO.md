@@ -63,6 +63,16 @@ layer, and keep outputs model-ready (clean aligned matrix; per-language inventor
   relatedness test (val-loss can fall while z encodes inventory not genealogy). Prelim: 4 epochs/40k recs
   -> rho=+0.064 (weak, undertrained -- z barely fit); full-corpus run pending. NEXT: train to convergence;
   add LDND chance-correction; Glottolog family labels for cluster-purity; sweep d_lang/hidden.
+- [x] GPU + PERF. torch pinned to CUDA cu128 build via uv ([tool.uv] index in pyproject; lock ->
+  2.11.0+cu128); Lightning accelerator="auto" -> RTX 4070 (sm_89), verified "GPU available...used: True"
+  / cuda:0. ENCODED-TENSOR CACHE (model/data.encoded_arrays): caches deduped+integer-encoded corpus as
+  compact numpy CSR arrays (concatenated segment rows + per-example lengths) + vocabs to
+  data/normalized/.cache_encoded_maxlen32.pkl (gitignored), signed on data file + max_len + segmenter/
+  feature code so it auto-invalidates. Setup 31.5s -> 0.4s (~75x); array-backed _ArrayDataset; the
+  guarded split stays at runtime so val_frac/seed remain live. NEXT BOTTLENECK (now dominant, ~8 min/
+  epoch full on GPU at 0.59 it/s): the per-batch collate fills field tensors element-by-element in
+  python with num_workers=0 -> vectorize collate (build per-field tensors with torch ops / from the CSR
+  arrays directly) and/or make collate a top-level picklable callable so num_workers>0 works on Windows.
 
 ## In progress / done
 - [x] **Download the Swadesh lists** from the Rosetta collection on the Internet Archive.

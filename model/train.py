@@ -51,6 +51,7 @@ def build_argparser():
     p.add_argument("--val-frac", type=float, default=0.05)
     p.add_argument("--accelerator", default="auto",
                    help="PTL accelerator: auto|gpu|cpu (default auto -> GPU if present)")
+    p.add_argument("--no-cache", action="store_true", help="bypass the encoded-tensor cache")
     return p
 
 
@@ -65,13 +66,13 @@ def main(argv=None):
                              enable_checkpointing=False, enable_model_summary=False)
     else:
         dm = SwadeshDataModule(batch_size=args.batch_size, limit=args.limit,
-                               val_frac=args.val_frac)
+                               val_frac=args.val_frac, use_cache=not args.no_cache)
         trainer = pl.Trainer(max_epochs=args.max_epochs, accelerator=args.accelerator,
                              devices="auto", logger=False, enable_checkpointing=False,
                              log_every_n_steps=25)
 
     dm.setup()
-    print(f"data: {dm.n_lang} languages, {dm.n_concept} concepts, "
+    print(f"data [{dm.source}]: {dm.n_lang} languages, {dm.n_concept} concepts, "
           f"field sizes {dm.field_sizes}")
     model = ConditionalVocalicDecoder(
         field_sizes=dm.field_sizes, n_lang=dm.n_lang, n_concept=dm.n_concept,

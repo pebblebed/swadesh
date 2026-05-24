@@ -16,6 +16,7 @@ from __future__ import annotations
 import collections
 import json
 import os
+import pickle
 import random
 
 # Per-segment categorical fields the model reproduces. Consonant fields and vowel
@@ -198,6 +199,114 @@ def _default_segments_fn():
     return ipa_features.segments
 
 
+# --- encoded-tensor cache -----------------------------------------------------
+# Re-segmenting the whole corpus (~286k pure-python tokenizations) dominates setup.
+# Cache the deduped + integer-encoded examples as compact numpy arrays (CSR layout:
+# all segment rows concatenated + per-example lengths) alongside the vocabularies.
+# The train/val SPLIT stays at runtime, so val_frac/seed remain live knobs. The
+# cache key signs the data file + max_len + the code that produces segments/fields,
+# so it auto-invalidates when any of those change.
+
+CACHE_VERSION = 1
+
+
+def _stat_sig(path):
+    try:
+        st = os.stat(path)
+        return f"{os.path.basename(path)}:{st.st_size}:{int(st.st_mtime)}"
+    except OSError:
+        return f"{os.path.basename(path)}:missing"
+
+
+def cache_signature(path, max_len):
+    """Signs data file + max_len + the segmenter/feature code (so editing the
+    tokenizer or FIELDS invalidates the cache automatically)."""
+    code = ";".join(_stat_sig(p) for p in
+                    (os.path.join(ROOT, "scripts", "ipa_features.py"),
+                     os.path.abspath(__file__)))
+    return f"v{CACHE_VERSION}|{_stat_sig(path)}|max_len={max_len}|{code}"
+
+
+def default_cache_path(path, max_len):
+    return os.path.join(os.path.dirname(path), f".cache_encoded_maxlen{max_len}.pkl")
+
+
+def _vocab_from_itos(itos):
+    fv = FieldVocab()
+    fv.itos = list(itos)
+    fv.stoi = {s: i for i, s in enumerate(fv.itos)}
+    return fv
+
+
+def _encode_all(path, limit, max_len):
+    """Slow path: load + segment + dedup + build vocabs + encode."""
+    examples = dedup_cells(load_examples(path, limit=limit, max_len=max_len))
+    fvocab, lang_vocab, concept_vocab = build_vocabs(examples)
+    encoded = [encode(ex, fvocab, lang_vocab, concept_vocab) for ex in examples]
+    return fvocab, lang_vocab, concept_vocab, encoded
+
+
+def _to_arrays(encoded):
+    """Encoded examples -> (lang, concept, lengths, rows) numpy arrays (CSR)."""
+    import numpy as np
+    nf = len(FIELDS)
+    n = len(encoded)
+    lang = np.fromiter((e[0] for e in encoded), dtype=np.int32, count=n)
+    concept = np.fromiter((e[1] for e in encoded), dtype=np.int32, count=n)
+    lengths = np.fromiter((len(e[2]) for e in encoded), dtype=np.int32, count=n)
+    flat = [x for e in encoded for tup in e[2] for x in tup]
+    rows = (np.array(flat, dtype=np.int16).reshape(-1, nf) if flat
+            else np.zeros((0, nf), dtype=np.int16))
+    return lang, concept, lengths, rows
+
+
+def _load_or_build_cache(path, max_len, cache_path=None, rebuild=False, verbose=False):
+    cp = cache_path or default_cache_path(path, max_len)
+    sig = cache_signature(path, max_len)
+    if not rebuild and os.path.exists(cp):
+        try:
+            with open(cp, "rb") as f:
+                blob = pickle.load(f)
+            if blob.get("sig") == sig:
+                fvocab = {k: _vocab_from_itos(v) for k, v in blob["fvocab"].items()}
+                return (fvocab, blob["lang"], blob["concept"], blob["lang_arr"],
+                        blob["concept_arr"], blob["lengths"], blob["rows"], "cache(hit)")
+            if verbose:
+                print("cache signature changed; rebuilding")
+        except Exception as e:                       # corrupt/old cache -> rebuild
+            if verbose:
+                print(f"cache read failed ({e}); rebuilding")
+    fvocab, lang_vocab, concept_vocab, encoded = _encode_all(path, None, max_len)
+    lang_arr, concept_arr, lengths, rows = _to_arrays(encoded)
+    blob = {"sig": sig, "fvocab": {k: v.itos for k, v in fvocab.items()},
+            "lang": lang_vocab, "concept": concept_vocab, "lang_arr": lang_arr,
+            "concept_arr": concept_arr, "lengths": lengths, "rows": rows}
+    tmp = cp + ".tmp"
+    with open(tmp, "wb") as f:
+        pickle.dump(blob, f, protocol=pickle.HIGHEST_PROTOCOL)
+    os.replace(tmp, cp)
+    return (fvocab, lang_vocab, concept_vocab, lang_arr, concept_arr, lengths, rows,
+            "cache(miss->built)")
+
+
+def encoded_arrays(path=DEFAULT_IPA, records=None, limit=None, max_len=32,
+                   cache_path=None, use_cache=True, rebuild=False, verbose=False):
+    """Deduped, integer-encoded corpus as numpy arrays + vocabs. Uses the on-disk
+    cache for the full corpus; bypasses it for in-memory `records` or a `limit`
+    (partial data). Returns (fvocab, lang_vocab, concept_vocab, lang, concept,
+    lengths, rows, source)."""
+    if records is not None:
+        examples = dedup_cells(records)
+        fvocab, lang_vocab, concept_vocab = build_vocabs(examples)
+        encoded = [encode(e, fvocab, lang_vocab, concept_vocab) for e in examples]
+        return (fvocab, lang_vocab, concept_vocab, *_to_arrays(encoded), "records")
+    if use_cache and limit is None:
+        return _load_or_build_cache(path, max_len, cache_path, rebuild, verbose)
+    fvocab, lang_vocab, concept_vocab, encoded = _encode_all(path, limit, max_len)
+    return (fvocab, lang_vocab, concept_vocab, *_to_arrays(encoded),
+            f"build(limit={limit})")
+
+
 # --- synthetic data: lets the full pipeline be smoke-tested with no corpus -----
 
 _PALETTE = [
@@ -279,6 +388,21 @@ def _selftest():
     if len(dedup_cells(deduped)) != len(deduped):
         fails += 1
         print("FAIL dedup not idempotent")
+
+    # encoded <-> CSR-array round-trip (the layout the array-backed Dataset slices)
+    import numpy as np
+    fv2, lv2, cv2 = build_vocabs(deduped)
+    enc = [encode(ex, fv2, lv2, cv2) for ex in deduped]
+    la, ca, lengths, rows = _to_arrays(enc)
+    offsets = np.empty(len(la) + 1, dtype=np.int64)
+    offsets[0] = 0
+    np.cumsum(lengths, out=offsets[1:])
+    recon = [(int(la[k]), int(ca[k]),
+              [tuple(r) for r in rows[offsets[k]:offsets[k + 1]].tolist()])
+             for k in range(len(la))]
+    if recon != enc:
+        fails += 1
+        print("FAIL encoded<->arrays round-trip")
     vf = len(val) / (len(train) + len(val))
     print(f"data self-test: {'OK' if not fails else str(fails) + ' FAILED'} "
           f"({len(lang)} langs, {len(concept)} concepts, kind-vocab={len(fvocab['kind'])}; "

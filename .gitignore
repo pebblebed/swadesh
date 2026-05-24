@@ -9,6 +9,8 @@ data/normalized/swadesh.jsonl
 data/normalized/ipa.jsonl
 data/normalized/ipa_features.jsonl
 data/normalized/asjp.jsonl
+# encoded-tensor cache (regenerated from ipa.jsonl; auto-invalidated by signature)
+data/normalized/.cache_encoded_*.pkl
 # practical tier per-record review is large (~2.3 MB, 42k rows) and regenerable;
 # the tracked summary is metadata/practical_ortho_report.tsv (per list).
 data/normalized/ipa_practical_review.tsv

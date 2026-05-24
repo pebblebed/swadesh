@@ -16,15 +16,22 @@ from model import data
 from model.data import FIELDS
 
 
-class _SeqDataset(Dataset):
-    def __init__(self, encoded):
-        self.encoded = encoded            # list of (lang_idx, concept_idx, [field-tuple,...])
+class _ArrayDataset(Dataset):
+    """Array-backed (CSR) dataset: holds the shared encoded arrays and a subset of
+    example indices (a train or val split). Slices a segment block per item."""
+
+    def __init__(self, arrays, index):
+        self.lang, self.concept, self.offsets, self.lengths, self.rows = arrays
+        self.index = index
 
     def __len__(self):
-        return len(self.encoded)
+        return len(self.index)
 
     def __getitem__(self, i):
-        return self.encoded[i]
+        k = self.index[i]
+        o, e = int(self.offsets[k]), int(self.offsets[k + 1])
+        segs = [tuple(r) for r in self.rows[o:e].tolist()]
+        return int(self.lang[k]), int(self.concept[k]), segs
 
 
 def make_collate(bos, eos, pad):
@@ -58,7 +65,8 @@ class SwadeshDataModule(pl.LightningDataModule):
     which ``field_sizes`` / ``n_lang`` / ``n_concept`` size the model."""
 
     def __init__(self, path=data.DEFAULT_IPA, records=None, batch_size=128,
-                 val_frac=0.05, limit=None, max_len=32, seed=0, num_workers=0):
+                 val_frac=0.05, limit=None, max_len=32, seed=0, num_workers=0,
+                 use_cache=True):
         super().__init__()
         self.path = path
         self.records = records
@@ -68,22 +76,28 @@ class SwadeshDataModule(pl.LightningDataModule):
         self.max_len = max_len
         self.seed = seed
         self.num_workers = num_workers
+        self.use_cache = use_cache
         self._ready = False
 
     def setup(self, stage=None):
         if self._ready:
             return
-        examples = self.records if self.records is not None else \
-            data.load_examples(self.path, limit=self.limit, max_len=self.max_len)
-        if not examples:
+        import numpy as np
+        (self.fvocab, self.lang_vocab, self.concept_vocab,
+         lang, concept, lengths, rows, self.source) = data.encoded_arrays(
+            path=self.path, records=self.records, limit=self.limit,
+            max_len=self.max_len, use_cache=self.use_cache)
+        if len(lang) == 0:
             raise RuntimeError(f"no examples loaded from {self.path}")
-        examples = data.dedup_cells(examples)
-        # vocab over the full (deduped) set so every language/concept has a slot
-        self.fvocab, self.lang_vocab, self.concept_vocab = data.build_vocabs(examples)
-        train_ex, val_ex = data.split_examples(examples, self.val_frac, self.seed)
-        enc = lambda exs: [data.encode(e, self.fvocab, self.lang_vocab, self.concept_vocab)
-                           for e in exs]
-        self.train_enc, self.val_enc = enc(train_ex), enc(val_ex)
+        offsets = np.empty(len(lang) + 1, dtype=np.int64)
+        offsets[0] = 0
+        np.cumsum(lengths, out=offsets[1:])
+        arrays = (lang, concept, offsets, lengths, rows)
+        # guarded split at runtime over example indices (cells already deduped)
+        proxies = [(int(lang[k]), int(concept[k]), k) for k in range(len(lang))]
+        train_p, val_p = data.split_examples(proxies, self.val_frac, self.seed)
+        self.train_ds = _ArrayDataset(arrays, [p[2] for p in train_p])
+        self.val_ds = _ArrayDataset(arrays, [p[2] for p in val_p])
         self.bos, self.eos, self.pad = data.special_tuples(self.fvocab)
         self.collate = make_collate(self.bos, self.eos, self.pad)
         self._ready = True
@@ -101,12 +115,13 @@ class SwadeshDataModule(pl.LightningDataModule):
     def n_concept(self):
         return len(self.concept_vocab)
 
-    def _loader(self, enc, shuffle):
-        return DataLoader(_SeqDataset(enc), batch_size=self.batch_size, shuffle=shuffle,
-                          collate_fn=self.collate, num_workers=self.num_workers)
+    def _loader(self, ds, shuffle):
+        return DataLoader(ds, batch_size=self.batch_size, shuffle=shuffle,
+                          collate_fn=self.collate, num_workers=self.num_workers,
+                          pin_memory=True)
 
     def train_dataloader(self):
-        return self._loader(self.train_enc, True)
+        return self._loader(self.train_ds, True)
 
     def val_dataloader(self):
-        return self._loader(self.val_enc, False)
+        return self._loader(self.val_ds, False)
