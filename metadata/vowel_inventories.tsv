@@ -1,0 +1,956 @@
+# Per-list vowel inventory (base qualities) from ipa_features.jsonl.
+identifier	lang_code	language	system	n_records	n_vowel_tokens	n_qualities	pct_long	pct_nasal	pct_tone	inventory
+rosettaproject_aad_swadesh-1	aad	Amal	light_ipa	159	407	7	4	0	0	a:143 e:87 i:76 o:42 u:40 y:14 ə:5
+rosettaproject_aar_swadesh-1	aar	Afar	ipa_dense	147	335	9	6	0	20	a:109 i:57 e:47 o:37 u:33 y:25 ə:17 ɪ:9 ɨ:1
+rosettaproject_aau_swadesh-1	aau	Abau	light_ipa	96	178	10	0	0	0	e:46 a:42 o:24 i:17 y:15 u:13 ə:11 ɛ:7 ɔ:2 ʊ:1
+rosettaproject_abj_swadesh-1	abj	Aka-Bea	ipa_dense	899	3033	13	6	0	0	a:859 i:472 ʌ:459 o:286 u:253 ɑ:226 e:206 ɛ:119 ɒ:60 y:52 ɔ:32 æ:6 ø:3
+rosettaproject_abk_swadesh-1	abk	Abkhaz	ipa_dense	114	175	5	1	0	0	a:127 ə:37 e:5 i:5 u:1
+rosettaproject_abq_swadesh-1	abq	Abaza	ipa_dense	114	184	4	0	0	0	a:132 ə:43 i:5 u:4
+rosettaproject_abt_swadesh-1	abt	Ambulas	ipa_dense	481	978	8	0	0	0	a:253 y:185 i:178 ə:116 e:101 ʌ:98 u:46 ʊ:1
+rosettaproject_abw_swadesh-1	abw	Pal	light_ipa	323	779	11	3	0	0	a:270 i:134 e:94 u:90 o:86 ʌ:34 y:30 ɛ:29 ɔ:8 ø:2 ə:2
+rosettaproject_abz_swadesh-1	abz	Abui	light_ipa	548	1293	11	0	0	5	a:441 i:277 e:147 u:129 o:104 y:85 ɑ:60 ɔ:25 ɛ:19 ɪ:3 ə:3
+rosettaproject_ace_swadesh-1	ace	Aceh	ipa_dense	182	367	11	0	0	0	a:107 u:52 ə:43 i:34 ɔ:32 o:28 ɯ:26 e:20 ɛ:16 y:8 ɨ:1
+rosettaproject_ach_swadesh-1	ach	Acholi	ipa_dense	13	19	7	5	0	5	o:5 u:3 ɛ:3 ɔ:2 a:2 ɪ:2 i:2
+rosettaproject_aci_swadesh-1	aci	Aka-Cari	ipa_dense	529	1585	12	4	0	0	o:291 u:259 i:245 e:198 a:177 ɛ:142 ɒ:93 ɑ:88 ʌ:44 ɔ:23 y:21 ə:4
+rosettaproject_acl_swadesh-1	acl	Akar-Bale	ipa_dense	695	2092	13	12	0	0	a:489 o:327 i:294 ɑ:228 u:217 ʌ:152 e:140 ɒ:129 ɔ:53 y:50 ɛ:10 æ:2 ə:1
+rosettaproject_acx_swadesh-1	acx	Arabic, Omani Spoken	light_ipa	98	176	5	0	0	0	a:88 i:42 u:23 e:18 o:5
+rosettaproject_ado_swadesh-1	ado	Abu	ipa_dense	18	35	8	2	0	0	a:15 u:6 i:5 o:2 e:2 ə:2 y:2 ɨ:1
+rosettaproject_ady_swadesh-1	ady	Adyghe	ipa_dense	114	182	2	13	0	0	a:111 ə:71
+rosettaproject_aey_swadesh-1	aey	Amele	ipa_dense	390	834	10	3	0	0	a:213 i:153 e:149 u:99 o:96 ɛ:85 y:17 ʌ:15 ɔ:5 ø:2
+rosettaproject_afb_swadesh-1	afb	Arabic, Gulf Spoken	ipa_dense	94	188	5	0	0	0	a:108 i:48 e:18 u:13 y:1
+rosettaproject_afi_swadesh-1	afi	Akrukay	ipa_dense	19	38	7	0	0	0	a:20 u:6 i:6 ɨ:3 e:1 ə:1 y:1
+rosettaproject_aft_swadesh-1	aft	Afitti	ipa_dense	61	135	9	2	0	25	a:41 i:28 u:14 o:14 ə:10 ɔ:10 ɛ:7 ɨ:6 y:5
+rosettaproject_afz_swadesh-1	afz	Obokuitai	light_ipa	288	824	7	0	0	0	a:251 i:206 u:114 e:96 o:89 ɛ:66 y:2
+rosettaproject_agl_swadesh-1	agl	Fembe	ipa_dense	287	882	9	0	3	7	a:163 o:162 i:162 e:129 ɔ:98 u:98 y:57 ʌ:12 ɛ:1
+rosettaproject_ahg_swadesh-1	ahg	Qimant	ipa_dense	96	209	12	23	0	0	a:70 ɛ:40 ɨ:19 ɔ:16 o:13 ɪ:12 y:10 i:10 u:8 e:7 ʊ:3 ə:1
+rosettaproject_ahh_swadesh-1	ahh	Aghu	light_ipa	322	759	7	0	1	0	o:210 i:167 a:154 u:126 e:63 ɛ:25 y:14
+rosettaproject_aif_swadesh-1	aif	Agi	light_ipa	55	144	7	1	0	1	a:51 o:29 i:24 u:16 e:10 ə:8 y:6
+rosettaproject_ail_swadesh-1	ail	Aimele	ipa_dense	152	441	7	0	5	12	a:123 e:88 i:59 o:58 ɔ:58 u:36 y:19
+rosettaproject_ain_swadesh-1	ain	Ainu	light_ipa	2555	6888	12	2	0	0	a:1866 i:1351 u:1157 e:1027 o:945 y:380 ɛ:76 ɔ:68 ɑ:12 ɨ:3 ə:2 ʌ:1
+rosettaproject_aja_swadesh-1	aja	Aja	ipa_dense	215	501	11	1	0	27	a:140 u:115 i:99 o:53 e:49 ɔ:21 y:17 ɛ:3 ə:2 ɑ:1 ɪ:1
+rosettaproject_akc_swadesh-1	akc	Mpur	light_ipa	657	1511	13	4	0	9	a:311 i:292 u:266 e:219 o:112 ʌ:88 y:86 ɛ:67 ɔ:39 ɪ:17 ə:11 ɨ:2 ʊ:1
+rosettaproject_akh_swadesh-1	akh	Angal Heneng	americanist	53	85	6	4	0	5	a:29 e:17 u:14 i:14 y:6 o:5
+rosettaproject_aki_swadesh-1	aki	Aiome	ipa_dense	25	46	7	0	0	0	a:16 u:12 y:6 e:5 ɨ:4 i:2 ə:1
+rosettaproject_akl_swadesh-1	akl	Inakeanon	ipa_dense	185	430	6	13	0	0	a:189 u:134 i:78 y:25 o:3 e:1
+rosettaproject_akm_swadesh-1	akm	Aka-Bo	ipa_dense	267	802	12	12	0	0	ʌ:193 i:159 ɑ:96 e:86 o:82 ɛ:76 u:61 ɒ:32 y:5 ɔ:5 a:4 ə:3
+rosettaproject_akv_swadesh-1	akv	Akhvakh	light_ipa	113	259	5	1	5	0	a:88 i:65 u:47 e:39 o:20
+rosettaproject_akx_swadesh-1	akx	Aka-Kede	ipa_dense	524	1468	13	7	0	0	i:293 o:269 u:188 e:178 a:168 ɛ:113 ɑ:96 ɒ:58 ʌ:43 y:33 ɔ:25 ə:3 æ:1
+rosettaproject_aky_swadesh-1	aky	Aka-Kol	ipa_dense	668	2177	13	12	0	0	e:841 a:348 i:272 o:198 u:138 ʌ:123 ɑ:91 ɔ:61 ɒ:35 y:34 æ:20 ɛ:15 ə:1
+rosettaproject_alh_swadesh-1	alh	Alawa	ipa_dense	407	1234	9	0	0	0	a:511 i:294 u:286 y:81 e:39 o:10 ɛ:10 ɔ:2 ʌ:1
+rosettaproject_ali_swadesh-1	ali	Amaimon	ipa_dense	354	945	10	6	0	0	a:255 i:188 e:164 u:145 ɛ:90 o:47 ʌ:39 y:11 ɔ:5 ə:1
+rosettaproject_alw_swadesh-1	alw	Alaba-K'abeena	ipa_dense	95	200	11	12	0	0	a:57 ɛ:34 o:25 u:23 e:17 i:17 ɪ:14 ɔ:5 y:4 ʊ:3 ə:1
+rosettaproject_alx_swadesh-1	alx	Amol	ipa_dense	76	189	7	1	0	0	a:62 e:34 i:30 y:24 ə:23 u:9 o:7
+rosettaproject_aly_swadesh-1	aly	Alyawarr	ipa_dense	299	1008	5	0	0	0	a:547 i:296 u:89 y:71 e:5
+rosettaproject_amf_swadesh-1	amf	Hamer-Banna	ipa_dense	106	217	11	26	0	0	a:76 i:42 u:18 ɔ:16 o:14 y:13 e:12 ɛ:9 ɪ:7 ə:7 ʊ:3
+rosettaproject_amg_swadesh-1	amg	Amarag	light_ipa	241	832	6	0	0	0	a:430 u:186 i:177 y:24 e:10 o:5
+rosettaproject_amh_swadesh-1	amh	Amharic	ipa_dense	118	217	10	0	0	0	ɛ:59 a:58 ɨ:50 u:18 o:10 y:7 e:7 i:6 ɔ:1 ɑ:1
+rosettaproject_amj_swadesh-1	amj	Amdang	light_ipa	34	49	6	2	0	81	i:16 o:13 a:7 u:6 e:4 ɔ:3
+rosettaproject_amm_swadesh-1	amm	Ama	ipa_dense	490	1418	15	15	1	5	a:340 i:300 u:190 e:165 o:155 ʌ:107 ɔ:54 y:32 ɒ:31 ə:19 ɛ:7 ɤ:7 ʊ:5 ø:4 ɪ:2
+rosettaproject_amp_swadesh-1	amp	Alamblak	ipa_dense	419	1144	13	0	0	3	a:288 i:225 o:112 u:109 y:106 e:85 ɨ:75 ʌ:55 ɛ:53 ɪ:27 ə:7 ʊ:1 ɔ:1
+rosettaproject_amt_swadesh-1	amt	Amto	light_ipa	246	670	11	2	0	2	a:170 i:146 e:128 u:74 o:63 y:46 ə:23 ɔ:14 ʌ:3 ɪ:2 ɑ:1
+rosettaproject_amy_swadesh-1	amy	Ami	ipa_dense	141	338	7	0	0	0	a:92 i:78 e:73 u:57 y:20 ə:17 ø:1
+rosettaproject_amz_swadesh-1	amz	Atampaya	ipa_dense	486	1873	5	4	0	0	a:912 u:518 i:310 y:122 e:11
+rosettaproject_anc_swadesh-1	anc	Ngas	ipa_dense	72	76	10	1	0	80	a:18 ɪ:14 ɛ:11 i:7 u:6 o:5 ʊ:5 e:4 ɨ:4 ɔ:2
+rosettaproject_anh_swadesh-1	anh	Nend	ipa_dense	383	815	12	0	0	0	a:235 i:182 e:98 u:81 ɨ:54 o:44 ʌ:43 y:30 ə:25 ʉ:11 ɛ:8 ɔ:4
+rosettaproject_ani_swadesh-1	ani	Andi	ipa_dense	113	210	5	0	0	0	i:66 o:43 a:39 e:32 u:30
+rosettaproject_anq_swadesh-1	anq	Jarawa	ipa_dense	1327	4489	14	2	0	0	e:1043 a:980 o:644 i:587 u:282 ɛ:251 ɔ:179 y:164 ɑ:138 ə:137 ʌ:31 ɒ:29 ɪ:23 ø:1
+rosettaproject_anu_swadesh-1	anu	Anuak	ipa_dense	97	157	11	15	0	0	a:27 i:25 ɔ:23 ɛ:22 o:18 ɪ:15 u:11 y:6 e:5 ʊ:4 æ:1
+rosettaproject_anz_swadesh-1	anz	Anem	light_ipa	336	730	8	0	0	1	i:183 a:144 e:120 u:117 o:81 ə:64 ɨ:20 ø:1
+rosettaproject_aod_swadesh-1	aod	Andarum	light_ipa	14	30	6	0	0	0	a:17 u:4 i:3 o:3 e:2 ɛ:1
+rosettaproject_aof_swadesh-1	aof	Bragat	ipa_dense	20	50	8	8	0	18	a:14 i:10 y:6 e:6 u:6 ə:5 o:2 ɛ:1
+rosettaproject_aog_swadesh-1	aog	Angoram	ipa_dense	459	1337	13	0	0	0	a:473 e:208 i:190 u:132 ə:108 o:103 ʊ:63 y:24 ɪ:15 ɨ:9 ɛ:6 ɔ:4 ʌ:2
+rosettaproject_aoi_swadesh-1	aoi	Anindilyakwa	light_ipa	306	1242	7	0	0	0	a:653 u:252 i:202 y:73 e:40 o:18 ɛ:4
+rosettaproject_aos_swadesh-1	aos	Taikat	light_ipa	809	2127	11	1	0	0	a:684 e:407 i:349 o:287 u:244 y:114 ɛ:14 ʌ:11 ə:11 ɑ:4 ɔ:2
+rosettaproject_ape_swadesh-1	ape	Bukiyip	light_ipa	246	626	7	0	0	0	a:253 u:134 i:104 e:60 o:52 y:22 ə:1
+rosettaproject_apq_swadesh-1	apq	A-Pucikwar	ipa_dense	933	2886	13	10	0	0	a:817 e:500 i:488 ʌ:303 o:292 u:214 ɑ:113 ɔ:62 y:43 ɒ:29 æ:14 ɛ:10 ə:1
+rosettaproject_aqm_swadesh-1	aqm	Atohwaim	light_ipa	120	271	7	1	0	0	a:86 e:49 i:48 o:46 u:24 y:9 ə:9
+rosettaproject_arb_swadesh-1	arb	Arabic, Standard	native:Arabic	100	230	4	16	0	0	a:106 u:88 i:34 y:2
+rosettaproject_are_swadesh-1	are	Arrarnta, Western	ipa_dense	204	523	6	1	0	0	a:231 i:135 e:79 u:63 y:14 ʌ:1
+rosettaproject_arq_swadesh-1	arq	Arabic, Algerian Spoken	ipa_dense	105	145	5	0	0	0	ə:55 a:49 i:20 u:13 ʊ:8
+rosettaproject_arv_swadesh-1	arv	Arbore	light_ipa	91	250	8	0	0	0	a:61 i:46 e:46 y:35 o:26 ɛ:18 u:14 æ:4
+rosettaproject_arw_swadesh-1	arw	Arawak	light_ipa	245	686	5	0	0	27	a:204 o:193 i:189 e:54 ɨ:46
+rosettaproject_arz_swadesh-1	arz	Arabic, Egyptian Spoken	ipa_dense	100	153	4	22	0	0	a:89 i:42 u:15 e:7
+rosettaproject_asd_swadesh-1	asd	Asas	ipa_dense	340	799	10	0	0	0	i:163 u:160 e:142 a:127 o:77 ɛ:73 y:25 ʌ:21 ø:6 ə:5
+rosettaproject_aso_swadesh-1	aso	Dano	light_ipa	267	814	7	0	0	0	e:219 o:215 a:183 i:115 u:78 ø:2 y:2
+rosettaproject_asv_swadesh-1	asv	Asoa	ipa_dense	208	594	10	3	0	37	a:133 e:100 ɛ:80 o:69 i:53 u:49 ʊ:40 ɔ:27 ɪ:26 y:17
+rosettaproject_asx_swadesh-1	asx	Muratayak	ipa_dense	53	104	9	0	0	0	ʌ:43 u:15 a:12 i:11 y:8 o:7 ə:3 ɛ:3 ɪ:2
+rosettaproject_ata_swadesh-1	ata	Pele-Ata	light_ipa	283	852	7	0	0	0	a:259 u:200 i:145 o:140 e:75 ɛ:31 y:2
+rosettaproject_ate_swadesh-1	ate	Atemble	ipa_dense	397	962	12	1	0	0	a:319 i:190 u:172 e:85 o:52 ɨ:39 ə:31 ʌ:23 ʉ:22 ɛ:17 y:11 ɔ:1
+rosettaproject_auk_swadesh-1	auk	Heyo	light_ipa	54	136	7	0	0	0	a:44 i:27 e:26 u:12 o:10 ə:9 y:8
+rosettaproject_aun_swadesh-1	aun	One, Molmo	light_ipa	60	129	7	12	0	0	a:55 i:30 o:16 e:15 u:6 y:5 ə:2
+rosettaproject_auy_swadesh-1	auy	Awiyaana	light_ipa	693	2383	6	4	0	4	a:1356 i:344 u:214 e:183 o:178 y:108
+rosettaproject_ava_swadesh-1	ava	Avar	light_ipa	114	183	5	0	0	0	a:72 e:36 i:34 o:24 u:17
+rosettaproject_avl_swadesh-1	avl	Arabic, Eastern Egyptian Bedawi Spoken	ipa_dense	100	155	6	24	0	0	a:88 i:28 e:16 u:8 ɛ:8 o:7
+rosettaproject_avt_swadesh-1	avt	Au	ipa_dense	176	342	8	4	0	0	i:87 a:84 e:62 ɨ:38 u:31 y:21 ə:12 o:7
+rosettaproject_awb_swadesh-1	awb	Awa	light_ipa	611	1955	7	0	0	3	a:824 e:323 o:261 i:243 u:165 y:106 ʌ:33
+rosettaproject_awi_swadesh-1	awi	Aekyom	light_ipa	107	251	8	0	0	1	e:94 a:42 i:36 o:30 ɛ:26 u:16 ɔ:6 ə:1
+rosettaproject_awm_swadesh-1	awm	Arawum	ipa_dense	359	831	11	2	0	0	a:171 i:158 e:152 u:133 ɛ:81 o:71 ʌ:27 y:19 ɔ:7 ə:6 ø:6
+rosettaproject_awn_swadesh-1	awn	Awngi	ipa_dense	97	174	9	0	0	1	a:48 i:44 ɨ:35 u:23 e:9 o:7 y:5 ɛ:2 ɪ:1
+rosettaproject_awr_swadesh-1	awr	Awera	light_ipa	294	784	10	13	0	0	a:181 i:179 o:159 e:104 u:100 y:35 ɔ:15 ə:7 ɛ:3 ɪ:1
+rosettaproject_awx_swadesh-1	awx	Awara	ipa_dense	48	105	8	0	0	0	a:30 ʌ:24 i:19 u:11 y:8 e:7 ɛ:3 o:3
+rosettaproject_aya_swadesh-1	aya	Awar	light_ipa	91	152	9	1	0	6	a:60 o:30 i:21 e:18 u:17 ɛ:2 y:2 ɨ:1 ə:1
+rosettaproject_bam_swadesh-1	bam	Bamanankan	ipa_dense	285	547	9	2	0	1	i:116 a:110 u:86 o:73 ɒ:64 ɛ:53 e:37 y:7 æ:1
+rosettaproject_ban_swadesh-1	ban	Bali	ipa_dense	180	417	8	0	0	0	a:124 ə:96 u:84 i:70 e:20 o:17 y:5 ɔ:1
+rosettaproject_bbc_swadesh-1	bbc	Batak Toba	ipa_dense	197	446	8	0	0	0	a:170 u:91 i:69 ɔ:46 o:31 ɛ:24 e:13 ə:2
+rosettaproject_bbd_swadesh-1	bbd	Bau	ipa_dense	390	800	11	2	0	0	a:219 i:163 e:119 u:112 ɛ:76 o:70 ʌ:24 y:9 ø:4 ɔ:3 ə:1
+rosettaproject_bbf_swadesh-1	bbf	Baibai	ipa_dense	280	1020	10	0	0	0	u:225 a:185 e:175 i:166 ʌ:157 y:64 o:35 ɛ:5 ɪ:5 ɔ:3
+rosettaproject_bbl_swadesh-1	bbl	Bats	light_ipa	118	185	5	0	10	0	a:81 o:30 i:27 e:26 u:21
+rosettaproject_bbr_swadesh-1	bbr	Girawa	ipa_dense	394	880	10	3	0	0	a:181 u:168 o:153 i:143 e:123 ɛ:59 ʌ:32 y:12 ɔ:6 ø:3
+rosettaproject_bdh_swadesh-1	bdh	Baka	light_ipa	24	51	6	0	0	3	a:17 e:13 i:8 ɛ:5 y:4 o:4
+rosettaproject_bdi_swadesh-1	bdi	Burun	ipa_dense	95	183	9	5	0	0	a:54 ɔ:33 e:28 ɛ:26 i:16 ə:11 u:7 y:5 o:3
+rosettaproject_bdq_swadesh-1	bdq	Bahnar	ipa_dense	91	133	8	30	0	0	ə:36 a:27 i:18 o:14 e:14 u:10 ɔ:9 ɛ:5
+rosettaproject_bds_swadesh-1	bds	Burunge	ipa_dense	188	444	6	6	0	2	a:204 i:77 u:55 e:43 o:38 y:27
+rosettaproject_bdy_swadesh-1	bdy	Bandjalang	ipa_dense	785	1930	7	10	0	0	a:886 u:485 i:353 y:110 e:74 o:15 ə:7
+rosettaproject_bef_swadesh-1	bef	Benabena	ipa_dense	255	873	7	0	0	0	a:310 i:185 o:155 e:116 u:71 y:35 ə:1
+rosettaproject_bej_swadesh-1	bej	Bedawiyet	ipa_dense	130	257	11	23	0	1	a:106 i:31 ɛ:31 y:19 e:18 ɪ:16 o:12 u:11 ɔ:7 ɨ:5 ʊ:1
+rosettaproject_beo_swadesh-1	beo	Beami	light_ipa	429	1112	10	2	2	2	a:330 i:225 o:160 e:147 u:121 ɔ:72 ʌ:25 y:18 ɛ:13 ɪ:1
+rosettaproject_beu_swadesh-1	beu	Blagar	light_ipa	629	1409	12	0	0	7	a:550 i:252 e:187 u:177 o:103 y:50 ɑ:39 ɛ:32 ɔ:13 ɪ:3 ø:2 ʊ:1
+rosettaproject_bey_swadesh-1	bey	Beli	light_ipa	73	152	7	0	0	0	e:36 i:31 o:31 a:29 ə:13 u:7 y:5
+rosettaproject_bfa_swadesh-1	bfa	Bari	ipa_dense	11	33	10	0	0	57	a:7 ɔ:5 u:4 y:4 i:3 e:3 ɛ:3 o:2 ʊ:1 ɪ:1
+rosettaproject_bfn_swadesh-1	bfn	Bunak	light_ipa	305	600	8	4	0	2	e:121 a:121 i:115 o:114 u:64 ɔ:31 ɛ:29 y:5
+rosettaproject_bfw_swadesh-1	bfw	Bondo	ipa_dense	95	181	8	0	1	0	i:48 u:43 a:32 ɔ:28 e:26 y:2 o:1 ə:1
+rosettaproject_bgo_swadesh-1	bgo	Baga Koga	ipa_dense	24	38	8	0	0	0	a:15 ə:9 u:5 o:4 i:2 ɛ:1 ɔ:1 e:1
+rosettaproject_bgv_swadesh-1	bgv	Warkay-Bipim	light_ipa	109	257	7	1	0	1	a:101 e:61 i:42 u:24 o:17 y:7 ə:5
+rosettaproject_bhf_swadesh-1	bhf	Odiai	ipa_dense	573	1733	15	0	0	3	i:404 a:329 e:295 o:222 ʌ:187 u:169 ɛ:60 y:33 ʊ:9 ɪ:8 ɔ:5 ɨ:5 ɒ:4 ə:2 ɑ:1
+rosettaproject_bhg_swadesh-1	bhg	Binandere	americanist	740	2194	6	0	0	0	a:733 i:607 o:359 u:251 e:217 y:27
+rosettaproject_bie_swadesh-1	bie	Bepour	ipa_dense	374	846	10	1	0	0	e:189 i:158 a:128 ɛ:124 u:113 o:66 ʌ:48 y:12 ɔ:7 ø:1
+rosettaproject_bif_swadesh-1	bif	Biafada	ipa_dense	132	414	8	32	0	36	a:131 i:95 u:83 e:46 o:30 y:16 ɛ:10 ɔ:3
+rosettaproject_bio_swadesh-1	bio	Nai	ipa_dense	300	1000	10	0	0	4	i:235 e:230 a:152 ə:140 o:95 u:63 ɛ:47 y:29 ɪ:7 ɨ:2
+rosettaproject_bir_swadesh-1	bir	Bisorio	light_ipa	254	753	10	0	0	0	a:242 i:144 o:106 e:93 u:64 y:57 ɛ:27 ɪ:9 ʌ:8 ə:3
+rosettaproject_bjd_swadesh-1	bjd	Bandjigali	ipa_dense	103	263	4	5	0	0	a:142 i:60 u:54 y:7
+rosettaproject_bjg_swadesh-1	bjg	Bidyogo	ipa_dense	323	900	8	18	0	27	o:232 a:187 e:133 u:93 ɔ:80 i:78 ɛ:72 y:25
+rosettaproject_bjh_swadesh-1	bjh	Bahinemo	ipa_dense	163	433	11	1	0	0	a:128 i:99 y:58 u:52 ʌ:31 o:30 e:13 ɪ:12 ɔ:4 ə:4 ɛ:2
+rosettaproject_bji_swadesh-1	bji	Burji	ipa_dense	142	302	14	22	0	0	a:122 i:51 e:29 u:27 ɛ:21 y:17 o:15 ɪ:7 ɔ:4 ʊ:3 æ:2 ɨ:2 ɑ:1 ø:1
+rosettaproject_bjr_swadesh-1	bjr	Binumarien	light_ipa	186	556	9	7	0	7	a:291 i:113 u:70 e:40 o:33 ʌ:6 ɑ:1 ɛ:1 ɔ:1
+rosettaproject_bjy_swadesh-1	bjy	Bayali	light_ipa	152	350	4	1	0	0	a:174 u:107 i:58 y:11
+rosettaproject_bkc_swadesh-1	bkc	Baka	ipa_dense	326	738	9	0	0	45	a:202 o:119 i:97 ɛ:85 e:81 ɔ:68 u:63 y:22 ɑ:1
+rosettaproject_bkl_swadesh-1	bkl	Berik	light_ipa	842	2270	11	2	0	0	a:829 e:437 i:356 u:280 o:258 y:33 ʌ:25 ɛ:23 ɪ:23 ɔ:5 ɑ:1
+rosettaproject_blb_swadesh-1	blb	Bilua	light_ipa	661	1935	8	0	0	0	a:632 u:349 i:331 o:331 e:238 ɔ:42 ɛ:11 y:1
+rosettaproject_ble_swadesh-1	ble	Balanta-Kentohe	ipa_dense	136	278	8	39	0	43	a:60 e:58 u:42 ɛ:37 i:29 o:23 ɔ:21 y:8
+rosettaproject_blr_swadesh-1	blr	Blang	ipa_dense	98	133	8	0	0	0	ə:27 a:25 i:24 u:22 ɔ:12 o:10 e:8 ɨ:5
+rosettaproject_bmd_swadesh-1	bmd	Baga Manduri	ipa_dense	28	46	9	17	0	0	a:16 ə:12 i:5 u:5 ɔ:4 e:1 ɛ:1 o:1 y:1
+rosettaproject_bmh_swadesh-1	bmh	Kein	ipa_dense	357	732	10	4	0	0	a:202 u:141 i:121 e:117 ɛ:57 o:40 ʌ:27 y:18 ɔ:6 ø:3
+rosettaproject_bmi_swadesh-1	bmi	Bagirmi	ipa_dense	241	482	12	2	0	12	a:161 o:101 i:56 e:48 u:33 ʊ:26 ɪ:18 ɛ:13 ə:11 y:8 ɜ:4 ɔ:3
+rosettaproject_bmu_swadesh-1	bmu	Burum-Mindik	light_ipa	335	731	10	0	0	11	a:219 i:153 e:93 o:88 ɑ:76 u:60 ʌ:28 y:9 ɛ:3 ɨ:2
+rosettaproject_bmx_swadesh-1	bmx	Baimak	ipa_dense	355	751	12	6	0	0	a:189 u:158 i:120 e:107 o:70 ɛ:57 ʌ:22 y:20 ø:5 ɪ:1 ə:1 ɔ:1
+rosettaproject_bod_swadesh-1	bod	Tibetan, Central	ipa_dense	139	258	6	0	0	53	a:124 o:48 i:27 u:21 e:20 y:18
+rosettaproject_boj_swadesh-1	boj	Anjam	light_ipa	357	731	11	1	0	0	a:246 i:121 u:105 o:85 e:82 ɛ:34 y:29 ʌ:25 ə:2 ø:1 ɔ:1
+rosettaproject_bon_swadesh-1	bon	Bine	light_ipa	1263	4094	9	5	0	0	e:1289 a:984 i:844 u:454 o:394 y:95 ɑ:23 ɛ:10 ə:1
+rosettaproject_bop_swadesh-1	bop	Bonkiman	ipa_dense	2	3	2	0	0	0	e:2 ʌ:1
+rosettaproject_boq_swadesh-1	boq	Bogaya	ipa_dense	308	941	10	2	0	2	e:180 i:159 a:150 u:148 o:125 ʌ:97 ɔ:41 y:38 ɛ:2 ɪ:1
+rosettaproject_bot_swadesh-1	bot	Bongo	ipa_dense	62	124	8	0	0	6	a:34 i:32 o:19 u:13 e:10 ɛ:7 y:6 ɔ:3
+rosettaproject_bpi_swadesh-1	bpi	Bagupi	ipa_dense	366	774	11	4	0	0	a:146 e:144 i:136 u:132 ɛ:77 o:66 ʌ:44 y:17 ə:5 ɔ:4 ø:3
+rosettaproject_bpm_swadesh-1	bpm	Biyom	light_ipa	315	791	11	1	0	0	i:187 a:184 u:158 o:105 e:89 ʌ:27 ɛ:20 ɔ:9 y:8 ə:3 ø:1
+rosettaproject_bpp_swadesh-1	bpp	Kaure	light_ipa	462	1191	9	0	0	0	a:416 i:239 e:194 u:149 o:86 ɛ:47 ɔ:24 y:21 ə:15
+rosettaproject_bps_swadesh-1	bps	Blaan, Sarangani	ipa_dense	183	354	9	0	0	0	a:91 u:72 i:56 ɔ:51 ɨ:21 o:20 ə:16 y:14 e:13
+rosettaproject_bpu_swadesh-1	bpu	Bongu	light_ipa	365	758	10	0	0	0	a:238 i:138 u:123 e:110 o:69 ɛ:31 y:22 ʌ:22 ø:4 ɔ:1
+rosettaproject_bpv_swadesh-1	bpv	Marind, Bian	light_ipa	142	281	7	3	0	6	a:109 e:57 i:46 u:44 o:22 y:2 ʌ:1
+rosettaproject_bpw_swadesh-1	bpw	Bo	ipa_dense	337	894	14	0	0	2	a:243 i:193 e:126 o:124 u:60 ə:43 y:33 ʌ:30 ɛ:17 ɔ:16 ɪ:4 ɒ:2 ʊ:2 ɨ:1
+rosettaproject_bql_swadesh-1	bql	Bilakura	light_ipa	324	833	11	3	0	0	a:337 u:171 i:138 e:55 o:49 ʌ:38 y:31 ɛ:8 ɔ:3 ø:2 ə:1
+rosettaproject_bqq_swadesh-1	bqq	Biritai	light_ipa	266	772	9	0	0	0	a:303 i:151 u:100 e:80 o:72 y:46 ɛ:13 ɔ:4 ə:3
+rosettaproject_brq_swadesh-1	brq	Breri	ipa_dense	20	46	7	0	0	0	a:13 u:10 i:9 e:6 ɛ:4 ə:2 y:2
+rosettaproject_brv_swadesh-1	brv	Bru, Western	ipa_dense	90	116	9	29	0	0	ə:38 a:37 ɛ:9 u:9 i:7 ɔ:5 ɨ:4 e:4 o:3
+rosettaproject_bsk_swadesh-1	bsk	Burushaski	ipa_dense	1791	3541	14	8	0	8	a:824 u:582 i:561 ʌ:431 ɛ:307 o:251 ʊ:186 e:125 y:108 ə:77 ɔ:53 ɪ:29 œ:6 ʉ:1
+rosettaproject_bsp_swadesh-1	bsp	Baga Sitemu	ipa_dense	28	43	7	0	0	0	ə:13 a:12 u:5 ɛ:4 i:4 ɔ:3 o:2
+rosettaproject_bst_swadesh-1	bst	Basketo	ipa_dense	97	191	12	9	0	0	a:70 ɔ:20 i:14 u:14 ɛ:13 ə:11 ɪ:10 y:10 ɨ:9 e:9 o:6 ʊ:5
+rosettaproject_bsw_swadesh-1	bsw	Baiso	ipa_dense	84	197	9	5	0	0	i:55 a:50 e:28 o:23 u:14 ɛ:11 ə:8 ɨ:5 y:3
+rosettaproject_bug_swadesh-1	bug	Bugis	ipa_dense	185	466	8	0	0	0	a:173 u:81 i:76 o:52 e:44 ɨ:37 y:2 ə:1
+rosettaproject_bul_swadesh-1	bul	Bulgarian	native:Cyrillic	207	404	6	0	0	0	a:137 ɛ:82 ɔ:68 ɤ:48 i:45 u:24
+rosettaproject_bun_swadesh-1	bun	Sherbro	ipa_dense	423	719	13	10	0	49	a:155 i:149 u:85 ɔ:78 ɛ:76 o:58 e:52 y:33 ə:12 ɤ:9 ɪ:6 ɯ:4 æ:2
+rosettaproject_buo_swadesh-1	buo	Terei	light_ipa	399	1156	5	2	0	0	a:286 i:261 o:260 u:209 e:140
+rosettaproject_buq_swadesh-1	buq	Brem	light_ipa	343	734	9	1	0	0	a:220 i:176 u:128 e:75 o:53 ɛ:52 y:14 ʌ:12 ø:4
+rosettaproject_but_swadesh-1	but	Bungain	ipa_dense	157	351	10	0	0	0	a:113 e:56 i:50 o:33 u:33 ɛ:32 y:18 ɪ:13 ʊ:2 ɨ:1
+rosettaproject_buy_swadesh-1	buy	Bullom So	ipa_dense	134	279	8	22	0	33	a:56 i:47 u:47 o:36 ɔ:31 ɛ:31 e:25 y:6
+rosettaproject_bvn_swadesh-1	bvn	Buna	ipa_dense	312	749	12	0	0	0	a:281 i:119 o:69 e:60 u:54 ɪ:46 y:34 ɨ:34 ə:25 ɛ:12 ʌ:11 ɔ:4
+rosettaproject_bvr_swadesh-1	bvr	Burarra	ipa_dense	395	1252	10	2	0	0	a:537 i:212 u:203 e:80 y:68 ɔ:63 o:47 ɛ:40 ɪ:1 ɒ:1
+rosettaproject_bvz_swadesh-1	bvz	Bauzi	light_ipa	460	1142	8	0	0	0	a:372 o:172 e:165 u:154 i:121 ɔ:83 ɛ:71 y:4
+rosettaproject_bwo_swadesh-1	bwo	Borna	ipa_dense	100	205	12	31	0	0	a:108 i:24 u:19 e:19 o:10 ə:7 ɛ:5 y:4 ɔ:4 ɨ:3 ɪ:1 ʊ:1
+rosettaproject_bxe_swadesh-1	bxe	Ongota	ipa_dense	414	1107	10	8	0	4	a:485 i:198 o:165 e:122 u:94 y:27 ɛ:8 ə:5 ɪ:2 ʊ:1
+rosettaproject_bxi_swadesh-1	bxi	Pirlatapa	ipa_dense	32	82	4	0	0	0	a:49 i:19 u:12 y:2
+rosettaproject_bxz_swadesh-1	bxz	Binahari	light_ipa	164	428	6	0	0	0	a:198 i:75 e:66 u:48 o:35 y:6
+rosettaproject_bye_swadesh-1	bye	Pouye	light_ipa	73	185	8	0	0	1	a:48 i:34 y:26 e:22 u:19 ə:19 o:16 ɨ:1
+rosettaproject_bym_swadesh-1	bym	Bidyara	light_ipa	265	663	5	0	0	0	a:317 u:200 i:97 y:48 ʊ:1
+rosettaproject_byn_swadesh-1	byn	Bilen	ipa_dense	96	206	11	31	0	0	a:69 ɨ:42 ɛ:29 i:21 u:16 ɔ:10 y:8 e:4 ɪ:3 o:2 ʊ:2
+rosettaproject_byt_swadesh-1	byt	Berti	light_ipa	212	433	8	4	0	24	a:139 i:138 u:54 o:43 e:38 œ:9 ə:7 y:5
+rosettaproject_byz_swadesh-1	byz	Banaro	ipa_dense	201	473	11	0	0	12	a:167 o:67 ʌ:61 i:48 y:38 e:30 u:28 ɛ:18 ɨ:12 ɪ:3 ɔ:1
+rosettaproject_bzf_swadesh-1	bzf	Boikin	ipa_dense	575	1300	8	0	0	0	a:306 y:253 i:220 e:172 ʌ:158 ə:154 u:36 o:1
+rosettaproject_bzh_swadesh-1	bzh	Buang, Mapos	ipa_dense	181	364	10	4	0	0	a:97 ə:58 i:54 u:45 o:32 ɛ:30 e:20 y:14 ɔ:13 ɘ:1
+rosettaproject_bzr_swadesh-1	bzr	Biri	light_ipa	291	741	4	0	0	0	a:392 u:192 i:104 y:53
+rosettaproject_bzu_swadesh-1	bzu	Burmeso	light_ipa	316	920	9	1	0	7	a:407 i:130 o:127 u:118 e:106 y:15 ɔ:13 ɛ:3 ɑ:1
+rosettaproject_cae_swadesh-1	cae	Laalaa	ipa_dense	135	224	12	4	0	0	a:54 ɔ:34 i:29 ɛ:26 u:23 o:18 y:12 e:10 ə:7 ʌ:7 ɪ:3 œ:1
+rosettaproject_can_swadesh-1	can	Chambri	ipa_dense	227	609	12	0	0	5	a:219 i:130 u:62 e:59 o:43 y:32 ə:24 ʊ:17 ɨ:14 ɪ:7 ɛ:1 ɔ:1
+rosettaproject_car_swadesh-1	car	Carib	ipa_dense	224	639	7	27	0	0	o:148 a:142 e:103 ɨ:95 i:71 u:61 y:19
+rosettaproject_ces_swadesh-1	ces	Czech	americanist	119	226	6	19	0	0	ɛ:66 o:52 a:39 i:30 ɪ:21 u:18
+rosettaproject_cgc_swadesh-1	cgc	Kagayanen	ipa_dense	183	415	7	0	0	0	a:183 u:103 i:71 ə:36 y:19 o:2 e:1
+rosettaproject_che_swadesh-1	che	Chechen	light_ipa	115	184	5	0	0	0	a:106 o:29 e:22 i:16 u:11
+rosettaproject_chy_swadesh-1	chy	Cheyenne	americanist	188	658	3	0	0	7	e:308 o:215 a:135
+rosettaproject_cji_swadesh-1	cji	Chamalal	ipa_dense	115	179	5	8	6	0	a:78 i:44 e:30 u:18 o:9
+rosettaproject_cjv_swadesh-1	cjv	Chuave	light_ipa	200	618	8	1	0	0	a:170 o:144 i:137 u:74 e:58 y:31 ʊ:2 ɪ:2
+rosettaproject_cmn_swadesh-2	cmn	Chinese, Mandarin	native:Han	101	153	10	0	0	0	a:36 u:33 i:24 o:20 e:12 y:7 ə:7 ɛ:6 ɤ:5 ʊ:3
+rosettaproject_cog_swadesh-1	cog	Chong	ipa_dense	94	105	10	47	0	0	a:31 i:15 o:13 u:10 e:10 ɔ:8 ə:8 ɛ:5 ɨ:4 y:1
+rosettaproject_cra_swadesh-1	cra	Chara	ipa_dense	61	112	8	16	0	0	a:61 i:12 e:11 o:10 u:8 y:7 ø:2 ɪ:1
+rosettaproject_crw_swadesh-1	crw	Chrau	ipa_dense	89	113	9	39	0	0	a:30 i:21 o:15 u:14 ə:9 ɔ:8 e:7 ɨ:5 ɛ:4
+rosettaproject_css_swadesh-1	css	Ohlone, Southern	ipa_dense	96	191	5	0	0	0	a:52 i:44 e:37 u:35 o:23
+rosettaproject_dad_swadesh-1	dad	Marik	light_ipa	182	526	8	5	5	0	a:170 i:94 e:76 u:75 o:55 y:54 ə:1 ɯ:1
+rosettaproject_daj_swadesh-1	daj	Daju, Dar Fur	ipa_dense	320	757	7	5	0	0	a:212 e:212 i:102 o:96 ə:68 u:58 y:9
+rosettaproject_dal_swadesh-1	dal	Dahalo	ipa_dense	225	497	7	14	0	17	a:195 i:95 e:75 o:67 u:58 y:6 ɛ:1
+rosettaproject_dar_swadesh-1	dar	Dargwa	light_ipa	215	392	4	1	0	0	a:140 e:90 u:82 i:80
+rosettaproject_dau_swadesh-1	dau	Daju, Dar Sila	light_ipa	177	417	6	3	0	0	a:117 e:105 i:88 o:50 u:46 y:11
+rosettaproject_dax_swadesh-1	dax	Dayi	ipa_dense	261	731	10	3	0	0	a:308 u:224 i:133 y:30 o:14 ɔ:13 e:4 ɛ:3 ɪ:1 ʊ:1
+rosettaproject_dbf_swadesh-1	dbf	Edopi	light_ipa	248	734	9	0	0	0	i:193 a:189 e:110 u:82 o:63 ɛ:39 ɔ:31 y:24 ə:3
+rosettaproject_dbl_swadesh-1	dbl	Dyirbal	ipa_dense	262	725	4	0	0	0	a:316 u:195 i:126 y:88
+rosettaproject_ddj_swadesh-1	ddj	Jaru	ipa_dense	222	593	6	1	0	0	a:274 u:156 i:105 y:51 o:6 e:1
+rosettaproject_ddo_swadesh-1	ddo	Dido	light_ipa	117	199	5	0	0	0	i:54 a:43 u:37 e:35 o:30
+rosettaproject_dec_swadesh-1	dec	Dagik	ipa_dense	149	313	11	20	0	39	a:72 ɔ:65 ɛ:51 i:36 u:25 ʊ:20 ɪ:20 ə:13 o:5 e:3 y:3
+rosettaproject_ded_swadesh-1	ded	Dedua	light_ipa	223	447	7	0	0	1	a:125 e:108 o:76 i:74 u:48 y:8 ɑ:8
+rosettaproject_deg_swadesh-1	deg	Degema	ipa_dense	110	277	10	0	0	57	i:51 ʊ:42 ɔ:36 a:33 ɛ:24 u:24 o:23 e:20 ɪ:13 ə:11
+rosettaproject_dei_swadesh-1	dei	Demisa	light_ipa	131	383	9	0	0	0	a:153 i:55 e:54 u:52 o:34 ɛ:11 ə:11 ɔ:10 y:3
+rosettaproject_dem_swadesh-1	dem	Dem	light_ipa	235	596	8	2	0	6	a:236 e:86 u:76 i:75 o:75 y:44 ə:3 ɔ:1
+rosettaproject_dev_swadesh-1	dev	Domung	ipa_dense	51	95	8	0	0	0	a:33 ʌ:19 e:14 i:11 u:9 o:5 y:2 ɛ:2
+rosettaproject_dge_swadesh-1	dge	Degenan	ipa_dense	51	92	10	0	0	0	u:19 i:15 ɛ:12 ʌ:12 o:11 a:9 ɔ:5 e:4 ə:4 y:1
+rosettaproject_dgh_swadesh-1	dgh	Dghwede	ipa_dense	69	128	6	0	0	52	a:44 e:37 i:22 ə:13 u:8 ɛ:4
+rosettaproject_dhg_swadesh-1	dhg	Dhangu	ipa_dense	634	1803	11	3	0	0	a:755 u:508 i:327 y:104 o:41 ɔ:38 e:14 ɛ:11 ʊ:2 ɪ:2 ɒ:1
+rosettaproject_dhu_swadesh-1	dhu	Dhurga	ipa_dense	120	302	5	4	0	0	a:161 i:56 u:54 y:16 ə:15
+rosettaproject_dia_swadesh-1	dia	Dia	light_ipa	126	280	8	3	0	0	a:110 i:48 e:42 y:31 ə:21 u:18 o:9 ɨ:1
+rosettaproject_dif_swadesh-1	dif	Dieri	ipa_dense	331	793	9	0	0	0	a:323 u:153 ʌ:133 i:130 y:31 ɪ:14 ʊ:5 ɒ:3 ɛ:1
+rosettaproject_dim_swadesh-1	dim	Dime	ipa_dense	115	230	11	23	0	0	o:63 a:37 ɛ:20 e:19 ɔ:18 ɪ:16 y:15 u:13 i:13 ʊ:9 ə:7
+rosettaproject_djb_swadesh-1	djb	Djinba	ipa_dense	236	629	9	1	0	0	a:255 i:144 u:119 y:42 e:19 ɛ:17 o:16 ɔ:14 ɒ:3
+rosettaproject_djd_swadesh-1	djd	Djamindjung	ipa_dense	99	250	6	0	0	0	a:100 u:70 i:51 y:26 o:2 ɛ:1
+rosettaproject_dje_swadesh-1	dje	Zarma	ipa_dense	243	505	9	3	0	0	a:158 i:104 u:81 ɛ:64 o:55 y:27 e:9 æ:4 ɔ:3
+rosettaproject_dji_swadesh-1	dji	Djinang	ipa_dense	395	1063	9	2	0	0	i:423 a:301 u:147 e:47 ɛ:44 ɔ:40 y:40 o:17 ɪ:4
+rosettaproject_djj_swadesh-1	djj	Djeebbana	ipa_dense	548	2082	8	4	0	0	a:1361 i:215 y:164 u:127 e:82 o:68 ɔ:40 ɛ:25
+rosettaproject_djn_swadesh-1	djn	Djauan	ipa_dense	242	700	10	0	0	1	a:329 u:114 i:111 o:44 y:33 ɛ:27 ɒ:17 e:16 ɔ:6 ə:3
+rosettaproject_djr_swadesh-1	djr	Djambarrpuyngu	light_ipa	29	62	6	4	0	0	a:26 i:16 u:15 o:3 y:1 ʊ:1
+rosettaproject_dju_swadesh-1	dju	Kapriman	ipa_dense	167	430	10	0	0	0	a:153 o:60 i:59 u:44 y:36 e:31 ʌ:20 ɪ:11 ɛ:11 ə:5
+rosettaproject_dmc_swadesh-1	dmc	Dimir	ipa_dense	392	913	11	3	0	0	a:267 i:161 u:155 e:128 ɛ:93 o:79 y:16 ʌ:7 ɔ:5 ə:1 ø:1
+rosettaproject_dmu_swadesh-1	dmu	Tebi	light_ipa	327	830	7	0	0	0	a:211 e:194 i:159 o:135 u:99 ə:19 y:13
+rosettaproject_dna_swadesh-1	dna	Dani, Upper Grand Valley	light_ipa	67	164	8	0	0	0	a:47 e:39 i:30 o:23 u:17 ɪ:4 ʊ:2 y:2
+rosettaproject_dnd_swadesh-1	dnd	Daonda	ipa_dense	176	415	10	0	0	0	a:85 i:81 e:74 u:60 ɛ:41 o:38 y:21 ə:8 ɒ:6 ɔ:1
+rosettaproject_dni_swadesh-1	dni	Dani, Lower Grand Valley	ipa_dense	285	688	10	0	0	0	a:190 e:163 o:89 i:79 u:49 ɛ:45 ʌ:29 ʊ:21 ɪ:17 y:6
+rosettaproject_dnr_swadesh-1	dnr	Danaru	ipa_dense	374	756	13	0	0	0	u:149 a:144 i:132 e:130 o:79 ɛ:64 ʌ:33 ə:10 y:6 ø:5 ɨ:2 ʉ:1 ɔ:1
+rosettaproject_dnt_swadesh-1	dnt	Dani, Mid Grand Valley	light_ipa	268	677	8	6	0	0	e:189 a:175 i:112 o:97 u:78 ʊ:10 y:9 ɪ:7
+rosettaproject_dnw_swadesh-1	dnw	Dani, Western	ipa_dense	642	1835	13	3	0	0	a:472 e:380 i:269 o:264 u:202 y:92 ɛ:71 ʊ:30 ɔ:28 ɪ:19 ʌ:5 ɑ:2 ə:1
+rosettaproject_doa_swadesh-1	doa	Dom	light_ipa	209	572	7	2	0	1	a:205 i:135 e:103 u:67 o:44 y:16 ə:2
+rosettaproject_dof_swadesh-1	dof	Domu	light_ipa	146	418	6	0	0	0	a:188 i:86 e:53 u:44 o:42 y:5
+rosettaproject_dol_swadesh-1	dol	Doso	ipa_dense	107	260	10	0	3	3	i:70 a:60 e:47 u:27 o:25 ʌ:10 ɛ:9 ɪ:8 y:3 ɔ:1
+rosettaproject_doo_swadesh-1	doo	Dongo	ipa_dense	223	599	8	0	0	81	a:127 o:124 ɔ:102 ɛ:74 i:66 e:44 u:36 y:26
+rosettaproject_dox_swadesh-1	dox	Bussa	ipa_dense	95	241	9	17	0	0	a:91 o:32 e:30 i:22 y:20 ɛ:16 u:13 ɪ:11 ɔ:6
+rosettaproject_doz_swadesh-1	doz	Dorze	ipa_dense	97	191	12	13	0	1	a:54 e:27 u:24 o:23 i:13 ɛ:13 y:11 ɪ:10 ə:8 ɔ:5 ɨ:2 ʊ:1
+rosettaproject_drl_swadesh-1	drl	Darling	ipa_dense	370	972	4	7	0	0	a:511 i:217 u:216 y:28
+rosettaproject_dru_swadesh-1	dru	Rukai	ipa_dense	183	633	8	4	0	0	a:265 ə:140 o:120 i:81 y:23 u:2 ɘ:1 e:1
+rosettaproject_dsh_swadesh-1	dsh	Daasanach	ipa_dense	176	329	11	16	0	6	i:83 a:74 e:43 u:40 o:23 y:22 ɛ:18 ɪ:16 ɔ:6 ə:3 ʊ:1
+rosettaproject_dsq_swadesh-1	dsq	Tadaksahak	ipa_dense	175	380	9	9	0	0	ɐ:143 i:77 u:55 ɛ:29 ə:26 o:23 æ:12 a:12 e:3
+rosettaproject_duc_swadesh-1	duc	Duna	light_ipa	135	348	7	0	0	0	a:120 i:64 e:52 u:39 o:31 ɔ:24 y:18
+rosettaproject_duj_swadesh-1	duj	Dhuwal	ipa_dense	551	1471	8	6	0	0	a:657 u:451 i:240 y:93 ɔ:13 o:11 ɪ:3 e:3
+rosettaproject_duk_swadesh-1	duk	Duduela	ipa_dense	356	837	10	4	0	0	a:184 i:179 u:158 e:116 o:80 ɛ:61 y:31 ʌ:20 ɔ:4 ø:4
+rosettaproject_duv_swadesh-1	duv	Duvle	light_ipa	388	1086	10	0	0	2	a:343 i:234 o:229 u:98 e:96 ɛ:49 ɪ:30 y:5 ɑ:1 ə:1
+rosettaproject_dyo_swadesh-1	dyo	Jola-Fonyi	ipa_dense	368	804	12	20	0	27	a:196 u:137 ɛ:119 i:92 o:75 ɔ:69 e:66 y:24 ɪ:12 ə:7 ʊ:6 ʌ:1
+rosettaproject_dyy_swadesh-1	dyy	Dyaabugay	ipa_dense	329	854	5	2	0	0	a:375 u:228 i:152 y:98 e:1
+rosettaproject_dzg_swadesh-1	dzg	Dazaga	ipa_dense	325	731	9	0	0	2	ɔ:157 i:127 a:124 ɛ:105 ə:81 u:76 y:35 o:24 e:2
+rosettaproject_eit_swadesh-1	eit	Eitiep	ipa_dense	20	46	10	4	0	17	o:11 a:8 y:6 e:6 i:5 u:4 ə:2 ɛ:2 ɔ:1 ɪ:1
+rosettaproject_eiv_swadesh-1	eiv	Askopan	ipa_dense	149	571	9	1	0	0	a:188 o:165 i:98 ɛ:64 u:48 e:4 ɪ:2 ʊ:1 y:1
+rosettaproject_ekg_swadesh-1	ekg	Ekari	light_ipa	1229	3778	9	3	0	1	a:1173 i:864 o:600 e:549 u:353 y:210 ɛ:26 ø:2 ʌ:1
+rosettaproject_ele_swadesh-1	ele	Elepi	light_ipa	175	358	8	0	0	0	a:101 u:65 e:65 i:63 y:37 o:24 ɨ:2 ʌ:1
+rosettaproject_eli_swadesh-1	eli	Nding	ipa_dense	199	461	10	14	0	41	a:139 i:67 ʊ:63 ɛ:58 ɔ:49 u:34 ɪ:31 y:13 e:4 o:3
+rosettaproject_elk_swadesh-1	elk	Elkei	light_ipa	67	156	7	0	0	1	e:34 i:32 u:29 a:27 y:15 o:14 ə:5
+rosettaproject_ell_swadesh-1	ell	Greek	native:Greek	207	484	5	0	0	0	o:170 a:111 i:103 e:85 u:15
+rosettaproject_ena_swadesh-1	ena	Apali	ipa_dense	412	893	11	10	0	0	a:229 u:214 i:195 e:87 ʌ:60 ʉ:49 ɨ:21 y:18 ɛ:15 o:4 ə:1
+rosettaproject_enq_swadesh-1	enq	Enga	light_ipa	723	2112	10	1	0	4	a:749 e:410 i:355 o:194 y:176 u:151 ɛ:40 ɔ:29 ʌ:5 ə:3
+rosettaproject_eri_swadesh-1	eri	Ogea	light_ipa	381	936	10	2	0	0	a:211 e:176 i:160 u:150 o:103 ɛ:70 y:30 ʌ:30 ø:3 ɔ:3
+rosettaproject_ert_swadesh-1	ert	Eritai	light_ipa	250	780	8	0	0	0	i:188 o:153 u:148 e:124 a:112 ɛ:41 y:13 ə:1
+rosettaproject_etr_swadesh-1	etr	Edolo	ipa_dense	170	457	10	1	6	8	i:110 e:110 a:74 u:45 ɔ:40 o:36 ʌ:23 ɛ:9 y:9 ɪ:1
+rosettaproject_faa_swadesh-1	faa	Fasu	light_ipa	397	1238	11	0	0	0	a:427 i:317 e:149 u:149 o:138 y:35 ɔ:10 ʌ:6 ə:4 ɪ:2 ɛ:1
+rosettaproject_fad_swadesh-1	fad	Wagi	ipa_dense	360	614	11	3	0	0	a:140 e:118 u:106 i:105 ɛ:54 ʌ:44 o:41 ɔ:2 ø:2 y:1 ə:1
+rosettaproject_fag_swadesh-1	fag	Finongan	ipa_dense	52	110	9	0	0	0	i:34 a:19 ʌ:13 o:12 u:10 e:9 y:6 ɛ:5 ɔ:2
+rosettaproject_fai_swadesh-1	fai	Faiwol	light_ipa	119	220	6	4	0	0	a:82 i:45 u:42 o:23 e:21 y:7
+rosettaproject_faj_swadesh-1	faj	Faita	light_ipa	321	721	13	0	0	0	a:243 u:144 i:134 e:57 o:47 ʌ:23 y:21 ʉ:17 ɨ:16 ə:14 ɛ:3 ø:1 ɪ:1
+rosettaproject_fap_swadesh-1	fap	Palor	ipa_dense	133	184	12	9	0	0	a:43 i:31 ɔ:23 ɛ:21 u:19 o:14 y:10 e:9 ə:8 ɪ:3 ʊ:2 ʌ:1
+rosettaproject_fau_swadesh-1	fau	Fayu	ipa_dense	293	706	9	0	0	0	a:218 i:155 u:91 o:85 e:75 ɔ:50 ɛ:23 y:5 ə:4
+rosettaproject_fgr_swadesh-1	fgr	Fongoro	ipa_dense	50	100	9	13	0	8	i:29 a:17 u:17 ʌ:12 e:7 ɔ:5 o:5 y:4 ɛ:4
+rosettaproject_foi_swadesh-1	foi	Foi	light_ipa	620	1757	12	0	1	0	a:610 i:301 e:272 o:211 u:189 y:119 ʌ:26 ɛ:17 ə:5 ɪ:5 æ:1 ø:1
+rosettaproject_for_swadesh-1	for	Fore	ipa_dense	232	683	6	13	0	0	a:329 e:107 i:87 y:69 u:53 o:38
+rosettaproject_fqs_swadesh-1	fqs	Fas	ipa_dense	322	975	9	0	0	4	a:238 e:162 i:145 o:132 u:128 ə:80 y:39 ɛ:38 ɪ:13
+rosettaproject_fuj_swadesh-1	fuj	Ko	ipa_dense	298	529	12	2	0	51	a:137 i:82 ɔ:80 u:71 ə:54 ɛ:49 ʊ:27 ɪ:13 y:7 o:6 e:2 ɑ:1
+rosettaproject_fuv_swadesh-1	fuv	Fulfulde, Nigerian	ipa_dense	133	355	8	29	0	37	a:91 o:65 i:58 u:55 e:41 ɛ:19 y:15 ɔ:11
+rosettaproject_fvr_swadesh-1	fvr	Fur	ipa_dense	478	982	11	7	0	1	a:251 i:248 u:190 ɔ:96 ɛ:62 o:47 e:42 y:24 ə:20 ʌ:1 ɪ:1
+rosettaproject_gah_swadesh-1	gah	Alekano	light_ipa	389	1268	7	0	0	0	a:400 o:299 e:226 i:216 u:117 y:9 ø:1
+rosettaproject_gap_swadesh-1	gap	Gal	ipa_dense	350	645	11	2	0	0	a:146 i:122 e:118 u:108 ɛ:73 o:42 ʌ:22 y:5 ə:4 ø:3 ɔ:2
+rosettaproject_gaw_swadesh-1	gaw	Nobonob	light_ipa	327	624	9	5	0	0	a:223 u:136 i:135 e:42 o:33 ɛ:23 y:23 ʌ:6 ø:3
+rosettaproject_gax_swadesh-1	gax	Oromo, Borana-Arsi-Guji	ipa_dense	97	199	10	23	0	0	a:98 i:31 u:16 ɛ:14 e:13 ɨ:10 ɔ:8 o:7 y:1 æ:1
+rosettaproject_gaz_swadesh-1	gaz	Oromo, West Central	ipa_dense	115	253	10	12	0	0	a:114 i:47 u:23 e:23 o:17 ɛ:13 ɨ:8 y:4 ɔ:3 ʊ:1
+rosettaproject_gbb_swadesh-1	gbb	Kaytetye	ipa_dense	100	269	5	0	0	0	a:114 e:87 i:43 y:13 u:12
+rosettaproject_gbc_swadesh-1	gbc	Garawa	light_ipa	263	733	4	0	0	0	a:406 u:150 i:132 y:45
+rosettaproject_gbd_swadesh-1	gbd	Karadjeri	ipa_dense	108	273	6	2	0	0	a:147 u:67 i:43 y:11 o:4 ø:1
+rosettaproject_gbe_swadesh-1	gbe	Niksek	ipa_dense	310	987	11	0	0	0	a:216 o:163 e:160 i:144 ɛ:143 ɔ:61 y:47 u:42 ɪ:8 ʌ:2 ə:1
+rosettaproject_gbi_swadesh-1	gbi	Galela	ipa_dense	755	2205	10	0	0	0	a:612 o:578 i:326 u:308 e:147 ɔ:106 ɑ:58 ɛ:34 y:24 ə:12
+rosettaproject_gbp_swadesh-1	gbp	Gbaya-Bossangoa	ipa_dense	292	599	8	2	0	40	a:166 ɔ:81 e:79 o:68 i:61 y:49 ɛ:48 u:47
+rosettaproject_gbu_swadesh-1	gbu	Gagadu	ipa_dense	514	1777	9	6	0	0	a:658 i:391 u:251 o:176 e:144 ɔ:62 y:57 ɛ:37 ɒ:1
+rosettaproject_gcn_swadesh-1	gcn	Gaina	light_ipa	14	36	5	0	0	0	o:11 e:9 i:8 a:6 u:2
+rosettaproject_gdh_swadesh-1	gdh	Gadjerawang	ipa_dense	16	37	6	24	0	0	a:15 u:10 i:9 y:1 o:1 ɔ:1
+rosettaproject_gdl_swadesh-1	gdl	Dirasha	ipa_dense	96	218	11	6	0	0	a:105 ɪ:22 i:22 ɛ:19 o:17 y:13 u:11 e:3 ɔ:3 ʊ:2 ɨ:1
+rosettaproject_gdr_swadesh-1	gdr	Wipi	ipa_dense	1232	3106	14	3	0	0	a:561 o:489 i:419 e:413 u:311 y:269 ə:214 ɔ:114 ɨ:89 ɛ:71 ʉ:69 ʌ:61 ɪ:25 ø:1
+rosettaproject_geb_swadesh-1	geb	Kire	light_ipa	447	986	10	1	0	0	a:328 i:235 e:158 u:156 o:62 ə:40 y:4 ɨ:1 ɔ:1 ɛ:1
+rosettaproject_gez_swadesh-1	gez	Geez	ipa_dense	110	243	8	0	0	0	ɨ:76 ɛ:68 a:40 u:16 i:13 y:13 o:12 e:5
+rosettaproject_gft_swadesh-1	gft	Gafat	ipa_dense	88	206	9	0	0	2	ɛ:102 a:37 ɨ:26 i:17 o:8 e:7 u:4 y:3 ʊ:2
+rosettaproject_ggd_swadesh-1	ggd	Gugadj	ipa_dense	94	188	7	5	0	0	i:68 a:45 ə:29 y:21 u:19 e:4 o:2
+rosettaproject_gge_swadesh-1	gge	Guragone	ipa_dense	272	1039	11	4	0	0	a:293 i:223 u:160 e:128 ɔ:91 o:58 ɛ:50 y:29 ʌ:4 ə:2 ɪ:1
+rosettaproject_ggk_swadesh-1	ggk	Kungarakany	ipa_dense	253	650	6	0	0	0	i:189 a:173 u:93 e:93 o:77 y:25
+rosettaproject_ggl_swadesh-1	ggl	Ganglau	light_ipa	358	637	13	2	0	0	i:170 a:137 u:126 e:73 o:47 ɛ:31 ʌ:29 y:13 ə:5 ɔ:2 ɨ:2 ø:1 ɪ:1
+rosettaproject_ggw_swadesh-1	ggw	Gogodala	light_ipa	768	2495	10	0	0	0	a:967 i:577 e:459 o:268 u:179 ɛ:27 ɔ:12 ø:2 y:2 ɑ:2
+rosettaproject_ghs_swadesh-1	ghs	Guhu-Samane	ipa_dense	63	117	5	17	0	0	a:47 o:23 e:18 u:15 i:14
+rosettaproject_gia_swadesh-1	gia	Kitja	ipa_dense	28	67	7	13	0	0	i:25 a:20 u:17 ə:2 y:1 ɔ:1 o:1
+rosettaproject_gil_swadesh-1	gil	Kiribati	light_ipa	183	563	7	7	0	0	a:237 e:131 i:88 u:54 o:51 ʌ:1 æ:1
+rosettaproject_gim_swadesh-1	gim	Gimi	ipa_dense	171	471	6	0	0	0	a:195 i:100 e:92 u:44 o:39 y:1
+rosettaproject_gin_swadesh-1	gin	Hinukh	light_ipa	111	196	5	0	0	0	e:54 u:43 i:41 o:30 a:28
+rosettaproject_gly_swadesh-1	gly	Gule	ipa_dense	127	249	9	11	0	21	a:64 u:46 i:45 e:37 ə:17 ɔ:17 ɛ:13 o:5 y:5
+rosettaproject_gma_swadesh-1	gma	Gambera	ipa_dense	19	44	6	9	0	0	a:19 i:10 u:9 y:3 ɛ:2 o:1
+rosettaproject_gmu_swadesh-1	gmu	Gumalu	ipa_dense	372	831	11	1	0	0	a:195 i:168 u:149 e:146 ɛ:88 o:50 ʌ:21 y:5 ɔ:4 ø:3 ə:2
+rosettaproject_gni_swadesh-1	gni	Gooniyandi	ipa_dense	253	656	8	2	0	0	a:242 i:240 u:127 y:30 ɑ:14 ɔ:1 e:1 o:1
+rosettaproject_gnl_swadesh-1	gnl	Gangulu	light_ipa	260	648	6	0	0	0	a:323 u:174 i:90 y:52 e:8 o:1
+rosettaproject_gnn_swadesh-1	gnn	Gumatj	light_ipa	235	640	9	3	0	0	a:252 u:189 i:130 y:33 o:17 ɔ:8 ɛ:6 e:3 ʊ:2
+rosettaproject_gnr_swadesh-1	gnr	Gureng Gureng	ipa_dense	425	940	6	2	0	0	a:379 u:275 i:218 y:35 e:30 o:3
+rosettaproject_goi_swadesh-1	goi	Gobasi	ipa_dense	617	1618	10	0	2	12	o:377 i:289 a:260 u:215 ɔ:211 e:149 y:80 ɛ:20 ʌ:13 ɪ:4
+rosettaproject_gol_swadesh-1	gol	Gola	ipa_dense	79	160	7	28	0	33	a:40 i:30 o:29 u:26 e:23 ɛ:8 y:4
+rosettaproject_gor_swadesh-1	gor	Gorontalo	light_ipa	363	1061	9	2	0	0	a:285 o:282 u:196 i:183 e:87 y:23 ø:2 ə:2 ɛ:1
+rosettaproject_gow_swadesh-1	gow	Gorowa	ipa_dense	104	214	6	13	0	28	a:102 i:46 e:22 u:18 o:15 y:11
+rosettaproject_gpn_swadesh-1	gpn	Taiap	light_ipa	272	643	11	0	0	11	a:215 o:107 i:98 u:87 e:71 ɔ:36 y:11 ɛ:7 ɪ:4 ə:4 ʊ:3
+rosettaproject_gsn_swadesh-1	gsn	Gusan	ipa_dense	53	97	9	0	0	0	ʌ:23 e:15 a:14 o:13 i:13 u:11 y:5 ɔ:2 ɛ:1
+rosettaproject_gsp_swadesh-1	gsp	Wasembo	ipa_dense	350	1122	13	0	0	0	i:166 ʌ:149 a:143 u:128 ɛ:125 ɔ:112 e:92 o:68 ʊ:57 y:48 ɪ:30 ø:3 ə:1
+rosettaproject_guf_swadesh-1	guf	Gupapuyngu	light_ipa	487	1383	10	3	0	0	a:560 u:392 i:270 y:77 o:50 ɔ:17 ɛ:9 e:5 ʊ:2 ɒ:1
+rosettaproject_guk_swadesh-1	guk	Gumuz	ipa_dense	875	2127	13	11	0	0	a:833 i:303 u:185 e:158 y:133 ɛ:128 ɪ:114 ə:110 o:109 ɔ:38 ɨ:13 ʊ:2 æ:1
+rosettaproject_gup_swadesh-1	gup	Gunwinggu	ipa_dense	439	1110	9	3	0	0	a:310 u:285 ɛ:154 i:132 ɔ:91 y:63 e:48 o:26 ʌ:1
+rosettaproject_gvn_swadesh-1	gvn	Kuku-Yalanji	light_ipa	119	284	4	0	0	0	a:139 u:77 i:45 y:23
+rosettaproject_gwd_swadesh-1	gwd	Gawwada	ipa_dense	460	1080	12	11	0	5	a:348 o:187 i:152 e:138 u:96 ɛ:64 y:46 ɪ:17 ɨ:15 æ:8 ɔ:8 ə:1
+rosettaproject_gwu_swadesh-1	gwu	Guwamu	light_ipa	84	187	4	4	0	0	a:106 u:37 i:33 y:11
+rosettaproject_gww_swadesh-1	gww	Kwini	ipa_dense	18	39	7	5	0	0	a:16 i:8 u:7 ɔ:4 ɛ:2 y:1 o:1
+rosettaproject_gyb_swadesh-1	gyb	Garus	ipa_dense	373	697	11	5	0	0	a:186 u:132 i:114 e:113 ɛ:68 o:44 ʌ:17 y:16 ø:4 ə:2 ɔ:1
+rosettaproject_gyy_swadesh-1	gyy	Gunya	light_ipa	276	699	4	0	0	0	a:355 u:197 i:115 y:32
+rosettaproject_gza_swadesh-1	gza	Ganza	ipa_dense	97	222	12	25	0	3	e:49 ɛ:48 a:48 ɪ:20 i:14 o:10 u:8 ɔ:8 y:8 ʊ:7 æ:1 ɨ:1
+rosettaproject_had_swadesh-1	had	Hatam	light_ipa	581	958	10	0	0	0	a:244 y:193 e:142 i:139 o:108 u:72 ɛ:26 ɔ:20 ə:13 ø:1
+rosettaproject_hae_swadesh-1	hae	Oromo, Eastern	ipa_dense	98	209	10	30	0	0	a:89 i:36 e:20 ɛ:19 u:17 ɨ:10 o:8 ɔ:4 y:4 ʊ:2
+rosettaproject_ham_swadesh-1	ham	Hewa	light_ipa	260	760	11	0	0	2	a:214 i:137 e:123 u:100 o:85 y:57 ɛ:17 ɔ:11 ʌ:8 ə:7 ɪ:1
+rosettaproject_har_swadesh-1	har	Harari	ipa_dense	248	605	10	7	0	0	a:275 i:87 e:68 ɛ:57 u:41 o:41 y:25 ʊ:8 ɔ:2 ɨ:1
+rosettaproject_hbn_swadesh-1	hbn	Heiban	ipa_dense	447	771	13	11	0	41	a:193 i:187 u:112 ɔ:90 ɛ:72 ʊ:31 y:25 ɪ:20 ə:17 ʌ:11 e:6 o:5 ɒ:2
+rosettaproject_hbo_swadesh-1	hbo	Hebrew, Ancient	ipa_dense	141	256	8	32	0	0	a:110 e:53 i:26 o:25 y:20 u:10 ə:8 ɔ:4
+rosettaproject_hdy_swadesh-1	hdy	Hadiyya	ipa_dense	141	294	9	20	0	0	a:79 e:58 i:50 o:45 u:28 ɛ:23 y:6 ɪ:3 ʊ:2
+rosettaproject_hih_swadesh-1	hih	Pamosu	ipa_dense	348	897	10	2	0	0	e:190 i:143 a:138 u:134 o:113 ɛ:111 ʌ:45 y:19 ɔ:2 ø:2
+rosettaproject_hts_swadesh-1	hts	Hadza	light_ipa	262	749	8	2	0	8	a:299 i:149 o:129 e:79 u:66 y:24 ɛ:2 ɔ:1
+rosettaproject_huf_swadesh-1	huf	Humene	ipa_dense	440	1369	7	0	0	8	a:386 o:253 e:224 i:159 ɛ:144 u:135 ɪ:68
+rosettaproject_hui_swadesh-1	hui	Huli	light_ipa	469	1266	7	0	0	0	a:457 i:335 e:188 u:129 o:121 y:34 ɪ:2
+rosettaproject_huz_swadesh-1	huz	Hunzib	ipa_dense	114	199	8	0	10	0	u:57 a:29 e:25 i:21 o:20 ə:17 ɨ:15 ɔ:15
+rosettaproject_ian_swadesh-1	ian	Iatmul	ipa_dense	509	1039	11	1	0	0	a:347 y:151 i:136 ə:136 e:76 u:62 ɨ:61 ʌ:56 o:7 ɛ:4 ɪ:3
+rosettaproject_ibd_swadesh-1	ibd	Iwaidja	ipa_dense	342	996	7	1	0	0	a:489 u:254 i:207 y:33 o:11 e:1 ø:1
+rosettaproject_ihp_swadesh-1	ihp	Iha	light_ipa	767	2025	7	2	0	0	a:551 e:529 o:428 i:262 u:173 ə:53 y:29
+rosettaproject_ikx_swadesh-1	ikx	Ik	ipa_dense	110	199	9	0	0	0	a:83 u:26 i:23 e:20 ɛ:18 o:14 ɔ:13 y:1 ɪ:1
+rosettaproject_imi_swadesh-1	imi	Anamgura	ipa_dense	388	1075	12	0	0	0	a:437 u:272 i:155 e:47 ʉ:37 ʌ:36 o:27 y:22 ə:20 ɨ:17 ɛ:4 ɔ:1
+rosettaproject_imn_swadesh-1	imn	Imonda	ipa_dense	315	612	12	0	2	0	a:165 e:134 o:78 u:70 i:69 ɒ:45 ə:22 y:12 ɔ:9 ɛ:4 ʉ:2 ɨ:2
+rosettaproject_imo_swadesh-1	imo	Imbongu	light_ipa	132	334	7	3	0	1	a:80 o:73 i:66 u:53 e:50 y:11 ə:1
+rosettaproject_iou_swadesh-1	iou	Tuma-Irumu	ipa_dense	50	90	9	0	0	0	i:22 u:13 ʌ:12 e:10 o:10 a:10 ɔ:10 y:2 ɛ:1
+rosettaproject_ipo_swadesh-1	ipo	Ipiko	light_ipa	252	704	9	0	0	17	a:195 o:165 i:149 e:89 u:67 ɛ:23 y:12 ɔ:3 ʌ:1
+rosettaproject_irh_swadesh-1	irh	Irarutu	ipa_dense	177	501	10	0	0	0	ə:178 a:109 u:53 i:50 ɛ:33 e:30 o:26 ɔ:19 y:2 ɯ:1
+rosettaproject_irk_swadesh-1	irk	Iraqw	ipa_dense	454	985	10	4	0	10	a:443 i:162 o:116 e:110 u:102 y:36 ɛ:8 ə:5 ɔ:2 ɪ:1
+rosettaproject_irx_swadesh-1	irx	Kamberau	light_ipa	218	676	7	0	0	0	a:320 e:142 u:67 i:65 o:54 y:20 ə:8
+rosettaproject_isa_swadesh-1	isa	Isabi	light_ipa	274	694	10	0	0	0	e:173 a:150 i:131 o:84 u:74 ɛ:41 ʌ:24 y:15 ɨ:1 ɔ:1
+rosettaproject_isd_swadesh-1	isd	Isnag	light_ipa	184	481	7	14	0	0	a:273 u:84 i:77 y:28 e:11 o:7 ə:1
+rosettaproject_itr_swadesh-1	itr	Iteri	ipa_dense	122	287	11	0	0	2	a:75 i:69 u:40 e:39 o:23 ʌ:13 y:9 ɛ:7 ɪ:7 ʊ:4 æ:1
+rosettaproject_itx_swadesh-1	itx	Itik	light_ipa	335	837	7	4	0	0	e:306 a:188 i:113 o:101 u:92 ɛ:23 y:14
+rosettaproject_iwm_swadesh-1	iwm	Iwam	light_ipa	160	302	9	0	0	2	a:88 i:60 e:51 u:32 o:27 y:26 ə:16 ʌ:1 ɛ:1
+rosettaproject_jae_swadesh-1	jae	Yabem	ipa_dense	182	418	9	0	0	8	a:176 e:73 u:40 o:38 ɛ:29 y:22 ɔ:20 i:18 ə:2
+rosettaproject_jao_swadesh-1	jao	Yanyuwa	light_ipa	398	1403	8	1	0	0	a:645 u:216 i:209 o:186 e:84 y:56 ɔ:6 ɪ:1
+rosettaproject_jav_swadesh-1	jav	Javanese	ipa_dense	201	448	9	0	0	0	a:116 u:90 i:81 ə:60 ɔ:49 e:20 o:14 ɛ:13 y:5
+rosettaproject_jay_swadesh-1	jay	Yan-nhangu	ipa_dense	264	731	10	4	0	0	a:342 u:183 i:135 y:31 o:17 ɔ:11 e:7 ɛ:2 ʊ:2 ɪ:1
+rosettaproject_jbn_swadesh-1	jbn	Nafusi	ipa_dense	99	211	7	0	0	0	ə:62 a:52 i:49 u:37 o:6 ɑ:3 y:2
+rosettaproject_jeh_swadesh-1	jeh	Jeh	ipa_dense	90	151	8	16	0	0	a:44 i:30 u:23 ə:23 o:19 e:7 y:3 ɛ:2
+rosettaproject_jel_swadesh-1	jel	Yelmek	light_ipa	503	1137	7	0	0	6	a:275 o:265 e:260 i:131 u:105 y:70 ɛ:31
+rosettaproject_jig_swadesh-1	jig	Djingili	ipa_dense	391	1224	4	3	0	0	a:537 i:356 u:293 y:38
+rosettaproject_jil_swadesh-1	jil	Jilim	light_ipa	343	732	11	0	0	0	i:161 a:155 u:137 o:114 e:66 y:37 ɛ:29 ʌ:25 ø:5 ə:2 ɔ:1
+rosettaproject_jko_swadesh-1	jko	Kubo	ipa_dense	247	715	10	1	3	11	o:208 i:142 a:95 ɔ:91 y:66 u:62 e:41 ʌ:5 ɛ:3 ə:2
+rosettaproject_jle_swadesh-1	jle	Ngile	ipa_dense	199	456	12	17	0	37	ɔ:84 a:83 ɛ:67 i:54 ʊ:44 u:43 ɪ:31 ə:24 e:12 o:7 y:4 ɒ:3
+rosettaproject_jng_swadesh-1	jng	Yangman	ipa_dense	240	786	9	0	0	1	a:328 i:193 u:127 e:59 o:37 y:36 ɛ:4 ɔ:1 ə:1
+rosettaproject_jnj_swadesh-1	jnj	Yemsa	ipa_dense	97	205	11	29	0	0	a:96 u:25 o:23 i:15 e:11 ɔ:11 ɛ:6 ʊ:5 ə:5 y:5 ɪ:3
+rosettaproject_jpn_swadesh-1	jpn	Japanese	native:Kana	78	170	5	2	0	0	a:49 i:44 ɯ:34 o:28 e:15
+rosettaproject_jum_swadesh-1	jum	Jumjum	ipa_dense	96	205	10	4	0	7	ə:46 a:42 i:38 e:21 ɛ:13 y:13 ɔ:10 u:9 o:8 ʊ:5
+rosettaproject_jun_swadesh-1	jun	Juang	light_ipa	90	187	5	0	1	0	o:56 a:53 i:29 u:25 e:24
+rosettaproject_kab_swadesh-1	kab	Kabyle	ipa_dense	147	280	7	0	0	0	a:106 ə:59 i:58 u:33 e:21 o:2 y:1
+rosettaproject_kap_swadesh-1	kap	Bezhta	light_ipa	117	212	5	0	2	0	o:77 i:49 a:43 e:26 u:17
+rosettaproject_kbd_swadesh-1	kbd	Kabardian	ipa_dense	113	169	6	11	0	0	a:102 ə:61 e:3 o:1 u:1 i:1
+rosettaproject_kbe_swadesh-1	kbe	Kanju	light_ipa	94	238	4	0	0	0	a:108 u:67 i:40 y:23
+rosettaproject_kbl_swadesh-1	kbl	Kanembu	ipa_dense	120	232	11	9	0	26	i:64 u:62 a:48 ə:13 ɔ:10 o:9 ɛ:8 e:8 y:7 ɪ:2 æ:1
+rosettaproject_kbq_swadesh-1	kbq	Kamano	ipa_dense	307	1008	8	0	0	1	a:456 e:232 i:107 o:105 u:66 y:40 ə:1 ø:1
+rosettaproject_kbr_swadesh-1	kbr	Kafa	ipa_dense	99	222	11	35	0	0	o:80 a:44 e:25 i:20 ɛ:20 u:11 ɪ:7 y:7 ɔ:5 ʊ:2 ə:1
+rosettaproject_kbv_swadesh-1	kbv	Dera	light_ipa	371	1091	7	0	0	0	a:442 e:231 o:156 u:100 i:98 y:39 ə:25
+rosettaproject_kbx_swadesh-1	kbx	Ap Ma	ipa_dense	154	396	12	0	0	0	a:139 e:59 ə:40 o:38 i:32 u:29 y:29 ʊ:14 ɪ:5 ɛ:5 ʌ:4 ɔ:2
+rosettaproject_kcm_swadesh-1	kcm	Gula	ipa_dense	52	91	7	4	0	26	a:45 i:24 e:6 ɛ:6 u:5 y:4 o:1
+rosettaproject_kcn_swadesh-1	kcn	Nubi	light_ipa	94	233	5	0	0	46	a:102 u:53 i:36 e:28 o:14
+rosettaproject_kcp_swadesh-1	kcp	Kanga	ipa_dense	137	351	11	15	0	30	i:109 a:73 u:52 ɔ:35 ɛ:34 y:19 ʊ:14 o:8 e:3 ɒ:2 ɪ:2
+rosettaproject_kcr_swadesh-1	kcr	Katla	ipa_dense	92	161	12	0	0	1	a:46 ɛ:23 o:18 i:17 ɪ:15 ɔ:14 ʊ:11 u:7 e:5 y:2 ə:2 ʌ:1
+rosettaproject_kct_swadesh-1	kct	Kayan	light_ipa	162	375	8	2	0	0	a:165 i:69 u:51 o:38 e:26 ɛ:14 y:10 ʌ:2
+rosettaproject_kcx_swadesh-1	kcx	Kachama-Ganjule	ipa_dense	96	200	10	35	0	0	a:73 e:30 o:27 u:20 i:18 y:10 ɪ:8 ɔ:7 ɛ:4 ʊ:3
+rosettaproject_kec_swadesh-1	kec	Keiga	ipa_dense	285	752	11	6	0	38	a:222 i:178 ɔ:75 ɛ:71 ʊ:57 u:55 y:30 ɪ:29 ə:12 e:12 o:11
+rosettaproject_keg_swadesh-1	keg	Tese	ipa_dense	14	30	7	0	0	6	i:9 a:8 o:7 ɔ:3 u:1 ʊ:1 e:1
+rosettaproject_kew_swadesh-1	kew	Kewa, West	light_ipa	232	596	6	7	0	1	a:281 i:109 e:84 u:53 o:49 y:20
+rosettaproject_kfa_swadesh-1	kfa	Kodava	ipa_dense	83	157	8	16	0	0	a:49 ɨ:30 e:25 i:20 o:13 u:13 y:4 ɛ:3
+rosettaproject_kfp_swadesh-1	kfp	Korwa	light_ipa	85	146	5	2	0	0	a:54 i:31 u:22 o:20 e:19
+rosettaproject_kgf_swadesh-1	kgf	Kube	light_ipa	201	421	11	0	0	0	e:113 a:103 i:94 o:63 u:35 ʌ:5 y:2 ɨ:2 ɛ:2 ɔ:1 ɪ:1
+rosettaproject_kgg_swadesh-1	kgg	Kusunda	ipa_dense	494	1332	7	8	0	0	a:454 i:372 u:145 ə:143 o:119 y:68 e:31
+rosettaproject_kgl_swadesh-1	kgl	Kunggari	light_ipa	246	625	4	0	0	0	a:316 u:178 i:93 y:38
+rosettaproject_kgo_swadesh-1	kgo	Krongo	ipa_dense	644	1862	12	18	0	60	a:574 i:452 o:206 u:153 ɔ:120 ʊ:102 y:97 ɪ:91 e:29 ɛ:24 ʌ:12 ɯ:2
+rosettaproject_kgr_swadesh-1	kgr	Abun	light_ipa	525	880	11	2	0	3	u:186 a:186 e:178 o:148 i:133 y:29 ɛ:11 ə:3 ɪ:2 ɔ:2 ʊ:2
+rosettaproject_kgs_swadesh-1	kgs	Kumbainggar	ipa_dense	329	835	6	20	0	0	a:404 u:181 i:166 y:81 ɪ:2 e:1
+rosettaproject_kgw_swadesh-1	kgw	Karon Dori	light_ipa	113	242	8	3	0	4	a:97 e:44 i:27 u:23 o:22 y:20 ɛ:8 ɪ:1
+rosettaproject_kib_swadesh-1	kib	Koalib	ipa_dense	309	565	13	13	0	28	a:147 u:137 i:120 y:60 ɛ:28 ɔ:16 ʊ:14 ɪ:13 ə:13 ʌ:10 ɯ:3 æ:3 e:1
+rosettaproject_kie_swadesh-1	kie	Kibet	ipa_dense	172	400	11	2	0	28	i:85 a:75 ʌ:55 u:36 ɔ:31 ɪ:31 o:30 e:28 ɛ:15 y:12 ə:2
+rosettaproject_kig_swadesh-1	kig	Kimaghima	light_ipa	458	1236	7	0	0	0	a:361 u:210 e:192 o:172 i:158 ɛ:86 y:57
+rosettaproject_kij_swadesh-1	kij	Kilivila	light_ipa	181	578	6	0	0	0	a:237 i:110 u:108 o:52 e:38 y:33
+rosettaproject_kiq_swadesh-1	kiq	Kosare	ipa_dense	172	445	10	1	1	15	i:95 a:82 o:81 e:76 ɛ:54 u:28 ɔ:11 ɪ:10 ə:7 ʊ:1
+rosettaproject_kiw_swadesh-1	kiw	Kiwai, Northeast	ipa_dense	713	2074	10	9	0	14	o:554 a:428 i:349 u:345 e:248 ʌ:68 ɛ:56 ɪ:10 y:8 ɔ:8
+rosettaproject_kiy_swadesh-1	kiy	Kirikiri	light_ipa	389	913	9	0	0	0	a:271 i:193 e:146 u:129 o:104 y:36 ɛ:17 ɔ:14 ə:3
+rosettaproject_kjc_swadesh-1	kjc	Konjo, Coastal	ipa_dense	183	521	6	0	0	0	a:225 u:90 o:77 i:70 e:58 y:1
+rosettaproject_kjd_swadesh-1	kjd	Kiwai, Southern	light_ipa	930	3194	5	1	0	0	o:905 a:794 i:668 u:534 e:293
+rosettaproject_kjg_swadesh-1	kjg	Khmu	ipa_dense	176	256	9	20	0	0	a:64 ə:52 i:31 u:25 ɔ:25 ɨ:22 o:18 e:17 ɛ:2
+rosettaproject_kjj_swadesh-1	kjj	Khinalugh	ipa_dense	111	172	6	0	0	0	i:60 a:56 u:26 ɨ:20 o:8 e:2
+rosettaproject_kjs_swadesh-1	kjs	Kewa, East	light_ipa	86	178	6	6	0	1	a:82 i:40 e:21 u:18 o:11 y:6
+rosettaproject_kjx_swadesh-1	kjx	Ramopa	ipa_dense	151	623	11	0	0	0	a:276 o:99 i:93 u:72 ɛ:35 e:29 y:8 ɪ:4 ɑ:4 ʊ:2 ɔ:1
+rosettaproject_kjy_swadesh-1	kjy	Erave	light_ipa	389	1017	6	0	0	0	a:405 e:192 i:190 u:105 o:95 y:30
+rosettaproject_kkb_swadesh-1	kkb	Kwerisa	light_ipa	41	93	6	2	0	0	a:31 i:28 e:13 o:12 u:8 ə:1
+rosettaproject_kkc_swadesh-1	kkc	Odoodee	ipa_dense	294	802	9	0	7	15	ɔ:170 o:138 i:134 u:122 a:95 e:88 y:39 ɛ:14 ʌ:2
+rosettaproject_kkl_swadesh-1	kkl	Yale, Kosarek	ipa_dense	984	2288	12	0	0	0	a:488 o:384 i:346 e:282 ɑ:267 u:230 ɛ:217 y:51 ɔ:16 ə:3 ɪ:3 ɨ:1
+rosettaproject_kky_swadesh-1	kky	Guguyimidjir	ipa_dense	459	1104	5	17	0	0	a:476 u:340 i:207 y:80 o:1
+rosettaproject_kld_swadesh-1	kld	Gamilaraay	light_ipa	272	683	5	5	0	0	a:305 i:156 u:155 y:66 e:1
+rosettaproject_klm_swadesh-1	klm	Kolom	ipa_dense	343	735	10	0	0	0	e:171 u:112 a:104 i:101 ʌ:98 o:82 y:34 ɛ:20 ɔ:12 ø:1
+rosettaproject_klt_swadesh-1	klt	Nukna	ipa_dense	85	157	9	0	0	0	a:36 ʌ:34 u:25 i:19 e:15 ɔ:13 o:8 y:5 ɛ:2
+rosettaproject_klz_swadesh-1	klz	Kabola	light_ipa	344	746	12	0	0	7	a:228 i:136 e:95 u:77 o:74 y:44 ɑ:35 ɔ:30 ɛ:22 ʊ:2 ɪ:2 ə:1
+rosettaproject_kmf_swadesh-1	kmf	Kare	ipa_dense	407	1037	10	6	0	0	a:309 i:174 u:156 e:135 o:117 ʌ:66 ɛ:43 y:24 ɔ:11 ø:2
+rosettaproject_kmh_swadesh-1	kmh	Kalam	ipa_dense	63	116	8	0	0	0	ə:38 a:28 i:21 y:13 e:6 u:5 o:4 ɛ:1
+rosettaproject_kmn_swadesh-1	kmn	Awtuw	light_ipa	389	1018	7	0	0	0	a:272 e:230 y:199 i:143 o:111 u:39 ə:24
+rosettaproject_kmo_swadesh-1	kmo	Kwoma	ipa_dense	493	1330	10	0	0	0	a:461 i:178 o:156 y:141 ə:133 u:112 ɛ:81 e:66 ʌ:1 ʊ:1
+rosettaproject_kmq_swadesh-1	kmq	Kwama	ipa_dense	276	505	11	21	0	1	a:159 i:111 u:84 ɔ:30 o:29 y:25 e:20 ɛ:14 ɪ:13 ə:13 ʊ:7
+rosettaproject_kms_swadesh-1	kms	Kamasau	light_ipa	600	1299	10	0	0	0	i:368 a:254 e:220 u:179 o:133 y:124 ɨ:14 ʌ:3 ɛ:3 ʊ:1
+rosettaproject_kmt_swadesh-1	kmt	Kemtuik	light_ipa	435	910	13	0	0	0	a:222 u:177 e:152 o:137 i:133 y:29 ɔ:18 ə:12 ʌ:11 ɛ:10 ʉ:5 ɪ:2 ɨ:2
+rosettaproject_knc_swadesh-1	knc	Kanuri, Central	ipa_dense	459	1179	8	0	0	46	a:377 i:271 ə:183 u:174 o:69 e:66 y:38 ɪ:1
+rosettaproject_knf_swadesh-1	knf	Mankanya	ipa_dense	256	639	8	32	0	33	a:177 u:115 i:88 e:79 o:71 ɛ:44 ɔ:36 y:29
+rosettaproject_kns_swadesh-1	kns	Kensiu	ipa_dense	101	160	9	0	1	0	a:50 ə:26 i:22 ɛ:17 ɔ:16 u:12 e:7 ɨ:6 o:4
+rosettaproject_knw_swadesh-1	knw	Kung-Ekoka	light_ipa	298	417	11	11	0	1	a:151 u:83 i:69 e:59 o:27 ɔ:15 ʌ:6 ɛ:3 y:2 ə:1 ɑ:1
+rosettaproject_koe_swadesh-1	koe	Kacipo-Balesi	light_ipa	81	207	8	0	0	2	a:44 i:39 e:32 o:31 u:26 ɪ:15 y:13 ɛ:7
+rosettaproject_kol_swadesh-1	kol	Kol	ipa_dense	161	399	8	15	0	0	o:96 e:94 a:80 i:67 u:39 ɒ:17 ɛ:5 y:1
+rosettaproject_kop_swadesh-1	kop	Kwato	light_ipa	332	854	11	6	0	0	a:213 i:187 u:157 e:103 o:93 y:38 ʌ:38 ɛ:20 ɔ:3 ø:1 ɪ:1
+rosettaproject_koz_swadesh-1	koz	Korak	light_ipa	351	738	11	1	0	0	a:210 u:134 i:122 e:99 o:81 ɛ:41 ʌ:38 y:7 ø:4 ɔ:1 ə:1
+rosettaproject_kpf_swadesh-1	kpf	Komba	ipa_dense	237	448	10	1	0	14	a:165 i:77 ɑ:59 u:44 e:34 ʌ:32 o:31 ɔ:3 y:2 ɛ:1
+rosettaproject_kpq_swadesh-1	kpq	Korupun-Sela	light_ipa	54	130	7	1	0	0	i:46 a:41 u:21 o:9 e:8 y:3 ʌ:2
+rosettaproject_kpr_swadesh-1	kpr	Korafe-Yegha	light_ipa	219	516	8	0	0	0	a:172 o:103 i:92 e:81 u:61 y:5 ə:1 ʌ:1
+rosettaproject_kps_swadesh-1	kps	Tehit	light_ipa	955	2110	8	2	0	14	a:671 e:456 o:387 i:367 y:126 u:101 ɛ:1 ɑ:1
+rosettaproject_kpu_swadesh-1	kpu	Kafoa	ipa_dense	190	524	9	0	0	7	a:120 i:108 u:77 y:61 ɑ:55 e:50 o:20 ɛ:20 ɔ:13
+rosettaproject_kpw_swadesh-1	kpw	Kobon	ipa_dense	465	1001	11	0	0	3	a:340 i:127 u:106 ə:106 ɨ:104 e:76 ʌ:52 o:38 y:27 ɪ:17 ʊ:8
+rosettaproject_kqb_swadesh-1	kqb	Kovai	light_ipa	38	71	7	0	0	0	a:23 o:15 u:12 i:10 e:7 y:2 ɔ:2
+rosettaproject_kqi_swadesh-1	kqi	Koitabu	light_ipa	770	2411	6	0	0	0	a:959 i:430 o:348 e:324 u:315 y:35
+rosettaproject_kqj_swadesh-1	kqj	Koromira	light_ipa	271	679	7	4	0	5	a:304 i:146 u:93 o:67 e:61 ɛ:6 y:2
+rosettaproject_krs_swadesh-1	krs	Gbaya	ipa_dense	402	896	11	4	0	28	i:199 a:186 ɔ:123 u:115 o:111 ɛ:80 e:58 y:19 ɑ:2 ə:2 ɪ:1
+rosettaproject_ksd_swadesh-1	ksd	Kuanua	ipa_dense	183	429	6	2	0	0	ə:105 u:92 i:83 a:76 o:47 e:26
+rosettaproject_ksj_swadesh-1	ksj	Uare	ipa_dense	396	1139	9	0	0	12	a:359 u:162 o:157 i:134 e:132 ɛ:129 ɪ:63 ɒ:2 ø:1
+rosettaproject_ksr_swadesh-1	ksr	Borong	light_ipa	224	504	8	5	0	0	a:173 o:149 e:78 i:64 u:33 y:3 ɔ:3 ɛ:1
+rosettaproject_ktb_swadesh-1	ktb	Kambaata	ipa_dense	329	567	11	9	0	0	a:233 o:89 i:88 u:68 e:39 ɛ:30 ɔ:7 y:6 ɪ:4 ʊ:2 ɨ:1
+rosettaproject_ktg_swadesh-1	ktg	Kalkutung	ipa_dense	343	973	4	4	0	0	a:390 u:280 i:265 y:38
+rosettaproject_kto_swadesh-1	kto	Kuot	ipa_dense	442	1087	12	0	0	0	a:353 i:212 u:146 ʌ:133 o:67 e:65 ɔ:41 ɛ:23 ʊ:17 ɪ:16 ə:12 y:2
+rosettaproject_kux_swadesh-1	kux	Kukatja	ipa_dense	17	40	6	2	0	0	u:16 a:12 i:6 y:3 ɔ:2 e:1
+rosettaproject_kuy_swadesh-1	kuy	Kuuku-Ya'u	ipa_dense	61	164	4	10	0	0	a:80 u:44 i:29 y:11
+rosettaproject_kvo_swadesh-1	kvo	Dobel	ipa_dense	182	480	8	0	0	0	a:258 y:64 u:61 i:53 e:24 o:18 ɯ:1 ɛ:1
+rosettaproject_kwe_swadesh-1	kwe	Kwerba	light_ipa	594	1603	8	1	0	4	a:630 i:348 e:283 o:166 u:141 y:17 ɛ:15 ə:3
+rosettaproject_kwl_swadesh-1	kwl	Kofyar	light_ipa	67	90	6	0	0	44	a:37 ə:14 u:13 e:10 i:9 o:7
+rosettaproject_kwo_swadesh-1	kwo	Kwomtari	ipa_dense	306	994	9	0	0	0	i:228 a:209 e:147 u:129 o:106 ə:105 ɪ:33 y:30 ɛ:7
+rosettaproject_kxc_swadesh-1	kxc	Konso	ipa_dense	97	215	9	4	0	0	a:113 i:25 ɨ:18 o:14 u:13 y:13 ɛ:11 e:5 ɪ:3
+rosettaproject_kxh_swadesh-1	kxh	Karo	light_ipa	54	113	9	1	0	0	i:38 a:31 u:15 o:12 ə:5 e:5 ɨ:4 ɛ:2 y:1
+rosettaproject_kxv_swadesh-1	kxv	Kuvi	light_ipa	71	169	6	31	0	0	a:53 i:46 u:31 e:19 o:12 y:8
+rosettaproject_kxw_swadesh-1	kxw	Konai	ipa_dense	174	464	8	0	6	12	i:94 e:88 o:74 ɔ:67 u:59 a:40 ʌ:30 y:12
+rosettaproject_kxz_swadesh-1	kxz	Kerewo	light_ipa	311	917	7	0	0	0	o:274 a:235 i:173 u:134 e:97 ɛ:2 y:2
+rosettaproject_kyo_swadesh-1	kyo	Kelon	ipa_dense	267	543	11	1	0	14	a:144 e:112 i:79 u:60 ɛ:42 y:31 ɑ:26 o:24 ə:11 ɔ:9 ɪ:5
+rosettaproject_kyt_swadesh-1	kyt	Kayagar	light_ipa	114	256	7	1	0	0	a:94 e:56 o:41 i:30 u:21 y:11 ə:3
+rosettaproject_kyx_swadesh-1	kyx	Rapoisi	light_ipa	354	1257	8	1	0	0	a:442 i:259 o:217 u:200 e:83 ɛ:46 y:7 ɪ:3
+rosettaproject_kzf_swadesh-1	kzf	Kaili, Da'a	americanist	184	529	6	0	0	0	a:208 u:97 o:89 i:73 e:56 y:6
+rosettaproject_laf_swadesh-1	laf	Lafofa	ipa_dense	567	1456	16	10	0	16	i:449 a:218 ɛ:173 ɔ:117 u:102 ɪ:99 e:70 ʊ:67 ɑ:51 ə:46 y:29 o:21 œ:5 ʌ:4 ɒ:4 ɜ:1
+rosettaproject_lbe_swadesh-1	lbe	Lak	light_ipa	114	203	3	0	0	0	a:107 u:56 i:40
+rosettaproject_ldm_swadesh-1	ldm	Landoma	ipa_dense	151	329	9	31	0	32	a:150 e:39 i:38 u:31 o:27 ɛ:20 ə:13 ɔ:9 y:2
+rosettaproject_lei_swadesh-1	lei	Lemio	ipa_dense	328	689	12	2	0	0	i:151 e:146 u:113 a:82 ʌ:59 o:47 ɛ:39 y:32 ə:13 ɔ:4 ø:2 ɨ:1
+rosettaproject_lep_swadesh-1	lep	Lepcha	ipa_dense	111	199	11	0	0	4	o:35 ə:34 i:31 u:31 a:19 y:18 ɑ:14 e:11 ɔ:4 ɘ:1 ɨ:1
+rosettaproject_leq_swadesh-1	leq	Lembena	ipa_dense	297	915	11	1	0	0	a:326 i:158 e:147 ɛ:61 o:59 u:48 ə:43 y:28 ɪ:23 ʊ:11 ɔ:11
+rosettaproject_lev_swadesh-1	lev	Lamma	light_ipa	327	781	11	0	0	8	a:332 i:123 u:115 e:65 ɑ:59 y:50 o:18 ɛ:13 ɔ:4 ʊ:1 ɪ:1
+rosettaproject_lgn_swadesh-1	lgn	Opuuo	ipa_dense	239	471	11	3	0	0	a:150 i:114 u:49 e:42 o:41 ɔ:24 y:20 ɛ:16 ə:7 ɪ:5 ʊ:3
+rosettaproject_lgt_swadesh-1	lgt	Pahi	ipa_dense	55	160	7	0	0	1	a:43 u:31 y:28 e:24 i:24 o:8 ə:2
+rosettaproject_lid_swadesh-1	lid	Nyindrou	ipa_dense	181	423	8	0	0	0	a:164 i:69 u:64 e:58 o:54 y:10 ɔ:2 ɛ:2
+rosettaproject_liq_swadesh-1	liq	Libido	ipa_dense	81	192	9	18	0	0	a:46 e:41 o:31 u:25 ɛ:21 i:17 y:5 ɪ:4 ʊ:2
+rosettaproject_liu_swadesh-1	liu	Logorik	ipa_dense	173	366	7	8	0	0	a:119 o:57 e:55 u:45 ə:44 i:38 y:8
+rosettaproject_lkl_swadesh-1	lkl	Laeko-Libuat	light_ipa	20	67	7	1	0	16	i:19 a:18 u:14 y:12 o:2 e:1 ɛ:1
+rosettaproject_llu_swadesh-1	llu	Lau	light_ipa	178	491	7	3	0	0	a:190 o:91 u:79 i:75 e:53 ə:2 ɔ:1
+rosettaproject_lml_swadesh-1	lml	Hano	ipa_dense	167	446	5	0	0	0	a:166 i:109 u:63 o:58 e:50
+rosettaproject_lnj_swadesh-1	lnj	Leningitij	ipa_dense	224	445	6	0	0	0	a:190 i:107 o:73 y:56 u:18 e:1
+rosettaproject_loa_swadesh-1	loa	Loloda	ipa_dense	454	1365	10	0	0	0	a:378 o:311 i:233 u:189 e:118 ɔ:71 ɑ:28 ɛ:20 ə:13 y:4
+rosettaproject_lof_swadesh-1	lof	Logol	ipa_dense	283	509	13	15	0	51	u:114 a:110 i:101 ɔ:62 ɛ:55 y:26 ʊ:17 ɪ:11 ə:7 ʌ:3 ɤ:1 o:1 ø:1
+rosettaproject_lot_swadesh-1	lot	Otuho	ipa_dense	10	30	9	6	0	50	a:11 o:6 i:5 ɛ:2 ɔ:2 u:1 y:1 e:1 ɪ:1
+rosettaproject_lrg_swadesh-1	lrg	Laragia	light_ipa	490	1604	11	1	0	0	a:741 i:375 u:232 o:100 e:90 y:40 ʉ:11 ɛ:10 ə:3 ɪ:1 ɔ:1
+rosettaproject_lro_swadesh-1	lro	Laro	ipa_dense	181	300	13	10	0	45	a:64 u:64 i:63 y:40 ɛ:25 ɔ:19 ə:10 ʊ:7 ɪ:3 ʌ:2 ɯ:1 o:1 ø:1
+rosettaproject_luf_swadesh-1	luf	Laua	light_ipa	93	270	6	0	0	0	a:118 u:41 e:40 o:40 i:28 y:3
+rosettaproject_luo_swadesh-1	luo	Dholuo	light_ipa	33	68	9	0	0	0	o:19 a:19 i:10 y:6 e:5 u:4 ɪ:3 ɔ:1 ɛ:1
+rosettaproject_lwo_swadesh-1	lwo	Luwo	ipa_dense	26	38	11	18	0	0	a:7 i:7 o:6 e:5 æ:3 ɔ:2 ə:2 ɪ:2 y:2 ʊ:1 u:1
+rosettaproject_lww_swadesh-1	lww	Lewo	light_ipa	181	532	6	1	0	0	a:186 i:135 u:87 e:62 o:44 y:18
+rosettaproject_mad_swadesh-1	mad	Madura	ipa_dense	185	422	7	0	0	0	a:168 u:110 i:100 ə:36 e:3 y:3 o:2
+rosettaproject_mah_swadesh-1	mah	Marshallese	ipa_dense	181	328	14	5	0	0	a:72 i:64 e:41 o:34 u:24 ɔ:18 ɛ:17 æ:14 ʌ:13 ɒ:9 ə:9 ɨ:8 ɯ:4 y:1
+rosettaproject_mas_swadesh-1	mas	Maasai	light_ipa	45	147	9	0	0	55	o:42 i:32 a:31 e:16 u:9 ɛ:6 y:5 ɔ:4 ɪ:2
+rosettaproject_mci_swadesh-1	mci	Mesem	ipa_dense	245	449	10	0	1	0	a:115 e:93 i:81 ə:56 o:39 ʌ:33 u:20 y:8 ɔ:3 ɛ:1
+rosettaproject_mcv_swadesh-1	mcv	Minanibai	light_ipa	215	664	9	0	0	0	i:166 o:154 a:144 u:104 e:87 ɛ:4 ɔ:2 y:2 ə:1
+rosettaproject_mcz_swadesh-1	mcz	Mawan	ipa_dense	363	780	11	8	0	0	a:220 u:143 e:137 i:127 o:55 ʌ:44 ɛ:41 y:9 ə:2 ø:1 ɔ:1
+rosettaproject_mdb_swadesh-1	mdb	Morigi	light_ipa	217	657	5	0	0	0	o:184 a:174 i:129 u:87 e:83
+rosettaproject_mdc_swadesh-1	mdc	Male	light_ipa	350	774	10	1	0	0	a:202 i:153 o:114 u:112 e:92 ɛ:48 ʌ:29 y:21 ɔ:2 ø:1
+rosettaproject_mde_swadesh-1	mde	Maba	ipa_dense	564	1263	10	6	0	16	a:333 i:317 u:200 o:125 e:117 ʌ:47 ɔ:45 y:44 ɛ:26 ɪ:9
+rosettaproject_mdf_swadesh-1	mdf	Moksha	native:Cyrillic	194	353	6	0	0	0	a:129 e:66 o:52 æ:40 i:36 u:30
+rosettaproject_mdj_swadesh-1	mdj	Mangbetu	ipa_dense	337	924	10	2	0	44	a:201 ɛ:177 i:112 u:108 o:105 e:97 ɔ:93 y:11 ʊ:10 ɪ:10
+rosettaproject_mds_swadesh-1	mds	Maria	ipa_dense	1031	3494	10	0	0	12	a:1226 o:560 u:486 i:456 e:319 ɛ:241 y:127 ɪ:75 ø:3 ɑ:1
+rosettaproject_mdx_swadesh-1	mdx	Dizi	ipa_dense	101	204	10	12	0	0	u:51 a:39 o:28 i:26 ɪ:21 y:13 ɛ:12 e:5 ə:5 ʊ:4
+rosettaproject_mdy_swadesh-1	mdy	Male	ipa_dense	99	205	12	19	0	0	i:61 a:42 e:21 u:15 ɛ:14 o:13 ɔ:11 y:9 ʊ:9 ɪ:5 ə:4 ɨ:1
+rosettaproject_meb_swadesh-1	meb	Ikobi-Mena	light_ipa	293	992	10	0	0	0	a:285 i:176 u:153 o:149 e:124 y:40 ʌ:25 ɛ:24 ə:9 ɔ:7
+rosettaproject_mec_swadesh-1	mec	Mara	ipa_dense	583	1811	9	1	0	0	a:823 i:440 u:413 y:107 o:14 ɔ:7 e:5 ə:1 ɒ:1
+rosettaproject_med_swadesh-1	med	Melpa	americanist	154	310	7	1	0	2	a:87 i:74 o:61 u:50 e:31 y:6 ə:1
+rosettaproject_mej_swadesh-1	mej	Meyah	light_ipa	618	1527	9	2	0	3	e:377 a:310 o:291 i:266 u:190 y:48 ɛ:39 ɔ:5 ɑ:1
+rosettaproject_mek_swadesh-1	mek	Mekeo	light_ipa	202	660	5	0	0	0	a:283 i:134 e:96 u:82 o:65
+rosettaproject_mem_swadesh-1	mem	Mangala	ipa_dense	28	70	4	2	0	0	a:39 i:17 u:11 o:3
+rosettaproject_mep_swadesh-1	mep	Miriwung	ipa_dense	17	43	5	9	0	0	a:24 i:11 u:6 y:1 ɔ:1
+rosettaproject_meu_swadesh-1	meu	Motu	light_ipa	182	567	6	0	0	0	a:278 i:107 u:83 o:57 e:40 ə:2
+rosettaproject_mfc_swadesh-1	mfc	Mba	ipa_dense	227	497	8	0	0	70	e:146 a:85 ɔ:64 i:63 ɛ:52 u:36 o:36 y:15
+rosettaproject_mfr_swadesh-1	mfr	Marithiel	ipa_dense	174	441	7	0	0	0	i:180 a:125 u:69 e:38 y:24 ə:4 ø:1
+rosettaproject_mfv_swadesh-1	mfv	Mandjak	ipa_dense	91	212	8	35	0	33	a:86 u:32 i:32 e:17 ɛ:16 o:11 y:9 ɔ:9
+rosettaproject_mfz_swadesh-1	mfz	Mabaan	ipa_dense	95	214	10	6	0	0	i:34 ə:28 ɛ:28 ʊ:26 a:25 ɔ:20 e:20 y:16 u:14 o:3
+rosettaproject_mgb_swadesh-1	mgb	Mararit	ipa_dense	54	102	8	12	0	19	i:25 a:23 e:23 y:10 u:9 o:8 ɔ:3 ɛ:1
+rosettaproject_mgu_swadesh-1	mgu	Mailu	light_ipa	708	2323	6	0	0	0	a:932 i:460 u:359 o:303 e:267 y:2
+rosettaproject_mhd_swadesh-1	mhd	Mbugu	ipa_dense	242	574	10	3	0	14	a:208 i:110 u:99 o:66 e:62 ɔ:11 ɛ:9 y:4 ɪ:4 ə:1
+rosettaproject_mhf_swadesh-1	mhf	Mamaa	ipa_dense	52	108	10	0	0	0	a:25 o:21 i:19 e:17 u:9 ʌ:7 y:5 ɨ:2 ɛ:2 ɔ:1
+rosettaproject_mhg_swadesh-1	mhg	Margu	ipa_dense	250	768	9	4	0	0	a:345 i:174 u:152 y:62 o:11 ɔ:10 e:10 ɛ:3 ɪ:1
+rosettaproject_mhl_swadesh-1	mhl	Mauwake	ipa_dense	370	923	10	0	0	0	a:263 e:165 i:152 u:95 ɛ:73 o:72 ʌ:63 ɔ:23 y:14 ø:3
+rosettaproject_mid_swadesh-1	mid	Mandaic	light_ipa	93	204	8	31	0	0	a:106 e:36 o:23 i:19 y:8 ə:5 æ:5 u:2
+rosettaproject_mif_swadesh-1	mif	Mofu-Gudur	light_ipa	51	87	4	0	0	89	a:57 e:17 y:9 ə:4
+rosettaproject_min_swadesh-1	min	Minangkabau	ipa_dense	185	448	8	0	0	0	a:182 u:80 i:76 o:38 ə:30 e:29 y:12 ɯ:1
+rosettaproject_mjj_swadesh-1	mjj	Mawak	ipa_dense	390	942	11	0	0	0	e:209 i:162 a:159 u:152 ɛ:94 ʌ:88 o:60 y:12 ɔ:3 ø:2 ɪ:1
+rosettaproject_mkc_swadesh-1	mkc	Siliput	light_ipa	79	150	8	0	0	2	a:32 i:27 e:26 o:19 y:16 u:15 ə:14 ɨ:1
+rosettaproject_mkr_swadesh-1	mkr	Malas	light_ipa	320	766	10	1	0	0	a:227 u:207 i:154 e:87 ɛ:54 o:16 y:14 ɔ:5 ʌ:1 ø:1
+rosettaproject_mkz_swadesh-1	mkz	Makasae	light_ipa	207	550	7	0	0	4	a:216 i:110 u:99 e:57 o:40 ɛ:22 ɔ:6
+rosettaproject_mle_swadesh-1	mle	Manambu	ipa_dense	302	572	7	0	0	0	a:178 i:108 y:96 ə:83 e:40 ʌ:37 u:30
+rosettaproject_mlh_swadesh-1	mlh	Mape	ipa_dense	290	608	9	1	0	7	a:156 i:108 e:94 o:87 ɔ:76 u:68 y:16 ɪ:2 ɛ:1
+rosettaproject_mlp_swadesh-1	mlp	Bargam	light_ipa	318	667	8	1	0	0	a:223 i:132 u:104 e:81 o:74 y:27 ɛ:25 ø:1
+rosettaproject_mmi_swadesh-1	mmi	Musar	ipa_dense	398	955	10	6	0	0	e:210 u:173 i:150 a:144 ɛ:113 ʌ:73 o:72 y:12 ɔ:7 ø:1
+rosettaproject_mmp_swadesh-1	mmp	Siawi	ipa_dense	190	522	11	1	0	5	i:131 e:101 a:99 o:83 u:29 ɛ:26 ʌ:22 y:15 ɔ:11 ɪ:3 ʊ:2
+rosettaproject_mmq_swadesh-1	mmq	Musak	ipa_dense	396	927	12	5	0	0	u:254 a:209 i:141 e:94 o:63 ʌ:47 ʉ:47 y:31 ɛ:23 ɨ:16 ə:1 ɔ:1
+rosettaproject_mnw_swadesh-1	mnw	Mon	light_ipa	101	149	8	5	0	0	a:61 i:31 u:29 e:13 o:9 ə:3 y:2 ɔ:1
+rosettaproject_mor_swadesh-1	mor	Moro	ipa_dense	302	638	12	9	0	45	a:276 u:85 i:85 ə:46 ʊ:42 ɛ:37 ɔ:23 ɪ:17 o:9 y:8 e:7 ʌ:3
+rosettaproject_mpb_swadesh-1	mpb	Mullukmulluk	ipa_dense	221	499	6	0	0	0	a:158 i:85 u:83 e:78 ə:50 y:45
+rosettaproject_mpc_swadesh-1	mpc	Mangarayi	ipa_dense	488	1333	9	0	0	0	a:685 i:256 u:233 y:109 o:28 e:17 ɔ:2 ɒ:2 ɛ:1
+rosettaproject_mpe_swadesh-1	mpe	Majang	ipa_dense	96	194	11	31	0	3	a:36 i:27 ɔ:25 ɛ:24 e:20 u:17 y:13 o:12 ɪ:12 ʊ:6 ə:2
+rosettaproject_mph_swadesh-1	mph	Maung	ipa_dense	539	1523	8	0	0	0	a:613 u:428 i:338 y:94 o:17 ɛ:13 ɔ:11 e:9
+rosettaproject_mpj_swadesh-1	mpj	Martu Wangka	ipa_dense	31	70	5	0	0	0	a:35 u:17 i:11 y:6 o:1
+rosettaproject_mpp_swadesh-1	mpp	Migabac	ipa_dense	51	99	8	0	0	0	e:30 o:22 a:21 i:10 u:8 ɔ:5 y:2 ɛ:1
+rosettaproject_mps_swadesh-1	mps	Dadibi	light_ipa	169	436	8	0	2	0	a:112 i:110 o:90 u:52 e:47 ɛ:19 y:4 ɔ:2
+rosettaproject_mpv_swadesh-1	mpv	Mungkip	ipa_dense	47	90	9	0	0	0	a:25 i:24 u:18 ʌ:7 o:6 e:5 ɨ:2 ɛ:2 ɔ:1
+rosettaproject_mqe_swadesh-1	mqe	Matepi	ipa_dense	364	665	11	2	0	0	a:151 u:138 e:113 i:99 ɛ:64 o:53 ʌ:34 ɔ:5 ə:3 y:3 ø:2
+rosettaproject_mqo_swadesh-1	mqo	Modole	light_ipa	444	1377	10	1	0	0	a:391 o:333 i:268 u:183 e:162 ɔ:18 y:9 ɑ:7 ɛ:5 ʊ:1
+rosettaproject_mqv_swadesh-1	mqv	Mosimo	light_ipa	339	761	10	7	0	0	a:226 i:128 u:125 e:124 o:64 ʌ:41 ɛ:33 y:16 ø:3 ɔ:1
+rosettaproject_mqw_swadesh-1	mqw	Murupi	ipa_dense	372	902	11	5	0	0	a:353 u:166 i:133 e:114 ʌ:43 ɛ:42 o:23 y:20 ɔ:4 ø:3 ə:1
+rosettaproject_mqy_swadesh-1	mqy	Manggarai	light_ipa	182	384	8	2	0	0	a:141 o:63 u:55 e:50 i:46 ə:27 ɔ:1 y:1
+rosettaproject_mra_swadesh-1	mra	Mlabri	ipa_dense	89	95	9	38	0	0	a:23 ɛ:18 ɔ:10 i:9 o:9 ɨ:8 ə:8 u:6 e:4
+rosettaproject_mrf_swadesh-1	mrf	Elseng	light_ipa	418	906	9	0	0	0	e:261 a:250 o:124 i:99 u:82 y:37 ə:31 ɔ:20 ɛ:2
+rosettaproject_mrz_swadesh-1	mrz	Marind	light_ipa	804	1894	9	9	0	3	a:705 e:431 i:313 o:188 u:182 ə:30 y:25 ɔ:11 ɪ:9
+rosettaproject_msj_swadesh-1	msj	Ma	ipa_dense	223	647	8	0	0	83	a:256 ɔ:104 u:88 i:83 ɛ:53 o:36 y:22 e:5
+rosettaproject_mso_swadesh-1	mso	Mombum	light_ipa	521	1271	8	0	0	7	a:287 o:265 u:213 i:185 e:172 ɛ:76 y:71 ɔ:2
+rosettaproject_msx_swadesh-1	msx	Moresada	ipa_dense	499	1219	12	2	0	3	i:267 a:227 u:212 e:173 ʌ:99 ə:88 o:78 y:35 ɨ:14 ɔ:11 ɛ:11 ʉ:4
+rosettaproject_msy_swadesh-1	msy	Aruamu	light_ipa	178	545	8	0	0	10	a:164 i:135 u:127 e:55 o:46 ɛ:9 ɨ:5 y:4
+rosettaproject_msz_swadesh-1	msz	Momare	ipa_dense	51	97	8	0	0	0	a:26 e:23 o:21 i:11 u:10 y:3 ɔ:2 ɛ:1
+rosettaproject_mtc_swadesh-1	mtc	Munit	ipa_dense	390	838	11	4	2	0	a:220 e:152 u:151 i:143 ɛ:78 o:39 ʌ:30 y:15 ɔ:4 ø:4 ə:2
+rosettaproject_mtf_swadesh-1	mtf	Murik	ipa_dense	353	861	11	1	0	0	a:365 o:114 i:101 e:88 u:64 ə:36 ɨ:29 ʊ:25 y:16 ɛ:15 ɪ:8
+rosettaproject_mtg_swadesh-1	mtg	Una	ipa_dense	162	313	13	0	0	0	ɑ:73 ɪ:42 u:35 i:32 ʉ:29 a:28 ɛ:26 ɔ:18 y:10 o:9 e:6 ʌ:4 ə:1
+rosettaproject_mtj_swadesh-1	mtj	Moskona	light_ipa	171	443	8	0	0	3	e:109 a:94 o:92 i:84 u:38 y:14 ɛ:11 ɔ:1
+rosettaproject_mtv_swadesh-1	mtv	Asaro'o	ipa_dense	49	87	10	0	0	0	a:21 e:11 ə:11 ɛ:10 ʌ:9 o:8 i:6 y:5 u:3 ɔ:3
+rosettaproject_mty_swadesh-1	mty	Nabi	light_ipa	59	112	8	0	0	1	a:33 i:23 e:17 y:13 ə:10 u:9 o:4 ɨ:3
+rosettaproject_mur_swadesh-1	mur	Murle	ipa_dense	255	538	11	11	0	12	a:139 i:99 e:62 ɔ:58 o:56 u:38 ɛ:34 y:27 ɪ:15 ə:9 æ:1
+rosettaproject_muu_swadesh-1	muu	Yaaku	light_ipa	80	186	7	3	0	0	i:51 e:49 o:31 a:25 u:18 ɛ:9 y:3
+rosettaproject_muz_swadesh-1	muz	Mursi	ipa_dense	150	310	11	10	0	61	i:89 a:82 o:33 u:32 ɔ:25 e:22 ɛ:10 y:7 æ:7 ʊ:2 ə:1
+rosettaproject_mva_swadesh-1	mva	Manam	ipa_dense	184	575	5	0	0	0	a:246 i:109 u:94 o:75 e:51
+rosettaproject_mvq_swadesh-1	mvq	Moere	ipa_dense	336	705	10	2	0	0	e:145 i:125 a:121 ɛ:98 u:90 o:76 ʌ:32 y:11 ɔ:6 ø:1
+rosettaproject_mwb_swadesh-1	mwb	Juwal	ipa_dense	252	697	12	1	0	0	a:165 i:81 u:80 o:78 ɨ:77 ʌ:55 y:46 e:42 ɛ:41 ɪ:16 ʊ:15 ø:1
+rosettaproject_mwd_swadesh-1	mwd	Mudbura	ipa_dense	40	80	5	3	0	0	a:37 u:22 i:17 y:2 o:2
+rosettaproject_mwf_swadesh-1	mwf	Murrinh-Patha	light_ipa	163	369	8	1	0	0	a:152 u:72 i:70 e:48 y:15 ɛ:8 o:2 ø:2
+rosettaproject_mwp_swadesh-1	mwp	Kala Lagaw Ya	light_ipa	138	298	8	1	0	0	a:134 u:65 i:49 y:22 e:16 ə:7 o:4 ɪ:1
+rosettaproject_mxe_swadesh-1	mxe	Mele-Fila	light_ipa	182	490	5	12	0	0	a:201 o:79 u:76 i:74 e:60
+rosettaproject_mxf_swadesh-1	mxf	Malgbe	ipa_dense	27	45	7	2	0	95	a:17 ɤ:15 e:5 i:4 y:2 u:1 o:1
+rosettaproject_mxk_swadesh-1	mxk	Monumbo	light_ipa	377	1169	7	3	0	2	a:425 i:216 u:197 e:154 o:110 ɛ:63 y:4
+rosettaproject_mxn_swadesh-1	mxn	Moi	light_ipa	1107	2865	10	0	0	12	a:772 i:610 e:526 u:372 o:285 ɔ:81 ɛ:66 ɑ:60 y:57 ɪ:36
+rosettaproject_myb_swadesh-1	myb	Mbay	ipa_dense	26	36	8	0	0	8	ɪ:10 ɔ:8 a:8 o:4 e:2 u:2 i:1 ʊ:1
+rosettaproject_mym_swadesh-1	mym	Me'en	ipa_dense	97	194	9	4	0	1	a:51 i:46 o:31 u:24 e:20 ɔ:9 ɛ:9 y:3 æ:1
+rosettaproject_mzb_swadesh-1	mzb	Tumzabt	ipa_dense	189	365	4	0	0	0	ə:149 a:116 i:67 u:33
+rosettaproject_mze_swadesh-1	mze	Morawa	light_ipa	187	562	6	0	0	0	a:258 i:102 e:72 u:71 o:55 y:4
+rosettaproject_mzu_swadesh-1	mzu	Inapang	light_ipa	21	51	7	0	0	0	a:25 i:9 u:5 o:4 ɨ:4 y:3 e:1
+rosettaproject_nas_swadesh-1	nas	Naasioi	light_ipa	465	1188	6	4	0	7	a:461 i:258 u:181 o:172 e:113 ɛ:3
+rosettaproject_nax_swadesh-1	nax	Nakwi	ipa_dense	241	642	11	0	0	2	i:170 a:141 e:88 o:68 u:68 ə:51 y:24 ɔ:19 ʌ:10 ɨ:2 ɤ:1
+rosettaproject_nbj_swadesh-1	nbj	Ngarinman	ipa_dense	18	42	3	7	0	0	a:19 i:13 u:10
+rosettaproject_nbk_swadesh-1	nbk	Nake	ipa_dense	374	796	10	10	0	0	a:188 i:157 u:132 e:128 o:60 ɛ:51 ʌ:48 y:25 ɔ:5 ø:2
+rosettaproject_nbq_swadesh-1	nbq	Nggem	ipa_dense	19	35	8	0	0	0	a:11 ɛ:8 ʌ:4 i:4 e:3 ʊ:2 ɪ:2 u:1
+rosettaproject_nbx_swadesh-1	nbx	Ngura	light_ipa	472	1227	5	0	0	0	a:664 u:272 i:235 y:53 ə:3
+rosettaproject_nca_swadesh-1	nca	Iyo	light_ipa	51	101	8	0	0	0	i:27 o:20 a:14 u:13 e:11 ɛ:7 ɔ:6 y:3
+rosettaproject_nce_swadesh-1	nce	Yale	ipa_dense	439	1386	12	1	0	3	a:305 i:288 e:253 u:216 o:134 ə:73 ɛ:43 y:31 ʌ:17 ɪ:14 ʊ:6 ɔ:6
+rosettaproject_nck_swadesh-1	nck	Nakara	ipa_dense	30	115	9	12	0	0	a:83 i:12 u:11 o:3 y:2 ɔ:1 ə:1 ɛ:1 e:1
+rosettaproject_ncm_swadesh-1	ncm	Nambo	americanist	630	1701	7	0	0	0	a:565 e:363 o:284 i:211 u:194 y:66 ə:18
+rosettaproject_nco_swadesh-1	nco	Sibe	ipa_dense	319	876	12	1	0	0	a:373 o:124 i:92 ɪ:86 ɛ:80 u:76 e:25 ʊ:9 y:5 ʌ:3 ɑ:2 ɔ:1
+rosettaproject_ndt_swadesh-1	ndt	Ndunga	ipa_dense	215	545	8	0	0	83	ɛ:123 e:104 a:85 i:71 o:63 ɔ:49 u:41 y:9
+rosettaproject_ndv_swadesh-1	ndv	Ndut	ipa_dense	133	194	13	5	0	0	i:40 a:36 ɔ:24 ɛ:21 u:19 e:12 ə:8 ʊ:8 o:8 y:7 ɪ:5 œ:3 ʌ:3
+rosettaproject_ndx_swadesh-1	ndx	Nduga	light_ipa	111	276	7	0	0	0	e:91 a:52 i:49 u:35 o:34 y:14 ə:1
+rosettaproject_ndz_swadesh-1	ndz	Ndogo	ipa_dense	7	11	7	0	0	0	y:3 i:2 ɔ:2 ɛ:1 a:1 e:1 o:1
+rosettaproject_nec_swadesh-1	nec	Nedebang	ipa_dense	191	514	10	0	0	7	a:177 ɑ:87 i:75 u:57 y:36 e:28 ɛ:24 o:15 ɔ:14 ɪ:1
+rosettaproject_nej_swadesh-1	nej	Neko	light_ipa	31	60	7	0	0	0	a:26 i:18 o:4 ʌ:3 e:3 ɛ:3 u:3
+rosettaproject_nem_swadesh-1	nem	Nemi	light_ipa	183	330	6	12	1	0	a:107 e:75 i:58 u:45 o:34 y:11
+rosettaproject_nen_swadesh-1	nen	Nengone	americanist	178	445	6	0	0	0	e:133 a:121 i:81 o:62 u:41 y:7
+rosettaproject_net_swadesh-1	net	Nete	ipa_dense	82	233	11	0	0	0	a:65 i:46 ɛ:27 o:24 ʌ:24 y:17 u:13 e:11 ɪ:4 ɔ:1 ə:1
+rosettaproject_new_swadesh-1	new	Newar	light_ipa	129	218	2	19	0	0	a:142 y:76
+rosettaproject_nga_swadesh-1	nga	Ngbaka	ipa_dense	414	925	9	0	0	53	a:226 i:132 ɔ:125 u:118 ɛ:112 e:97 o:92 y:22 ʏ:1
+rosettaproject_ngh_swadesh-1	ngh	N/u	ipa_dense	389	580	11	20	0	0	a:245 i:98 e:80 u:67 o:30 ɔ:24 ʌ:15 ɑ:7 ɛ:5 y:5 ə:4
+rosettaproject_ngk_swadesh-1	ngk	Ngalkbun	ipa_dense	643	1528	13	3	0	0	a:470 i:272 u:269 ɔ:184 ɛ:94 y:83 o:75 e:31 ɨ:25 ɪ:16 ɒ:4 ə:4 ʌ:1
+rosettaproject_ngr_swadesh-1	ngr	Nagu	light_ipa	472	1136	12	3	0	1	i:243 a:226 u:214 o:156 e:138 œ:40 ɔ:38 y:30 ə:20 ɒ:18 ɛ:8 ʌ:5
+rosettaproject_nhr_swadesh-1	nhr	Naro	ipa_dense	337	613	12	15	0	0	a:258 i:108 u:100 e:71 o:33 ɔ:23 ɑ:9 ɛ:4 ʌ:3 ə:2 œ:1 ɪ:1
+rosettaproject_nib_swadesh-1	nib	Nakama	light_ipa	51	97	8	0	0	0	a:39 i:19 u:18 ʌ:8 e:7 o:3 y:2 ɛ:1
+rosettaproject_nid_swadesh-1	nid	Ngandi	ipa_dense	562	1478	9	0	0	0	a:588 u:431 i:241 o:86 y:50 e:45 ɔ:22 ɛ:11 ə:4
+rosettaproject_nif_swadesh-1	nif	Nek	ipa_dense	51	85	10	0	0	0	a:21 i:17 ʌ:12 u:11 o:8 e:7 ɛ:6 ɨ:1 ɔ:1 y:1
+rosettaproject_nig_swadesh-1	nig	Ngalakan	ipa_dense	519	1350	9	1	0	0	a:425 u:303 i:221 o:113 y:87 e:80 ɔ:73 ɛ:46 ɪ:2
+rosettaproject_nir_swadesh-1	nir	Nimboran	light_ipa	441	1015	14	0	0	10	i:213 e:201 a:195 u:183 o:118 y:26 ɛ:17 ɨ:17 ɔ:13 ɪ:8 ʉ:7 ʊ:7 ə:5 ʌ:5
+rosettaproject_nis_swadesh-1	nis	Nimi	ipa_dense	53	100	10	0	0	0	a:27 u:19 i:15 ʌ:15 e:9 o:7 y:5 ɔ:1 ə:1 ɛ:1
+rosettaproject_niw_swadesh-1	niw	Nimo	ipa_dense	258	677	11	2	1	3	i:164 a:152 e:101 u:76 o:74 ə:36 ʌ:33 ɔ:31 y:8 ɪ:1 ɨ:1
+rosettaproject_niz_swadesh-1	niz	Ningil	light_ipa	181	408	7	5	0	0	i:124 a:102 e:73 u:44 y:37 o:17 ə:11
+rosettaproject_nji_swadesh-1	nji	Gudanji	ipa_dense	17	52	4	0	0	0	a:21 i:20 u:10 y:1
+rosettaproject_nna_swadesh-1	nna	Nyangumarta	ipa_dense	30	73	6	1	0	0	a:34 u:16 i:16 y:5 ɔ:1 e:1
+rosettaproject_noc_swadesh-1	noc	Nuk	ipa_dense	51	89	9	0	0	0	a:22 i:16 e:14 o:12 ʌ:12 ɛ:6 u:5 y:1 ɨ:1
+rosettaproject_noh_swadesh-1	noh	Nomu	light_ipa	53	98	7	0	0	0	e:26 o:21 a:17 i:13 ɛ:11 u:8 y:2
+rosettaproject_nop_swadesh-1	nop	Numanggang	light_ipa	52	102	8	0	0	0	i:29 a:27 u:19 o:9 e:9 y:4 ɛ:4 ɔ:1
+rosettaproject_nou_swadesh-1	nou	Ewage-Notu	light_ipa	57	138	6	0	0	0	i:39 a:33 o:33 e:19 u:8 y:6
+rosettaproject_noz_swadesh-1	noz	Nayi	light_ipa	98	190	10	0	0	0	a:59 u:47 o:28 i:27 e:11 y:8 ɪ:4 ə:3 ɛ:2 ɔ:1
+rosettaproject_nqm_swadesh-1	nqm	Ndom	light_ipa	337	710	7	2	0	0	a:221 e:134 o:85 i:81 u:76 ɛ:71 y:42
+rosettaproject_nsg_swadesh-1	nsg	Ngasa	ipa_dense	7	22	7	0	0	63	o:5 a:4 ɪ:4 i:3 ɔ:3 ɛ:2 e:1
+rosettaproject_nud_swadesh-1	nud	Ngala	ipa_dense	300	570	8	0	0	0	a:143 y:95 i:95 ə:80 e:67 ʌ:63 u:26 o:1
+rosettaproject_nug_swadesh-1	nug	Nungali	ipa_dense	55	180	6	2	0	0	a:65 u:50 i:47 y:15 o:2 e:1
+rosettaproject_nus_swadesh-1	nus	Nuer	ipa_dense	299	648	11	3	0	0	i:138 a:134 o:102 e:90 u:77 y:41 ɛ:34 ɪ:13 ɔ:12 ʊ:6 æ:1
+rosettaproject_nuy_swadesh-1	nuy	Nunggubuyu	ipa_dense	676	1885	9	3	0	0	a:1022 u:438 i:312 y:98 ɔ:5 o:5 ɛ:2 e:2 ɨ:1
+rosettaproject_nyh_swadesh-1	nyh	Nyigina	ipa_dense	19	45	5	2	0	0	a:20 i:11 u:9 e:3 o:2
+rosettaproject_nyi_swadesh-1	nyi	Ama	ipa_dense	122	234	12	0	0	31	a:70 ɛ:43 i:35 u:30 ɔ:17 o:17 e:8 ɨ:6 y:3 ʊ:2 ə:2 œ:1
+rosettaproject_nyp_swadesh-1	nyp	Nyang'i	ipa_dense	94	162	8	5	0	0	a:40 i:27 e:26 u:21 ɛ:21 ɔ:12 o:11 y:4
+rosettaproject_nys_swadesh-1	nys	Nyunga	light_ipa	210	440	6	0	0	0	a:178 i:95 u:91 y:26 o:26 e:24
+rosettaproject_nyt_swadesh-1	nyt	Nyawaygi	ipa_dense	222	570	4	5	0	0	a:239 u:173 i:101 y:57
+rosettaproject_nyw_swadesh-1	nyw	Nyaw	ipa_dense	21	35	6	5	0	0	u:10 a:9 o:5 e:5 i:5 ɛ:1
+rosettaproject_okj_swadesh-1	okj	Oko-Juwoi	ipa_dense	685	3063	12	16	0	0	e:1252 i:654 a:392 o:175 u:157 ɑ:108 ʌ:105 ɔ:105 ɒ:43 y:34 æ:23 ɛ:15
+rosettaproject_omo_swadesh-1	omo	Utarmbung	ipa_dense	373	905	14	2	0	0	a:233 u:224 i:168 o:86 e:50 ʉ:42 y:34 ʌ:23 ɨ:16 ə:12 ɔ:7 ɛ:7 ø:2 ɪ:1
+rosettaproject_ong_swadesh-1	ong	Olo	light_ipa	154	401	7	1	0	0	e:155 i:65 u:58 o:49 a:44 y:19 ə:11
+rosettaproject_onn_swadesh-1	onn	Onobasulu	light_ipa	227	618	9	0	1	6	a:176 e:116 i:97 o:92 u:84 ɔ:43 y:8 ʌ:1 ɛ:1
+rosettaproject_opm_swadesh-1	opm	Oksapmin	light_ipa	315	875	9	0	0	0	a:444 i:141 o:90 e:86 u:81 ə:20 y:11 ø:1 ʊ:1
+rosettaproject_otr_swadesh-1	otr	Otoro	ipa_dense	315	565	13	9	0	36	a:137 u:129 i:98 ɔ:76 ɛ:65 ə:18 y:15 ʊ:7 o:6 e:5 ʌ:4 ɪ:4 ɒ:1
+rosettaproject_oua_swadesh-1	oua	Tagargrent	americanist	218	458	6	0	0	0	a:144 e:99 i:99 u:56 o:54 ə:6
+rosettaproject_oun_swadesh-1	oun	!O!ung	ipa_dense	284	398	11	13	0	0	a:151 u:70 i:68 e:37 ɔ:29 o:22 ʌ:6 ə:5 ɛ:4 y:3 ɑ:3
+rosettaproject_owi_swadesh-1	owi	Owiniga	ipa_dense	224	700	10	0	0	4	a:183 i:147 e:146 u:77 o:55 ɛ:30 ə:23 y:20 ʌ:16 ɔ:3
+rosettaproject_oyd_swadesh-1	oyd	Oyda	ipa_dense	96	181	11	25	0	0	a:60 e:22 o:20 u:18 i:15 ɔ:14 ɛ:11 y:7 ɪ:7 ʊ:6 ə:1
+rosettaproject_pap_swadesh-1	pap	Papiamentu	light_ipa	102	216	8	0	0	37	a:73 i:39 e:39 u:30 o:26 ə:3 ɛ:3 ɔ:3
+rosettaproject_pbo_swadesh-1	pbo	Papel	ipa_dense	127	325	8	28	0	34	a:66 i:60 o:46 ɔ:39 u:37 ɛ:32 e:29 y:16
+rosettaproject_pbp_swadesh-1	pbp	Badyara	ipa_dense	120	353	8	27	0	34	a:108 e:76 i:40 ɛ:39 u:36 o:31 y:19 ɔ:4
+rosettaproject_pby_swadesh-1	pby	Pyu	ipa_dense	237	654	11	0	0	8	i:186 a:148 e:109 u:63 ɛ:43 o:35 ʌ:34 y:18 ə:10 ɪ:6 ʊ:2
+rosettaproject_pda_swadesh-1	pda	Anam	light_ipa	379	908	11	0	0	0	a:316 u:269 i:170 ʉ:36 y:26 o:25 e:21 ə:18 ʌ:16 ɛ:7 ɨ:4
+rosettaproject_ped_swadesh-1	ped	Mala	light_ipa	344	727	11	0	0	0	a:217 i:135 e:105 u:101 o:66 ʌ:44 ɛ:39 ɔ:10 y:7 ø:2 ə:1
+rosettaproject_pgu_swadesh-1	pgu	Pagu	light_ipa	528	1423	9	0	0	0	a:445 o:335 i:255 u:188 e:150 y:22 ɔ:20 ɛ:5 ɑ:3
+rosettaproject_pjt_swadesh-1	pjt	Pitjantjatjara	ipa_dense	19	42	4	0	0	0	a:21 i:12 u:7 o:2
+rosettaproject_pla_swadesh-1	pla	Miani	ipa_dense	211	445	10	2	0	0	a:107 i:83 u:70 o:66 ɛ:47 ʌ:45 e:9 ɔ:8 y:6 ə:4
+rosettaproject_plw_swadesh-1	plw	Palawano, Brooke's Point	ipa_dense	184	491	7	0	0	0	a:148 ɔ:128 u:107 i:76 y:25 o:4 ə:3
+rosettaproject_pmr_swadesh-1	pmr	Paynamar	ipa_dense	376	925	11	0	0	0	a:405 i:174 u:173 e:50 ɨ:38 ʌ:27 ʉ:22 y:18 ɛ:13 ə:3 o:2
+rosettaproject_pnn_swadesh-1	pnn	Pinai-Hagahai	ipa_dense	582	1970	15	1	0	8	a:560 i:278 ə:259 e:246 u:149 y:145 o:124 ɛ:84 ɪ:38 ʊ:35 ɔ:32 ɨ:16 ʌ:2 ʉ:1 ø:1
+rosettaproject_pnr_swadesh-1	pnr	Panim	light_ipa	338	745	11	1	0	0	a:204 e:150 i:125 u:110 o:56 ɛ:51 ʌ:30 y:13 ø:4 ɔ:1 ə:1
+rosettaproject_pnw_swadesh-1	pnw	Panytyima	ipa_dense	272	789	5	0	0	0	a:368 u:215 i:161 y:44 ɨ:1
+rosettaproject_pon_swadesh-1	pon	Pohnpeian	light_ipa	180	354	6	18	0	0	e:97 a:83 i:82 u:42 o:38 ɔ:12
+rosettaproject_ppe_swadesh-1	ppe	Papi	light_ipa	135	583	10	2	0	0	a:147 u:106 i:105 o:86 e:64 y:40 ʌ:26 ɔ:6 ɪ:2 ʊ:1
+rosettaproject_ppk_swadesh-1	ppk	Uma	ipa_dense	182	446	6	0	0	0	a:145 o:95 i:78 u:78 e:49 y:1
+rosettaproject_ppo_swadesh-1	ppo	Folopa	light_ipa	746	2143	12	0	0	0	a:605 i:559 e:327 o:303 u:257 y:39 ɛ:35 ɪ:9 ʌ:5 ɔ:2 ə:1 æ:1
+rosettaproject_ppq_swadesh-1	ppq	Pei	ipa_dense	70	264	10	0	0	0	a:84 i:48 o:43 u:27 ɛ:26 y:14 e:10 ʌ:7 ɪ:3 ɔ:2
+rosettaproject_ppt_swadesh-1	ppt	Pare	ipa_dense	248	619	9	0	1	7	e:143 a:134 o:94 i:92 ɔ:59 u:46 ɛ:25 y:25 ə:1
+rosettaproject_prm_swadesh-1	prm	Kibiri	light_ipa	185	531	9	0	0	0	i:163 a:109 o:93 u:70 e:51 ʌ:22 ɛ:20 ɪ:2 y:1
+rosettaproject_prw_swadesh-1	prw	Parawen	ipa_dense	361	1065	10	9	0	0	a:330 u:207 i:207 e:126 ʌ:85 o:50 y:32 ɛ:24 ø:2 ɔ:2
+rosettaproject_psa_swadesh-1	psa	Awyu, Asue	light_ipa	363	864	7	0	4	7	a:220 o:190 i:185 u:135 e:80 y:35 ɛ:19
+rosettaproject_puo_swadesh-1	puo	Puoc	ipa_dense	94	138	8	25	0	0	ə:42 a:21 o:20 e:15 i:15 u:14 ɔ:6 ɨ:5
+rosettaproject_pup_swadesh-1	pup	Pulabu	ipa_dense	300	674	9	6	0	0	i:146 u:130 e:120 a:104 o:81 ʌ:47 y:21 ɛ:13 ɪ:12
+rosettaproject_pwa_swadesh-1	pwa	Pawaia	light_ipa	387	1099	10	0	0	1	i:213 a:208 e:200 o:162 u:158 ɛ:95 y:58 ʌ:3 ə:1 ɔ:1
+rosettaproject_pwm_swadesh-1	pwm	Molbog	ipa_dense	182	409	5	0	0	0	a:133 o:99 u:91 i:71 y:15
+rosettaproject_pwn_swadesh-1	pwn	Paiwan	ipa_dense	177	494	5	0	0	0	a:186 ə:106 u:102 i:83 y:17
+rosettaproject_rac_swadesh-1	rac	Rasawa	light_ipa	285	803	7	4	0	0	o:183 i:159 a:154 u:121 e:118 y:51 ɔ:17
+rosettaproject_ran_swadesh-1	ran	Riantana	light_ipa	332	760	7	4	0	0	a:331 o:180 i:87 e:72 u:38 ɛ:28 y:24
+rosettaproject_rao_swadesh-1	rao	Rao	light_ipa	440	908	11	0	0	2	a:201 e:180 i:160 o:120 u:111 ə:88 y:28 ɨ:8 ɛ:7 ʌ:4 ɪ:1
+rosettaproject_rap_swadesh-1	rap	Rapa Nui	ipa_dense	197	547	5	3	0	0	a:209 i:97 o:94 u:86 e:61
+rosettaproject_ras_swadesh-1	ras	Tegali	ipa_dense	175	314	11	7	0	1	a:83 i:72 u:38 e:35 ɛ:23 o:20 ɔ:14 y:13 ʌ:6 ə:5 ɪ:5
+rosettaproject_rbb_swadesh-1	rbb	Palaung, Rumai	ipa_dense	89	141	9	0	0	0	a:49 i:43 u:16 ɔ:8 ɛ:7 o:6 e:5 ə:4 ɨ:3
+rosettaproject_rea_swadesh-1	rea	Rerau	light_ipa	299	649	11	1	0	0	u:153 a:140 i:138 o:69 e:68 y:32 ɛ:24 ʌ:10 ɪ:9 ø:5 ə:1
+rosettaproject_rel_swadesh-1	rel	Rendille	ipa_dense	90	168	10	0	0	0	a:52 u:26 i:20 o:19 ə:11 y:11 ɛ:10 e:9 ɨ:8 ø:2
+rosettaproject_rhp_swadesh-1	rhp	Yahang	light_ipa	72	141	7	0	0	0	a:42 e:24 i:24 o:19 u:15 y:12 ə:5
+rosettaproject_rif_swadesh-1	rif	Tarifit	light_ipa	418	922	7	1	0	0	a:325 e:221 i:183 u:126 æ:43 y:22 ə:2
+rosettaproject_rit_swadesh-1	rit	Ritarungo	light_ipa	245	641	9	3	0	0	a:277 u:158 i:123 y:31 o:25 ɔ:15 ɛ:6 e:4 ʊ:2
+rosettaproject_rmb_swadesh-1	rmb	Rembarunga	ipa_dense	234	626	9	3	0	0	a:276 u:133 i:89 ɔ:37 y:35 ɛ:22 o:18 e:13 ɪ:3
+rosettaproject_rmk_swadesh-1	rmk	Romkun	ipa_dense	19	41	9	0	0	0	a:12 i:7 e:7 u:5 o:4 ə:2 y:2 ɛ:1 ɨ:1
+rosettaproject_rmp_swadesh-1	rmp	Rempi	ipa_dense	385	751	11	3	0	0	a:203 e:133 u:130 i:115 ʌ:49 o:47 ɛ:41 y:20 ɔ:8 ø:4 ə:1
+rosettaproject_rou_swadesh-1	rou	Runga	ipa_dense	502	1162	12	6	0	62	a:324 i:291 o:100 u:98 e:86 ɛ:77 ɔ:58 ə:52 y:52 ʌ:14 ɪ:9 ɜ:1
+rosettaproject_rpt_swadesh-1	rpt	Rapting	ipa_dense	377	738	11	3	0	0	a:257 u:129 i:124 e:98 ɛ:59 o:42 ʌ:13 y:12 ø:2 ə:1 ɔ:1
+rosettaproject_rtm_swadesh-1	rtm	Rotuman	ipa_dense	184	439	9	2	0	0	a:136 u:77 i:69 e:64 o:50 ɔ:32 æ:9 ø:1 ə:1
+rosettaproject_rug_swadesh-1	rug	Roviana	light_ipa	185	515	6	0	0	0	a:183 u:96 o:84 i:77 e:74 y:1
+rosettaproject_rus_swadesh-1	rus	Russian	native:Cyrillic	226	451	7	0	0	0	o:134 a:124 e:68 ɨ:50 i:36 u:32 ɛ:7
+rosettaproject_rwa_swadesh-1	rwa	Rawo	ipa_dense	102	181	8	5	0	5	a:49 i:36 o:29 u:29 e:25 ɛ:7 æ:5 ʌ:1
+rosettaproject_rwo_swadesh-1	rwo	Rawa	light_ipa	50	95	8	0	0	0	e:28 o:25 ɔ:10 a:9 u:9 i:9 ɛ:3 y:2
+rosettaproject_sad_swadesh-1	sad	Sandawe	ipa_dense	606	1230	10	9	0	5	a:429 e:257 i:174 o:168 u:166 ɔ:11 ɛ:11 y:6 ʊ:5 ɪ:3
+rosettaproject_sao_swadesh-1	sao	Sause	light_ipa	96	200	7	0	0	0	e:69 a:43 o:38 i:30 u:16 ə:3 y:1
+rosettaproject_sas_swadesh-1	sas	Sasak	ipa_dense	179	387	7	0	0	0	a:119 ə:84 i:51 u:50 o:46 e:36 y:1
+rosettaproject_sat_swadesh-1	sat	Santali	ipa_dense	98	175	8	0	1	0	a:55 e:34 i:32 o:26 u:23 ə:2 ɔ:2 ɛ:1
+rosettaproject_sav_swadesh-1	sav	Saafi-Saafi	ipa_dense	133	207	12	0	0	0	a:52 i:41 u:36 ɔ:34 ɛ:18 y:11 e:5 o:4 ɪ:2 ə:2 œ:1 ʌ:1
+rosettaproject_saw_swadesh-1	saw	Sawi	ipa_dense	151	296	7	31	0	0	a:111 o:54 e:52 i:42 u:23 y:9 ə:5
+rosettaproject_sba_swadesh-1	sba	Ngambay	ipa_dense	53	82	9	37	0	54	a:22 ə:16 i:14 u:7 o:7 ɛ:5 e:5 ɔ:4 y:2
+rosettaproject_sbf_swadesh-1	sbf	Shabo	ipa_dense	307	727	10	8	0	0	a:255 o:120 u:106 i:99 e:79 y:28 ɛ:28 ɔ:9 ʌ:2 ɪ:1
+rosettaproject_sbi_swadesh-1	sbi	Seti	ipa_dense	84	179	7	12	0	0	a:44 o:37 e:34 i:28 u:14 ə:14 y:8
+rosettaproject_sds_swadesh-1	sds	Sened	ipa_dense	44	90	7	3	0	0	i:35 ə:22 a:20 u:9 æ:2 e:1 y:1
+rosettaproject_sea_swadesh-1	sea	Semai	ipa_dense	96	115	8	56	1	0	a:32 ə:15 ɛ:14 u:14 i:12 ɔ:11 o:9 e:8
+rosettaproject_sej_swadesh-1	sej	Sene	ipa_dense	51	100	7	0	0	0	e:30 o:20 ɔ:16 i:14 a:10 u:9 y:1
+rosettaproject_ses_swadesh-1	ses	Songhay, Koyraboro Senni	light_ipa	520	1172	8	1	0	0	a:394 i:232 u:177 o:153 ɛ:95 y:73 æ:34 e:14
+rosettaproject_set_swadesh-1	set	Sentani	light_ipa	904	2496	11	1	0	0	e:684 a:584 o:408 i:365 u:227 y:135 ə:59 ɛ:17 ʌ:15 ɑ:1 ø:1
+rosettaproject_she_swadesh-1	she	Sheko	ipa_dense	204	417	13	27	0	0	a:87 o:82 u:47 e:44 ɔ:30 ɪ:29 ɛ:28 i:25 ə:19 y:16 ʊ:7 ɨ:2 ɑ:1
+rosettaproject_shi_swadesh-1	shi	Tachelhit	ipa_dense	68	140	7	8	0	0	i:44 a:43 ə:20 u:16 e:9 y:7 æ:1
+rosettaproject_shj_swadesh-1	shj	Shatt	ipa_dense	189	397	7	6	0	0	a:130 i:70 u:51 o:49 e:47 ə:41 y:9
+rosettaproject_shk_swadesh-1	shk	Shilluk	ipa_dense	97	151	10	25	0	1	a:28 o:24 ɛ:19 i:19 ɔ:17 y:13 ɪ:12 u:8 e:7 ʊ:4
+rosettaproject_shu_swadesh-1	shu	Arabic, Chadian Spoken	ipa_dense	101	182	5	24	0	0	a:99 i:40 u:22 e:20 y:1
+rosettaproject_shw_swadesh-1	shw	Shwai	ipa_dense	271	548	12	15	0	34	a:162 i:113 ɛ:68 ɔ:67 u:60 ə:28 ɪ:21 ʊ:10 y:9 ʌ:7 o:2 ø:1
+rosettaproject_shy_swadesh-1	shy	Tachawit	light_ipa	169	376	7	0	0	0	a:113 e:94 i:87 o:37 u:35 ə:8 y:2
+rosettaproject_sid_swadesh-1	sid	Sidamo	ipa_dense	131	271	11	19	0	0	a:83 i:54 o:44 e:32 u:25 ɛ:15 ɪ:7 ɔ:6 y:3 ʊ:1 æ:1
+rosettaproject_siq_swadesh-1	siq	Sonia	ipa_dense	162	384	10	0	0	8	e:122 i:74 ʌ:61 u:39 o:34 ɔ:31 a:9 y:8 ɛ:4 ɪ:2
+rosettaproject_siw_swadesh-1	siw	Siwai	ipa_dense	376	992	12	1	0	0	a:278 o:205 i:204 u:162 e:54 ɪ:35 ɔ:17 ɛ:17 ʊ:12 y:6 ʌ:1 ə:1
+rosettaproject_six_swadesh-1	six	Sumau	ipa_dense	385	929	11	1	0	0	i:199 u:161 e:148 a:144 o:114 ɛ:86 ʌ:48 y:20 ɔ:6 ø:2 ə:1
+rosettaproject_siz_swadesh-1	siz	Siwi	ipa_dense	242	498	12	4	0	0	a:178 ə:139 i:83 u:46 o:18 ɑ:12 e:6 æ:5 y:5 ɛ:4 ɔ:1 ø:1
+rosettaproject_sjg_swadesh-1	sjg	Assangori	ipa_dense	100	173	9	12	0	13	i:59 u:31 a:29 ʌ:16 ɔ:13 e:11 o:7 y:5 ɛ:2
+rosettaproject_sjs_swadesh-1	sjs	Senhaja de Srair	ipa_dense	301	643	8	0	0	0	a:241 e:114 i:114 u:89 ə:54 æ:16 y:9 o:6
+rosettaproject_skc_swadesh-1	skc	Sauk	ipa_dense	52	100	10	0	0	0	a:18 i:18 u:16 e:12 o:10 ʌ:8 ɔ:5 y:5 ɨ:5 ɛ:3
+rosettaproject_ski_swadesh-1	ski	Sika	ipa_dense	181	387	6	0	0	0	a:147 i:78 u:72 o:38 ə:33 e:19
+rosettaproject_skm_swadesh-1	skm	Sakam	ipa_dense	54	101	9	0	0	0	i:32 ʌ:23 a:13 o:10 u:8 e:7 ɔ:4 y:3 ɛ:1
+rosettaproject_sks_swadesh-1	sks	Maia	light_ipa	670	1542	11	1	0	0	a:466 i:239 o:232 e:205 u:203 ɛ:71 y:59 ʌ:53 ə:10 ɔ:2 ø:2
+rosettaproject_skv_swadesh-1	skv	Skou	ipa_dense	173	342	14	1	0	4	a:97 e:83 i:35 u:35 o:28 ə:20 ɛ:13 ɔ:9 ʌ:7 ɒ:5 y:4 ɪ:3 ʉ:2 ʊ:1
+rosettaproject_slk_swadesh-1	slk	Slovak	americanist	242	457	6	15	0	0	a:131 i:124 ɛ:84 ɔ:83 u:33 æ:2
+rosettaproject_smc_swadesh-1	smc	Som	ipa_dense	50	100	9	0	0	0	a:28 ʌ:24 i:14 o:11 e:8 u:8 y:4 ɛ:2 ɔ:1
+rosettaproject_smo_swadesh-1	smo	Samoan	light_ipa	185	503	5	7	0	0	a:202 u:97 i:80 e:66 o:58
+rosettaproject_smq_swadesh-1	smq	Samo	ipa_dense	265	748	10	0	6	9	o:179 a:141 i:117 ɔ:101 u:91 e:69 y:38 ʌ:6 ɛ:5 ə:1
+rosettaproject_snc_swadesh-1	snc	Sinaugoro	ipa_dense	177	488	6	4	0	0	a:228 i:82 o:76 u:73 e:27 ɛ:2
+rosettaproject_snf_swadesh-1	snf	Noon	ipa_dense	134	240	12	1	0	0	a:56 ə:30 o:29 u:27 i:24 ɔ:22 ɛ:21 e:13 y:8 ʊ:5 ʌ:4 ɪ:1
+rosettaproject_snk_swadesh-1	snk	Soninke	ipa_dense	125	335	8	22	0	37	a:91 ɛ:68 i:43 u:37 e:35 o:28 y:18 ɔ:15
+rosettaproject_snp_swadesh-1	snp	Siane	light_ipa	297	906	7	0	0	1	a:310 o:158 e:154 i:133 u:87 y:63 ø:1
+rosettaproject_snr_swadesh-1	snr	Sihan	ipa_dense	410	907	11	9	0	0	a:212 e:181 i:160 u:137 ɛ:97 o:60 ʌ:45 y:10 ø:3 ɔ:1 ɪ:1
+rosettaproject_snx_swadesh-1	snx	Sam	ipa_dense	357	741	10	0	0	0	a:160 i:152 u:120 e:117 o:72 ɛ:50 ʌ:38 y:28 ɔ:3 ø:1
+rosettaproject_sny_swadesh-1	sny	Saniyo-Hiyewe	ipa_dense	296	1051	12	0	0	0	i:249 a:207 e:195 o:116 y:105 ɛ:97 u:59 ʌ:15 ɪ:4 ʊ:2 ɔ:1 ə:1
+rosettaproject_snz_swadesh-1	snz	Sinsauru	ipa_dense	354	832	10	2	0	0	i:178 e:151 u:145 o:120 a:110 ɛ:75 ʌ:25 y:20 ɔ:7 ø:1
+rosettaproject_soh_swadesh-1	soh	Aka	ipa_dense	201	488	11	21	0	0	a:146 i:82 e:64 ɔ:40 ɛ:40 u:33 o:28 ə:24 ʊ:17 ɪ:9 y:5
+rosettaproject_som_swadesh-1	som	Somali	ipa_dense	96	176	7	17	0	0	a:78 i:38 o:21 e:16 u:14 y:8 ə:1
+rosettaproject_sow_swadesh-1	sow	Sowanda	light_ipa	273	605	9	0	0	0	a:144 e:141 o:103 i:91 u:69 ɛ:23 ɒ:19 ə:9 y:6
+rosettaproject_spd_swadesh-1	spd	Saep	light_ipa	381	782	10	2	0	0	a:191 o:159 e:123 u:98 i:92 ɛ:61 ʌ:32 y:17 ɔ:6 ø:3
+rosettaproject_spi_swadesh-1	spi	Saponi	ipa_dense	349	1128	8	0	0	0	a:266 e:214 i:186 o:141 ɛ:135 u:109 ɔ:76 ɪ:1
+rosettaproject_spl_swadesh-1	spl	Selepet	ipa_dense	252	494	8	0	0	10	a:108 e:87 i:75 ɑ:52 ɔ:51 u:48 o:45 y:28
+rosettaproject_spm_swadesh-1	spm	Sepen	ipa_dense	23	37	7	0	0	0	a:17 i:8 ɨ:4 o:3 e:2 ɛ:2 u:1
+rosettaproject_srb_swadesh-1	srb	Sora	ipa_dense	100	182	6	24	0	0	a:76 u:28 i:24 e:23 o:18 ə:13
+rosettaproject_srl_swadesh-1	srl	Isirawa	light_ipa	476	1325	11	1	0	0	a:558 i:257 e:217 o:115 u:99 ɛ:28 ɪ:18 y:17 ə:9 ʌ:5 ɔ:2
+rosettaproject_srr_swadesh-1	srr	Serer-Sine	ipa_dense	131	169	11	1	0	0	a:55 ɛ:24 i:24 o:22 u:13 ɔ:10 e:7 ə:7 y:4 ɪ:2 ʌ:1
+rosettaproject_ssd_swadesh-1	ssd	Siroi	light_ipa	321	714	9	0	0	0	a:224 i:154 u:132 e:92 o:64 ɛ:27 y:17 ʌ:2 ø:2
+rosettaproject_sse_swadesh-1	sse	Balangingi	ipa_dense	182	415	6	1	0	0	a:173 u:89 i:62 o:42 e:30 y:19
+rosettaproject_ssj_swadesh-1	ssj	Sausi	ipa_dense	389	976	10	2	0	0	a:208 i:187 e:154 u:139 o:135 ɛ:98 y:29 ʌ:17 ə:8 ø:1
+rosettaproject_ssx_swadesh-1	ssx	Samberigi	light_ipa	234	712	8	0	0	0	e:227 i:147 a:140 o:68 u:63 ɛ:53 y:13 ə:1
+rosettaproject_ssy_swadesh-1	ssy	Saho	ipa_dense	95	229	6	3	0	0	a:93 i:35 e:35 o:32 y:19 u:15
+rosettaproject_stf_swadesh-1	stf	Seta	light_ipa	72	154	7	6	0	0	a:40 o:33 e:25 i:18 u:17 ə:13 y:8
+rosettaproject_sua_swadesh-1	sua	Sulka	light_ipa	305	631	7	5	0	0	i:164 a:129 o:113 u:111 e:95 y:18 ɛ:1
+rosettaproject_sui_swadesh-1	sui	Suki	light_ipa	268	692	11	0	0	0	a:239 i:178 u:124 e:75 o:49 ɛ:13 y:5 ɑ:4 ɔ:2 ø:2 ə:1
+rosettaproject_sun_swadesh-1	sun	Sunda	light_ipa	203	502	8	0	0	0	a:170 u:91 i:82 o:53 e:41 ɨ:36 ə:25 y:4
+rosettaproject_suq_swadesh-1	suq	Suri	ipa_dense	95	209	12	10	0	2	a:61 i:42 o:28 u:23 ɔ:16 e:13 ɛ:12 y:5 ɪ:4 ʊ:3 ə:1 æ:1
+rosettaproject_svs_swadesh-1	svs	Savosavo	light_ipa	535	1436	7	0	0	0	a:492 i:313 u:228 e:198 o:197 y:4 ɔ:4
+rosettaproject_swm_swadesh-1	swm	Samosa	ipa_dense	360	841	11	6	0	0	a:232 e:147 u:143 i:115 o:105 ʌ:47 ɛ:43 y:4 ø:3 ɔ:1 ə:1
+rosettaproject_swn_swadesh-1	swn	Sawknah	ipa_dense	64	136	9	4	0	0	a:42 i:40 ə:28 u:13 y:4 o:4 ø:3 ɛ:1 e:1
+rosettaproject_swt_swadesh-1	swt	Sawila	ipa_dense	205	639	12	0	0	7	a:244 ɑ:106 i:98 y:81 u:65 e:27 ɛ:8 ə:3 ɔ:2 o:2 ɪ:2 ɨ:1
+rosettaproject_syc_swadesh-1	syc	Syriac	ipa_dense	57	107	7	39	0	0	a:54 e:21 ə:10 i:7 y:6 u:5 o:4
+rosettaproject_sys_swadesh-1	sys	Sinyar	ipa_dense	55	106	8	6	0	8	i:29 a:24 ʌ:15 ɛ:12 u:11 e:10 o:4 y:1
+rosettaproject_sza_swadesh-1	sza	Semelai	ipa_dense	99	159	9	0	1	0	ə:42 a:33 u:22 ɔ:17 e:13 i:11 o:10 ɛ:10 ɨ:1
+rosettaproject_szc_swadesh-1	szc	Semaq Beri	ipa_dense	84	130	9	0	0	0	ə:39 a:31 ɔ:17 u:13 o:10 ɛ:9 i:7 e:3 ɨ:1
+rosettaproject_szw_swadesh-1	szw	Sawai	ipa_dense	185	418	9	0	0	0	ɛ:151 a:64 o:47 u:39 ɔ:35 i:33 y:23 e:22 ə:4
+rosettaproject_tad_swadesh-1	tad	Tause	light_ipa	543	1430	9	0	0	0	a:580 i:250 e:222 o:191 u:122 ɛ:19 y:18 ə:18 ɔ:10
+rosettaproject_tag_swadesh-1	tag	Tagoi	ipa_dense	408	860	12	1	0	43	a:222 i:156 e:89 y:89 ɪ:73 u:59 o:54 ɛ:36 ɔ:35 ʊ:27 ə:19 ʌ:1
+rosettaproject_tah_swadesh-1	tah	Tahitian	ipa_dense	184	536	5	11	0	0	a:206 i:95 e:85 u:78 o:72
+rosettaproject_tao_swadesh-1	tao	Yami	ipa_dense	185	527	6	0	0	0	a:246 o:112 i:83 ə:54 y:31 u:1
+rosettaproject_tay_swadesh-1	tay	Atayal	ipa_dense	183	508	4	1	0	0	a:213 u:145 i:112 y:38
+rosettaproject_taz_swadesh-1	taz	Tocho	ipa_dense	195	453	11	15	0	39	a:92 ɔ:90 i:67 ɛ:52 ʊ:48 u:42 ɪ:42 y:10 ə:6 e:3 o:1
+rosettaproject_tbd_swadesh-1	tbd	Kaki Ae	ipa_dense	414	1274	8	0	0	0	ɑ:221 a:205 o:193 u:190 i:183 ɛ:142 e:131 y:9
+rosettaproject_tbg_swadesh-1	tbg	Tairora, North	light_ipa	630	2131	8	4	0	0	a:1038 u:368 i:366 e:199 o:157 y:1 ɛ:1 ø:1
+rosettaproject_tbh_swadesh-1	tbh	Thurawal	ipa_dense	123	302	5	2	0	0	a:155 u:69 i:58 y:10 ə:10
+rosettaproject_tbi_swadesh-1	tbi	Gaam	ipa_dense	82	148	9	0	0	0	a:56 i:26 ɛ:21 u:20 o:9 ɔ:7 y:5 ɨ:2 e:2
+rosettaproject_tbr_swadesh-1	tbr	Tumtum	ipa_dense	306	843	13	19	0	37	a:273 i:235 ɛ:76 ʊ:57 ɔ:52 u:44 o:32 ɪ:27 y:26 e:10 ʌ:6 ɒ:4 ɑ:1
+rosettaproject_tbs_swadesh-1	tbs	Tanguat	light_ipa	18	38	6	0	0	0	a:21 i:7 u:5 o:3 e:1 ə:1
+rosettaproject_tbv_swadesh-1	tbv	Tobo	light_ipa	208	425	11	0	0	7	a:157 i:93 e:53 o:45 u:32 ɑ:29 ʌ:10 y:2 ɨ:2 ɔ:1 ɪ:1
+rosettaproject_tcx_swadesh-1	tcx	Toda	light_ipa	85	97	7	32	0	0	o:31 u:15 e:12 a:12 ɨ:10 y:9 i:8
+rosettaproject_tdr_swadesh-1	tdr	Todrah	ipa_dense	95	132	7	27	0	0	a:29 i:26 ə:21 e:20 o:18 u:10 ɔ:8
+rosettaproject_tds_swadesh-1	tds	Doutai	light_ipa	315	970	8	0	0	0	i:272 a:239 u:105 y:103 e:98 o:81 ɛ:68 ə:4
+rosettaproject_tei_swadesh-1	tei	Torricelli	ipa_dense	219	592	12	0	0	0	a:125 ɛ:68 ʌ:62 e:58 i:53 y:43 ɔ:41 ɪ:37 ə:33 u:30 o:21 ʊ:21
+rosettaproject_tem_swadesh-1	tem	Themne	ipa_dense	447	887	11	7	0	18	ɑ:175 a:136 i:110 e:86 ɔ:84 o:79 ə:78 ɛ:62 u:62 y:14 æ:1
+rosettaproject_teo_swadesh-1	teo	Teso	ipa_dense	6	19	8	0	0	63	a:6 o:4 ɛ:3 ɔ:2 ɪ:1 e:1 u:1 i:1
+rosettaproject_teq_swadesh-1	teq	Temein	ipa_dense	93	193	10	1	0	0	a:47 ɪ:30 ʊ:26 ɛ:24 ɔ:22 o:13 i:10 e:10 u:7 y:4
+rosettaproject_teu_swadesh-1	teu	Soo	ipa_dense	103	174	8	2	0	0	a:50 i:34 ɛ:25 e:18 u:17 o:17 y:9 ɔ:4
+rosettaproject_tey_swadesh-1	tey	Tulishi	ipa_dense	299	780	11	13	0	32	a:217 i:212 u:84 ɛ:81 ɔ:63 e:35 ɪ:29 o:20 ʊ:18 y:17 ə:4
+rosettaproject_tgl_swadesh-2	tgl	Tagalog	light_ipa	293	683	6	11	0	0	a:312 i:143 o:106 u:73 y:38 e:11
+rosettaproject_tha_swadesh-1	tha	Thai	native:Thai	209	328	9	32	0	0	a:137 i:65 u:45 o:20 ɯ:19 e:16 ɔ:14 ɛ:11 ɤ:1
+rosettaproject_thd_swadesh-1	thd	Thayore	ipa_dense	59	91	6	16	0	0	a:39 o:15 u:14 y:9 e:8 i:6
+rosettaproject_thv_swadesh-1	thv	Tamahaq, Tahaggart	americanist	298	734	6	0	0	0	a:210 e:207 i:153 u:77 o:71 ə:16
+rosettaproject_tic_swadesh-1	tic	Tira	ipa_dense	178	338	11	9	0	35	a:80 i:70 u:56 ɔ:41 ɛ:38 ə:19 ʊ:12 y:10 ɪ:8 ɒ:2 ʌ:2
+rosettaproject_tim_swadesh-1	tim	Timbe	ipa_dense	234	476	8	0	0	15	a:129 i:76 e:72 ɑ:69 u:61 o:32 ɔ:26 y:11
+rosettaproject_tin_swadesh-1	tin	Tindi	ipa_dense	112	208	5	2	4	0	a:92 i:46 e:33 u:30 o:7
+rosettaproject_tiw_swadesh-1	tiw	Tiwi	ipa_dense	520	1878	6	0	0	0	a:681 i:604 u:316 ə:174 y:95 o:8
+rosettaproject_tlo_swadesh-1	tlo	Talodi	ipa_dense	206	442	11	12	0	48	a:126 i:69 u:52 ɔ:49 ʊ:42 ɛ:38 ɪ:27 ə:13 o:10 e:9 y:7
+rosettaproject_tma_swadesh-1	tma	Tama	ipa_dense	55	94	8	6	0	40	i:33 a:29 u:13 ɛ:7 o:5 e:3 y:3 ɔ:1
+rosettaproject_tmd_swadesh-1	tmd	Haruai	ipa_dense	344	962	11	0	0	2	a:333 i:274 e:77 u:70 y:66 ə:36 o:34 ʌ:32 ɨ:21 ɪ:15 ʊ:4
+rosettaproject_tmj_swadesh-1	tmj	Samarokena	light_ipa	199	745	8	0	0	0	a:282 i:223 e:109 o:67 ɛ:28 u:21 y:8 ə:7
+rosettaproject_tnk_swadesh-1	tnk	Kwamera	ipa_dense	182	464	6	0	0	0	a:163 i:92 u:77 ə:66 e:49 o:17
+rosettaproject_tnm_swadesh-1	tnm	Tabla	light_ipa	662	1813	7	0	0	0	e:602 a:298 i:296 o:239 u:214 y:86 ə:78
+rosettaproject_tnn_swadesh-1	tnn	Tanna, North	ipa_dense	184	456	6	0	0	0	a:176 ə:92 i:64 u:54 e:39 o:31
+rosettaproject_tof_swadesh-1	tof	Gizrra	ipa_dense	411	982	13	3	0	0	a:324 i:206 u:142 e:104 o:77 ə:61 ɨ:30 y:19 ʌ:12 ɪ:4 ɑ:1 ɛ:1 ɔ:1
+rosettaproject_ton_swadesh-1	ton	Tongan	light_ipa	185	478	5	5	0	0	a:160 u:95 i:86 o:80 e:57
+rosettaproject_tqo_swadesh-1	tqo	Toaripi	light_ipa	1062	3860	6	0	0	0	a:1479 i:719 e:678 o:571 u:395 ɔ:18
+rosettaproject_tqu_swadesh-1	tqu	Touo	ipa_dense	683	1854	9	10	0	0	a:510 o:450 e:289 i:288 u:212 ɔ:88 ɛ:14 y:2 ø:1
+rosettaproject_trt_swadesh-1	trt	Tunggare	ipa_dense	465	1461	9	1	0	0	a:572 e:234 i:231 u:154 o:151 ɛ:67 ʌ:27 y:21 ɔ:4
+rosettaproject_tsu_swadesh-1	tsu	Tsou	ipa_dense	180	441	7	2	0	0	o:121 u:84 a:74 ɨ:69 i:65 e:26 ə:2
+rosettaproject_tsx_swadesh-1	tsx	Mubami	light_ipa	302	959	8	0	0	1	o:252 i:229 a:200 e:191 u:81 ɔ:4 ɛ:1 y:1
+rosettaproject_ttr_swadesh-1	ttr	Tera	ipa_dense	69	106	7	0	0	0	a:32 ə:26 u:16 i:15 o:6 y:6 e:5
+rosettaproject_tty_swadesh-1	tty	Sikaritai	light_ipa	424	1177	8	0	0	6	a:454 i:223 u:157 o:136 e:135 ɛ:58 y:13 ə:1
+rosettaproject_tuh_swadesh-1	tuh	Taulil	light_ipa	362	945	7	0	0	0	a:426 i:188 u:118 o:104 e:82 ɛ:26 ø:1
+rosettaproject_tuq_swadesh-1	tuq	Tedaga	ipa_dense	463	972	10	6	0	17	i:222 a:177 u:159 e:142 o:126 y:44 ɛ:40 ə:34 ɔ:22 ɪ:6
+rosettaproject_tuv_swadesh-1	tuv	Turkana	ipa_dense	103	243	11	22	0	5	a:52 ɛ:42 ɔ:37 y:24 i:23 u:16 ɪ:16 o:16 e:8 ʊ:8 ɨ:1
+rosettaproject_tvo_swadesh-1	tvo	Tidore	light_ipa	509	1395	10	0	0	0	a:425 o:317 i:223 u:203 e:83 ɔ:65 y:51 ɛ:17 ɑ:7 ə:4
+rosettaproject_twe_swadesh-1	twe	Tewa	light_ipa	386	891	11	1	0	11	a:380 i:126 u:101 e:89 y:76 o:65 ɑ:27 ɛ:14 ɔ:9 ə:2 ʊ:2
+rosettaproject_tww_swadesh-1	tww	Tuwari	ipa_dense	162	514	9	0	0	0	a:119 i:84 ɔ:77 ɛ:76 o:69 e:49 u:26 y:10 ɪ:4
+rosettaproject_typ_swadesh-1	typ	Thaypan	light_ipa	109	171	7	0	0	0	a:62 y:23 e:22 o:21 u:18 i:16 ɨ:9
+rosettaproject_tzm_swadesh-1	tzm	Tamazight, Central Atlas	ipa_dense	26	46	6	6	0	0	a:16 ə:12 i:11 u:5 y:1 e:1
+rosettaproject_tzx_swadesh-1	tzx	Tabriak	light_ipa	55	132	6	0	0	0	a:55 i:33 u:20 y:17 ɨ:6 o:1
+rosettaproject_ubu_swadesh-1	ubu	Umbu-Ungu	light_ipa	183	464	6	1	0	0	a:109 i:103 u:100 o:82 e:50 y:20
+rosettaproject_udu_swadesh-1	udu	Uduk	ipa_dense	199	307	9	1	0	25	a:109 i:69 u:39 o:38 e:31 y:15 ɛ:2 ə:2 ɔ:2
+rosettaproject_ufi_swadesh-1	ufi	Ufim	ipa_dense	50	110	9	0	0	0	a:23 i:21 o:18 e:15 ɔ:15 u:12 y:3 ʌ:2 ɛ:1
+rosettaproject_ukg_swadesh-1	ukg	Ukuriguma	light_ipa	339	872	10	4	0	0	a:268 i:155 u:149 o:106 e:89 ɛ:35 ʌ:32 y:25 ɔ:12 ø:1
+rosettaproject_umd_swadesh-1	umd	Umbindhamu	ipa_dense	1	2	2	50	0	0	i:1 a:1
+rosettaproject_umg_swadesh-1	umg	Umbuygamu	light_ipa	16	36	4	2	0	0	a:25 u:6 i:4 y:1
+rosettaproject_umr_swadesh-1	umr	Umbugarla	ipa_dense	223	560	6	0	0	0	a:222 u:161 i:126 y:26 ə:22 ɛ:3
+rosettaproject_ung_swadesh-1	ung	Ngarinyin	ipa_dense	646	1765	7	0	0	0	a:846 u:352 i:270 o:104 y:98 e:89 ɔ:6
+rosettaproject_unp_swadesh-1	unp	Worora	ipa_dense	17	53	7	1	0	0	a:26 u:14 i:9 e:1 o:1 ɔ:1 y:1
+rosettaproject_urc_swadesh-1	urc	Urningangg	ipa_dense	236	761	9	4	0	0	a:279 i:143 u:141 e:74 y:56 o:39 ɛ:24 ɔ:4 ɒ:1
+rosettaproject_urf_swadesh-1	urf	Uradhi	light_ipa	66	155	5	0	0	0	a:82 u:36 i:28 y:5 e:4
+rosettaproject_urg_swadesh-1	urg	Urigina	light_ipa	383	968	11	4	0	0	a:212 u:183 i:171 e:131 o:127 ɛ:75 y:32 ʌ:29 ɔ:6 ø:1 ʊ:1
+rosettaproject_uri_swadesh-1	uri	Urim	ipa_dense	303	638	12	13	0	0	a:168 i:100 e:87 u:77 o:67 ə:46 y:29 ʌ:24 ʊ:17 ɛ:12 ɔ:7 ɪ:4
+rosettaproject_urw_swadesh-1	urw	Sop	ipa_dense	407	860	12	2	0	0	i:170 a:168 u:150 o:125 e:117 ʌ:47 ɛ:47 y:23 ɔ:8 ɨ:2 ə:2 ø:1
+rosettaproject_urx_swadesh-1	urx	Urimo	ipa_dense	467	1307	13	1	0	0	a:395 e:217 i:189 u:161 ɨ:96 y:81 o:62 ʌ:50 ɪ:22 ʊ:16 ɛ:16 ɔ:1 ø:1
+rosettaproject_ury_swadesh-1	ury	Orya	light_ipa	838	2143	10	3	0	0	a:982 e:373 i:251 o:217 u:216 y:58 ɪ:22 ʌ:16 ə:7 ɔ:1
+rosettaproject_usu_swadesh-1	usu	Uya	ipa_dense	363	700	11	4	0	0	a:131 i:121 o:115 u:115 e:99 ɛ:51 ʌ:42 y:13 ɔ:9 ø:2 ə:2
+rosettaproject_utu_swadesh-1	utu	Utu	ipa_dense	362	662	9	5	0	0	a:176 e:111 u:108 i:93 ɛ:73 o:68 ʌ:24 y:5 ø:4
+rosettaproject_uvh_swadesh-1	uvh	Uri	ipa_dense	52	102	9	0	0	0	i:28 ʌ:25 u:16 a:14 o:8 e:6 y:3 ɔ:1 ɛ:1
+rosettaproject_uwa_swadesh-1	uwa	Kuku-Uwanh	ipa_dense	246	690	6	4	0	0	a:302 u:164 i:101 e:45 y:44 o:34
+rosettaproject_vam_swadesh-1	vam	Vanimo	ipa_dense	288	497	12	5	0	16	a:105 e:96 i:78 u:75 o:67 ɛ:34 ɔ:16 y:15 ə:6 ɨ:3 æ:1 ɪ:1
+rosettaproject_van_swadesh-1	van	Valman	light_ipa	144	336	8	1	0	4	a:96 o:80 i:56 u:51 e:35 y:9 ɛ:5 ə:4
+rosettaproject_vmi_swadesh-1	vmi	Miwa	ipa_dense	18	39	6	7	0	0	a:18 u:8 i:6 ɔ:4 ɛ:2 y:1
+rosettaproject_wal_swadesh-1	wal	Wolaytta	ipa_dense	152	300	10	3	0	0	a:120 e:41 o:37 i:32 u:31 y:13 ə:10 ɛ:7 ɔ:5 ɨ:4
+rosettaproject_wbe_swadesh-1	wbe	Waritai	light_ipa	300	846	9	0	0	0	i:251 a:200 u:84 y:84 e:76 o:75 ɛ:66 ə:8 ɔ:2
+rosettaproject_wbj_swadesh-1	wbj	Alagwa	ipa_dense	182	394	6	6	0	1	a:180 i:77 u:51 o:36 e:36 y:14
+rosettaproject_wbp_swadesh-1	wbp	Warlpiri	ipa_dense	113	311	7	0	0	0	a:140 i:81 u:65 y:19 ɔ:4 ø:1 o:1
+rosettaproject_wdg_swadesh-1	wdg	Wadaginam	ipa_dense	374	978	11	3	0	0	i:259 a:214 u:188 ɨ:106 e:84 ʌ:77 y:26 ə:19 ʉ:3 ø:1 ɪ:1
+rosettaproject_wdj_swadesh-1	wdj	Wadjiginy	ipa_dense	179	443	6	0	0	0	a:220 e:75 i:57 u:47 ə:22 y:22
+rosettaproject_wer_swadesh-1	wer	Weri	ipa_dense	79	152	8	5	0	0	a:36 ʊ:30 o:21 i:16 ɪ:16 u:14 e:13 y:6
+rosettaproject_wfg_swadesh-1	wfg	Zorop	light_ipa	310	729	7	0	0	0	a:199 e:189 i:173 u:86 o:35 ə:31 y:16
+rosettaproject_wgi_swadesh-1	wgi	Wahgi	light_ipa	342	822	7	2	0	0	a:229 o:186 i:141 u:122 e:116 y:27 ə:1
+rosettaproject_wgy_swadesh-1	wgy	Warrgamay	ipa_dense	369	947	4	3	0	0	a:434 u:276 i:164 y:73
+rosettaproject_wii_swadesh-1	wii	Minidien	ipa_dense	63	162	8	0	0	1	a:47 e:43 i:22 y:17 ə:11 u:11 o:7 ɨ:4
+rosettaproject_wim_swadesh-1	wim	Wik-Mungkan	ipa_dense	94	130	6	22	0	0	a:50 u:28 e:22 i:14 y:8 o:8
+rosettaproject_wka_swadesh-1	wka	Kw'adza	ipa_dense	168	490	7	0	0	0	a:186 o:110 i:73 u:63 e:34 y:23 æ:1
+rosettaproject_wkw_swadesh-1	wkw	Wakawaka	ipa_dense	329	729	6	3	0	0	a:313 u:177 i:137 y:53 e:27 o:22
+rosettaproject_wla_swadesh-1	wla	Walio	ipa_dense	155	552	11	0	0	0	a:180 o:90 i:90 u:68 e:66 ʌ:29 ɛ:17 y:6 ɪ:4 ɑ:1 ɔ:1
+rosettaproject_wlg_swadesh-1	wlg	Kunbarlang	ipa_dense	233	697	8	6	0	0	a:228 u:167 i:136 ɛ:64 ɔ:53 y:28 e:14 o:7
+rosettaproject_wli_swadesh-1	wli	Waioli	light_ipa	82	233	6	0	0	0	a:67 o:60 u:37 e:34 i:33 y:2
+rosettaproject_wlo_swadesh-1	wlo	Wolio	light_ipa	183	502	6	0	0	0	a:229 u:79 i:70 o:68 e:54 ə:2
+rosettaproject_wlu_swadesh-1	wlu	Wuliwuli	ipa_dense	51	115	5	1	0	0	a:52 u:33 i:20 y:8 e:2
+rosettaproject_wlw_swadesh-1	wlw	Walak	light_ipa	127	296	10	0	0	0	a:88 i:57 e:50 o:47 u:27 ɛ:11 ʌ:6 y:6 ɪ:2 ʊ:2
+rosettaproject_wmb_swadesh-1	wmb	Wambaya	ipa_dense	380	1206	6	0	0	0	a:585 i:306 u:265 y:47 ɪ:2 ɨ:1
+rosettaproject_wmc_swadesh-1	wmc	Wamas	ipa_dense	367	857	11	7	0	0	a:242 i:138 u:132 e:130 o:82 ɛ:53 ʌ:53 y:17 ɔ:6 ə:2 ø:2
+rosettaproject_wmo_swadesh-1	wmo	Wom	ipa_dense	285	945	11	0	0	0	e:293 a:203 i:158 ɛ:143 u:75 o:35 ʊ:15 ɪ:12 y:7 ə:3 ʌ:1
+rosettaproject_wmt_swadesh-1	wmt	Walmajarri	ipa_dense	29	73	4	5	0	0	a:42 u:19 i:11 e:1
+rosettaproject_wnb_swadesh-1	wnb	Wanambre	ipa_dense	366	897	11	2	0	0	a:200 i:152 u:151 e:141 ɛ:96 o:85 ʌ:28 y:28 ɔ:11 ə:4 ø:1
+rosettaproject_wnc_swadesh-1	wnc	Wantoat	ipa_dense	188	400	10	0	0	0	a:102 ʌ:67 i:66 u:50 e:47 y:22 o:21 ɔ:17 ə:4 ɛ:4
+rosettaproject_wnd_swadesh-1	wnd	Wandarang	ipa_dense	519	1634	8	0	0	0	a:770 i:402 u:363 y:86 o:7 ɔ:3 ɛ:2 e:1
+rosettaproject_wno_swadesh-1	wno	Wano	light_ipa	107	276	6	0	0	0	a:65 i:60 e:57 u:42 o:39 y:13
+rosettaproject_wnp_swadesh-1	wnp	Wanap	ipa_dense	83	165	7	6	0	0	e:43 o:31 i:24 ə:19 y:18 a:17 u:13
+rosettaproject_wnu_swadesh-1	wnu	Usan	ipa_dense	369	798	11	4	0	0	i:172 u:160 e:139 ʌ:80 o:73 a:61 y:54 ɛ:49 ø:4 ɔ:4 ə:2
+rosettaproject_woa_swadesh-1	woa	Tyaraity	ipa_dense	135	314	7	0	0	0	u:132 a:67 e:43 i:31 ə:22 y:18 o:1
+rosettaproject_wod_swadesh-1	wod	Wolani	light_ipa	116	279	6	3	0	2	a:102 i:65 o:45 e:34 u:27 y:6
+rosettaproject_woe_swadesh-1	woe	Woleaian	ipa_dense	179	453	7	10	0	1	a:149 i:82 u:80 e:54 o:49 ɔ:22 y:17
+rosettaproject_wog_swadesh-1	wog	Wogamusin	light_ipa	98	163	9	0	0	0	o:47 a:28 y:26 e:24 i:21 u:10 ə:5 ɛ:1 ɔ:1
+rosettaproject_woi_swadesh-1	woi	Kamang	light_ipa	614	1397	11	0	0	14	a:500 i:232 e:205 u:194 o:86 y:79 ɑ:54 ɛ:30 ɔ:13 ɪ:3 ə:1
+rosettaproject_wra_swadesh-1	wra	Warapu	light_ipa	201	628	10	1	0	10	a:162 i:115 o:111 e:105 u:75 ʌ:41 ɛ:8 y:7 ɔ:3 ɤ:1
+rosettaproject_wrh_swadesh-1	wrh	Wiradhuri	light_ipa	63	141	4	0	0	0	a:60 u:36 i:34 y:11
+rosettaproject_wrn_swadesh-1	wrn	Warnang	ipa_dense	158	279	10	14	0	41	a:103 i:50 u:47 ɔ:34 ɛ:21 y:13 ə:4 ɪ:3 o:2 ʊ:2
+rosettaproject_wrr_swadesh-1	wrr	Wardaman	ipa_dense	354	1076	7	0	0	0	a:357 i:247 u:209 y:117 e:82 o:61 ɛ:3
+rosettaproject_wrs_swadesh-1	wrs	Waris	light_ipa	862	2042	11	0	0	0	a:593 e:436 o:358 i:278 u:242 y:71 ɛ:34 ə:15 ɒ:10 ɔ:4 ɑ:1
+rosettaproject_wrz_swadesh-1	wrz	Waray	light_ipa	220	606	7	0	0	0	a:210 i:119 u:117 o:78 e:43 y:20 ɛ:19
+rosettaproject_wsk_swadesh-1	wsk	Waskia	light_ipa	372	903	11	5	0	0	a:264 i:181 u:154 e:102 o:102 ʌ:48 ɛ:38 y:11 ø:1 ɔ:1 ə:1
+rosettaproject_wtf_swadesh-1	wtf	Dumpu	light_ipa	326	648	12	3	0	0	u:134 e:127 i:125 a:101 o:58 ɛ:41 ʌ:28 y:21 ɔ:8 ø:2 ɪ:2 ə:1
+rosettaproject_wti_swadesh-1	wti	Berta	ipa_dense	400	879	11	9	0	26	a:317 i:161 u:137 o:94 e:84 ɛ:22 ɪ:21 ɔ:19 y:16 ʊ:5 æ:3
+rosettaproject_wub_swadesh-1	wub	Wunambal	ipa_dense	27	71	7	7	0	0	a:31 i:16 u:13 ɛ:5 y:3 o:2 ɔ:1
+rosettaproject_wul_swadesh-1	wul	Silimo	ipa_dense	248	619	12	4	0	0	a:147 i:106 e:91 o:79 ɛ:53 u:52 y:33 ɔ:28 ʊ:13 ɪ:10 ə:5 ɑ:2
+rosettaproject_wut_swadesh-1	wut	Wutung	ipa_dense	178	346	13	5	0	3	a:93 e:67 i:62 u:53 o:35 ɛ:11 ə:7 ɪ:5 ʌ:4 ɔ:3 y:3 æ:2 ɨ:1
+rosettaproject_wux_swadesh-1	wux	Wulna	light_ipa	149	478	6	0	0	0	a:178 i:108 u:79 y:44 e:36 o:33
+rosettaproject_wyb_swadesh-1	wyb	Wangaaybuwan-Ngiyambaa	ipa_dense	235	605	4	10	0	0	a:267 u:150 i:119 y:69
+rosettaproject_wyy_swadesh-1	wyy	Fijian, Western	light_ipa	182	479	6	5	0	0	a:205 i:89 u:83 o:58 e:35 y:9
+rosettaproject_xam_swadesh-1	xam	/Xam	ipa_dense	294	460	13	19	0	0	a:156 i:88 e:76 u:60 o:37 ɔ:17 ɛ:7 y:7 ə:6 ɯ:3 ʌ:1 æ:1 ɑ:1
+rosettaproject_xan_swadesh-1	xan	Xamtanga	ipa_dense	94	189	11	29	0	0	a:51 ɨ:37 i:23 u:22 ɛ:16 y:12 o:9 ɔ:8 ə:7 e:3 ʊ:1
+rosettaproject_xeg_swadesh-1	xeg	//Xegwi	ipa_dense	376	688	12	15	0	0	a:214 i:148 u:110 e:69 o:45 ə:36 ɔ:27 ɛ:14 ɑ:8 ʌ:7 y:7 ɯ:3
+rosettaproject_xel_swadesh-1	xel	Kelo	ipa_dense	299	765	11	19	0	0	a:152 i:148 ə:88 ɔ:85 e:82 ɛ:55 u:45 y:44 ʊ:32 ɪ:20 o:14
+rosettaproject_xes_swadesh-1	xes	Kesawai	ipa_dense	334	790	11	1	0	0	e:172 a:163 i:133 o:98 ɛ:89 u:88 ʌ:30 y:11 ə:4 ø:1 ɔ:1
+rosettaproject_xeu_swadesh-1	xeu	Keoru-Ahia	light_ipa	256	931	5	0	0	2	a:304 e:215 o:212 i:124 u:76
+rosettaproject_xla_swadesh-1	xla	Kamula	ipa_dense	287	848	9	0	0	6	e:209 a:188 i:116 ʌ:90 o:83 u:64 ɔ:38 y:37 ɛ:23
+rosettaproject_xmu_swadesh-1	xmu	Kamu	ipa_dense	125	297	6	0	0	0	a:96 u:74 e:50 i:34 ə:26 y:17
+rosettaproject_xom_swadesh-1	xom	Komo	ipa_dense	220	364	9	6	0	4	i:109 a:79 e:39 u:32 y:30 o:28 ɔ:23 ɛ:16 ə:8
+rosettaproject_xop_swadesh-1	xop	Kopar	ipa_dense	158	460	10	0	0	1	a:203 e:54 i:51 o:46 u:35 ə:30 ɛ:14 y:13 ʊ:11 ɪ:3
+rosettaproject_xow_swadesh-1	xow	Kowaki	ipa_dense	355	837	10	2	0	0	e:195 i:135 a:132 u:116 ɛ:93 ʌ:80 o:63 y:19 ɔ:2 ə:2
+rosettaproject_xrw_swadesh-1	xrw	Karawa	light_ipa	70	176	7	1	0	0	a:62 i:38 y:22 e:17 u:13 o:12 ə:12
+rosettaproject_xsp_swadesh-1	xsp	Silopi	ipa_dense	357	680	10	7	0	0	a:143 e:135 u:124 i:89 o:71 ɛ:58 ʌ:42 y:11 ɔ:4 ø:3
+rosettaproject_xtc_swadesh-1	xtc	Katcha-Kadugli-Miri	ipa_dense	825	2271	14	17	0	27	a:609 i:544 u:313 ɔ:279 ɛ:217 o:81 y:64 e:62 ʊ:52 ɪ:31 ɑ:10 ʌ:4 ə:3 ɒ:2
+rosettaproject_xwg_swadesh-1	xwg	Kwegu	ipa_dense	95	214	10	24	0	78	a:58 u:54 i:34 ɔ:19 o:16 y:12 ə:7 e:7 ɛ:6 æ:1
+rosettaproject_ybm_swadesh-1	ybm	Yaben	ipa_dense	370	991	10	4	0	0	a:290 u:267 i:158 e:112 ʌ:91 y:37 o:25 ɛ:6 ə:3 ø:2
+rosettaproject_ybo_swadesh-1	ybo	Yabong	ipa_dense	385	769	10	0	0	0	i:149 u:146 o:124 a:112 e:104 ɛ:49 ʌ:42 ɔ:26 y:14 ø:3
+rosettaproject_ybx_swadesh-1	ybx	Yawiyo	ipa_dense	83	325	9	0	0	0	a:112 i:59 u:46 e:35 y:27 o:22 ʌ:18 ɪ:5 ə:1
+rosettaproject_ydd_swadesh-1	ydd	Yiddish, Eastern	native:Hebrew	209	262	6	0	0	0	ɛ:71 a:60 ɔ:49 i:48 u:20 e:14
+rosettaproject_ydk_swadesh-1	ydk	Yoidik	ipa_dense	370	699	11	6	0	0	a:222 e:116 u:112 i:97 ʌ:53 o:40 y:28 ɛ:28 ø:1 ɔ:1 ə:1
+rosettaproject_yee_swadesh-1	yee	Yimas	ipa_dense	331	799	13	0	0	0	a:361 i:117 u:100 y:59 ɨ:50 ʌ:38 e:19 ɛ:18 o:17 ɪ:14 ʊ:4 ɔ:1 ə:1
+rosettaproject_yev_swadesh-1	yev	Yapunda	ipa_dense	20	48	9	10	0	16	e:10 o:9 i:6 a:6 ɛ:4 ə:4 u:4 ɔ:3 y:2
+rosettaproject_ygr_swadesh-1	ygr	Yagaria	ipa_dense	206	674	6	0	0	0	a:294 e:132 i:90 o:89 u:47 y:22
+rosettaproject_yii_swadesh-1	yii	Yidiny	ipa_dense	247	571	4	1	0	0	a:262 u:168 i:107 y:34
+rosettaproject_yij_swadesh-1	yij	Yindjibarndi	ipa_dense	329	869	4	5	0	0	a:413 u:216 i:186 y:54
+rosettaproject_yis_swadesh-1	yis	Yis	light_ipa	72	166	7	0	0	0	i:33 a:32 e:31 u:29 y:17 ə:15 o:9
+rosettaproject_yle_swadesh-1	yle	Yele	light_ipa	1131	2785	17	1	0	0	a:791 i:557 e:355 o:326 u:285 y:215 ə:76 ɑ:42 ɔ:31 ʊ:29 ʌ:25 ɪ:23 ɛ:17 ɒ:6 ɨ:4 æ:2 ø:1
+rosettaproject_ylg_swadesh-1	ylg	Yelogu	ipa_dense	304	655	8	0	0	0	a:173 y:137 i:135 ə:72 e:58 ʌ:50 u:28 o:2
+rosettaproject_yli_swadesh-1	yli	Yali, Angguruk	ipa_dense	66	148	8	0	0	0	a:34 e:26 o:20 ɪ:19 i:19 u:13 ʊ:11 y:6
+rosettaproject_yll_swadesh-1	yll	Yil	light_ipa	71	103	7	15	0	0	a:35 i:26 u:15 e:10 ə:8 y:6 o:3
+rosettaproject_ymb_swadesh-1	ymb	Yambes	ipa_dense	367	989	12	0	0	0	i:262 a:189 u:167 e:135 o:72 y:68 ɛ:38 ɪ:35 ʌ:16 ə:3 ɔ:3 ʊ:1
+rosettaproject_ynl_swadesh-1	ynl	Yangulam	ipa_dense	332	720	10	1	0	0	a:214 e:129 i:100 u:99 o:82 ɛ:40 y:26 ʌ:18 ɪ:10 ø:2
+rosettaproject_yrw_swadesh-1	yrw	Yarawata	ipa_dense	357	1098	10	2	0	0	a:430 i:192 u:154 e:109 ʌ:68 o:66 y:44 ɛ:31 ø:2 ɔ:2
+rosettaproject_yss_swadesh-1	yss	Yessan-Mayo	light_ipa	108	171	10	2	0	0	a:69 e:30 i:26 y:12 ə:12 u:10 o:8 ʌ:2 ɛ:1 ɔ:1
+rosettaproject_yuj_swadesh-1	yuj	Karkar-Yuri	ipa_dense	1018	3277	15	0	0	0	a:685 i:495 ə:430 o:308 y:289 u:230 e:211 ʊ:166 ɪ:120 ʌ:91 ɔ:90 ɛ:83 ɒ:45 ɨ:30 ʉ:4
+rosettaproject_yul_swadesh-1	yul	Yulu	ipa_dense	54	102	8	1	0	23	a:31 i:25 e:15 u:12 ɛ:8 ɔ:5 o:4 y:2
+rosettaproject_yut_swadesh-1	yut	Yopno	ipa_dense	90	173	9	0	0	0	a:59 i:23 u:23 ʌ:22 e:18 o:15 ɔ:8 y:3 ɛ:2
+rosettaproject_yuw_swadesh-1	yuw	Yau	ipa_dense	191	386	8	0	0	0	ɔ:72 a:72 o:66 i:58 u:58 e:28 y:23 ʌ:9
+rosettaproject_yva_swadesh-1	yva	Yawa	light_ipa	682	1894	6	0	0	0	a:891 i:333 e:200 u:197 o:197 y:76
+rosettaproject_yyu_swadesh-1	yyu	Yau	light_ipa	71	150	7	6	0	0	i:35 a:33 u:31 e:25 y:16 ə:9 o:1
+rosettaproject_zag_swadesh-1	zag	Zaghawa	ipa_dense	25	53	9	15	0	20	i:14 o:10 ɔ:7 a:7 u:5 e:3 ɛ:3 y:2 ʌ:2
+rosettaproject_zay_swadesh-1	zay	Zaysete	ipa_dense	116	247	10	7	0	0	a:66 o:44 u:36 e:36 ɛ:23 i:22 y:10 ɪ:7 ɔ:2 ə:1
+rosettaproject_zen_swadesh-1	zen	Zenaga	americanist	293	713	6	0	0	0	a:196 e:191 i:147 o:96 u:80 ə:3
+rosettaproject_zik_swadesh-1	zik	Zimakani	ipa_dense	438	1426	13	1	0	0	a:475 e:195 i:176 u:146 o:118 ɔ:92 y:92 ɛ:62 ɑ:60 ɪ:6 ʉ:2 ə:1 ʌ:1
+rosettaproject_zma_swadesh-1	zma	Manda	ipa_dense	146	383	7	0	0	0	a:109 i:98 u:65 e:64 y:24 ə:22 ø:1
+rosettaproject_zmc_swadesh-1	zmc	Margany	light_ipa	348	833	4	0	0	0	a:419 u:227 i:151 y:36
+rosettaproject_zmd_swadesh-1	zmd	Maridan	ipa_dense	112	278	6	0	0	0	i:105 a:81 u:45 e:32 y:14 ə:1
+rosettaproject_zme_swadesh-1	zme	Mangerr	ipa_dense	248	814	8	3	0	0	a:271 i:165 u:154 e:92 y:61 o:33 ɛ:29 ɔ:9
+rosettaproject_zmj_swadesh-1	zmj	Maridjabin	ipa_dense	119	306	7	0	0	0	i:128 a:76 u:50 e:33 y:17 ø:1 ə:1
+rosettaproject_zml_swadesh-1	zml	Madngele	ipa_dense	232	643	7	0	0	0	a:154 y:126 u:120 ə:85 e:84 i:73 o:1
+rosettaproject_zmm_swadesh-1	zmm	Marimanindji	ipa_dense	136	332	5	0	0	0	i:138 a:93 u:43 e:40 y:18
+rosettaproject_zmo_swadesh-1	zmo	Molo	ipa_dense	186	444	11	17	0	0	a:99 i:77 ɔ:60 o:46 u:43 e:41 ə:28 ɪ:15 ʊ:15 ɛ:11 y:9
+rosettaproject_zmr_swadesh-1	zmr	Maranunggu	ipa_dense	293	717	7	0	0	0	a:259 i:178 u:118 e:90 y:36 ə:33 o:3
+rosettaproject_zmt_swadesh-1	zmt	Maringarr	ipa_dense	139	318	7	0	0	0	i:142 a:80 u:42 e:35 y:17 ø:1 ə:1
+rosettaproject_zmu_swadesh-1	zmu	Muruwari	ipa_dense	378	995	4	4	0	0	a:486 u:233 i:214 y:62
+rosettaproject_zng_swadesh-1	zng	Mang	ipa_dense	93	127	10	0	0	0	a:58 ɔ:19 i:11 u:10 ɨ:8 o:7 ə:6 e:5 ɛ:2 y:1
+rosettaproject_zwa_swadesh-1	zwa	Zay	ipa_dense	97	189	11	26	0	0	a:57 ɛ:39 ɨ:27 i:18 u:15 e:9 o:8 y:8 ɔ:4 ʊ:3 ɪ:1

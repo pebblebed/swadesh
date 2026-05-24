@@ -1,5 +1,27 @@
 # TODO
 
+## MODELING DIRECTION (decided 2026-05-23 — the "why" behind the IPA work)
+END GOAL: explicitly model **(vocalic) sound change** by learning latent reps of BOTH each
+language and each concept, then **decoding the IPA form conditioned on (language, concept)** --
+a two-way factor model `form ≈ g(z_language, c_concept)`. Language **relatedness = distance
+between z_language vectors**. Chosen over a free per-language autoencoder so the bottleneck is
+biased toward *systematic correspondence* (regular sound laws), not surface similarity.
+Rationale + prior art written up in `notes/relatedness.html` (MDL/correspondence view) and
+`notes/neural-embeddings.html` (language-embedding view; symbolic↔distributed spectrum; the
+structured-transducer hybrid is the target architecture). Polynesian `rap·tah·smo·ton` (all
+already ipa_dense/light_ipa) = the clean first testbed (recovers k:ʔ, *f/*s→h, with 'two'
+piti as built-in lexical-replacement noise). => This reframes IPA-perfectionism priority:
+favour work that improves per-(language,concept) phonetic quality + the segment/vowel feature
+layer, and keep outputs model-ready (clean aligned matrix; per-language inventories).
+- [x] FIRST model-ready artifact + vowel audit: `scripts/vowels.py` -> `metadata/vowel_inventories.tsv`
+  (per-list vowel system: qualities + counts + %long/%nasal/%tone) and `metadata/vowel_summary.tsv`.
+  954 lists, 615,759 vowel tokens, 25 qualities (a>i>u>e>o dominant). Validates: Polynesian
+  rap/tah/smo/ton all clean 5-vowel a-i-e-o-u (tah 11% long, 0 tone); Adyghe correctly 2 (vertical
+  system). KNOWN CAVEAT surfaced: light_ipa 'y' (ambiguous letter, often /j/~/ɨ/) is featurized as
+  vowel /y/ and inflates its count (22.8k toks/829 lists) -> fix in Tier-3b per-source pass.
+- [ ] NEXT model-prep: export the aligned (language × concept) -> IPA/segments matrix (model input),
+  restricted to well-covered concepts/lists; then per-language segment (not just vowel) inventories.
+
 ## In progress / done
 - [x] **Download the Swadesh lists** from the Rosetta collection on the Internet Archive.
       Source is NOT the blog page directly — the blog points to archive.org. See FINDINGS.

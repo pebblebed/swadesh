@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Coherence, Not Closeness — a note on measuring relatedness</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#f1e9da;
+    --paper-2:#ebe1cf;
+    --ink:#211c15;
+    --ink-soft:#5c5141;
+    --ink-faint:#8a7d68;
+    --oxblood:#9a3327;
+    --oxblood-deep:#762216;
+    --teal:#1f5b5b;
+    --gold:#b4862f;
+    --rule:rgba(33,28,21,.16);
+    --rule-soft:rgba(33,28,21,.08);
+    --serif:"Gentium Book Plus",Georgia,"Times New Roman",serif;
+    --display:"Fraunces",Georgia,serif;
+    --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  }
+  *{box-sizing:border-box}
+  html{ -webkit-text-size-adjust:100% }
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:var(--serif);
+    font-size:clamp(17px,1.05vw + 14px,20px);
+    line-height:1.62;
+    text-rendering:optimizeLegibility;
+    -webkit-font-smoothing:antialiased;
+  }
+  /* paper grain + faint ruled margin */
+  body::before{
+    content:"";position:fixed;inset:0;pointer-events:none;z-index:2;opacity:.05;mix-blend-mode:multiply;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+  body::after{
+    content:"";position:fixed;inset:0;pointer-events:none;z-index:1;
+    background:radial-gradient(120% 90% at 50% -10%, rgba(255,250,238,.6), transparent 55%),
+               radial-gradient(120% 120% at 50% 120%, rgba(90,70,40,.10), transparent 60%);
+  }
+  ::selection{background:rgba(154,51,39,.18)}
+
+  .wrap{max-width:53rem;margin:0 auto;padding:clamp(2.2rem,5vw,5rem) clamp(1.2rem,5vw,2.4rem) 5rem;position:relative;z-index:3}
+  .prose{max-width:37rem}
+
+  /* ───────── masthead ───────── */
+  header.mast{position:relative;margin-bottom:3.2rem;padding-bottom:1.8rem;border-bottom:1px solid var(--rule)}
+  .glyph{
+    position:absolute;right:-.3rem;top:-2.6rem;font-family:var(--display);font-weight:400;
+    font-size:clamp(8rem,22vw,15rem);line-height:1;color:var(--oxblood);opacity:.08;
+    pointer-events:none;user-select:none;font-style:italic;
+  }
+  .kicker{
+    font-family:var(--mono);font-size:.72rem;letter-spacing:.34em;text-transform:uppercase;
+    color:var(--oxblood-deep);margin:0 0 1.3rem;
+  }
+  .kicker .dot{color:var(--gold)}
+  h1{
+    font-family:var(--display);font-weight:600;font-style:normal;
+    font-size:clamp(2.6rem,7vw,4.7rem);line-height:.98;letter-spacing:-.015em;
+    margin:0 0 .7rem;max-width:13ch;font-optical-sizing:auto;
+  }
+  h1 em{font-style:italic;color:var(--oxblood)}
+  .standfirst{
+    font-size:clamp(1.05rem,1.4vw,1.28rem);line-height:1.5;color:var(--ink-soft);
+    max-width:40ch;margin:.2rem 0 0;font-style:italic;
+  }
+  .byline{font-family:var(--mono);font-size:.72rem;letter-spacing:.12em;color:var(--ink-faint);margin-top:1.7rem;text-transform:uppercase}
+
+  /* ───────── prose ───────── */
+  .prose p{margin:0 0 1.15rem}
+  .lede::first-letter{
+    font-family:var(--display);font-weight:600;float:left;font-size:4.4rem;line-height:.72;
+    padding:.34rem .14rem 0 0;color:var(--oxblood);
+  }
+  .prose a{color:var(--oxblood-deep);text-underline-offset:3px;text-decoration-thickness:1px}
+  strong{font-weight:700}
+  em{font-style:italic}
+  .ipa{font-family:var(--serif);color:var(--teal);font-feature-settings:"liga" 0}
+  .law{color:var(--oxblood-deep);font-style:italic}
+
+  h2{
+    font-family:var(--display);font-weight:600;font-size:clamp(1.6rem,3.2vw,2.15rem);
+    letter-spacing:-.01em;line-height:1.05;margin:3.4rem 0 .3rem;max-width:20ch;
+  }
+  h2 .num{
+    font-family:var(--mono);font-size:.7rem;font-weight:500;letter-spacing:.2em;color:var(--gold);
+    display:block;margin-bottom:.7rem;text-transform:uppercase;
+  }
+  h2 + .sub{color:var(--ink-faint);font-style:italic;margin:.1rem 0 1.4rem;max-width:34ch}
+
+  /* ───────── sidenotes (Tufte-style) ───────── */
+  .sidenote{
+    float:right;clear:right;width:13.2rem;margin:.35rem 0 1.1rem 0;
+    font-size:.82rem;line-height:1.46;color:var(--ink-soft);
+    border-top:2px solid var(--oxblood);padding-top:.5rem;
+  }
+  .sidenote b{font-family:var(--mono);font-weight:500;font-size:.66rem;letter-spacing:.16em;
+    text-transform:uppercase;color:var(--oxblood-deep);display:block;margin-bottom:.35rem}
+
+  /* ───────── correspondence figure ───────── */
+  figure.corr{
+    margin:2.4rem 0;padding:1.8rem 1.7rem 1.5rem;background:var(--paper-2);
+    border:1px solid var(--rule);position:relative;max-width:37rem;
+    box-shadow:0 1px 0 rgba(255,255,255,.5) inset, 0 14px 30px -22px rgba(60,40,20,.5);
+  }
+  figure.corr::before{
+    content:"FIG.";position:absolute;top:.8rem;right:1rem;font-family:var(--mono);
+    font-size:.62rem;letter-spacing:.2em;color:var(--ink-faint);
+  }
+  .corr-pair{margin:.2rem 0 1.25rem}
+  .corr-pair:last-of-type{margin-bottom:.5rem}
+  .corr-grid{display:grid;grid-template-columns:2.6rem repeat(var(--n),1fr);align-items:stretch;
+    column-gap:.18rem;max-width:21rem}
+  .lang{font-family:var(--mono);font-size:.66rem;letter-spacing:.1em;color:var(--ink-faint);
+    display:flex;align-items:center}
+  .seg{
+    font-family:var(--serif);font-size:1.5rem;text-align:center;padding:.28rem 0;border-radius:3px;
+    color:var(--ink);
+  }
+  .seg.eq{color:var(--teal)}
+  .seg.link{
+    color:var(--oxblood);background:rgba(154,51,39,.10);
+    box-shadow:inset 0 0 0 1px rgba(154,51,39,.32);font-weight:700;
+  }
+  .corr-cap{font-family:var(--mono);font-size:.66rem;letter-spacing:.08em;color:var(--ink-faint);
+    margin-top:.45rem;padding-left:2.78rem}
+  figcaption{margin-top:1.1rem;padding-top:.9rem;border-top:1px solid var(--rule);
+    font-size:.86rem;line-height:1.5;color:var(--ink-soft);font-style:italic}
+  figcaption b{font-style:normal;color:var(--oxblood-deep)}
+
+  /* ───────── bibliography ───────── */
+  .biblio{margin:1.4rem 0 .6rem;max-width:37rem}
+  .biblio h3{font-family:var(--mono);font-weight:500;font-size:.72rem;letter-spacing:.2em;
+    text-transform:uppercase;color:var(--oxblood-deep);margin:1.6rem 0 .9rem;
+    padding-bottom:.4rem;border-bottom:1px solid var(--rule-soft)}
+  .ref{display:grid;grid-template-columns:7.2rem 1fr;gap:.4rem 1rem;padding:.55rem 0;
+    border-bottom:1px solid var(--rule-soft);align-items:baseline}
+  .ref-key{font-family:var(--mono);font-size:.72rem;color:var(--gold);letter-spacing:.02em;line-height:1.5}
+  .ref-body{font-size:.92rem;line-height:1.5}
+  .ref-body b{color:var(--ink)}
+  .ref-body span{color:var(--ink-soft)}
+
+  /* ───────── critiques ───────── */
+  .crit{display:grid;grid-template-columns:3.2rem 1fr;gap:0 1.1rem;margin:1.5rem 0;max-width:37rem;align-items:start}
+  .crit .n{font-family:var(--display);font-weight:600;font-size:2.6rem;line-height:.9;color:var(--oxblood);
+    font-style:italic}
+  .crit .c-body{padding-top:.25rem}
+  .crit h4{margin:0 0 .3rem;font-family:var(--serif);font-weight:700;font-size:1.06rem;line-height:1.25}
+  .crit p{margin:0;font-size:.96rem;color:var(--ink-soft);line-height:1.55}
+  .crit .fix{color:var(--teal);font-style:italic}
+
+  /* ───────── verdict ───────── */
+  .verdict{
+    margin:3rem 0 1rem;padding:1.9rem 2rem;border:1px solid var(--rule);
+    border-left:4px solid var(--oxblood);background:linear-gradient(180deg,var(--paper-2),transparent);
+    max-width:37rem;
+  }
+  .verdict .vk{font-family:var(--mono);font-size:.7rem;letter-spacing:.24em;text-transform:uppercase;
+    color:var(--oxblood-deep);margin:0 0 .8rem}
+  .verdict p{margin:0 0 .9rem;font-size:1.05rem;line-height:1.55}
+  .verdict p:last-child{margin-bottom:0}
+
+  /* ───────── footer ───────── */
+  footer{margin-top:4rem;padding-top:1.3rem;border-top:1px solid var(--rule);
+    font-family:var(--mono);font-size:.7rem;letter-spacing:.06em;color:var(--ink-faint);
+    display:flex;flex-wrap:wrap;gap:.4rem 1.6rem;justify-content:space-between;max-width:37rem}
+  footer span b{color:var(--ink-soft);font-weight:500}
+
+  /* ───────── reveal animation ───────── */
+  .reveal{opacity:0;transform:translateY(16px);transition:opacity .8s cubic-bezier(.2,.7,.2,1),transform .8s cubic-bezier(.2,.7,.2,1)}
+  .reveal.in{opacity:1;transform:none}
+  @media (prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none;transition:none}}
+
+  /* masthead staggered load */
+  .mast .kicker,.mast h1,.mast .standfirst,.mast .byline{animation:rise .9s both cubic-bezier(.2,.7,.2,1)}
+  .mast h1{animation-delay:.08s}
+  .mast .standfirst{animation-delay:.18s}
+  .mast .byline{animation-delay:.28s}
+  @keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){.mast *{animation:none!important}}
+
+  /* ───────── narrow screens: sidenotes inline ───────── */
+  @media (max-width:920px){
+    .prose,.biblio,.crit,.verdict,figure.corr,footer{max-width:100%}
+    .sidenote{float:none;width:auto;max-width:100%;margin:1.2rem 0;padding:.7rem 0 0;border-top:2px solid var(--oxblood)}
+  }
+  @media (max-width:480px){
+    .ref{grid-template-columns:1fr;gap:.2rem}
+    .crit{grid-template-columns:2.2rem 1fr;gap:0 .8rem}
+    .glyph{top:-1.4rem}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="mast">
+    <div class="glyph" aria-hidden="true">∗</div>
+    <p class="kicker">Swadesh working notes <span class="dot">·</span> on method</p>
+    <h1>Coherence,<br>not <em>closeness</em></h1>
+    <p class="standfirst">Measuring how two languages are related by the <em>systematicity</em> of the map between their word lists — where the idea sits in linguistics, and where the naïve version breaks.</p>
+    <p class="byline">Comparative method, computationally · for the Rosetta Swadesh corpus</p>
+  </header>
+
+  <main>
+  <section class="prose">
+    <p class="lede reveal">Stepping back from transcription mechanics is the right instinct — and the good news is that your intuition isn't merely reasonable; it is the literal foundation of historical linguistics. Relatedness measured by the <em>regularity</em> of the correspondence, not the smallness of the difference, is exactly the principle the field was built on. Let me place the idea, then push on it.</p>
+
+    <aside class="sidenote reveal"><b>The thesis</b>Two languages are sisters not when their words <em>look alike</em> but when a small, consistent set of correspondences maps one onto the other. Surface similarity is the thing the method warns you against.</aside>
+
+    <p class="reveal">What you're describing is <strong>regular sound correspondence</strong> — the <span class="law">Neogrammarian</span> principle (Brugmann &amp; Osthoff, 1870s): <em>sound laws are exceptionless</em>. The textbook instances <em>are</em> your "simple coherent rules." <span class="law">Grimm's Law</span> (1822): Proto-Indo-European voiceless stops became Germanic voiceless fricatives — Latin <em>pater</em> : English <em>father</em>, <em>piscis</em> : <em>fish</em>. That is precisely "shift this natural class." <span class="law">Verner's Law</span> (1876) then rescued Grimm's <em>exceptions</em> by adding a single conditioning factor — accent — which is the most important caveat for your scheme, and we return to it below.</p>
+  </section>
+
+  <section class="prose">
+    <h2 class="reveal"><span class="num">The worked example</span>The map can be large and still be regular</h2>
+    <p class="sub reveal">Polynesian is the cleanest case there is — and your own example nails it.</p>
+
+    <figure class="corr reveal">
+      <div class="corr-pair">
+        <div class="corr-grid" style="--n:6">
+          <div class="lang">HAW</div>
+          <span class="seg link">k</span><span class="seg">a</span><span class="seg eq">h</span><span class="seg">i</span><span class="seg link">k</span><span class="seg">i</span>
+          <div class="lang">TAH</div>
+          <span class="seg link">t</span><span class="seg">a</span><span class="seg eq">h</span><span class="seg">i</span><span class="seg link">t</span><span class="seg">i</span>
+        </div>
+        <div class="corr-cap">kahiki ↔ tahiti &nbsp;·&nbsp; 'foreign land' / Tahiti</div>
+      </div>
+      <div class="corr-pair">
+        <div class="corr-grid" style="--n:4">
+          <div class="lang">HAW</div>
+          <span class="seg">m</span><span class="seg">o</span><span class="seg link">k</span><span class="seg">u</span>
+          <div class="lang">TAH</div>
+          <span class="seg">m</span><span class="seg">o</span><span class="seg link">t</span><span class="seg">u</span>
+        </div>
+        <div class="corr-cap">moku ↔ motu &nbsp;·&nbsp; 'island'</div>
+      </div>
+      <figcaption>The same correspondence recurs: <b>Hawaiian k : Tahitian t</b> — both reflexes of Proto-Polynesian&nbsp;<span class="ipa">*t</span>. Hawaiian also shifted <span class="ipa">*k → ʔ</span> and <span class="ipa">*f, *s → h</span>; it has <em>no</em> <span class="ipa">/t, r, s/</span> at all. So the edit distance is large, yet the mapping is dead regular. The <span class="ipa">h : h</span> column (teal) is shared inheritance.</figcaption>
+    </figure>
+
+    <aside class="sidenote reveal"><b>The whole point</b>The gap between "far in Levenshtein" and "trivially regular" is the signal you want to measure. ASJP's normalized edit distance lives on the wrong side of that gap.</aside>
+
+    <p class="reveal">Run a raw edit-distance over those pairs and you get a non-trivial number; the words genuinely differ. But the <em>same</em> substitution <span class="ipa">k ↔ t</span> recurs, and that recurrence — not the magnitude of the difference — is the evidence of common descent. This is why the comparative method does <em>not</em> use surface resemblance: phonetic similarity is chance, nursery words, and loans; <strong>recurrent correspondence</strong> is descent. Your framing — "we don't care if the words are far apart, as long as the edit procedure is consistent" — is a clean restatement of the discipline's central distinction.</p>
+  </section>
+
+  <section class="prose">
+    <h2 class="reveal"><span class="num">Prior art</span>You are entering a well-populated room</h2>
+    <p class="sub reveal">…but through a slightly unusual, and useful, door.</p>
+
+    <div class="biblio">
+      <h3 class="reveal">Traditional</h3>
+      <div class="ref reveal"><div class="ref-key">1822 · 1876</div><div class="ref-body"><b>Grimm's &amp; Verner's Laws.</b> <span>Chain shifts as exceptionless rules; Verner shows a single conditioning context can rescue apparent irregularity.</span></div></div>
+      <div class="ref reveal"><div class="ref-key">Swadesh ’50s</div><div class="ref-body"><b>Lexicostatistics / glottochronology.</b> <span>The word-list method itself — plus the cautionary tale of dating splits from retention rates.</span></div></div>
+
+      <h3 class="reveal">Computational</h3>
+      <div class="ref reveal"><div class="ref-key">Kessler ’01</div><div class="ref-body"><b>The Significance of Word Lists.</b> <span>Permutation tests for whether recurrent correspondences exceed chance — your "% explained vs. a null," done rigorously.</span></div></div>
+      <div class="ref reveal"><div class="ref-key">Kondrak ’02</div><div class="ref-body"><b>Algorithms for Language Reconstruction.</b> <span>Feature-based phonetic alignment (ALINE) + learning correspondences via machine-translation word alignment. The closest classical match to "learn the rule, then score."</span></div></div>
+      <div class="ref reveal"><div class="ref-key">ASJP · LDND</div><div class="ref-body"><b>Wichmann, Holman &amp; Brown.</b> <span>Your Levenshtein foil: normalized edit distance over a 41-symbol sound-class alphabet. It fights chance, but scores surface distance and <em>throws the rule away</em>.</span></div></div>
+      <div class="ref reveal"><div class="ref-key">List · LexStat</div><div class="ref-body"><b>LingPy / Lexibank.</b> <span>The modern standard for cognate detection: learn language-pair-specific correspondence scorers by permutation, then align. The productionized form of your idea.</span></div></div>
+      <div class="ref reveal"><div class="ref-key">Wettig · Yangarber</div><div class="ref-body"><b>Helsinki "Etymon" project.</b> <span>MDL models of <em>context-conditioned</em> correspondences in Uralic — the deepest match to what you actually want, conditioning included.</span></div></div>
+      <div class="ref reveal"><div class="ref-key">Bouchard-Côté ’13</div><div class="ref-body"><b>Bayesian sound change on a phylogeny.</b> <span>Stochastic transducers as the change process, reconstructing Proto-Austronesian. Your "coherent rule" is their parameterized process.</span></div></div>
+      <div class="ref reveal"><div class="ref-key">Ristad-Yianilos ’98</div><div class="ref-body"><b>Learning string edit distance.</b> <span>The ML substrate: a weighted transducer fit to data — "the rule" as a learned object.</span></div></div>
+    </div>
+
+    <p class="reveal">So in essence — <strong>not new.</strong> But the <em>framing</em> you are drawn to is under-exploited: relatedness as the coverage of the single best <em>low-complexity</em> ruleset, with <strong>the ruleset itself as the interpretable output</strong>. Distance methods discard the rule; cognate-detectors emit cognate sets, not a readable "here are the five rules that explain 60% of the list." That legibility is worth keeping.</p>
+  </section>
+
+  <section class="prose">
+    <h2 class="reveal"><span class="num">The critique</span>Where the naïve form breaks</h2>
+    <p class="sub reveal">Four failure modes — each with a principled repair that converges on the literature above.</p>
+
+    <div class="crit reveal">
+      <div class="n">1</div>
+      <div class="c-body">
+        <h4>Unbounded rules explain everything.</h4>
+        <p>"% explained by the optimal rule" is degenerate without a complexity penalty — one rule per word reaches 100%. <span class="fix">The fix is your own word, "mindless": this is Minimum Description Length.</span> Relatedness ∝ <span class="ipa">L(rules) + L(data | rules)</span> against encoding the lists independently. The real signal is <em>coverage per unit of rule complexity</em>.</p>
+      </div>
+    </div>
+
+    <div class="crit reveal">
+      <div class="n">2</div>
+      <div class="c-body">
+        <h4>Rules must be conditioned — but not too much.</h4>
+        <p>Verner's Law shows genuine laws often need context; without it you under-explain true sisters. With rich context you overfit. <span class="fix">The MDL penalty arbitrates — and your feature layer is the right complexity prior:</span> "voice the fricatives anterior to velar" is <em>cheap</em> (one feature-flip on a natural class); an arbitrary nine-phoneme set is <em>expensive</em>. Features give the cost function over rules — not, as "vector displacement" implies, the geometry. Correspondences are relations on segments, often many-to-one.</p>
+      </div>
+    </div>
+
+    <div class="crit reveal">
+      <div class="n">3</div>
+      <div class="c-body">
+        <h4>Direction and mergers.</h4>
+        <p>Mergers are non-invertible: if B collapsed <span class="ipa">*s, *θ → s</span>, you cannot recover <span class="ipa">θ</span> going back, so coverage(A→B) ≠ coverage(B→A). <span class="fix">The comparative method dodges this with undirected correspondences</span> — A's segment ↔ B's segment in context, both pointing at a proto-form — rather than a directional rewrite. Recast your "rule A→B" as a correspondence set and the asymmetry largely dissolves.</p>
+      </div>
+    </div>
+
+    <div class="crit reveal">
+      <div class="n">4</div>
+      <div class="c-body">
+        <h4>No null model, no meaning.</h4>
+        <p>Inventory overlap, nursery forms (<span class="ipa">mama</span>), onomatopoeia and loans give even unrelated pairs nonzero coverage from the identity rule. <span class="fix">Relatedness must be excess coverage over a permutation baseline</span> (Kessler). And there is a ceiling: even perfect sisters miss 100% because Swadesh lists undergo lexical replacement — same-meaning ≠ cognate. Your "unexplained fraction" absorbs that cleanly, which is a virtue, not a bug.</p>
+      </div>
+    </div>
+
+    <aside class="sidenote reveal"><b>One more hazard</b>Borrowing can be <em>highly</em> regular (systematic loan adaptation), so high coverage alone won't separate inheritance from contact. Stratifying by Swadesh stability rank — basic vocabulary resists borrowing — is the usual lever.</aside>
+
+    <p class="reveal">None of these sink the idea. Each one bends the naïve "% explained by the best rule" into something the field already recognizes — a description-length objective over feature-natural correspondences, scored against a permutation null — at which point it is principled rather than ad hoc.</p>
+  </section>
+
+  <section class="prose">
+    <h2 class="reveal"><span class="num">Verdict</span>Sound at the core, fresh at the edge</h2>
+    <div class="verdict reveal">
+      <p class="vk">In short</p>
+      <p>The intuition is the discipline's bedrock, and the distinction you draw from edit distance is exactly the right one. The naïve form — unconditioned global rule, raw percentage, directional, no baseline — has well-known failure modes, and fixing them converges on Wettig–Yangarber and LexStat.</p>
+      <p>What stays distinctive is the packaging: <strong>a minimum-description-length coverage by a feature-natural correspondence set, scored against a permutation null, and reported as a human-readable ruleset.</strong> Most pipelines compute a number and discard the explanation; keeping the explanation is the worthwhile, under-built move.</p>
+      <p>And you are unusually well-positioned — ~244k records now carry a per-segment feature layer, which is precisely the substrate for defining rule cost over natural classes. <strong>Polynesian is the ideal first testbed:</strong> small inventories, clean ground truth, and a known answer to check against — does the metric recover <span class="ipa">k : t</span> and the <span class="ipa">*f, *s → h</span> merger?</p>
+    </div>
+  </section>
+  </main>
+
+  <footer>
+    <span><b>Set in</b> Fraunces · Gentium Book Plus · IBM&nbsp;Plex&nbsp;Mono</span>
+    <span><b>Filed</b> swadesh / notes / relatedness</span>
+  </footer>
+
+</div>
+
+<script>
+  const io = new IntersectionObserver((entries)=>{
+    for(const e of entries){
+      if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target); }
+    }
+  },{rootMargin:'0px 0px -8% 0px', threshold:.08});
+  document.querySelectorAll('.reveal').forEach((el,i)=>{
+    el.style.transitionDelay = Math.min(i%6,5)*45 + 'ms';
+    io.observe(el);
+  });
+</script>
+</body>
+</html>

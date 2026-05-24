@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>One Row per Language — neural embeddings for relatedness</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#f1e9da; --paper-2:#ebe1cf;
+    --ink:#211c15; --ink-soft:#5c5141; --ink-faint:#8a7d68;
+    --oxblood:#9a3327; --oxblood-deep:#762216;
+    --teal:#1f5b5b; --gold:#b4862f;
+    --rule:rgba(33,28,21,.16); --rule-soft:rgba(33,28,21,.08);
+    --serif:"Gentium Book Plus",Georgia,"Times New Roman",serif;
+    --display:"Fraunces",Georgia,serif;
+    --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0;background:var(--paper);color:var(--ink);font-family:var(--serif);
+    font-size:clamp(17px,1.05vw + 14px,20px);line-height:1.62;
+    text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;
+  }
+  body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:2;opacity:.05;mix-blend-mode:multiply;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");}
+  body::after{content:"";position:fixed;inset:0;pointer-events:none;z-index:1;
+    background:radial-gradient(120% 90% at 50% -10%, rgba(255,250,238,.6), transparent 55%),
+               radial-gradient(120% 120% at 50% 120%, rgba(90,70,40,.10), transparent 60%);}
+  ::selection{background:rgba(31,91,91,.18)}
+
+  .wrap{max-width:53rem;margin:0 auto;padding:clamp(2.2rem,5vw,5rem) clamp(1.2rem,5vw,2.4rem) 5rem;position:relative;z-index:3}
+  .prose{max-width:37rem}
+
+  /* masthead */
+  header.mast{position:relative;margin-bottom:3.2rem;padding-bottom:1.8rem;border-bottom:1px solid var(--rule)}
+  .glyph{position:absolute;right:-.4rem;top:-2.2rem;font-family:var(--display);font-weight:600;
+    font-size:clamp(7rem,20vw,13rem);line-height:1;color:var(--teal);opacity:.09;pointer-events:none;user-select:none;font-style:italic}
+  .kicker{font-family:var(--mono);font-size:.72rem;letter-spacing:.32em;text-transform:uppercase;color:var(--oxblood-deep);margin:0 0 1.3rem}
+  .kicker .dot{color:var(--gold)}
+  h1{font-family:var(--display);font-weight:600;font-size:clamp(2.5rem,7vw,4.6rem);line-height:.98;letter-spacing:-.015em;margin:0 0 .7rem;max-width:14ch;font-optical-sizing:auto}
+  h1 em{font-style:italic;color:var(--teal)}
+  .standfirst{font-size:clamp(1.05rem,1.4vw,1.28rem);line-height:1.5;color:var(--ink-soft);max-width:42ch;margin:.2rem 0 0;font-style:italic}
+  .byline{font-family:var(--mono);font-size:.72rem;letter-spacing:.12em;color:var(--ink-faint);margin-top:1.7rem;text-transform:uppercase}
+  .byline a{color:var(--oxblood-deep)}
+
+  /* prose */
+  .prose p{margin:0 0 1.15rem}
+  .lede::first-letter{font-family:var(--display);font-weight:600;float:left;font-size:4.4rem;line-height:.72;padding:.34rem .14rem 0 0;color:var(--teal)}
+  .prose a{color:var(--oxblood-deep);text-underline-offset:3px;text-decoration-thickness:1px}
+  strong{font-weight:700}
+  em{font-style:italic}
+  .ipa{font-family:var(--serif);color:var(--teal);font-feature-settings:"liga" 0}
+  code.v{font-family:var(--mono);font-size:.86em;color:var(--oxblood-deep);background:rgba(154,51,39,.07);padding:.05em .3em;border-radius:3px}
+
+  h2{font-family:var(--display);font-weight:600;font-size:clamp(1.6rem,3.2vw,2.15rem);letter-spacing:-.01em;line-height:1.05;margin:3.4rem 0 .3rem;max-width:22ch}
+  h2 .num{font-family:var(--mono);font-size:.7rem;font-weight:500;letter-spacing:.2em;color:var(--gold);display:block;margin-bottom:.7rem;text-transform:uppercase}
+  h2 + .sub{color:var(--ink-faint);font-style:italic;margin:.1rem 0 1.4rem;max-width:36ch}
+
+  /* sidenotes */
+  .sidenote{float:right;clear:right;width:13.2rem;margin:.35rem 0 1.1rem 0;font-size:.82rem;line-height:1.46;color:var(--ink-soft);border-top:2px solid var(--teal);padding-top:.5rem}
+  .sidenote b{font-family:var(--mono);font-weight:500;font-size:.66rem;letter-spacing:.16em;text-transform:uppercase;color:var(--teal);display:block;margin-bottom:.35rem}
+
+  /* ── architecture diagram ── */
+  figure.arch{margin:2.4rem 0;padding:2rem 1.6rem 1.5rem;background:var(--paper-2);border:1px solid var(--rule);position:relative;max-width:37rem;
+    box-shadow:0 1px 0 rgba(255,255,255,.5) inset,0 14px 30px -22px rgba(60,40,20,.5)}
+  figure.arch::before{content:"FIG. A — THE PIPELINE";position:absolute;top:.8rem;left:1.6rem;font-family:var(--mono);font-size:.6rem;letter-spacing:.18em;color:var(--ink-faint)}
+  .flow{display:flex;align-items:stretch;gap:.4rem;margin:1.6rem 0 .4rem;flex-wrap:nowrap}
+  .node{flex:1;border:1px solid var(--rule);background:var(--paper);border-radius:5px;padding:.7rem .5rem;text-align:center;
+    font-family:var(--serif);font-size:.92rem;line-height:1.2;display:flex;flex-direction:column;justify-content:center;min-height:4.4rem}
+  .node span{display:block;font-family:var(--mono);font-size:.58rem;letter-spacing:.06em;color:var(--ink-faint);margin-top:.35rem;text-transform:uppercase}
+  .node.code{border-color:var(--oxblood);background:rgba(154,51,39,.08);box-shadow:0 0 0 3px rgba(154,51,39,.08)}
+  .node.code strong{color:var(--oxblood-deep)}
+  .node.out{font-family:var(--serif)}
+  .node.out .forms{font-size:.8rem;color:var(--teal);margin-top:.3rem;letter-spacing:0;font-family:var(--serif);text-transform:none}
+  .arrow{align-self:center;font-size:1.1rem;color:var(--ink-faint);flex:0 0 auto}
+  .bn{margin-top:.8rem;text-align:center;font-family:var(--mono);font-size:.62rem;letter-spacing:.12em;text-transform:uppercase;color:var(--oxblood-deep)}
+  .bn .car{color:var(--oxblood)}
+  figcaption{margin-top:1.1rem;padding-top:.9rem;border-top:1px solid var(--rule);font-size:.86rem;line-height:1.5;color:var(--ink-soft);font-style:italic}
+  figcaption b{font-style:normal;color:var(--oxblood-deep)}
+
+  /* bibliography */
+  .biblio{margin:1.4rem 0 .6rem;max-width:37rem}
+  .biblio h3{font-family:var(--mono);font-weight:500;font-size:.72rem;letter-spacing:.2em;text-transform:uppercase;color:var(--teal);margin:1.6rem 0 .9rem;padding-bottom:.4rem;border-bottom:1px solid var(--rule-soft)}
+  .ref{display:grid;grid-template-columns:8.4rem 1fr;gap:.4rem 1rem;padding:.55rem 0;border-bottom:1px solid var(--rule-soft);align-items:baseline}
+  .ref-key{font-family:var(--mono);font-size:.72rem;color:var(--gold);letter-spacing:.02em;line-height:1.5}
+  .ref-body{font-size:.92rem;line-height:1.5}
+  .ref-body b{color:var(--ink)} .ref-body span{color:var(--ink-soft)}
+
+  /* caveats */
+  .caveat{display:grid;grid-template-columns:3.2rem 1fr;gap:0 1.1rem;margin:1.5rem 0;max-width:37rem;align-items:start}
+  .caveat .n{font-family:var(--display);font-weight:600;font-size:2.5rem;line-height:.9;color:var(--oxblood);font-style:italic}
+  .caveat h4{margin:0 0 .3rem;font-weight:700;font-size:1.06rem;line-height:1.25}
+  .caveat p{margin:0;font-size:.96rem;color:var(--ink-soft);line-height:1.55}
+  .caveat .fix{color:var(--teal);font-style:italic}
+
+  /* spectrum diagram */
+  figure.spectrum{margin:2.4rem 0 1rem;max-width:37rem}
+  figure.spectrum::before{content:"FIG. B — ONE AXIS, TWO NOTES";display:block;font-family:var(--mono);font-size:.6rem;letter-spacing:.18em;color:var(--ink-faint);margin-bottom:1.2rem}
+  .spec-track{position:relative;height:3px;background:linear-gradient(90deg,var(--oxblood),var(--gold) 50%,var(--teal));border-radius:2px;margin:3.2rem 1.5rem 4.2rem}
+  .pin{position:absolute;top:50%;width:13px;height:13px;border-radius:50%;transform:translate(-50%,-50%);border:2px solid var(--paper)}
+  .pin.l{left:0;background:var(--oxblood)} .pin.r{left:100%;background:var(--teal)} .pin.m{left:50%;background:var(--gold)}
+  .lab{position:absolute;width:11rem;font-size:.8rem;line-height:1.35;color:var(--ink-soft)}
+  .lab h5{margin:0 0 .2rem;font-family:var(--serif);font-weight:700;font-size:.96rem;color:var(--ink)}
+  .lab .tg{font-family:var(--mono);font-size:.6rem;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);display:block;margin-top:.3rem}
+  .lab.L{left:-.5rem;top:1.4rem;text-align:left}
+  .lab.R{right:-.5rem;left:auto;top:1.4rem;text-align:right}
+  .lab.M{left:50%;transform:translateX(-50%);top:-3.4rem;text-align:center;width:14rem}
+  .lab.M h5{color:var(--gold)}
+
+  /* verdict */
+  .verdict{margin:3rem 0 1rem;padding:1.9rem 2rem;border:1px solid var(--rule);border-left:4px solid var(--teal);background:linear-gradient(180deg,var(--paper-2),transparent);max-width:37rem}
+  .verdict .vk{font-family:var(--mono);font-size:.7rem;letter-spacing:.24em;text-transform:uppercase;color:var(--teal);margin:0 0 .8rem}
+  .verdict p{margin:0 0 .9rem;font-size:1.05rem;line-height:1.55} .verdict p:last-child{margin-bottom:0}
+
+  footer{margin-top:4rem;padding-top:1.3rem;border-top:1px solid var(--rule);font-family:var(--mono);font-size:.7rem;letter-spacing:.06em;color:var(--ink-faint);display:flex;flex-wrap:wrap;gap:.4rem 1.6rem;justify-content:space-between;max-width:37rem}
+  footer span b{color:var(--ink-soft);font-weight:500}
+
+  .reveal{opacity:0;transform:translateY(16px);transition:opacity .8s cubic-bezier(.2,.7,.2,1),transform .8s cubic-bezier(.2,.7,.2,1)}
+  .reveal.in{opacity:1;transform:none}
+  @media (prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none;transition:none}}
+  .mast .kicker,.mast h1,.mast .standfirst,.mast .byline{animation:rise .9s both cubic-bezier(.2,.7,.2,1)}
+  .mast h1{animation-delay:.08s}.mast .standfirst{animation-delay:.18s}.mast .byline{animation-delay:.28s}
+  @keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){.mast *{animation:none!important}}
+
+  @media (max-width:920px){
+    .prose,.biblio,.caveat,.verdict,figure.arch,figure.spectrum,footer{max-width:100%}
+    .sidenote{float:none;width:auto;max-width:100%;margin:1.2rem 0;padding:.7rem 0 0;border-top:2px solid var(--teal)}
+  }
+  @media (max-width:640px){
+    .flow{flex-direction:column}
+    .arrow{transform:rotate(90deg)}
+    .node{min-height:auto}
+  }
+  @media (max-width:480px){
+    .ref{grid-template-columns:1fr;gap:.2rem}
+    .caveat{grid-template-columns:2.2rem 1fr;gap:0 .8rem}
+    .lab{width:8.5rem;font-size:.74rem}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="mast">
+    <div class="glyph" aria-hidden="true">z</div>
+    <p class="kicker">Swadesh working notes <span class="dot">·</span> II <span class="dot">·</span> on method</p>
+    <h1>One row per <em>language</em></h1>
+    <p class="standfirst">A neural-first route to relatedness — learn a vector per language by reconstruction, then read kinship off the embedding space. Who has done it, and what it actually measures.</p>
+    <p class="byline">Companion to Note I, <a href="relatedness.html">Coherence, not closeness</a></p>
+  </header>
+
+  <main>
+  <section class="prose">
+    <p class="lede reveal">The proposal: give every language one learned row in an embedding table; pass that row through a shared decoder trained to emit the language's Swadesh list; then measure relatedness as distance between the rows. It has a precise name in the literature — <strong>learning a per-language embedding from a generation objective and reading kinship off the embedding space</strong> — and there is a bullseye precedent plus a tight cluster around it.</p>
+
+    <aside class="sidenote reveal"><b>Why it works at all</b>A shared decoder + a low-dimensional code is an information bottleneck. Languages the decoder can express as small perturbations of one another are pushed close together — the same job a factor model's low rank performs.</aside>
+
+    <figure class="arch reveal">
+      <div class="flow">
+        <div class="node in">language<span>one-hot id</span></div>
+        <div class="arrow">→</div>
+        <div class="node code"><strong>z<sub>lang</sub></strong><span>embedding · D1</span></div>
+        <div class="arrow">→</div>
+        <div class="node dec">decoder<span>shared net</span></div>
+        <div class="arrow">→</div>
+        <div class="node out">word list<div class="forms">vai · mata · raŋi</div><span>Swadesh</span></div>
+      </div>
+      <div class="bn"><span class="car">▲</span> the bottleneck — everything that distinguishes languages must live in <code class="v">z</code></div>
+      <figcaption>Relatedness <b>= distance(z<sub>A</sub>, z<sub>B</sub>)</b>. Because the decoder is shared and the only per-language freedom is a short vector, the geometry of the code space is forced to organize by how cheaply one language can be re-expressed as another.</figcaption>
+    </figure>
+  </section>
+
+  <section class="prose">
+    <h2 class="reveal"><span class="num">The bullseye</span>This has been done, and it recovered trees</h2>
+    <p class="reveal"><strong>Östling &amp; Tiedemann (2017), "Continuous multilinguality with language vectors."</strong> One shared character-level LSTM language model, conditioned on a learned per-language embedding, trained over ~975 languages of Bible translations. The <em>only</em> per-language degree of freedom is that vector — exactly your design, with a free-text decoder in place of a Swadesh decoder. The payoff is your hypothesis confirmed: the learned vectors cluster genealogically and reconstruct a plausible phylogenetic tree from cosine distance. Strong evidence the idea works in principle.</p>
+
+    <div class="biblio">
+      <h3 class="reveal">The surrounding cluster</h3>
+      <div class="ref reveal"><div class="ref-key">Malaviya ’17</div><div class="ref-body"><b>Learning Language Representations for Typology Prediction.</b> <span>Language vectors learned from an NMT system, then probed for typology. Same "language as a learned conditioning vector."</span></div></div>
+      <div class="ref reveal"><div class="ref-key">Murawaki ’15</div><div class="ref-body"><b>Continuous-Space Representations of Linguistic Typology.</b> <span>Latent per-language vectors → phylogenetic inference. The Bayesian-latent analog of your idea.</span></div></div>
+      <div class="ref reveal"><div class="ref-key">Littell ’17</div><div class="ref-body"><b>URIEL / lang2vec.</b> <span>The instructive contrast: language vectors <em>curated</em> from typological databases rather than <em>learned</em> from raw data. Same banner, opposite provenance.</span></div></div>
+      <div class="ref reveal"><div class="ref-key">B-Côté ’13</div><div class="ref-body"><b>Automated reconstruction of ancient languages (PNAS).</b> <span>Generative phylogenetics: latent tree + proto-forms generate the word lists. Your decoder is the tree-free, Euclidean relaxation.</span></div></div>
+      <div class="ref reveal"><div class="ref-key">x-vectors ’18</div><div class="ref-body"><b>Speaker embeddings (i-/x-vectors; TTS speaker &amp; style codes).</b> <span>The cross-domain twin: code → decoder → output, similarity read in code space. Languages are your speakers.</span></div></div>
+      <div class="ref reveal"><div class="ref-key">Bjerva ’19</div><div class="ref-body"><b>What do language representations really represent?</b> <span>The cautionary analysis: learned language vectors entangle genealogy, areal contact, and typology.</span></div></div>
+    </div>
+
+    <p class="reveal">Abstractly, the design is <strong>factor analysis — or a VAE — over a (language × concept) matrix</strong>: make the code a distribution and you have a VAE over languages; keep it a lookup table and it is MAP factor analysis. "lang2vec, learned from reconstruction loss."</p>
+  </section>
+
+  <section class="prose">
+    <h2 class="reveal"><span class="num">The catch</span>It likely measures the wrong thing</h2>
+    <p class="sub reveal">…and the "wrong thing" is the exact axis Note I was about.</p>
+
+    <div class="caveat reveal">
+      <div class="n">1</div>
+      <div>
+        <h4>Surface, not correspondence.</h4>
+        <p>A free decoder conditioned on a code has no inductive bias to discover that <span class="ipa">k : t</span> is a cheap, systematic transformation; it will just as happily memorize Rapa Nui's strings and Tahitian's strings separately. So embedding distance tracks average surface resemblance plus lexical replacement — conflating inheritance, borrowing, and chance, the very things the comparative method separates. <span class="fix">This is neural lexicostatistics — closer to ASJP than to the rule-coverage idea you liked.</span></p>
+      </div>
+    </div>
+
+    <div class="caveat reveal">
+      <div class="n">2</div>
+      <div>
+        <h4>Thin data, entangled signal.</h4>
+        <p>Östling–Tiedemann had ~1000 languages × whole Bibles. You have ~1200 lists × <strong>~200 words</strong>, concept-aligned. Two hundred tokens per language is sparse enough that a free embedding may just encode "which exact strings appear." And learned language vectors notoriously mix genealogy with areal contact and typology, <span class="fix">so raw distance is not clean relatedness.</span></p>
+      </div>
+    </div>
+
+    <aside class="sidenote reveal"><b>The lever you have</b>Concept alignment. Östling–Tiedemann had none; you do. It lets a shared per-concept structure carry most of the load, leaving the language vector to encode only deviations.</aside>
+  </section>
+
+  <section class="prose">
+    <h2 class="reveal"><span class="num">The fix</span>Make the bottleneck phonological</h2>
+    <p class="reveal">Two moves turn this from neural lexicostatistics into something correspondence-aware. First, exploit the concept alignment with a <strong>two-way factor model</strong> — <code class="v">form ≈ g(z_language, c_concept)</code> — so the per-concept factor carries the lexical load and <code class="v">z_language</code> only needs to encode systematic deviation. That regularizes the thin data and cleans the distance.</p>
+    <p class="reveal">Second, and decisively: <strong>make the per-language code parameterize a <em>structured</em> transformation — a feature-rule or transducer layer — rather than a free decoder.</strong> Then the bottleneck is forced to encode "apply these sound correspondences," not memorized forms. That is the amortized, neural form of Note I's "optimal simple ruleset," and the learnable cousin of Bouchard-Côté's parameterized sound-change process.</p>
+
+    <figure class="spectrum reveal">
+      <div class="spec-track">
+        <span class="pin l"></span><span class="pin m"></span><span class="pin r"></span>
+        <div class="lab L"><h5>Symbolic</h5>MDL correspondence ruleset · interpretable · <em>coherence</em><span class="tg">Note I</span></div>
+        <div class="lab M"><h5>the hybrid</h5>code → transducer decoder</div>
+        <div class="lab R"><h5>Distributed</h5>free neural decoder · amortized · <em>surface</em><span class="tg">this note</span></div>
+      </div>
+    </figure>
+
+    <p class="reveal">The two designs are the ends of one axis — interpretable-and-correspondence-aware versus distributed-and-surface. The interesting object is the midpoint: a neural language embedding whose decoder is <em>constrained to be a phonological-correspondence engine</em>.</p>
+  </section>
+
+  <section class="prose">
+    <h2 class="reveal"><span class="num">Verdict</span>Right family, watch the objective</h2>
+    <div class="verdict reveal">
+      <p class="vk">In short</p>
+      <p>Yes — clear analogs exist, and the canonical one (Östling &amp; Tiedemann) validates that a per-language embedding learned through a shared decoder recovers genealogy. The architecture is sound.</p>
+      <p>But a <em>free</em> decoder will give you a smarter ASJP, not a comparative method — surface distance, on thin data, with genealogy and contact entangled. The value is unlocked by constraining the bottleneck: concept-factored, and structured so the code expresses correspondences rather than forms.</p>
+      <p>Run it on the four Polynesian sisters we actually hold — <strong>rap · tah · smo · ton</strong>, all already IPA — and the test is sharp: does code distance recover <span class="ipa">k : ʔ</span> and <span class="ipa">*f, *s → h</span>, or does it just rank lists by how similar their letters happen to look?</p>
+    </div>
+  </section>
+  </main>
+
+  <footer>
+    <span><b>Set in</b> Fraunces · Gentium Book Plus · IBM&nbsp;Plex&nbsp;Mono</span>
+    <span><b>Filed</b> swadesh / notes / neural-embeddings</span>
+  </footer>
+
+</div>
+
+<script>
+  const io=new IntersectionObserver((es)=>{for(const e of es){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}}},{rootMargin:'0px 0px -8% 0px',threshold:.08});
+  document.querySelectorAll('.reveal').forEach((el,i)=>{el.style.transitionDelay=Math.min(i%6,5)*45+'ms';io.observe(el);});
+</script>
+</body>
+</html>

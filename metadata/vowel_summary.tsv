@@ -1,0 +1,112 @@
+# Corpus vowel summary from ipa_features.jsonl.
+lists_with_vowels	954
+vowel_tokens	615759
+distinct_qualities	25
+pct_long	3.78
+pct_nasal	0.12
+pct_tone	4.12
+
+# Vowel quality frequency (token count, #lists attesting)
+vowel	n_tokens	n_lists
+a	192453	953
+i	112312	949
+u	85875	943
+e	74676	876
+o	63374	862
+y	22827	829
+ɛ	19507	601
+ɔ	11747	517
+ə	10286	470
+ʌ	9545	285
+ɑ	3236	79
+ɪ	3191	261
+ɨ	2286	142
+ʊ	2191	161
+ɒ	846	43
+ʉ	424	23
+æ	314	50
+ø	258	126
+ɐ	143	1
+ɯ	103	14
+ɤ	88	9
+œ	67	9
+ɜ	6	3
+ɘ	3	3
+ʏ	1	1
+
+# Inventory-size distribution (n distinct vowel qualities -> n lists)
+n_qualities	n_lists
+2	4
+3	3
+4	35
+5	56
+6	104
+7	135
+8	130
+9	124
+10	127
+11	127
+12	61
+13	32
+14	10
+15	4
+16	1
+17	1
+
+# Outlier inventories: > 12 qualities (audit; 'y' may be the ambiguous light_ipa letter)
+identifier	lang_code	language	n_qualities
+rosettaproject_yle_swadesh-1	yle	Yele	17
+rosettaproject_laf_swadesh-1	laf	Lafofa	16
+rosettaproject_amm_swadesh-1	amm	Ama	15
+rosettaproject_bhf_swadesh-1	bhf	Odiai	15
+rosettaproject_pnn_swadesh-1	pnn	Pinai-Hagahai	15
+rosettaproject_yuj_swadesh-1	yuj	Karkar-Yuri	15
+rosettaproject_anq_swadesh-1	anq	Jarawa	14
+rosettaproject_bji_swadesh-1	bji	Burji	14
+rosettaproject_bpw_swadesh-1	bpw	Bo	14
+rosettaproject_bsk_swadesh-1	bsk	Burushaski	14
+rosettaproject_gdr_swadesh-1	gdr	Wipi	14
+rosettaproject_mah_swadesh-1	mah	Marshallese	14
+rosettaproject_nir_swadesh-1	nir	Nimboran	14
+rosettaproject_omo_swadesh-1	omo	Utarmbung	14
+rosettaproject_skv_swadesh-1	skv	Skou	14
+rosettaproject_xtc_swadesh-1	xtc	Katcha-Kadugli-Miri	14
+rosettaproject_abj_swadesh-1	abj	Aka-Bea	13
+rosettaproject_acl_swadesh-1	acl	Akar-Bale	13
+rosettaproject_akc_swadesh-1	akc	Mpur	13
+rosettaproject_akx_swadesh-1	akx	Aka-Kede	13
+rosettaproject_aky_swadesh-1	aky	Aka-Kol	13
+rosettaproject_amp_swadesh-1	amp	Alamblak	13
+rosettaproject_aog_swadesh-1	aog	Angoram	13
+rosettaproject_apq_swadesh-1	apq	A-Pucikwar	13
+rosettaproject_bun_swadesh-1	bun	Sherbro	13
+rosettaproject_dnr_swadesh-1	dnr	Danaru	13
+rosettaproject_dnw_swadesh-1	dnw	Dani, Western	13
+rosettaproject_faj_swadesh-1	faj	Faita	13
+rosettaproject_ggl_swadesh-1	ggl	Ganglau	13
+rosettaproject_gsp_swadesh-1	gsp	Wasembo	13
+rosettaproject_guk_swadesh-1	guk	Gumuz	13
+rosettaproject_hbn_swadesh-1	hbn	Heiban	13
+rosettaproject_kib_swadesh-1	kib	Koalib	13
+rosettaproject_kmt_swadesh-1	kmt	Kemtuik	13
+rosettaproject_lof_swadesh-1	lof	Logol	13
+rosettaproject_lro_swadesh-1	lro	Laro	13
+rosettaproject_mtg_swadesh-1	mtg	Una	13
+rosettaproject_ndv_swadesh-1	ndv	Ndut	13
+rosettaproject_ngk_swadesh-1	ngk	Ngalkbun	13
+rosettaproject_otr_swadesh-1	otr	Otoro	13
+rosettaproject_she_swadesh-1	she	Sheko	13
+rosettaproject_tbr_swadesh-1	tbr	Tumtum	13
+rosettaproject_tof_swadesh-1	tof	Gizrra	13
+rosettaproject_urx_swadesh-1	urx	Urimo	13
+rosettaproject_wut_swadesh-1	wut	Wutung	13
+rosettaproject_xam_swadesh-1	xam	/Xam	13
+rosettaproject_yee_swadesh-1	yee	Yimas	13
+rosettaproject_zik_swadesh-1	zik	Zimakani	13
+
+# Outlier inventories: < 3 qualities (audit; tiny / odd lists)
+identifier	lang_code	language	n_qualities
+rosettaproject_ady_swadesh-1	ady	Adyghe	2
+rosettaproject_bop_swadesh-1	bop	Bonkiman	2
+rosettaproject_new_swadesh-1	new	Newar	2
+rosettaproject_umd_swadesh-1	umd	Umbindhamu	2
