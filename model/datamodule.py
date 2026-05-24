@@ -8,8 +8,6 @@ as one (B, T) long tensor per FIELD, plus a (B, T) mask of real target positions
 """
 from __future__ import annotations
 
-import random
-
 import pytorch_lightning as pl
 import torch
 from torch.utils.data import DataLoader, Dataset
@@ -79,12 +77,13 @@ class SwadeshDataModule(pl.LightningDataModule):
             data.load_examples(self.path, limit=self.limit, max_len=self.max_len)
         if not examples:
             raise RuntimeError(f"no examples loaded from {self.path}")
+        examples = data.dedup_cells(examples)
+        # vocab over the full (deduped) set so every language/concept has a slot
         self.fvocab, self.lang_vocab, self.concept_vocab = data.build_vocabs(examples)
-        enc = [data.encode(ex, self.fvocab, self.lang_vocab, self.concept_vocab)
-               for ex in examples]
-        random.Random(self.seed).shuffle(enc)
-        n_val = max(1, int(len(enc) * self.val_frac))
-        self.val_enc, self.train_enc = enc[:n_val], enc[n_val:]
+        train_ex, val_ex = data.split_examples(examples, self.val_frac, self.seed)
+        enc = lambda exs: [data.encode(e, self.fvocab, self.lang_vocab, self.concept_vocab)
+                           for e in exs]
+        self.train_enc, self.val_enc = enc(train_ex), enc(val_ex)
         self.bos, self.eos, self.pad = data.special_tuples(self.fvocab)
         self.collate = make_collate(self.bos, self.eos, self.pad)
         self._ready = True

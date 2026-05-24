@@ -13,6 +13,7 @@ represented as segments whose `type` is a special token and every other field NA
 """
 from __future__ import annotations
 
+import collections
 import json
 import os
 import random
@@ -117,6 +118,52 @@ def special_tuples(fvocab):
     return tup(BOS), tup(EOS), tup(PAD)
 
 
+def dedup_cells(examples):
+    """One example per (language, concept) cell, first wins. The corpus folds
+    several surface glosses to one canonical concept, so a language can carry the
+    same cell twice (thou/you -> 'you (singular)') -- keeping both would split
+    near-identical forms across train/val (leakage)."""
+    seen, out = set(), []
+    for ex in examples:
+        key = (ex[0], ex[1])
+        if key not in seen:
+            seen.add(key)
+            out.append(ex)
+    return out
+
+
+def split_examples(examples, val_frac=0.05, seed=0):
+    """Guarded, language-stratified train/val split of (language, concept) cells.
+
+    The model is pure embedding lookups, so it has NO inductive path to an unseen
+    language or concept (their embeddings would stay at random init). Hence the
+    only well-posed holdout is CELL completion: hold out ~val_frac of each
+    language's cells, but never the last cell of a language and never the last
+    train instance of a concept -- so every held cell's language AND concept
+    remain observed in train. Assumes deduped examples. Returns (train, val)."""
+    by_lang = collections.defaultdict(list)
+    for ex in examples:
+        by_lang[ex[0]].append(ex)
+    concept_train = collections.Counter(ex[1] for ex in examples)   # decremented as we hold out
+    rng = random.Random(seed)
+    train, val = [], []
+    for lang in sorted(by_lang):
+        cells = by_lang[lang][:]
+        rng.shuffle(cells)
+        n_hold = int(len(cells) * val_frac)                          # < len(cells) -> keeps >=1 in train
+        held = 0
+        for ex in cells:
+            if held < n_hold and concept_train[ex[1]] > 1:
+                val.append(ex)
+                held += 1
+                concept_train[ex[1]] -= 1
+            else:
+                train.append(ex)
+    if not val and len(train) > 1:          # degenerate tiny input: force a non-empty val
+        val.append(train.pop())
+    return train, val
+
+
 def load_examples(path=DEFAULT_IPA, segments_fn=None, limit=None, max_len=32):
     """Read the IPA layer (ipa.jsonl) into examples. language = identifier,
     concept = canonical_gloss (fallback gloss); the form is the FIRST comma-
@@ -210,9 +257,32 @@ def _selftest():
     if v["place"] != NA or c["height"] != NA or v["kind"] != "vowel":
         fails += 1
         print("FAIL seg_to_fields applicability")
+
+    # guarded split: no cold-start, no cell in both sides, deduped
+    deduped = dedup_cells(synthetic_records(600, n_lang=15, n_concept=25, seed=2))
+    train, val = split_examples(deduped, val_frac=0.1, seed=2)
+    train_cells = {(e[0], e[1]) for e in train}
+    val_cells = {(e[0], e[1]) for e in val}
+    train_langs = {e[0] for e in train}
+    train_concepts = {e[1] for e in train}
+    if train_cells & val_cells:
+        fails += 1
+        print("FAIL split: a cell is in both train and val")
+    if not val:
+        fails += 1
+        print("FAIL split: empty val")
+    cold = [(e[0], e[1]) for e in val
+            if e[0] not in train_langs or e[1] not in train_concepts]
+    if cold:
+        fails += 1
+        print(f"FAIL split: {len(cold)} cold-start val cells (lang/concept not in train)")
+    if len(dedup_cells(deduped)) != len(deduped):
+        fails += 1
+        print("FAIL dedup not idempotent")
+    vf = len(val) / (len(train) + len(val))
     print(f"data self-test: {'OK' if not fails else str(fails) + ' FAILED'} "
-          f"({len(lang)} langs, {len(concept)} concepts, "
-          f"type-vocab={len(fvocab['kind'])})")
+          f"({len(lang)} langs, {len(concept)} concepts, kind-vocab={len(fvocab['kind'])}; "
+          f"split {len(train)} train / {len(val)} val = {vf:.0%}, no cold-start)")
     return fails
 
 

@@ -47,9 +47,22 @@ layer, and keep outputs model-ready (clean aligned matrix; per-language inventor
   since nn.Module reserves .type). VALIDATED on real data: 8k recs -> 32 langs/278 concepts, val_loss
   6.89->6.59->6.37 over 3 epochs (conditioning learns). Source = ipa.jsonl via ipa_features.segments();
   concept = canonical_gloss, language = identifier, first comma-alternant, max_len 32. See model/README.md.
-  NEXT: hold-out eval by (concept) for relatedness probing; optional ASJP backbone head + masked fine
-  vowel heads (notes/asjp.html factored output); decode/inference + nearest-segment readout; z_language
-  distance vs ASJP DB / Glottolog. Replaces the old 'export aligned matrix' prep (the data layer IS it).
+  NEXT: optional ASJP backbone head + masked fine vowel heads (notes/asjp.html factored output);
+  decode/inference + nearest-segment readout. Replaces the old 'export aligned matrix' prep (data layer IS it).
+- [x] EVAL: guarded cell holdout + relatedness probe. KEY CONSTRAINT (now enforced): the model is pure
+  embedding lookups, so it has NO inductive path to an unseen language or concept (their embeddings would
+  stay at random init) -> the only well-posed holdout is CELL completion. `model/data.split_examples`:
+  language-stratified, holds ~val_frac of each language's cells but never the last cell of a language nor
+  the last train instance of a concept, so every held cell's lang+concept stay in train (verified: 0
+  cold-start in self-test). `dedup_cells` collapses canonical-gloss twins (thou/you->'you (sg)') so
+  near-identical forms don't leak across train/val. Wired into datamodule.setup (replaced the old random
+  shuffle-slice). RELATEDNESS PROBE `model/eval.py` (self-contained, uses our asjp.jsonl as the external
+  anchor, no download): Spearman rho between z_language pairwise distance and ASJP-LDN over shared
+  concepts; + same-ISO-code nearest-neighbour control; + Polynesian z-vs-LDN read-out. Math self-tests
+  (levenshtein/ldn/spearman) gate it. Reconstruction val-loss is for early-stopping; rho is the actual
+  relatedness test (val-loss can fall while z encodes inventory not genealogy). Prelim: 4 epochs/40k recs
+  -> rho=+0.064 (weak, undertrained -- z barely fit); full-corpus run pending. NEXT: train to convergence;
+  add LDND chance-correction; Glottolog family labels for cluster-purity; sweep d_lang/hidden.
 
 ## In progress / done
 - [x] **Download the Swadesh lists** from the Rosetta collection on the Internet Archive.
