@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>A Sieve, Not a Target — a note on the ASJP maneuver</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#f1e9da;
+    --paper-2:#ebe1cf;
+    --ink:#211c15;
+    --ink-soft:#5c5141;
+    --ink-faint:#8a7d68;
+    --oxblood:#9a3327;
+    --oxblood-deep:#762216;
+    --teal:#1f5b5b;
+    --gold:#b4862f;
+    --rule:rgba(33,28,21,.16);
+    --rule-soft:rgba(33,28,21,.08);
+    --serif:"Gentium Book Plus",Georgia,"Times New Roman",serif;
+    --display:"Fraunces",Georgia,serif;
+    --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  }
+  *{box-sizing:border-box}
+  html{ -webkit-text-size-adjust:100% }
+  body{
+    margin:0;background:var(--paper);color:var(--ink);font-family:var(--serif);
+    font-size:clamp(17px,1.05vw + 14px,20px);line-height:1.62;
+    text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;
+  }
+  body::before{
+    content:"";position:fixed;inset:0;pointer-events:none;z-index:2;opacity:.05;mix-blend-mode:multiply;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+  body::after{
+    content:"";position:fixed;inset:0;pointer-events:none;z-index:1;
+    background:radial-gradient(120% 90% at 50% -10%, rgba(255,250,238,.6), transparent 55%),
+               radial-gradient(120% 120% at 50% 120%, rgba(90,70,40,.10), transparent 60%);
+  }
+  ::selection{background:rgba(154,51,39,.18)}
+
+  .wrap{max-width:53rem;margin:0 auto;padding:clamp(2.2rem,5vw,5rem) clamp(1.2rem,5vw,2.4rem) 5rem;position:relative;z-index:3}
+  .prose{max-width:37rem}
+
+  /* masthead */
+  header.mast{position:relative;margin-bottom:3.2rem;padding-bottom:1.8rem;border-bottom:1px solid var(--rule)}
+  .glyph{
+    position:absolute;right:-.3rem;top:-2.8rem;font-family:var(--display);font-weight:400;
+    font-size:clamp(8rem,22vw,15rem);line-height:1;color:var(--oxblood);opacity:.08;
+    pointer-events:none;user-select:none;font-style:italic;
+  }
+  .kicker{font-family:var(--mono);font-size:.72rem;letter-spacing:.34em;text-transform:uppercase;color:var(--oxblood-deep);margin:0 0 1.3rem}
+  .kicker .dot{color:var(--gold)}
+  h1{font-family:var(--display);font-weight:600;font-size:clamp(2.6rem,7vw,4.7rem);line-height:.98;letter-spacing:-.015em;margin:0 0 .7rem;max-width:13ch;font-optical-sizing:auto}
+  h1 em{font-style:italic;color:var(--oxblood)}
+  .standfirst{font-size:clamp(1.05rem,1.4vw,1.28rem);line-height:1.5;color:var(--ink-soft);max-width:42ch;margin:.2rem 0 0;font-style:italic}
+  .byline{font-family:var(--mono);font-size:.72rem;letter-spacing:.12em;color:var(--ink-faint);margin-top:1.7rem;text-transform:uppercase}
+
+  /* prose */
+  .prose p{margin:0 0 1.15rem}
+  .lede::first-letter{font-family:var(--display);font-weight:600;float:left;font-size:4.4rem;line-height:.72;padding:.34rem .14rem 0 0;color:var(--oxblood)}
+  .prose a{color:var(--oxblood-deep);text-underline-offset:3px;text-decoration-thickness:1px}
+  strong{font-weight:700}
+  em{font-style:italic}
+  .ipa{font-family:var(--serif);color:var(--teal);font-feature-settings:"liga" 0}
+  .asjp{font-family:var(--mono);color:var(--oxblood-deep);font-weight:500}
+  .law{color:var(--oxblood-deep);font-style:italic}
+
+  h2{font-family:var(--display);font-weight:600;font-size:clamp(1.6rem,3.2vw,2.15rem);letter-spacing:-.01em;line-height:1.05;margin:3.4rem 0 .3rem;max-width:20ch}
+  h2 .num{font-family:var(--mono);font-size:.7rem;font-weight:500;letter-spacing:.2em;color:var(--gold);display:block;margin-bottom:.7rem;text-transform:uppercase}
+  h2 + .sub{color:var(--ink-faint);font-style:italic;margin:.1rem 0 1.4rem;max-width:36ch}
+
+  /* sidenotes */
+  .sidenote{float:right;clear:right;width:13.2rem;margin:.35rem 0 1.1rem 0;font-size:.82rem;line-height:1.46;color:var(--ink-soft);border-top:2px solid var(--oxblood);padding-top:.5rem}
+  .sidenote b{font-family:var(--mono);font-weight:500;font-size:.66rem;letter-spacing:.16em;text-transform:uppercase;color:var(--oxblood-deep);display:block;margin-bottom:.35rem}
+
+  /* generic figure shell */
+  figure.fig{margin:2.4rem 0;padding:1.8rem 1.7rem 1.5rem;background:var(--paper-2);border:1px solid var(--rule);position:relative;max-width:37rem;box-shadow:0 1px 0 rgba(255,255,255,.5) inset, 0 14px 30px -22px rgba(60,40,20,.5)}
+  figure.fig::before{content:attr(data-fig);position:absolute;top:.8rem;right:1rem;font-family:var(--mono);font-size:.62rem;letter-spacing:.2em;color:var(--ink-faint)}
+  figcaption{margin-top:1.1rem;padding-top:.9rem;border-top:1px solid var(--rule);font-size:.86rem;line-height:1.5;color:var(--ink-soft);font-style:italic}
+  figcaption b{font-style:normal;color:var(--oxblood-deep)}
+
+  /* ASJP inventory chart */
+  .grp{margin:.1rem 0 .9rem}
+  .grp-h{font-family:var(--mono);font-size:.6rem;letter-spacing:.18em;text-transform:uppercase;color:var(--ink-faint);margin:0 0 .4rem}
+  .tiles{display:flex;flex-wrap:wrap;gap:.32rem}
+  .tile{width:2.55rem;height:2.55rem;border:1px solid var(--rule);border-radius:4px;display:flex;flex-direction:column;align-items:center;justify-content:center;background:rgba(255,255,255,.22)}
+  .tile .s{font-family:var(--mono);font-weight:500;font-size:1.02rem;color:var(--ink);line-height:1}
+  .tile .g{font-size:.52rem;color:var(--ink-faint);margin-top:.13rem;font-family:var(--serif)}
+  .tile.vow{background:rgba(31,91,91,.12);border-color:rgba(31,91,91,.34)}
+  .tile.vow .s{color:var(--teal)}
+
+  /* collapse / funnel figure */
+  .collapse{display:flex;flex-direction:column;gap:.7rem}
+  .crow{display:grid;grid-template-columns:1fr 1.8rem 3.1rem;align-items:center;gap:.5rem}
+  .from{font-family:var(--serif);font-size:1.18rem;color:var(--ink-soft);text-align:right;line-height:1.3}
+  .from s{color:var(--ink-faint);text-decoration-color:var(--oxblood);text-decoration-thickness:1.5px}
+  .from .keep{color:var(--ink)}
+  .to-arrow{font-family:var(--mono);color:var(--gold);text-align:center;font-size:1rem}
+  .to{font-family:var(--mono);font-weight:500;font-size:1.5rem;color:var(--oxblood-deep);text-align:center;background:rgba(154,51,39,.08);border-radius:4px;padding:.1rem 0;border:1px solid rgba(154,51,39,.22)}
+  .crow.vrow .to{color:var(--teal);background:rgba(31,91,91,.10);border-color:rgba(31,91,91,.26)}
+
+  /* the stack: lanes -> common layer */
+  .stack{display:flex;flex-direction:column;gap:.2rem}
+  .lane{display:flex;align-items:center;flex-wrap:wrap;gap:.3rem;padding:.55rem 0}
+  .lane + .lane{border-top:1px dashed var(--rule-soft)}
+  .node{font-family:var(--mono);font-size:.74rem;padding:.3rem .55rem;border:1px solid var(--rule);border-radius:4px;background:rgba(255,255,255,.3);white-space:nowrap}
+  .node.raw{color:var(--ink-faint)}
+  .node.ipa{border-color:rgba(31,91,91,.4);color:var(--teal);background:rgba(31,91,91,.07)}
+  .node.feat{border-color:rgba(31,91,91,.55);color:var(--teal);background:rgba(31,91,91,.13);font-weight:500}
+  .node.asjp{border-color:rgba(154,51,39,.4);color:var(--oxblood-deep);background:rgba(154,51,39,.08);font-weight:500}
+  .arr{font-family:var(--mono);color:var(--gold);font-size:.9rem}
+  .lane .tag{font-family:var(--mono);font-size:.6rem;letter-spacing:.1em;color:var(--ink-faint);text-transform:uppercase;margin-left:auto;text-align:right;flex-basis:6.5rem}
+  .common{margin-top:.6rem;text-align:center;font-family:var(--mono);font-size:.72rem;letter-spacing:.06em;color:var(--oxblood-deep);border:1px dashed rgba(154,51,39,.45);border-radius:4px;padding:.55rem;background:rgba(154,51,39,.05)}
+
+  /* roles (numbered) */
+  .role{display:grid;grid-template-columns:3.2rem 1fr;gap:0 1.1rem;margin:1.5rem 0;max-width:37rem;align-items:start}
+  .role .n{font-family:var(--display);font-weight:600;font-size:2.6rem;line-height:.9;color:var(--teal);font-style:italic}
+  .role .c-body{padding-top:.25rem}
+  .role h4{margin:0 0 .3rem;font-family:var(--serif);font-weight:700;font-size:1.06rem;line-height:1.25}
+  .role p{margin:0;font-size:.96rem;color:var(--ink-soft);line-height:1.55}
+
+  /* warning / fork box */
+  .warn{margin:2rem 0;padding:1.5rem 1.6rem;border:1px solid rgba(154,51,39,.3);border-left:4px solid var(--oxblood);background:rgba(154,51,39,.05);max-width:37rem}
+  .warn .wk{font-family:var(--mono);font-size:.66rem;letter-spacing:.22em;text-transform:uppercase;color:var(--oxblood-deep);margin:0 0 .7rem}
+  .warn p{margin:0;font-size:1rem;line-height:1.55}
+  .strike{text-decoration:line-through;text-decoration-color:var(--oxblood);text-decoration-thickness:2px;color:var(--ink-faint)}
+
+  /* factored output head */
+  .head{display:grid;grid-template-columns:1fr;gap:.55rem;max-width:30rem;margin:.4rem auto 0}
+  .pos{text-align:center;font-family:var(--mono);font-size:.7rem;letter-spacing:.08em;color:var(--ink-faint);text-transform:uppercase}
+  .branches{display:grid;grid-template-columns:1fr 1fr;gap:.6rem}
+  .branch{border:1px solid var(--rule);border-radius:5px;padding:.7rem .8rem;background:rgba(255,255,255,.28)}
+  .branch.coarse{border-color:rgba(154,51,39,.42);background:rgba(154,51,39,.07)}
+  .branch.fine{border-color:rgba(31,91,91,.42);background:rgba(31,91,91,.08);border-style:dashed}
+  .branch .bt{font-family:var(--mono);font-size:.64rem;letter-spacing:.1em;text-transform:uppercase;margin:0 0 .45rem}
+  .branch.coarse .bt{color:var(--oxblood-deep)}
+  .branch.fine .bt{color:var(--teal)}
+  .branch ul{margin:0;padding-left:1.05rem;font-size:.84rem;line-height:1.5;color:var(--ink-soft)}
+  .branch .avail{font-family:var(--mono);font-size:.58rem;letter-spacing:.06em;color:var(--ink-faint);margin-top:.5rem;display:block}
+
+  /* bibliography */
+  .biblio{margin:1.4rem 0 .6rem;max-width:37rem}
+  .biblio h3{font-family:var(--mono);font-weight:500;font-size:.72rem;letter-spacing:.2em;text-transform:uppercase;color:var(--oxblood-deep);margin:1.6rem 0 .9rem;padding-bottom:.4rem;border-bottom:1px solid var(--rule-soft)}
+  .ref{display:grid;grid-template-columns:7.2rem 1fr;gap:.4rem 1rem;padding:.55rem 0;border-bottom:1px solid var(--rule-soft);align-items:baseline}
+  .ref-key{font-family:var(--mono);font-size:.72rem;color:var(--gold);letter-spacing:.02em;line-height:1.5}
+  .ref-body{font-size:.92rem;line-height:1.5}
+  .ref-body b{color:var(--ink)}
+  .ref-body span{color:var(--ink-soft)}
+
+  /* verdict */
+  .verdict{margin:3rem 0 1rem;padding:1.9rem 2rem;border:1px solid var(--rule);border-left:4px solid var(--teal);background:linear-gradient(180deg,var(--paper-2),transparent);max-width:37rem}
+  .verdict .vk{font-family:var(--mono);font-size:.7rem;letter-spacing:.24em;text-transform:uppercase;color:var(--teal);margin:0 0 .8rem}
+  .verdict p{margin:0 0 .9rem;font-size:1.05rem;line-height:1.55}
+  .verdict p:last-child{margin-bottom:0}
+
+  footer{margin-top:4rem;padding-top:1.3rem;border-top:1px solid var(--rule);font-family:var(--mono);font-size:.7rem;letter-spacing:.06em;color:var(--ink-faint);display:flex;flex-wrap:wrap;gap:.4rem 1.6rem;justify-content:space-between;max-width:37rem}
+  footer span b{color:var(--ink-soft);font-weight:500}
+
+  .reveal{opacity:0;transform:translateY(16px);transition:opacity .8s cubic-bezier(.2,.7,.2,1),transform .8s cubic-bezier(.2,.7,.2,1)}
+  .reveal.in{opacity:1;transform:none}
+  @media (prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none;transition:none}}
+  .mast .kicker,.mast h1,.mast .standfirst,.mast .byline{animation:rise .9s both cubic-bezier(.2,.7,.2,1)}
+  .mast h1{animation-delay:.08s}.mast .standfirst{animation-delay:.18s}.mast .byline{animation-delay:.28s}
+  @keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){.mast *{animation:none!important}}
+
+  @media (max-width:920px){
+    .prose,.biblio,.role,.verdict,.warn,figure.fig,footer{max-width:100%}
+    .sidenote{float:none;width:auto;max-width:100%;margin:1.2rem 0;padding:.7rem 0 0;border-top:2px solid var(--oxblood)}
+  }
+  @media (max-width:520px){
+    .ref{grid-template-columns:1fr;gap:.2rem}
+    .role{grid-template-columns:2.2rem 1fr;gap:0 .8rem}
+    .branches{grid-template-columns:1fr}
+    .crow{grid-template-columns:1fr 1.4rem 2.8rem}
+    .glyph{top:-1.4rem}
+    .lane .tag{flex-basis:100%;text-align:left;margin-left:0}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="mast">
+    <div class="glyph" aria-hidden="true">≈</div>
+    <p class="kicker">Swadesh working notes <span class="dot">·</span> on representation</p>
+    <h1>A sieve,<br>not a <em>target</em></h1>
+    <p class="standfirst">ASJP's coarse alphabet gives a uniform layer across every list and a free external yardstick — but a 41-way softmax would optimize away the vowels we set out to model.</p>
+    <p class="byline">The ASJP maneuver · for the Rosetta Swadesh corpus</p>
+  </header>
+
+  <main>
+  <section class="prose">
+    <p class="lede reveal">Two good questions, and the second contains the whole decision. <em>Is the representation a stack — raw → IPA → ASJP for the lists we can convert, and raw → ASJP directly for the rest?</em> Yes, essentially. <em>And does the model then carry a 41-way ASJP-only softmax?</em> It can — and for this project it shouldn't. ASJP is most brutal exactly where our stated goal is most demanding. Let me lay out what it is, what it discards, how the stack falls out, and where I'd stop the softmax.</p>
+
+    <aside class="sidenote reveal"><b>What ASJP is for</b>The Automated Similarity Judgment Program (Brown, Holman, Wichmann <em>et al.</em>) was built to compare thousands of languages from short core lists, mechanically. Coarseness is a feature: it makes transcription differences vanish.</aside>
+
+    <p class="reveal"><strong>ASJPcode</strong> is a deliberately blunt, ASCII-only phonetic alphabet: <strong>41 classes — seven vowels, the rest consonants.</strong> It exists to be robust, not faithful. Paired with normalized Levenshtein distance (<span class="asjp">LDND</span>), it powers a database of ~40-item lists for some seven thousand doculects, with published distances and trees. That database is the prize we get for free if we can speak its language.</p>
+  </section>
+
+  <section class="prose">
+    <h2 class="reveal"><span class="num">The inventory</span>Forty-one shadows of the IPA chart</h2>
+    <p class="sub reveal">Fine enough to keep a consonant skeleton; far too coarse to keep a vowel system.</p>
+
+    <figure class="fig reveal" data-fig="CHART">
+      <div class="grp">
+        <p class="grp-h">Vowels · 7</p>
+        <div class="tiles">
+          <div class="tile vow"><span class="s">i</span><span class="g">high fr</span></div>
+          <div class="tile vow"><span class="s">e</span><span class="g">mid fr</span></div>
+          <div class="tile vow"><span class="s">E</span><span class="g">æ/ɛ</span></div>
+          <div class="tile vow"><span class="s">3</span><span class="g">ə</span></div>
+          <div class="tile vow"><span class="s">a</span><span class="g">low</span></div>
+          <div class="tile vow"><span class="s">o</span><span class="g">mid bk</span></div>
+          <div class="tile vow"><span class="s">u</span><span class="g">high bk</span></div>
+        </div>
+      </div>
+      <div class="grp">
+        <p class="grp-h">Consonants · grouped by place</p>
+        <div class="tiles">
+          <div class="tile"><span class="s">p</span></div><div class="tile"><span class="s">b</span></div><div class="tile"><span class="s">m</span></div><div class="tile"><span class="s">f</span></div><div class="tile"><span class="s">v</span></div>
+          <div class="tile"><span class="s">8</span><span class="g">θ/ð</span></div><div class="tile"><span class="s">t</span></div><div class="tile"><span class="s">d</span></div><div class="tile"><span class="s">s</span></div><div class="tile"><span class="s">z</span></div><div class="tile"><span class="s">c</span><span class="g">t͡s</span></div><div class="tile"><span class="s">n</span></div><div class="tile"><span class="s">r</span></div><div class="tile"><span class="s">l</span></div>
+          <div class="tile"><span class="s">S</span><span class="g">ʃ</span></div><div class="tile"><span class="s">Z</span><span class="g">ʒ</span></div><div class="tile"><span class="s">C</span><span class="g">t͡ʃ</span></div><div class="tile"><span class="s">j</span><span class="g">d͡ʒ</span></div>
+          <div class="tile"><span class="s">T</span><span class="g">c ɟ</span></div><div class="tile"><span class="s">5</span><span class="g">ɲ</span></div><div class="tile"><span class="s">L</span><span class="g">ʎ</span></div><div class="tile"><span class="s">y</span><span class="g">j</span></div>
+          <div class="tile"><span class="s">k</span></div><div class="tile"><span class="s">g</span></div><div class="tile"><span class="s">x</span></div><div class="tile"><span class="s">N</span><span class="g">ŋ</span></div><div class="tile"><span class="s">w</span></div>
+          <div class="tile"><span class="s">q</span></div><div class="tile"><span class="s">G</span><span class="g">ʁ</span></div><div class="tile"><span class="s">X</span><span class="g">χ ħ</span></div>
+          <div class="tile"><span class="s">7</span><span class="g">ʔ</span></div><div class="tile"><span class="s">h</span></div>
+          <div class="tile"><span class="s">!</span><span class="g">clicks</span></div>
+        </div>
+      </div>
+      <figcaption>The whole alphabet. Note what is <b>not</b> here: no length, no nasalization, no tone, no aspiration, no ejection, no retroflex/dental split. Two dental fricatives share <span class="asjp">8</span>; every click collapses to <span class="asjp">!</span>. Seven vowels carry an entire continent of vocalic contrast.</figcaption>
+    </figure>
+  </section>
+
+  <section class="prose">
+    <h2 class="reveal"><span class="num">The collapse</span>What the sieve drops</h2>
+    <p class="sub reveal">The analytically important thing is not what ASJP keeps — it's what falls through.</p>
+
+    <aside class="sidenote reveal"><b>The mismatch in one line</b>Our goal is to model <em>vocalic</em> sound change. ASJP keeps 7 vowel buckets and discards length, nasalization, and tone — it is lossy <em>precisely</em> on the axis we care about.</aside>
+
+    <figure class="fig reveal" data-fig="MAP">
+      <div class="collapse">
+        <div class="crow vrow">
+          <div class="from"><span class="keep">a</span><s>ː</s>&nbsp; <s>ã</s> &nbsp;<s>á</s> &nbsp;<s>a̰</s></div>
+          <div class="to-arrow">→</div><div class="to">a</div>
+        </div>
+        <div class="crow vrow">
+          <div class="from"><span class="keep">y</span> <span class="keep">ø</span> &nbsp; (front <s>rounding</s>)</div>
+          <div class="to-arrow">→</div><div class="to">i&nbsp;e</div>
+        </div>
+        <div class="crow vrow">
+          <div class="from"><span class="keep">ə</span> <span class="keep">ɨ</span> <span class="keep">ɘ</span> (central)</div>
+          <div class="to-arrow">→</div><div class="to">3</div>
+        </div>
+        <div class="crow">
+          <div class="from">t<s>ʰ</s> &nbsp; t<s>ʼ</s> &nbsp; <s>ʈ</s> &nbsp; <s>t̪</s> &nbsp; <span class="keep">t</span></div>
+          <div class="to-arrow">→</div><div class="to">t</div>
+        </div>
+        <div class="crow">
+          <div class="from">k<s>ʷ</s> &nbsp; k<s>ʲ</s> &nbsp; <span class="keep">k</span></div>
+          <div class="to-arrow">→</div><div class="to">k</div>
+        </div>
+        <div class="crow">
+          <div class="from"><span class="keep">θ</span> &nbsp; <span class="keep">ð</span> &nbsp; (voicing merged)</div>
+          <div class="to-arrow">→</div><div class="to">8</div>
+        </div>
+      </div>
+      <figcaption>Many-to-one, by design. <b>Vowels (teal)</b> lose length, nasalization, tone, phonation, and front-rounding; the central series funnels to <span class="asjp">3</span>. <b>Consonants</b> shed aspiration, ejection, retroflexion, and the dental/alveolar split. ASJP is a fine sieve for the <em>consonant skeleton</em> and a sieve with vowel-sized holes for everything else.</figcaption>
+    </figure>
+  </section>
+
+  <section class="prose">
+    <h2 class="reveal"><span class="num">The stack</span>Two paths into one layer — yes</h2>
+    <p class="sub reveal">Your picture is right, and from our side it is nearly free.</p>
+
+    <figure class="fig reveal" data-fig="STACK">
+      <div class="stack">
+        <div class="lane">
+          <span class="node raw">raw</span><span class="arr">→</span>
+          <span class="node ipa">IPA</span><span class="arr">→</span>
+          <span class="node feat">segments + features</span><span class="arr">→</span>
+          <span class="node asjp">ASJP</span>
+          <span class="tag">1,186 lists · a lookup</span>
+        </div>
+        <div class="lane">
+          <span class="node raw">raw</span><span class="arr">→</span>
+          <span class="node">simple class rules</span><span class="arr">→</span>
+          <span class="node asjp">ASJP</span>
+          <span class="tag">40 lists · cheap</span>
+        </div>
+      </div>
+      <div class="common">↳ one uniform ASJP layer over all 1,229 lists</div>
+      <figcaption>For the lists we already converted, ASJP is a <b>projection of the feature tensor we built</b> — collapse each segment on (place·manner·voice) or (height·backness), then <em>delete</em> the columns ASJP ignores (length, nasal, tone, 2°&nbsp;articulation). For the stubborn 40 (national + Mayan), you write orthography→class rules that are an order of magnitude easier than orthography→IPA, because ASJP discards exactly the hard parts: <b>Mayan</b> <span class="ipa">tz→</span><span class="asjp">c</span>, <span class="ipa">x→</span><span class="asjp">S</span>, <span class="ipa">'</span>&nbsp;dropped; <b>French</b> <span class="ipa">eau→</span><span class="asjp">o</span> with no need to settle /o/ vs /ɔ/.</figcaption>
+    </figure>
+
+    <p class="reveal">So ASJP earns its keep two ways at once: it gives a <strong>single representation that survives the IPA-vs-Americanist-vs-orthography heterogeneity</strong>, and it lets nothing be excluded from training — the data-poor tail still has <em>a</em> row. The feature layer is the superset; ASJP is the lossy view of it that everyone can share.</p>
+  </section>
+
+  <section class="prose">
+    <h2 class="reveal"><span class="num">The fork</span>Why not a 41-way ASJP softmax</h2>
+    <p class="sub reveal">Clean, uniform, well-precedented — and the wrong primary target <em>here</em>.</p>
+
+    <div class="warn reveal">
+      <p class="wk">The trap</p>
+      <p>An <span class="strike">ASJP-only 41-way softmax</span> trains the decoder to reproduce a representation that has <strong>already thrown away length, nasalization, tone, and most vowel quality.</strong> You would be optimizing away the exact signal the project exists to capture. The result is a serviceable cognate / relatedness model and a <em>useless</em> model of vocalic change.</p>
+    </div>
+
+    <p class="reveal">The instinct behind it is sound — you want one output everyone can supervise. But the cure isn't to coarsen the target to the worst-covered list; it's to let the output <strong>degrade gracefully by list quality</strong>. Keep ASJP, but as the <em>backbone</em>, not the ceiling.</p>
+  </section>
+
+  <section class="prose">
+    <h2 class="reveal"><span class="num">Three jobs</span>What ASJP is genuinely good for</h2>
+    <p class="sub reveal">None of them is "be the output."</p>
+
+    <div class="role reveal">
+      <div class="n">1</div>
+      <div class="c-body">
+        <h4>Uniform fallback coverage.</h4>
+        <p>The representation the data-poor tail actually has. With it, the 40 stubborn lists and every low-confidence record still contribute to <span class="ipa">z_language</span> instead of being dropped.</p>
+      </div>
+    </div>
+    <div class="role reveal">
+      <div class="n">2</div>
+      <div class="c-body">
+        <h4>External anchor.</h4>
+        <p>Reproduce LDND and check our learned <span class="ipa">z_language</span> geometry against the published ASJP database and Glottolog trees. Free ground truth — a sanity rail for the whole relatedness claim.</p>
+      </div>
+    </div>
+    <div class="role reveal">
+      <div class="n">3</div>
+      <div class="c-body">
+        <h4>A coarse backbone head.</h4>
+        <p>A robust, always-supervised class prediction that regularizes the fine heads and gives the model a stable scaffold to hang vowel detail on — not the whole output.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="prose">
+    <h2 class="reveal"><span class="num">The design</span>Factored, not flat</h2>
+    <p class="sub reveal">One coarse class everyone shares × fine vowel heads where the source can support them.</p>
+
+    <figure class="fig reveal" data-fig="HEAD">
+      <p class="pos">decoder · per position</p>
+      <div class="head">
+        <div class="branches">
+          <div class="branch coarse">
+            <p class="bt">ASJP class</p>
+            <ul><li>~41-way softmax</li><li>consonant skeleton + which broad vowel</li></ul>
+            <span class="avail">supervised on all 1,229 lists</span>
+          </div>
+          <div class="branch fine">
+            <p class="bt">fine vowel heads</p>
+            <ul><li>quality (height·backness·round)</li><li>length · nasalization · tone</li></ul>
+            <span class="avail">supervised where good IPA · masked otherwise</span>
+          </div>
+        </div>
+      </div>
+      <figcaption>The output factorizes. The <b>coarse class</b> (oxblood) is learned uniformly across every list; the <b>fine vocalic heads</b> (teal, dashed = optional) are trained only on the ~1,186 trustworthy-IPA lists and simply <em>not penalized</em> where the source can't support them. The model degrades by list quality rather than degrading everything to ASJP — and the vowel detail, the thing we are after, survives.</figcaption>
+    </figure>
+
+    <p class="reveal">This is the move: build the IPA→ASJP collapse now (it costs little, hands us coverage and the external anchor immediately), write the easy orthography→ASJP rules for the last 40, <strong>but keep the segment-feature tensor as the decoder's primary target.</strong> ASJP becomes the backbone class in a factored head — never a 41-way bottleneck the vowels have to squeeze through.</p>
+  </section>
+
+  <section class="prose">
+    <h2 class="reveal"><span class="num">Verdict</span>Speak ASJP; don't think in it</h2>
+    <div class="verdict reveal">
+      <p class="vk">In short</p>
+      <p>Yes to the stack: raw → IPA → features → ASJP for the 1,186, raw → simple rules → ASJP for the 40, into one uniform layer. ASJP is a <strong>lossy projection of the feature work already done</strong>, and a cheap rescue for the tail.</p>
+      <p>No to the 41-way ASJP-only softmax as the primary target — it discards length, nasalization, tone, and most vowel quality, which is the precise signal a vocalic-change model must keep. Make ASJP the <strong>coarse backbone</strong> of a <strong>factored output</strong> (class × masked fine vowel heads) and the external yardstick for <span class="ipa">z_language</span>; let the segment-feature tensor be what the decoder actually emits.</p>
+      <p>Speak ASJP fluently — for coverage and for grounding against seven thousand catalogued doculects. Just don't let the model <em>think</em> in it.</p>
+    </div>
+  </section>
+
+  <section class="prose">
+    <div class="biblio">
+      <h3 class="reveal">Sources &amp; threads</h3>
+      <div class="ref reveal"><div class="ref-key">Brown &amp; al. ’08</div><div class="ref-body"><b>Automated classification of the world's languages.</b> <span>The ASJPcode sound-class alphabet and its rationale — robustness over fidelity.</span></div></div>
+      <div class="ref reveal"><div class="ref-key">Holman &amp; al. ’08</div><div class="ref-body"><b>Explorations in automated lexicostatistics; LDND.</b> <span>Normalized Levenshtein distance, divided — the standard ASJP distance and its chance correction.</span></div></div>
+      <div class="ref reveal"><div class="ref-key">Wichmann &amp; al.</div><div class="ref-body"><b>The ASJP Database.</b> <span>~40-item lists for ~7,000 doculects in ASJPcode — the external anchor for <span class="ipa">z_language</span>.</span></div></div>
+      <div class="ref reveal"><div class="ref-key">Jäger ’18</div><div class="ref-body"><b>Global-scale phylogenies from ASJP.</b> <span>What the coarse alphabet can and cannot resolve at depth — useful bounds on the anchor.</span></div></div>
+      <div class="ref reveal"><div class="ref-key">this corpus</div><div class="ref-body"><b>ipa_features.jsonl.</b> <span>286,936 records segmented with articulatory features — the superset ASJP is a projection of. See Notes I &amp; II for the relatedness and embedding framing.</span></div></div>
+    </div>
+  </section>
+  </main>
+
+  <footer>
+    <span><b>Set in</b> Fraunces · Gentium Book Plus · IBM&nbsp;Plex&nbsp;Mono</span>
+    <span><b>Filed</b> swadesh / notes / asjp</span>
+  </footer>
+
+</div>
+
+<script>
+  const io = new IntersectionObserver((entries)=>{
+    for(const e of entries){
+      if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target); }
+    }
+  },{rootMargin:'0px 0px -8% 0px', threshold:.08});
+  document.querySelectorAll('.reveal').forEach((el,i)=>{
+    el.style.transitionDelay = Math.min(i%6,5)*45 + 'ms';
+    io.observe(el);
+  });
+</script>
+</body>
+</html>
