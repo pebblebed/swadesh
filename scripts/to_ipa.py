@@ -21,8 +21,12 @@ Currently implemented:
                    scripts/light_ipa.py. Tier-3b resolves the glide 'y' -> /j/ per
                    token (data-grounded: 96% of 'y' is glide-position); c/x/q passed
                    at IPA value but flagged; j -> /j/ (low/medium confidence). [Tier 3]
-  - deferred_*   : recognized but not yet converted (other native scripts,
-                   low-resource Latin) -> ipa left empty for later tiers.
+  - practical    : the broad practical fieldwork orthographies in the deferred_latin
+                   bucket (Papuan/Austronesian/African/Americas) -> broad IPA via
+                   scripts/practical_g2p.py: light_ipa cleanup + ng->ŋ, ny->ɲ + the
+                   'y' glide fix. Excludes NATIONAL deep orthographies + MAYAN.   [Tier 3a]
+  - deferred_*   : recognized but not yet converted (other native scripts; NATIONAL
+                   + MAYAN Latin orthographies) -> ipa left empty for later tiers.
 
 Outputs:
   - data/normalized/ipa.jsonl                 the IPA layer (gitignored, regenerable)
@@ -41,6 +45,7 @@ import cyrillic_g2p  # sibling modules in scripts/ (on sys.path when run as a sc
 import light_ipa
 import native_g2p
 import pinyin_g2p
+import practical_g2p
 import romanize
 import slavic_g2p
 import yiddish_g2p
@@ -59,8 +64,10 @@ CYR_REVIEW = os.path.join(ND, "ipa_cyrillic_review.tsv")
 ROM_REVIEW = os.path.join(ND, "ipa_romanization_review.tsv")
 CMN_REVIEW = os.path.join(ND, "ipa_cmn_review.tsv")
 YDD_REVIEW = os.path.join(ND, "ipa_yiddish_review.tsv")
+PRACTICAL_REVIEW = os.path.join(ND, "ipa_practical_review.tsv")
 SUMMARY = os.path.join(ROOT, "metadata", "ipa_conversion_summary.tsv")
 LIGHT_AMBIG = os.path.join(ROOT, "metadata", "light_ipa_ambiguity.tsv")
+PRACTICAL_REPORT = os.path.join(ROOT, "metadata", "practical_ortho_report.tsv")
 
 SLAVIC = {"ces", "slk"}  # lang_codes whose carons are native orthography, not Americanist
 # native-script systems with a Tier-2 G2P -> (script arg for native_g2p, method name)
@@ -72,6 +79,16 @@ CYRILLIC_G2P = {"rus", "bul", "mdf"}
 # Native-script lists that carry a Latin/IPA ROMANIZATION line per gloss; we
 # convert that line (sidestepping the script). lang_code -> converter.
 ROMANIZE = {"tha": romanize.thai_to_ipa, "arb": romanize.arabic_to_ipa}
+
+# Tier 3a routing of the deferred_latin bucket (latin_diacritic + plain_ascii).
+# Most are broad practical fieldwork orthographies -> practical_g2p. Two slices are
+# kept deferred because the broad rules would mangle them:
+#   NATIONAL -- deep/idiosyncratic national orthographies; need per-language G2P.
+NATIONAL = {"als", "arg", "cat", "dan", "deu", "epo", "eus", "fao", "fin", "fra",
+            "gag", "gla", "gle", "glg", "hat", "hin", "hun", "hye", "isl", "ita",
+            "kan", "krc", "nld", "pol", "por", "ron", "spa", "swe", "tur", "vie"}
+#   MAYAN -- distinct convention (x=ʃ, j=x, tz=t͡s, '=ejective, ·=length); future G2P.
+MAYAN = {"acr", "caa", "cac", "cak", "jac", "kek", "mam", "poc", "quc"}
 
 
 def is_cyrillic(t):
@@ -133,16 +150,21 @@ def load_cmn():
     return d
 
 
+# systems whose 'y' is glide-resolved (Tier-3b): light_ipa + the practical latin tier.
+_Y_RESOLVE_SYSTEMS = {"light_ipa", "latin_diacritic", "plain_ascii"}
+
+
 def scan_y_vowel_lists(sysrow):
-    """light_ipa lists that write a high vowel as 'y' rather than the glide: a
-    list that uses 'y' but NEVER 'i' (e.g. `new`) is using 'y' as its vowel, so
-    Tier-3b leaves its 'y' untouched (resolve_y=False). Pre-pass over swadesh.jsonl."""
+    """Lists that write a high vowel as 'y' rather than the glide: a list that uses
+    'y' but NEVER 'i' (e.g. `new`, `mif`) is using 'y' as its vowel, so the glide
+    fix leaves its 'y' untouched (resolve_y=False). Pre-pass over swadesh.jsonl,
+    covering both light_ipa and the practical-routed latin lists."""
     yi = collections.defaultdict(lambda: [False, False])  # ident -> [has_y, has_i]
     with open(JSONL, encoding="utf-8") as f:
         for line in f:
             r = json.loads(line)
             ident = r["identifier"]
-            if sysrow.get(ident, {}).get("transcription_system") != "light_ipa":
+            if sysrow.get(ident, {}).get("transcription_system") not in _Y_RESOLVE_SYSTEMS:
                 continue
             t = r["transcription_norm"].lower()
             e = yi[ident]
@@ -170,6 +192,10 @@ def main():
     light_ambig = collections.defaultdict(collections.Counter)   # ident -> {ambig char: n}
     # ident -> [n_records, n_low (c/x/q/vowel-y), n_y_glide_fixed, n_j_passed]
     light_stats = collections.defaultdict(lambda: [0, 0, 0, 0])
+    practical_review = []
+    practical_ambig = collections.defaultdict(collections.Counter)
+    # ident -> [n_records, n_low, n_recs_with_ng, n_recs_with_ny, n_recs_with_backslash]
+    practical_stats = collections.defaultdict(lambda: [0, 0, 0, 0, 0])
     residual_by_list = collections.defaultdict(collections.Counter)
 
     with open(JSONL, encoding="utf-8") as fin, \
@@ -266,7 +292,24 @@ def main():
                 st[3] += n_j
                 for c in ambiguous:
                     light_ambig[ident][c] += 1
-            else:  # latin_diacritic, plain_ascii
+            elif system in ("latin_diacritic", "plain_ascii") \
+                    and r["lang_code"] not in NATIONAL and r["lang_code"] not in MAYAN:
+                resolve_y = ident not in y_vowel_lists
+                ipa, ambiguous, _ = practical_g2p.to_ipa(t, resolve_y=resolve_y)
+                method = "practical"
+                conf = "low" if ambiguous else "medium"   # broad orthography, unverified
+                tl = t.lower()
+                ps = practical_stats[ident]
+                ps[0] += 1
+                ps[1] += bool(ambiguous)
+                ps[2] += "ng" in tl
+                ps[3] += "ny" in tl
+                ps[4] += "\\" in t
+                for c in ambiguous:
+                    practical_ambig[ident][c] += 1
+                practical_review.append((ident, r["lang_code"], r["gloss"], t, ipa,
+                                         "".join(sorted(ambiguous))))
+            else:  # NATIONAL / MAYAN deep orthographies -> defer to a per-language tier
                 method = "deferred_latin"
 
             methods[method] += 1
@@ -281,7 +324,7 @@ def main():
     for path, rows in ((REVIEW, review), (SLAVIC_REVIEW, slavic_review),
                        (NATIVE_REVIEW, native_review), (CYR_REVIEW, cyrillic_review),
                        (ROM_REVIEW, romanization_review), (CMN_REVIEW, cmn_review),
-                       (YDD_REVIEW, yiddish_review)):
+                       (YDD_REVIEW, yiddish_review), (PRACTICAL_REVIEW, practical_review)):
         with open(path, "w", encoding="utf-8", newline="\n") as f:
             f.write("identifier\tlang_code\tgloss\ttranscription_norm\tipa\tresidual\n")
             for row in sorted(rows):
@@ -319,6 +362,23 @@ def main():
             yv = 1 if ident in y_vowel_lists else 0
             f.write(f"{ident}\t{n}\t{low}\t{yfix}\t{nj}\t{yv}\t{chars}\n")
 
+    # practical-orthography report (Tier 3a). Per list: records, low-conf, how many
+    # carry the ng/ny multigraphs we expand, the '\'-corruption density (flags lists
+    # needing a per-source glottal/ejective pass), and the residual c/x/q + nucleus-y.
+    with open(PRACTICAL_REPORT, "w", encoding="utf-8", newline="\n") as f:
+        f.write("# Tier-3a practical orthography -> broad IPA (scripts/practical_g2p.py).\n")
+        f.write("# ng->ŋ, ny->ɲ, 'y' glide->/j/; c/x/q passed at IPA value but flagged.\n")
+        f.write("# n_backslash = records with the '\\' corruption (source-specific glottal/\n")
+        f.write("# ejective) dropped as noise -> per-source recovery is future work.\n")
+        f.write("identifier\tlang_code\tn_records\tn_low_conf\tn_recs_ng\tn_recs_ny\t"
+                "n_backslash\tresidual_letters\n")
+        for ident in sorted(practical_stats):
+            n, low, ng, ny, bs = practical_stats[ident]
+            lc = sysrow.get(ident, {}).get("lang_code", "")
+            cc = practical_ambig[ident]
+            chars = " ".join(f"{c}:{m}" for c, m in cc.most_common())
+            f.write(f"{ident}\t{lc}\t{n}\t{low}\t{ng}\t{ny}\t{bs}\t{chars}\n")
+
     tier2 = (methods["greek_g2p"] + methods["kana_g2p"] + methods["cyrillic_g2p"]
              + methods["romanization"] + methods["cmn"] + methods["yiddish_g2p"])
     conv = (methods["native_ipa"] + methods["americanist"]
@@ -327,12 +387,14 @@ def main():
     print("methods:")
     for m, n in methods.most_common():
         print(f"  {m:<18}{n:>7}")
-    print(f"\nIPA populated now : {conv + methods['light_ipa']} records "
+    print(f"\nIPA populated now : {conv + methods['light_ipa'] + methods['practical']} records "
           f"({methods['americanist']} Americanist + {methods['slavic_g2p']} Slavic, Tier 1; "
           f"{methods['greek_g2p']} Greek + {methods['kana_g2p']} Kana + "
           f"{methods['cyrillic_g2p']} Cyrillic + {methods['romanization']} romanization + "
           f"{methods['cmn']} Mandarin + {methods['yiddish_g2p']} Yiddish, Tier 2; "
-          f"{methods['light_ipa']} light_ipa cleanup, Tier 3)")
+          f"{methods['light_ipa']} light_ipa + {methods['practical']} practical, Tier 3)")
+    print(f"still deferred    : {methods['deferred_latin']} latin (national+Mayan) + "
+          f"{methods['deferred_native']} native + {methods['empty']} empty")
     print(f"review -> {REVIEW}")
     print(f"slavic -> {SLAVIC_REVIEW}")
     print(f"native -> {NATIVE_REVIEW}")
@@ -341,6 +403,7 @@ def main():
     print(f"cmn    -> {CMN_REVIEW}")
     print(f"ydd    -> {YDD_REVIEW}")
     print(f"light  -> {LIGHT_AMBIG}")
+    print(f"pract  -> {PRACTICAL_REPORT}  +  {PRACTICAL_REVIEW}")
     print(f"summary -> {SUMMARY}")
     return 0
 

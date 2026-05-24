@@ -1,0 +1,237 @@
+# Tier-3a practical orthography -> broad IPA (scripts/practical_g2p.py).
+# ng->ŋ, ny->ɲ, 'y' glide->/j/; c/x/q passed at IPA value but flagged.
+# n_backslash = records with the '\' corruption (source-specific glottal/
+# ejective) dropped as noise -> per-source recovery is future work.
+identifier	lang_code	n_records	n_low_conf	n_recs_ng	n_recs_ny	n_backslash	residual_letters
+rosettaproject_aak_swadesh-1	aak	101	1	36	4	34	q:1
+rosettaproject_abe_swadesh-1	abe	140	4	0	0	0	c:4
+rosettaproject_aby_swadesh-1	aby	101	0	0	0	6	
+rosettaproject_ack_swadesh-1	ack	268	56	23	20	0	c:48 y:9
+rosettaproject_afr_swadesh-1	afr	328	16	10	2	1	y:15 c:1
+rosettaproject_akj_swadesh-1	akj	38	4	3	1	0	c:4
+rosettaproject_akq_swadesh-1	akq	1	0	0	0	0	
+rosettaproject_amn_swadesh-1	amn	21	0	2	0	0	
+rosettaproject_anj_swadesh-1	anj	106	1	13	3	0	c:1
+rosettaproject_aoj_swadesh-1	aoj	3	0	1	0	0	
+rosettaproject_aon_swadesh-1	aon	15	0	4	0	0	
+rosettaproject_apz_swadesh-1	apz	103	0	12	2	10	
+rosettaproject_asc_swadesh-1	asc	377	0	0	0	8	
+rosettaproject_asi_swadesh-1	asi	180	0	0	2	1	
+rosettaproject_auw_swadesh-1	auw	643	6	51	5	1	c:4 q:2
+rosettaproject_ayz_swadesh-1	ayz	719	47	11	10	3	x:40 c:3 y:3 q:1
+rosettaproject_bdw_swadesh-1	bdw	351	12	45	2	1	q:6 c:4 x:3
+rosettaproject_bhl_swadesh-1	bhl	45	0	0	0	20	
+rosettaproject_bhq_swadesh-1	bhq	232	1	21	0	38	x:1
+rosettaproject_bic_swadesh-1	bic	98	1	0	0	0	x:1
+rosettaproject_bjc_swadesh-1	bjc	32	0	0	0	1	
+rosettaproject_bnv_swadesh-1	bnv	105	2	7	0	0	c:1 y:1
+rosettaproject_bqs_swadesh-1	bqs	120	0	20	0	0	
+rosettaproject_brh_swadesh-1	brh	33	6	9	0	0	x:6
+rosettaproject_brp_swadesh-1	brp	53	0	0	0	2	
+rosettaproject_bwk_swadesh-1	bwk	71	0	0	0	12	
+rosettaproject_byr_swadesh-1	byr	101	5	8	17	25	q:4 y:1
+rosettaproject_byx_swadesh-1	byx	364	57	45	0	1	x:54 q:4
+rosettaproject_bzp_swadesh-1	bzp	628	16	18	0	1	x:16
+rosettaproject_ccp_swadesh-1	ccp	100	4	6	0	0	c:4
+rosettaproject_ceb_swadesh-1	ceb	248	0	25	0	0	
+rosettaproject_chr_swadesh-1	chr	35	2	0	0	0	q:1 y:1
+rosettaproject_cjn_swadesh-1	cjn	15	0	5	0	0	
+rosettaproject_cns_swadesh-1	cns	847	81	0	0	21	c:81
+rosettaproject_crk_swadesh-1	crk	183	13	0	0	0	c:13
+rosettaproject_dba_swadesh-1	dba	94	0	1	1	0	
+rosettaproject_dbe_swadesh-1	dbe	84	1	1	0	0	c:1
+rosettaproject_ddg_swadesh-1	ddg	397	17	0	0	23	c:17
+rosettaproject_dgz_swadesh-1	dgz	278	0	0	0	4	
+rosettaproject_dih_swadesh-1	dih	13	3	0	0	0	c:3
+rosettaproject_dmy_swadesh-1	dmy	450	14	75	10	0	c:13 x:1
+rosettaproject_drr_swadesh-1	drr	18	0	3	0	0	
+rosettaproject_eip_swadesh-1	eip	326	1	14	16	0	c:1
+rosettaproject_enr_swadesh-1	enr	214	6	20	0	0	x:3 q:2 c:1
+rosettaproject_etz_swadesh-1	etz	197	0	13	0	0	
+rosettaproject_fij_swadesh-1	fij	184	0	0	0	0	
+rosettaproject_flh_swadesh-1	flh	42	0	0	0	0	
+rosettaproject_fuc_swadesh-1	fuc	164	8	9	0	0	c:8
+rosettaproject_fuy_swadesh-1	fuy	596	0	37	0	29	
+rosettaproject_gaf_swadesh-1	gaf	351	0	20	6	0	
+rosettaproject_gai_swadesh-1	gai	101	0	19	0	6	
+rosettaproject_gao_swadesh-1	gao	7	0	0	3	0	
+rosettaproject_gdb_swadesh-1	gdb	74	2	0	0	0	c:2
+rosettaproject_gdn_swadesh-1	gdn	91	0	0	0	3	
+rosettaproject_gli_swadesh-1	gli	41	0	9	0	0	
+rosettaproject_gno_swadesh-1	gno	82	1	0	0	0	c:1
+rosettaproject_gnu_swadesh-1	gnu	1	0	0	0	0	
+rosettaproject_guj_swadesh-1	guj	71	6	0	0	0	c:6
+rosettaproject_guz_swadesh-1	guz	79	10	6	8	0	c:10
+rosettaproject_gvf_swadesh-1	gvf	39	0	0	0	0	
+rosettaproject_gvr_swadesh-1	gvr	113	49	13	0	0	q:45 y:9
+rosettaproject_hil_swadesh-1	hil	210	0	17	0	0	
+rosettaproject_hmt_swadesh-1	hmt	120	32	26	1	33	q:30 y:1 c:1
+rosettaproject_iar_swadesh-1	iar	483	1	0	0	43	c:1 x:1
+rosettaproject_ibu_swadesh-1	ibu	25	0	0	1	0	
+rosettaproject_idi_swadesh-1	idi	80	0	14	0	0	
+rosettaproject_jaq_swadesh-1	jaq	335	52	16	0	0	q:43 x:9
+rosettaproject_jbj_swadesh-1	jbj	556	0	14	0	0	
+rosettaproject_jei_swadesh-1	jei	346	12	14	8	0	c:12
+rosettaproject_jet_swadesh-1	jet	664	17	111	0	0	x:10 c:4 q:3 y:1
+rosettaproject_jma_swadesh-1	jma	62	0	1	0	0	
+rosettaproject_jmi_swadesh-1	jmi	50	0	0	0	0	
+rosettaproject_kbk_swadesh-1	kbk	240	0	0	0	16	
+rosettaproject_kcb_swadesh-1	kcb	100	0	11	10	15	
+rosettaproject_kco_swadesh-1	kco	53	0	0	0	0	
+rosettaproject_kdj_swadesh-1	kdj	1	0	0	0	0	
+rosettaproject_kdw_swadesh-1	kdw	177	13	5	0	0	c:13
+rosettaproject_kfb_swadesh-1	kfb	76	1	0	0	0	c:1
+rosettaproject_kfc_swadesh-1	kfc	76	0	0	0	0	
+rosettaproject_kfe_swadesh-1	kfe	80	4	0	0	0	c:4
+rosettaproject_kgq_swadesh-1	kgq	250	0	0	0	6	
+rosettaproject_kgu_swadesh-1	kgu	170	46	1	0	0	x:46
+rosettaproject_kgv_swadesh-1	kgv	158	1	16	0	0	x:1
+rosettaproject_khe_swadesh-1	khe	194	56	12	0	0	x:55 y:1
+rosettaproject_kih_swadesh-1	kih	8	0	0	0	1	
+rosettaproject_kit_swadesh-1	kit	998	24	98	6	6	q:21 c:3
+rosettaproject_kja_swadesh-1	kja	168	0	59	0	0	
+rosettaproject_klp_swadesh-1	klp	99	0	8	9	18	
+rosettaproject_klq_swadesh-1	klq	236	1	0	0	0	q:1
+rosettaproject_kmk_swadesh-1	kmk	186	0	0	0	1	
+rosettaproject_kmu_swadesh-1	kmu	9	0	0	0	3	
+rosettaproject_kmx_swadesh-1	kmx	356	0	0	0	2	
+rosettaproject_knd_swadesh-1	knd	172	5	6	0	1	c:4 x:1
+rosettaproject_knv_swadesh-1	knv	376	0	0	0	4	
+rosettaproject_kpx_swadesh-1	kpx	795	11	0	0	20	x:9 c:2
+rosettaproject_krd_swadesh-1	krd	1	0	0	0	0	
+rosettaproject_kru_swadesh-1	kru	50	14	0	0	0	x:8 c:6
+rosettaproject_kue_swadesh-1	kue	662	7	69	0	1	x:7
+rosettaproject_kuo_swadesh-1	kuo	51	0	0	0	0	
+rosettaproject_kup_swadesh-1	kup	430	8	8	0	0	c:6 x:2
+rosettaproject_kwt_swadesh-1	kwt	520	1	28	2	1	c:1
+rosettaproject_kxu_swadesh-1	kxu	74	1	3	0	0	c:1
+rosettaproject_kzh_swadesh-1	kzh	571	4	69	0	3	x:2 y:1 c:1
+rosettaproject_kzk_swadesh-1	kzk	152	0	18	0	0	
+rosettaproject_kzm_swadesh-1	kzm	255	3	12	1	0	c:3
+rosettaproject_kzz_swadesh-1	kzz	159	1	0	0	1	c:1
+rosettaproject_lat_swadesh-1	lat	181	47	7	0	0	c:31 q:11 x:7
+rosettaproject_liv_swadesh-1	liv	53	0	1	0	0	
+rosettaproject_lll_swadesh-1	lll	107	0	20	2	3	
+rosettaproject_ltz_swadesh-1	ltz	101	16	6	0	0	c:16
+rosettaproject_lun_swadesh-1	lun	92	9	11	1	0	c:9
+rosettaproject_mai_swadesh-1	mai	98	7	3	0	0	c:7
+rosettaproject_mal_swadesh-1	mal	97	6	0	0	0	c:6
+rosettaproject_mcr_swadesh-1	mcr	101	54	20	2	0	q:54
+rosettaproject_mfe_swadesh-1	mfe	96	0	2	0	0	
+rosettaproject_mfw_swadesh-1	mfw	272	1	0	0	7	c:1
+rosettaproject_mgf_swadesh-1	mgf	393	0	57	0	0	
+rosettaproject_mgk_swadesh-1	mgk	229	4	7	0	0	q:4
+rosettaproject_mgx_swadesh-1	mgx	112	0	0	0	2	
+rosettaproject_mha_swadesh-1	mha	58	1	0	0	0	c:1
+rosettaproject_mhs_swadesh-1	mhs	183	0	0	0	0	
+rosettaproject_mic_swadesh-1	mic	169	44	2	0	0	q:40 c:5
+rosettaproject_miw_swadesh-1	miw	100	0	4	0	25	
+rosettaproject_mjt_swadesh-1	mjt	52	12	0	0	0	q:8 c:4
+rosettaproject_mjw_swadesh-1	mjw	205	20	60	0	0	c:20
+rosettaproject_mkp_swadesh-1	mkp	31	0	0	0	2	
+rosettaproject_mna_swadesh-1	mna	179	0	0	0	0	
+rosettaproject_mnx_swadesh-1	mnx	345	8	7	1	17	c:5 x:2 q:1
+rosettaproject_mnz_swadesh-1	mnz	450	2	10	0	0	x:2
+rosettaproject_mok_swadesh-1	mok	227	6	24	0	0	x:5 c:1
+rosettaproject_moq_swadesh-1	moq	178	0	2	0	0	
+rosettaproject_mpt_swadesh-1	mpt	47	0	0	0	0	
+rosettaproject_mqf_swadesh-1	mqf	133	0	2	1	0	
+rosettaproject_mqr_swadesh-1	mqr	118	1	5	0	0	x:1
+rosettaproject_mqs_swadesh-1	mqs	357	6	27	2	0	c:6
+rosettaproject_mrx_swadesh-1	mrx	18	0	0	0	0	
+rosettaproject_msf_swadesh-1	msf	437	0	96	3	0	
+rosettaproject_msg_swadesh-1	msg	168	2	7	1	0	q:1 c:1
+rosettaproject_msl_swadesh-1	msl	143	0	6	0	1	
+rosettaproject_mww_swadesh-1	mww	101	11	0	0	0	c:5 q:4 x:2
+rosettaproject_nby_swadesh-1	nby	1	0	0	0	0	
+rosettaproject_ner_swadesh-1	ner	208	2	9	1	0	c:2
+rosettaproject_nit_swadesh-1	nit	66	2	0	0	0	c:2
+rosettaproject_niv_swadesh-1	niv	63	27	0	1	0	x:11 q:8 c:7 y:4
+rosettaproject_njl_swadesh-1	njl	2	0	0	0	0	
+rosettaproject_nlc_swadesh-1	nlc	59	1	7	1	0	y:1
+rosettaproject_nnt_swadesh-1	nnt	104	49	1	0	0	q:34 c:28
+rosettaproject_nux_swadesh-1	nux	69	0	2	0	0	
+rosettaproject_nxr_swadesh-1	nxr	165	2	12	3	10	q:2
+rosettaproject_nxu_swadesh-1	nxu	23	0	0	0	0	
+rosettaproject_ojs_swadesh-1	ojs	204	6	7	0	0	c:4 y:2
+rosettaproject_onj_swadesh-1	onj	45	0	0	0	1	
+rosettaproject_ons_swadesh-1	ons	314	1	21	0	0	x:1
+rosettaproject_opo_swadesh-1	opo	128	0	0	0	0	
+rosettaproject_oro_swadesh-1	oro	593	0	0	0	10	
+rosettaproject_pag_swadesh-1	pag	257	0	1	0	1	
+rosettaproject_pam_swadesh-1	pam	139	2	11	1	0	c:2
+rosettaproject_pci_swadesh-1	pci	74	6	0	0	0	c:6
+rosettaproject_pdc_swadesh-1	pdc	120	35	4	0	0	c:35
+rosettaproject_peg_swadesh-1	peg	63	2	0	0	0	c:2
+rosettaproject_pep_swadesh-1	pep	226	12	12	0	3	q:8 c:4
+rosettaproject_pma_swadesh-1	pma	182	0	0	0	0	
+rosettaproject_pnb_swadesh-1	pnb	194	15	3	1	0	c:15
+rosettaproject_pqm_swadesh-1	pqm	159	53	0	0	0	q:33 c:25
+rosettaproject_pru_swadesh-1	pru	182	0	4	0	29	
+rosettaproject_pss_swadesh-1	pss	181	0	0	0	0	
+rosettaproject_roo_swadesh-1	roo	350	0	0	0	0	
+rosettaproject_ryu_swadesh-1	ryu	46	7	0	0	0	c:7
+rosettaproject_saj_swadesh-1	saj	590	35	131	14	214	c:35 y:1
+rosettaproject_scn_swadesh-1	scn	132	47	2	0	0	c:43 q:3 x:2
+rosettaproject_seo_swadesh-1	seo	1	0	0	0	0	
+rosettaproject_sll_swadesh-1	sll	131	0	4	1	0	
+rosettaproject_slw_swadesh-1	slw	54	0	0	0	0	
+rosettaproject_smb_swadesh-1	smb	103	6	2	10	17	q:5 y:1
+rosettaproject_srm_swadesh-1	srm	112	3	6	0	2	c:3
+rosettaproject_srn_swadesh-1	srn	177	0	6	0	0	
+rosettaproject_sue_swadesh-1	sue	95	0	0	0	0	
+rosettaproject_szb_swadesh-1	szb	33	3	0	0	0	q:3
+rosettaproject_szp_swadesh-1	szp	466	0	0	0	30	
+rosettaproject_tam_swadesh-1	tam	117	10	1	0	0	c:10
+rosettaproject_tat_swadesh-1	tat	204	9	1	0	0	c:6 y:3
+rosettaproject_tbc_swadesh-1	tbc	180	0	1	0	1	
+rosettaproject_tbo_swadesh-1	tbo	182	0	0	0	0	
+rosettaproject_tbp_swadesh-1	tbp	59	1	4	0	1	y:1
+rosettaproject_tby_swadesh-1	tby	171	0	32	1	5	
+rosettaproject_tcg_swadesh-1	tcg	178	3	0	0	0	q:2 x:1
+rosettaproject_tcm_swadesh-1	tcm	205	0	0	1	1	
+rosettaproject_tcq_swadesh-1	tcq	199	26	0	0	0	y:21 x:5
+rosettaproject_tcy_swadesh-1	tcy	104	3	1	0	0	c:3
+rosettaproject_tel_swadesh-1	tel	147	24	0	0	0	c:24
+rosettaproject_tgu_swadesh-1	tgu	110	0	13	1	0	
+rosettaproject_tif_swadesh-1	tif	51	0	0	0	21	
+rosettaproject_tlb_swadesh-1	tlb	416	0	62	3	7	
+rosettaproject_tlf_swadesh-1	tlf	231	13	12	1	25	q:13
+rosettaproject_tlg_swadesh-1	tlg	128	0	2	0	0	
+rosettaproject_tpi_swadesh-1	tpi	206	0	22	0	0	
+rosettaproject_ttd_swadesh-1	ttd	272	0	0	0	6	
+rosettaproject_ttn_swadesh-1	ttn	105	0	11	0	0	
+rosettaproject_txt_swadesh-1	txt	291	5	0	0	8	c:5
+rosettaproject_uar_swadesh-1	uar	333	0	0	0	5	
+rosettaproject_uhn_swadesh-1	uhn	276	1	16	4	0	y:1
+rosettaproject_ulf_swadesh-1	ulf	126	0	6	2	1	
+rosettaproject_ulk_swadesh-1	ulk	99	0	0	0	0	
+rosettaproject_urd_swadesh-1	urd	200	22	3	0	0	c:19 q:2 y:1
+rosettaproject_usa_swadesh-1	usa	59	0	0	0	11	
+rosettaproject_wax_swadesh-1	wax	57	2	10	0	1	c:2
+rosettaproject_wba_swadesh-1	wba	129	0	0	0	0	
+rosettaproject_wbv_swadesh-1	wbv	264	0	0	0	0	
+rosettaproject_wiu_swadesh-1	wiu	178	0	0	0	0	
+rosettaproject_wms_swadesh-1	wms	287	0	23	0	0	
+rosettaproject_wrb_swadesh-1	wrb	30	0	0	0	0	
+rosettaproject_wrv_swadesh-1	wrv	238	0	0	0	1	
+rosettaproject_wsa_swadesh-1	wsa	323	1	3	0	4	y:1
+rosettaproject_xar_swadesh-1	xar	71	0	0	0	0	
+rosettaproject_xau_swadesh-1	xau	244	49	2	2	0	c:49
+rosettaproject_xii_swadesh-1	xii	50	0	0	0	8	
+rosettaproject_xod_swadesh-1	xod	136	0	0	0	0	
+rosettaproject_xse_swadesh-1	xse	160	0	0	0	2	
+rosettaproject_xte_swadesh-1	xte	155	2	9	7	0	y:1 c:1
+rosettaproject_yby_swadesh-1	yby	274	1	0	0	4	c:1
+rosettaproject_yey_swadesh-1	yey	79	4	4	3	0	c:2 q:1 x:1
+rosettaproject_ygw_swadesh-1	ygw	101	20	0	9	10	q:20
+rosettaproject_yki_swadesh-1	yki	180	1	17	3	0	x:1
+rosettaproject_ykr_swadesh-1	ykr	59	0	3	0	0	
+rosettaproject_yon_swadesh-1	yon	220	0	20	3	10	
+rosettaproject_yrb_swadesh-1	yrb	183	0	0	0	5	
+rosettaproject_yur_swadesh-1	yur	183	56	0	0	0	c:46 y:11 x:1
+rosettaproject_zgr_swadesh-1	zgr	55	0	0	0	6	
+rosettaproject_zia_swadesh-1	zia	76	0	2	0	0	
+rosettaproject_zne_swadesh-1	zne	528	0	2	0	0	
+rosettaproject_zrs_swadesh-1	zrs	346	0	28	1	45	
+rosettaproject_zul_swadesh-1	zul	131	8	9	9	0	q:4 c:4

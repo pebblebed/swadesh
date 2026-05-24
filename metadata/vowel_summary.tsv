@@ -1,31 +1,31 @@
 # Corpus vowel summary from ipa_features.jsonl.
-lists_with_vowels	954
-vowel_tokens	607948
+lists_with_vowels	1186
+vowel_tokens	718489
 distinct_qualities	25
-pct_long	3.83
-pct_nasal	0.12
-pct_tone	4.18
+pct_long	3.38
+pct_nasal	0.11
+pct_tone	3.89
 
 # Vowel quality frequency (token count, #lists attesting)
 vowel	n_tokens	n_lists
-a	192453	953
-i	112312	949
-u	85875	943
-e	74676	876
-o	63374	862
-ɛ	19507	601
-y	15016	620
-ɔ	11747	517
-ə	10286	470
-ʌ	9545	285
+a	230363	1182
+i	133646	1178
+u	100224	1166
+e	93549	1100
+o	81112	1084
+ɛ	19558	613
+y	15114	644
+ɔ	11771	535
+ə	10401	498
+ʌ	9551	289
 ɑ	3236	79
-ɪ	3191	261
-ɨ	2286	142
-ʊ	2191	161
-ɒ	846	43
-ʉ	424	23
+ɪ	3202	264
+ɨ	2297	148
+ʊ	2194	164
+ɒ	847	44
+ʉ	425	24
 æ	314	50
-ø	258	126
+ø	274	136
 ɐ	143	1
 ɯ	103	14
 ɤ	88	9
@@ -36,14 +36,15 @@ y	15016	620
 
 # Inventory-size distribution (n distinct vowel qualities -> n lists)
 n_qualities	n_lists
-2	4
-3	14
-4	28
-5	80
-6	129
-7	122
-8	111
-9	125
+1	2
+2	8
+3	18
+4	32
+5	218
+6	190
+7	135
+8	113
+9	129
 10	125
 11	113
 12	58
@@ -103,7 +104,13 @@ rosettaproject_zik_swadesh-1	zik	Zimakani	13
 
 # Outlier inventories: < 3 qualities (audit; tiny / odd lists)
 identifier	lang_code	language	n_qualities
+rosettaproject_akq_swadesh-1	akq	Ak	1
+rosettaproject_gnu_swadesh-1	gnu	Gnau	1
 rosettaproject_ady_swadesh-1	ady	Adyghe	2
+rosettaproject_aoj_swadesh-1	aoj	Mufian	2
 rosettaproject_bop_swadesh-1	bop	Bonkiman	2
+rosettaproject_kdj_swadesh-1	kdj	Karamojong	2
+rosettaproject_krd_swadesh-1	krd	Kairui-Midiki	2
+rosettaproject_nby_swadesh-1	nby	Ningera	2
 rosettaproject_new_swadesh-1	new	Newar	2
 rosettaproject_umd_swadesh-1	umd	Umbindhamu	2

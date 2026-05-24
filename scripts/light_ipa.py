@@ -76,15 +76,10 @@ def _adjacent_vowel(s, i, step):
     return False
 
 
-def to_ipa(transcription, resolve_y=True):
-    """Clean a light_ipa transcription to broad IPA.
-
-    Returns (ipa, ambiguous_set, n_j):
-      ambiguous_set -- remaining source-specific letters {c,x,q} and, if any
-                       nucleus 'y' survives (or resolve_y is False), 'y'; this set
-                       drives low confidence and the per-source ambiguity report.
-      n_j           -- count of 'j' (passed at IPA /j/), reported for transparency.
-    """
+def clean(transcription):
+    """Cleanup shared by light_ipa and practical_g2p (Tier 3a): NFC, ñ->ɲ, drop
+    non-phonetic noise, strip brackets (keep content), split /~ variants into
+    ', '-joined alternants. Returns the cleaned string."""
     t = unicodedata.normalize("NFC", transcription).replace("ñ", "ɲ")
     parts = []
     for alt in _SEP.split(t):
@@ -94,24 +89,40 @@ def to_ipa(transcription, resolve_y=True):
         alt = _WS.sub(" ", alt).strip()
         if alt and alt not in parts:
             parts.append(alt)
-    ipa = ", ".join(parts)
+    return ", ".join(parts)
 
-    # Tier-3b: resolve the glide 'y' -> 'j'; keep nucleus 'y' as the vowel it is.
+
+def resolve_glide_y(ipa, do_resolve=True):
+    """Tier-3b glide fix on an already-cleaned string. 'y' adjacent to a vowel ->
+    'j' (palatal glide); 'y' in nucleus position left as the vowel it is. Returns
+    (ipa, nucleus_y): nucleus_y True if any 'y' was kept as a vowel (or do_resolve
+    is False -- the whole-list no-'i' guard)."""
+    if "y" not in ipa:
+        return ipa, False
+    if not do_resolve:
+        return ipa, True                    # whole-list vowel-'y' (no-'i' guard)
     nucleus_y = False
-    if "y" in ipa:
-        if not resolve_y:
-            nucleus_y = True                # whole-list vowel-'y' (no-'i' guard)
-        else:
-            out = []
-            for i, ch in enumerate(ipa):
-                if ch == "y":
-                    if _adjacent_vowel(ipa, i, 1) or _adjacent_vowel(ipa, i, -1):
-                        out.append("j")
-                        continue
-                    nucleus_y = True        # flanked by consonants/edges -> a vowel
-                out.append(ch)
-            ipa = "".join(out)
+    out = []
+    for i, ch in enumerate(ipa):
+        if ch == "y":
+            if _adjacent_vowel(ipa, i, 1) or _adjacent_vowel(ipa, i, -1):
+                out.append("j")
+                continue
+            nucleus_y = True                # flanked by consonants/edges -> a vowel
+        out.append(ch)
+    return "".join(out), nucleus_y
 
+
+def to_ipa(transcription, resolve_y=True):
+    """Clean a light_ipa transcription to broad IPA.
+
+    Returns (ipa, ambiguous_set, n_j):
+      ambiguous_set -- {c,x,q} present + 'y' if a nucleus 'y' survives (or resolve_y
+                       is False); drives low confidence + the per-source report.
+      n_j           -- count of 'j' (passed at IPA /j/), reported for transparency.
+    """
+    ipa = clean(transcription)
+    ipa, nucleus_y = resolve_glide_y(ipa, resolve_y)
     ambiguous = {c for c in ipa if c in AMBIG}
     if nucleus_y:
         ambiguous.add("y")

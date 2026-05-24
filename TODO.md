@@ -114,27 +114,32 @@ data/normalized/transcription_systems.tsv) over 1229 lists:
   native scripts 11 (Arabic 3, Cyrillic 3, Greek/Han/Hebrew/Kana/Thai 1 each) | gloss_only 1.
   => 605 IPA-ready now; 623 need conversion. Each list has scores (ipa_density, ipa_char_ratio,
   nonascii_ratio, americanist_ratio) so thresholds stay re-judgeable.
-PROGRESS (lists with IPA populated, by `python scripts/to_ipa.py`): 954 / 1229 lists ->
+PROGRESS (lists with IPA populated, by `python scripts/to_ipa.py`): 1186 / 1229 lists ->
   617 ipa_dense + 10 Americanist + 2 Czech/Slovak + 3 Cyrillic + 1 Greek + 1 Kana + 2 romanization
-  + 1 Mandarin + 1 Yiddish (all Tier 0-2) + 316 light_ipa (Tier 3, now Tier-3b y-resolved). By
-  RECORDS: 244,062 / 295,369 have a non-empty `ipa`. Tier 2 COMPLETE except the pes/pbt abjads.
-  Tier 3 light_ipa DONE incl. Tier-3b 'y' glide fix (low-conf 10,440->2,336 recs). STRUCTURED
-  IPA FEATURES now over 244,057 recs / 1.26M segments at 99.89% coverage (scripts/ipa_features.py).
+  + 1 Mandarin + 1 Yiddish (all Tier 0-2) + 316 light_ipa (Tier-3b y-resolved) + 232 practical
+  (Tier 3a). By RECORDS: 286,936 / 295,369 (97%) have a non-empty `ipa`. Tier 2 COMPLETE except
+  pes/pbt abjads; Tier 3 light_ipa + Tier 3a practical orthographies DONE. STRUCTURED IPA FEATURES
+  now over 286,915 recs / 1.49M segments at 99.87% coverage (scripts/ipa_features.py).
 
-WHAT REMAINS of IPA-ification after Tier-3b (the answer to "what's left"), by RECORDS / LISTS:
-  (A) deferred_latin  50,267 recs / 272 lists  -- latin_diacritic (179) + plain_ascii (93). The
-      ONLY large remaining frontier. These are true ORTHOGRAPHIES (not already-IPA), each needing
-      per-source rules (ng->ŋ, digraphs, vowel diacritics, the c/y/j/x/q values). Hardest tier:
-      conventions vary list-to-list. STRONG ALTERNATIVE for the model: an ASJP-style ~41-class
-      sound alphabet instead of chasing narrow IPA for 272 idiosyncratic orthographies.
+WHAT REMAINS of IPA-ification after Tier 3a (updated), by RECORDS / LISTS:
+  (A) deferred_latin   7,393 recs /  40 lists  -- the NON-practical Latin slice only:
+      NATIONAL deep orthographies (French/German/Dutch/Danish/Hindi/Armenian/Hungarian/Turkish/
+      Vietnamese/... incl. romanized Indic; ~31 lists) + MAYAN (9 lists: K'iche'/Kaqchikel/Q'eqchi'/
+      Mam/Chuj/Jakalteko/Poqomam/Ch'orti'/Achi -- distinct convention x=ʃ j=x tz=t͡s '=ejective).
+      The big practical slice (232 lists / 42,874 recs) is now DONE via scripts/practical_g2p.py.
   (B) deferred_native    827 recs /   6 lists  -- pes (Farsi) + pbt (Pashto) Arabic-script abjads,
-      plus the native-script residual lines of arb/tha/cmn we sidestepped via romanization / the
-      curated Hanzi dict. Short vowels unwritten -> needs a lexicon / epitran. Low value, deferred.
-  (C) empty              213 recs /   7 lists  -- eng_swadesh-2 (the canonical 207 reference list,
-      gloss-only, no transcriptions) + scattered blank values. N/A: nothing to convert.
-  POLISH (already have IPA, imperfect): light_ipa 2,336 recs still low-conf (c/x/q + nucleus-y,
-      unverifiable per source); a few Americanist residuals (chy/oua/thv/zen '\' corruption +
-      ê/ô/â; see the residual table in metadata/ipa_conversion_summary.tsv).
+      plus native-script residual lines of arb/tha/cmn sidestepped via romanization / the Hanzi
+      dict. Short vowels unwritten -> needs a lexicon / epitran. Low value, deferred.
+  (C) empty              213 recs /   7 lists  -- eng_swadesh-2 (canonical 207 reference, gloss-only)
+      + scattered blank values. N/A: nothing to convert.
+  POLISH (already have IPA, imperfect): practical 1,602 + light_ipa 2,336 recs low-conf (c/x/q +
+      nucleus-y, unverifiable per source); ~12 practical lists are '\'-heavy (glottal/ejective
+      dropped as noise -> per-source recovery, see metadata/practical_ortho_report.tsv); a few
+      Americanist residuals (chy/oua/thv/zen). Indic-romanization aspirates (kh/gh/ph/bh/ch/dh/th)
+      pass through unexpanded -> a future Brahmic-romanization refinement.
+  NEXT TIERS (optional, diminishing returns): Mayan G2P (9 lists, one coherent ruleset); national
+      orthographies (per-language, hard); OR the ASJP ~41-class sound alphabet as the uniform
+      cross-list layer for the model instead of chasing narrow IPA for the last 40 lists.
   => So once (A) is done (or replaced by an ASJP sound-class layer), the only true holdout is the
      ~800-record Arabic abjad tail, which needs a lexicon and is low-value. IPA-ification is then
      "complete" modulo per-source narrowness we can't verify without each list's orthography key.
@@ -267,10 +272,22 @@ PLAN (easiest -> hardest):
     orthography key; 'j' passed at IPA /j/ (dominant + standard; /d͡ʒ/-convention lists a documented
     residual). Report: `metadata/light_ipa_ambiguity.tsv` (n_y_glide_to_j, n_j_as_glide, y_vowel_list,
     residual c/x/q + nucleus-y). Self-test: 25 forms.
-  - Tier 3 REMAINING: latin_diacritic (179) + plain_ascii (93) buckets, ~50,267 recs still
-    deferred_latin. Need per-source orthography rules (ng->ŋ, digraphs, the c/y/j/x/q values).
-    STRONG ALTERNATIVE for cross-list comparison: an ASJP-style sound-class alphabet (collapses
-    IPA/orthography noise into ~41 classes) instead of chasing narrow IPA for every orthography.
+  - [x] Tier 3a practical orthographies (232 lists / 42,874 recs): DONE. `scripts/practical_g2p.py`,
+    method `practical`. The deferred_latin bucket (272 lists) splits 3 ways; the big coherent slice
+    is Papuan/Austronesian/African/Americas FIELDWORK lists in a practical (SIL/Indonesian-style)
+    orthography -- broad-phonemic already, just a couple of multigraphs on top. SAME philosophy as
+    light_ipa (reuses light_ipa.clean + resolve_glide_y) PLUS two corpus-verified multigraphs
+    applied BEFORE the y-fix: ng->ŋ, ny->ɲ (Agob tarangesa->taraŋesa, Sahu banyo->baɲo). Prenasal
+    mb/nd/nj kept (broad); c/x/q passed at IPA value but flagged; j=/j/. '\' corruption (source-
+    specific glottal/ejective) DROPPED as noise -- ~12 '\'-heavy lists flagged for per-source
+    recovery (metadata/practical_ortho_report.tsv + ipa_practical_review.tsv). EXCLUDED (still
+    deferred_latin): NATIONAL deep orthographies (set in to_ipa.py: fra deu nld dan hin hye hun tur
+    vie + romanized Indic etc., ~31 lists) and MAYAN (9 lists -- need x=ʃ j=x tz=t͡s '=ejective).
+    Result: deferred_latin 50,267 -> 7,393 recs; only 1,602 practical recs low-conf. Self-test: 21.
+  - Tier 3 REMAINING: deferred_latin now 40 lists / 7,393 recs (NATIONAL ~31 + MAYAN 9). Options:
+    (i) a Mayan G2P (one coherent ruleset, 9 lists); (ii) per-language national orthographies (hard,
+    low ROI); (iii) the ASJP-style ~41-class sound alphabet as the uniform cross-list layer for the
+    model -- collapses IPA/orthography noise, sidesteps chasing narrow IPA for the last 40 lists.
 CROSS-CUTTING: anchor to external gold IPA (ASJP - coarse 41-symbol alphabet built for exactly
   this; also Lexibank/CLDF, NorthEuraLex, PHOIBLE) to validate/borrow. STRONG OPTION: do
   cross-list comparison in an ASJP-style sound-class alphabet (collapses IPA vs Americanist vs
