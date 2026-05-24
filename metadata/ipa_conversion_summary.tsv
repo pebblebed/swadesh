@@ -21,8 +21,8 @@ cmn	high	101
 cyrillic_g2p	high	627
 greek_g2p	high	207
 kana_g2p	high	78
-light_ipa	low	10440
-light_ipa	medium	82857
+light_ipa	low	2336
+light_ipa	medium	90961
 native_ipa	high	145937
 romanization	high	308
 romanization	medium	1

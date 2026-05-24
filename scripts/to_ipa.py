@@ -18,8 +18,9 @@ Currently implemented:
                    -> IPA via scripts/pinyin_g2p.py.                               [Tier 2]
   - yiddish_g2p  : Yiddish (Hebrew script, YIVO) -> IPA via scripts/yiddish_g2p.py.[Tier 2]
   - light_ipa    : Latin fieldwork transcriptions (already broad IPA) cleaned via
-                   scripts/light_ipa.py; ambiguous letters c/y/j/x/q left for a
-                   per-source tier (low/medium confidence).                       [Tier 3]
+                   scripts/light_ipa.py. Tier-3b resolves the glide 'y' -> /j/ per
+                   token (data-grounded: 96% of 'y' is glide-position); c/x/q passed
+                   at IPA value but flagged; j -> /j/ (low/medium confidence). [Tier 3]
   - deferred_*   : recognized but not yet converted (other native scripts,
                    low-resource Latin) -> ipa left empty for later tiers.
 
@@ -132,11 +133,30 @@ def load_cmn():
     return d
 
 
+def scan_y_vowel_lists(sysrow):
+    """light_ipa lists that write a high vowel as 'y' rather than the glide: a
+    list that uses 'y' but NEVER 'i' (e.g. `new`) is using 'y' as its vowel, so
+    Tier-3b leaves its 'y' untouched (resolve_y=False). Pre-pass over swadesh.jsonl."""
+    yi = collections.defaultdict(lambda: [False, False])  # ident -> [has_y, has_i]
+    with open(JSONL, encoding="utf-8") as f:
+        for line in f:
+            r = json.loads(line)
+            ident = r["identifier"]
+            if sysrow.get(ident, {}).get("transcription_system") != "light_ipa":
+                continue
+            t = r["transcription_norm"].lower()
+            e = yi[ident]
+            e[0] = e[0] or ("y" in t)
+            e[1] = e[1] or ("i" in t)
+    return {ident for ident, (hy, hi) in yi.items() if hy and not hi}
+
+
 def main():
     sysrow = {r["identifier"]: r for r in
               csv.DictReader(open(SYSTEMS, encoding="utf-8"), delimiter="\t")}
     amer_map = load_map()
     cmn_map = load_cmn()
+    y_vowel_lists = scan_y_vowel_lists(sysrow)
 
     methods = collections.Counter()
     conf_count = collections.Counter()
@@ -148,7 +168,8 @@ def main():
     cmn_review = []
     yiddish_review = []
     light_ambig = collections.defaultdict(collections.Counter)   # ident -> {ambig char: n}
-    light_stats = collections.defaultdict(lambda: [0, 0])         # ident -> [n_records, n_low]
+    # ident -> [n_records, n_low (c/x/q/vowel-y), n_y_glide_fixed, n_j_passed]
+    light_stats = collections.defaultdict(lambda: [0, 0, 0, 0])
     residual_by_list = collections.defaultdict(collections.Counter)
 
     with open(JSONL, encoding="utf-8") as fin, \
@@ -232,11 +253,17 @@ def main():
             elif system.startswith("native:"):
                 method = "deferred_native"
             elif system == "light_ipa":
-                ipa, ambiguous = light_ipa.to_ipa(t)
+                resolve_y = ident not in y_vowel_lists
+                n_y_in = t.lower().count("y")
+                ipa, ambiguous, n_j = light_ipa.to_ipa(t, resolve_y=resolve_y)
                 method = "light_ipa"
                 conf = "low" if ambiguous else "medium"   # broad, unverified pass
-                light_stats[ident][0] += 1
-                light_stats[ident][1] += bool(ambiguous)
+                st = light_stats[ident]
+                st[0] += 1
+                st[1] += bool(ambiguous)
+                # glides fixed = input y's minus any nucleus y left behind (0 if not resolving)
+                st[2] += (n_y_in - ipa.lower().count("y")) if resolve_y else 0
+                st[3] += n_j
                 for c in ambiguous:
                     light_ambig[ident][c] += 1
             else:  # latin_diacritic, plain_ascii
@@ -275,17 +302,22 @@ def main():
             chars = " ".join(f"{c}:{n}" for c, n in cc.most_common())
             f.write(f"{ident}\t{sum(cc.values())}\t{chars}\n")
 
-    # light_ipa ambiguity report: per list, the language-specific letters (c y j x q)
-    # left unresolved -- the input to the per-source Tier-3 work.
+    # light_ipa ambiguity report (Tier-3b). The glide 'y' is now RESOLVED to /j/
+    # per token (n_y_glide_to_j); what remains is source-specific: c/x/q (passed at
+    # their IPA values /c/,/x/,/q/ but unverifiable) and any nucleus 'y' (a vowel of
+    # unknown quality). 'j' is passed at IPA /j/ (n_j, informational, not flagged).
+    # y_vowel_list=1 marks lists whose 'y' is the high vowel (no 'i'; 'y' left as-is).
     with open(LIGHT_AMBIG, "w", encoding="utf-8", newline="\n") as f:
-        f.write("# light_ipa lists: records carrying ambiguous Latin letters (c y j x q)\n")
-        f.write("# whose IPA value is source-specific -> resolve per source next.\n")
-        f.write("identifier\tn_records\tn_with_ambiguous\tambiguous_letters\n")
+        f.write("# light_ipa lists, Tier-3b. 'y' glide -> /j/ resolved per token; residual\n")
+        f.write("# ambiguity = c/x/q (passed at IPA value) + nucleus 'y' (a vowel). j -> /j/.\n")
+        f.write("identifier\tn_records\tn_low_conf\tn_y_glide_to_j\tn_j_as_glide\t"
+                "y_vowel_list\tresidual_letters\n")
         for ident in sorted(light_stats):
-            n, low = light_stats[ident]
+            n, low, yfix, nj = light_stats[ident]
             cc = light_ambig[ident]
-            chars = " ".join(f"{c}:{n}" for c, n in cc.most_common())
-            f.write(f"{ident}\t{n}\t{low}\t{chars}\n")
+            chars = " ".join(f"{c}:{m}" for c, m in cc.most_common())
+            yv = 1 if ident in y_vowel_lists else 0
+            f.write(f"{ident}\t{n}\t{low}\t{yfix}\t{nj}\t{yv}\t{chars}\n")
 
     tier2 = (methods["greek_g2p"] + methods["kana_g2p"] + methods["cyrillic_g2p"]
              + methods["romanization"] + methods["cmn"] + methods["yiddish_g2p"])

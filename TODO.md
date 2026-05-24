@@ -17,8 +17,9 @@ layer, and keep outputs model-ready (clean aligned matrix; per-language inventor
   (per-list vowel system: qualities + counts + %long/%nasal/%tone) and `metadata/vowel_summary.tsv`.
   954 lists, 615,759 vowel tokens, 25 qualities (a>i>u>e>o dominant). Validates: Polynesian
   rap/tah/smo/ton all clean 5-vowel a-i-e-o-u (tah 11% long, 0 tone); Adyghe correctly 2 (vertical
-  system). KNOWN CAVEAT surfaced: light_ipa 'y' (ambiguous letter, often /j/~/ɨ/) is featurized as
-  vowel /y/ and inflates its count (22.8k toks/829 lists) -> fix in Tier-3b per-source pass.
+  system). CAVEAT it surfaced, now RESOLVED in Tier-3b: light_ipa 'y' (the palatal glide /j/ written
+  with the English letter) was featurized as vowel /y/, inflating its count (22.8k toks). After the
+  y->j glide fix, 'y'-as-vowel = 15,016 toks (genuine /y/ in native_ipa + true nucleus-y only).
 - [ ] NEXT model-prep: export the aligned (language × concept) -> IPA/segments matrix (model input),
   restricted to well-covered concepts/lists; then per-language segment (not just vowel) inventories.
 
@@ -115,11 +116,28 @@ data/normalized/transcription_systems.tsv) over 1229 lists:
   nonascii_ratio, americanist_ratio) so thresholds stay re-judgeable.
 PROGRESS (lists with IPA populated, by `python scripts/to_ipa.py`): 954 / 1229 lists ->
   617 ipa_dense + 10 Americanist + 2 Czech/Slovak + 3 Cyrillic + 1 Greek + 1 Kana + 2 romanization
-  + 1 Mandarin + 1 Yiddish (all Tier 0-2) + 316 light_ipa (Tier 3, broad/low-conf). By RECORDS:
-  244,062 / 295,369 have a non-empty `ipa`. Tier 2 COMPLETE except the pes/pbt abjads. Tier 3
-  light_ipa first-pass DONE (cleanup+passthrough, ambiguity report drives per-source next).
-  Remaining: latin_diacritic (179) + plain_ascii (93) buckets = ~50k recs (Tier 3b). STRUCTURED
+  + 1 Mandarin + 1 Yiddish (all Tier 0-2) + 316 light_ipa (Tier 3, now Tier-3b y-resolved). By
+  RECORDS: 244,062 / 295,369 have a non-empty `ipa`. Tier 2 COMPLETE except the pes/pbt abjads.
+  Tier 3 light_ipa DONE incl. Tier-3b 'y' glide fix (low-conf 10,440->2,336 recs). STRUCTURED
   IPA FEATURES now over 244,057 recs / 1.26M segments at 99.89% coverage (scripts/ipa_features.py).
+
+WHAT REMAINS of IPA-ification after Tier-3b (the answer to "what's left"), by RECORDS / LISTS:
+  (A) deferred_latin  50,267 recs / 272 lists  -- latin_diacritic (179) + plain_ascii (93). The
+      ONLY large remaining frontier. These are true ORTHOGRAPHIES (not already-IPA), each needing
+      per-source rules (ng->ŋ, digraphs, vowel diacritics, the c/y/j/x/q values). Hardest tier:
+      conventions vary list-to-list. STRONG ALTERNATIVE for the model: an ASJP-style ~41-class
+      sound alphabet instead of chasing narrow IPA for 272 idiosyncratic orthographies.
+  (B) deferred_native    827 recs /   6 lists  -- pes (Farsi) + pbt (Pashto) Arabic-script abjads,
+      plus the native-script residual lines of arb/tha/cmn we sidestepped via romanization / the
+      curated Hanzi dict. Short vowels unwritten -> needs a lexicon / epitran. Low value, deferred.
+  (C) empty              213 recs /   7 lists  -- eng_swadesh-2 (the canonical 207 reference list,
+      gloss-only, no transcriptions) + scattered blank values. N/A: nothing to convert.
+  POLISH (already have IPA, imperfect): light_ipa 2,336 recs still low-conf (c/x/q + nucleus-y,
+      unverifiable per source); a few Americanist residuals (chy/oua/thv/zen '\' corruption +
+      ê/ô/â; see the residual table in metadata/ipa_conversion_summary.tsv).
+  => So once (A) is done (or replaced by an ASJP sound-class layer), the only true holdout is the
+     ~800-record Arabic abjad tail, which needs a lexicon and is low-value. IPA-ification is then
+     "complete" modulo per-source narrowness we can't verify without each list's orthography key.
 Bonus: transcription system CORRELATES with template category. sahul_extended is mostly
   ipa_dense/light_ipa (real phonetic fieldwork); core_swadesh holds ALL 11 native-script lists
   and most orthographic ones (major languages in their own spelling).
@@ -228,18 +246,27 @@ PLAN (easiest -> hardest):
     arb/pbt Arabic-script lines -- short vowels unwritten (pes has partial harakat). Consonantal
     skeleton only -> low value; needs a lexicon / epitran-style tool. Everything else in Tier 2
     is DONE.
-  - [~] Tier 3 light_ipa (316 lists / 93,297 recs): FIRST PASS DONE. `scripts/light_ipa.py`,
+  - [x] Tier 3 light_ipa (316 lists / 93,297 recs): DONE incl. Tier-3b. `scripts/light_ipa.py`,
     method `light_ipa`. These are Latin fieldwork transcriptions that are ALREADY broad IPA
     (the ASCII letters are their own IPA values + ~23k real IPA symbols), so this is cleanup +
-    passthrough, NOT a G2P. Cleans noise (drop \ * ˗ . ? and morpheme hyphens; strip brackets
-    keeping content; split / and ~ variants into ', '-alternants), ñ->ɲ (only universally-safe
-    letter), everything else passes through. The AMBIGUOUS Latin letters c y j x q (value is
-    source-specific: y=/j/~/ɨ/~/y/, c=/k/~/t͡ʃ/, j=/d͡ʒ/~/j/) are LEFT AS-IS and reported in
-    `metadata/light_ipa_ambiguity.tsv` -- only 11% of records carry one (mostly y, concentrated
-    per-list). conf=medium if clean (89%), low if it has an ambiguous letter. Self-test: 14 forms.
-    NEXT (Tier 3b, per-source): resolve c/y/j/x/q per list/source using the ambiguity report +
-    template/source clustering -> promotes the low-conf records and the latin_diacritic/plain_ascii
-    buckets. (y->j is the common default but UNSAFE globally -- several lists use y=/ɨ/.)
+    passthrough + ONE principled letter fix, NOT a full G2P. Cleans noise (drop \ * ˗ . ? and
+    morpheme hyphens; strip brackets keeping content; split / and ~ variants into ', '-alternants),
+    ñ->ɲ (only universally-safe letter).
+    TIER-3b (the 'y' glide fix, data-grounded): a full-corpus positional scan showed Latin 'y' is
+    96% GLIDE (adjacent to a vowel: onset CyV/#yV, intervocalic VyV, offglide Vy) and only ~4%
+    nucleus -- i.e. it is the palatal glide /j/ (English convention), NOT the IPA close front
+    rounded vowel /y/ the featurizer was reading. So we resolve PER TOKEN (no per-language
+    phonology guessed): 'y' adjacent to a vowel -> 'j'; 'y' in nucleus position (CyC/Cy#/standalone)
+    left as the vowel it is. GUARD: a list using 'y' but never 'i' writes its high vowel as 'y'
+    (resolve_y=False, untouched) -- caught `new` + `mif` (2 lists). RESULT: 7,811 glide-y -> /j/;
+    light_ipa low-conf 10,440 -> 2,336 recs (rest promoted to medium); vowel-audit 'y' tokens
+    22,827 -> 15,016 (spurious vowel removed; remainder = genuine /y/ in native_ipa lists +
+    nucleus-y). The other source-specific letters c x q are PASSED AT THEIR IPA VALUES (palatal
+    stop /c/, velar fricative /x/, uvular stop /q/) but still flagged low-conf + reported, since
+    their true value (c=/k/~/t͡ʃ/, x=/ʃ/~cluster, q=/ʔ/~/k/) is NOT verifiable without each source's
+    orthography key; 'j' passed at IPA /j/ (dominant + standard; /d͡ʒ/-convention lists a documented
+    residual). Report: `metadata/light_ipa_ambiguity.tsv` (n_y_glide_to_j, n_j_as_glide, y_vowel_list,
+    residual c/x/q + nucleus-y). Self-test: 25 forms.
   - Tier 3 REMAINING: latin_diacritic (179) + plain_ascii (93) buckets, ~50,267 recs still
     deferred_latin. Need per-source orthography rules (ng->ŋ, digraphs, the c/y/j/x/q values).
     STRONG ALTERNATIVE for cross-list comparison: an ASJP-style sound-class alphabet (collapses

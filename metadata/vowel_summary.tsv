@@ -1,10 +1,10 @@
 # Corpus vowel summary from ipa_features.jsonl.
 lists_with_vowels	954
-vowel_tokens	615759
+vowel_tokens	607948
 distinct_qualities	25
-pct_long	3.78
+pct_long	3.83
 pct_nasal	0.12
-pct_tone	4.12
+pct_tone	4.18
 
 # Vowel quality frequency (token count, #lists attesting)
 vowel	n_tokens	n_lists
@@ -13,8 +13,8 @@ i	112312	949
 u	85875	943
 e	74676	876
 o	63374	862
-y	22827	829
 ɛ	19507	601
+y	15016	620
 ɔ	11747	517
 ə	10286	470
 ʌ	9545	285
@@ -37,18 +37,18 @@ y	22827	829
 # Inventory-size distribution (n distinct vowel qualities -> n lists)
 n_qualities	n_lists
 2	4
-3	3
-4	35
-5	56
-6	104
-7	135
-8	130
-9	124
-10	127
-11	127
-12	61
-13	32
-14	10
+3	14
+4	28
+5	80
+6	129
+7	122
+8	111
+9	125
+10	125
+11	113
+12	58
+13	30
+14	9
 15	4
 16	1
 17	1
@@ -67,7 +67,6 @@ rosettaproject_bpw_swadesh-1	bpw	Bo	14
 rosettaproject_bsk_swadesh-1	bsk	Burushaski	14
 rosettaproject_gdr_swadesh-1	gdr	Wipi	14
 rosettaproject_mah_swadesh-1	mah	Marshallese	14
-rosettaproject_nir_swadesh-1	nir	Nimboran	14
 rosettaproject_omo_swadesh-1	omo	Utarmbung	14
 rosettaproject_skv_swadesh-1	skv	Skou	14
 rosettaproject_xtc_swadesh-1	xtc	Katcha-Kadugli-Miri	14
@@ -82,18 +81,16 @@ rosettaproject_apq_swadesh-1	apq	A-Pucikwar	13
 rosettaproject_bun_swadesh-1	bun	Sherbro	13
 rosettaproject_dnr_swadesh-1	dnr	Danaru	13
 rosettaproject_dnw_swadesh-1	dnw	Dani, Western	13
-rosettaproject_faj_swadesh-1	faj	Faita	13
-rosettaproject_ggl_swadesh-1	ggl	Ganglau	13
 rosettaproject_gsp_swadesh-1	gsp	Wasembo	13
 rosettaproject_guk_swadesh-1	guk	Gumuz	13
 rosettaproject_hbn_swadesh-1	hbn	Heiban	13
 rosettaproject_kib_swadesh-1	kib	Koalib	13
-rosettaproject_kmt_swadesh-1	kmt	Kemtuik	13
 rosettaproject_lof_swadesh-1	lof	Logol	13
 rosettaproject_lro_swadesh-1	lro	Laro	13
 rosettaproject_mtg_swadesh-1	mtg	Una	13
 rosettaproject_ndv_swadesh-1	ndv	Ndut	13
 rosettaproject_ngk_swadesh-1	ngk	Ngalkbun	13
+rosettaproject_nir_swadesh-1	nir	Nimboran	13
 rosettaproject_otr_swadesh-1	otr	Otoro	13
 rosettaproject_she_swadesh-1	she	Sheko	13
 rosettaproject_tbr_swadesh-1	tbr	Tumtum	13
