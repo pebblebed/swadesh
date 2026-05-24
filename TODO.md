@@ -20,8 +20,21 @@ layer, and keep outputs model-ready (clean aligned matrix; per-language inventor
   system). CAVEAT it surfaced, now RESOLVED in Tier-3b: light_ipa 'y' (the palatal glide /j/ written
   with the English letter) was featurized as vowel /y/, inflating its count (22.8k toks). After the
   y->j glide fix, 'y'-as-vowel = 15,016 toks (genuine /y/ in native_ipa + true nucleus-y only).
-- [ ] NEXT model-prep: export the aligned (language × concept) -> IPA/segments matrix (model input),
-  restricted to well-covered concepts/lists; then per-language segment (not just vowel) inventories.
+- [x] ASJP sound-class projection (the uniform coarse layer + external anchor): `scripts/asjp.py`,
+  method = deterministic collapse of the segment-feature tensor to the 41 ASJP classes (7 vowels +
+  34 consonants), DELETING what ASJP ignores (length/nasal/tone/aspiration/retroflex/2°-artic/most
+  vowel quality). ADDITIVE: imports ipa_features.segments(), changes nothing in the pipeline; reads
+  ipa.jsonl -> data/normalized/asjp.jsonl (gitignored) + metadata/asjp_summary.tsv. TESTABLE: 98-case
+  embedded self-test GATES the build, and the build re-checks every emitted char is a real ASJP class
+  (invariant: 0 invalid). Result: 286,915 records, 99.87% segment coverage, 40/41 classes used.
+  Validated on the Polynesian testbed (hōʔē->ho7e, taliŋa->taliNa, fetū->fetu; f:h correspondence
+  visible). Documented coarse choices pinned by tests (ç/ʝ->x via a local SEG_OVERRIDE for a
+  featurizer NFD gap; ɬ/t͡ɬ->L; t͡s/d͡z->c; χ/ħ->X, ʁ/ʕ->G). Rationale: notes/asjp.html. This is the
+  coverage FALLBACK + LDND anchor, NOT the decoder target (vowels stay in the feature tensor).
+  FUTURE: fix ç/ʝ in ipa_features.py proper (NFD splits them to palatal stop + cedilla); reproduce
+  LDND and check z_language geometry vs the ASJP DB / Glottolog.
+- [ ] NEXT model-prep: export the aligned (language × concept) -> IPA/segments[/ASJP] matrix (model
+  input), restricted to well-covered concepts/lists; then per-language segment (not just vowel) inventories.
 
 ## In progress / done
 - [x] **Download the Swadesh lists** from the Rosetta collection on the Internet Archive.
