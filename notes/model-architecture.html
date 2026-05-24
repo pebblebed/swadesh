@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Conditional Vocalic Decoder — architecture</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Gentium+Book+Plus:ital,wght@0,400;0,700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#f1e9da; --paper-2:#ebe1cf; --ink:#211c15; --ink-soft:#5c5141; --ink-faint:#8a7d68;
+    --oxblood:#9a3327; --oxblood-deep:#762216; --teal:#1f5b5b; --teal-2:#2f7d77; --gold:#b4862f;
+    --rule:rgba(33,28,21,.16); --rule-soft:rgba(33,28,21,.08);
+    --serif:"Gentium Book Plus",Georgia,serif; --display:"Fraunces",Georgia,serif;
+    --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--serif);
+    font-size:clamp(16px,.7vw+13px,19px);line-height:1.6;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased}
+  body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:2;opacity:.05;mix-blend-mode:multiply;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+  body::after{content:"";position:fixed;inset:0;pointer-events:none;z-index:1;
+    background:radial-gradient(120% 90% at 50% -10%, rgba(255,250,238,.6), transparent 55%),
+               radial-gradient(120% 120% at 50% 120%, rgba(90,70,40,.10), transparent 60%)}
+  ::selection{background:rgba(154,51,39,.18)}
+  .wrap{max-width:50rem;margin:0 auto;padding:clamp(2rem,5vw,4.5rem) clamp(1rem,4vw,2.2rem) 4.5rem;position:relative;z-index:3}
+
+  /* masthead */
+  header.mast{position:relative;margin-bottom:2.4rem;padding-bottom:1.5rem;border-bottom:1px solid var(--rule)}
+  .glyph{position:absolute;right:-.2rem;top:-3rem;font-family:var(--display);font-style:italic;font-weight:400;
+    font-size:clamp(7rem,20vw,13rem);line-height:1;color:var(--teal);opacity:.10;pointer-events:none;user-select:none}
+  .kicker{font-family:var(--mono);font-size:.7rem;letter-spacing:.32em;text-transform:uppercase;color:var(--oxblood-deep);margin:0 0 1rem}
+  .kicker .dot{color:var(--gold)}
+  h1{font-family:var(--display);font-weight:600;font-size:clamp(2.2rem,6vw,3.8rem);line-height:1;letter-spacing:-.015em;margin:0 0 .5rem;max-width:16ch}
+  h1 em{font-style:italic;color:var(--teal)}
+  .standfirst{font-size:clamp(1rem,1.3vw,1.18rem);line-height:1.5;color:var(--ink-soft);max-width:46ch;margin:.2rem 0 0;font-style:italic}
+  .eqn{font-family:var(--mono);font-size:.78rem;color:var(--ink-faint);margin-top:1.1rem;letter-spacing:.02em}
+  .eqn b{color:var(--oxblood-deep);font-weight:500}
+
+  /* stat strip */
+  .stats{display:flex;flex-wrap:wrap;gap:.5rem;margin:1.6rem 0 .4rem}
+  .stat{flex:1 1 7rem;border:1px solid var(--rule);border-radius:6px;background:var(--paper-2);padding:.55rem .7rem}
+  .stat .v{font-family:var(--display);font-weight:600;font-size:1.5rem;line-height:1;color:var(--ink)}
+  .stat .k{font-family:var(--mono);font-size:.58rem;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-faint);margin-top:.35rem}
+  .stat.tot .v{color:var(--oxblood)}
+
+  h2{font-family:var(--display);font-weight:600;font-size:clamp(1.3rem,2.6vw,1.7rem);letter-spacing:-.01em;margin:3rem 0 .2rem}
+  h2 .num{font-family:var(--mono);font-size:.64rem;font-weight:500;letter-spacing:.2em;color:var(--gold);display:block;margin-bottom:.5rem;text-transform:uppercase}
+  .sub{color:var(--ink-faint);font-style:italic;margin:.1rem 0 1.2rem;font-size:.95rem}
+
+  /* legend */
+  .legend{display:flex;gap:1.2rem;flex-wrap:wrap;font-family:var(--mono);font-size:.64rem;color:var(--ink-soft);margin:.2rem 0 1.4rem}
+  .legend b{color:var(--oxblood-deep);font-weight:600}
+
+  /* diagram */
+  .flow{display:flex;flex-direction:column;align-items:center;gap:0}
+  .flow > *{width:100%;max-width:33rem}
+  .row{display:flex;gap:.6rem}
+  .row > .blk{flex:1}
+  .blk{border:1px solid var(--rule);border-left:4px solid var(--ink-faint);border-radius:7px;background:var(--paper-2);
+    padding:.6rem .85rem;display:flex;align-items:center;gap:.8rem;box-shadow:0 1px 0 rgba(255,255,255,.5) inset,0 10px 22px -20px rgba(60,40,20,.55)}
+  .blk .meta{flex:1;min-width:0}
+  .blk .name{font-family:var(--mono);font-size:.6rem;letter-spacing:.13em;text-transform:uppercase;color:var(--ink-faint)}
+  .blk .desc{font-size:.92rem;color:var(--ink);line-height:1.25}
+  .blk .dim{font-family:var(--mono);font-size:.72rem;color:var(--teal-2);margin-top:.12rem}
+  .blk .pc{font-family:var(--mono);font-size:.72rem;font-weight:500;color:var(--ink);background:rgba(33,28,21,.06);
+    border:1px solid var(--rule-soft);padding:.22rem .5rem;border-radius:5px;white-space:nowrap}
+  .blk.emb{border-left-color:var(--teal)}
+  .blk.lin{border-left-color:var(--gold)}
+  .blk.head{border-left-color:var(--teal-2)}
+  .blk.io{border-style:dashed;background:transparent;border-left-color:var(--ink-faint);box-shadow:none}
+  .blk.io .desc{color:var(--ink-soft)}
+  .blk.lstm{border:1.5px solid rgba(154,51,39,.5);border-left:5px solid var(--oxblood);background:linear-gradient(180deg,rgba(154,51,39,.07),var(--paper-2))}
+  .blk.lstm .desc{font-weight:700}
+  .blk.lstm .pc{color:var(--oxblood-deep);background:rgba(154,51,39,.10);border-color:rgba(154,51,39,.3)}
+
+  .wire{display:flex;align-items:center;justify-content:center;gap:.5rem;height:1.7rem;color:var(--gold)}
+  .wire .ar{font-size:1.05rem;line-height:1}
+  .wire .lbl{font-family:var(--mono);font-size:.62rem;color:var(--ink-faint);letter-spacing:.02em}
+  .merge{align-self:center;font-family:var(--mono);font-size:.74rem;color:var(--oxblood-deep);
+    border:1px dashed rgba(154,51,39,.45);border-radius:18px;padding:.28rem .9rem;background:rgba(154,51,39,.05);width:auto}
+  .note-side{align-self:center;width:auto;max-width:33rem;font-family:var(--mono);font-size:.62rem;color:var(--ink-faint);
+    font-style:normal;text-align:center;padding:.2rem .6rem}
+  .note-side b{color:var(--teal);font-weight:600}
+
+  /* parameter budget bar */
+  .bar{display:flex;height:2.1rem;border-radius:6px;overflow:hidden;border:1px solid var(--rule);margin:.3rem 0 1rem}
+  .bar span{display:flex;align-items:center;justify-content:center;font-family:var(--mono);font-size:.6rem;color:#f1e9da;overflow:hidden}
+  .blegend{display:grid;grid-template-columns:repeat(auto-fit,minmax(9.5rem,1fr));gap:.35rem .9rem;font-family:var(--mono);font-size:.66rem;color:var(--ink-soft)}
+  .blegend .sw{display:inline-block;width:.7rem;height:.7rem;border-radius:2px;margin-right:.45rem;vertical-align:middle}
+  .blegend b{color:var(--ink);font-weight:600}
+  .blegend .pct{color:var(--ink-faint)}
+
+  /* tables */
+  table{width:100%;border-collapse:collapse;font-size:.82rem;margin:.4rem 0 1rem}
+  caption{caption-side:top;text-align:left;font-family:var(--mono);font-size:.62rem;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-faint);margin-bottom:.5rem}
+  th,td{text-align:left;padding:.34rem .6rem;border-bottom:1px solid var(--rule-soft)}
+  th{font-family:var(--mono);font-size:.6rem;letter-spacing:.08em;text-transform:uppercase;color:var(--oxblood-deep);font-weight:500}
+  td.n,th.n{text-align:right;font-family:var(--mono)}
+  tbody tr:hover{background:rgba(33,28,21,.03)}
+  tfoot td{font-family:var(--mono);font-weight:600;border-top:1px solid var(--rule);color:var(--ink)}
+  .hp{display:grid;grid-template-columns:repeat(auto-fit,minmax(8rem,1fr));gap:.4rem}
+  .hp .cell{border:1px solid var(--rule-soft);border-radius:5px;padding:.45rem .6rem;background:var(--paper-2)}
+  .hp .cell .k{font-family:var(--mono);font-size:.56rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-faint)}
+  .hp .cell .v{font-family:var(--mono);font-size:.92rem;color:var(--ink);margin-top:.18rem}
+
+  footer{margin-top:3.4rem;padding-top:1.2rem;border-top:1px solid var(--rule);font-family:var(--mono);font-size:.66rem;letter-spacing:.05em;color:var(--ink-faint);display:flex;flex-wrap:wrap;gap:.4rem 1.4rem;justify-content:space-between}
+  footer b{color:var(--ink-soft);font-weight:500}
+
+  .reveal{opacity:0;transform:translateY(14px);transition:opacity .7s cubic-bezier(.2,.7,.2,1),transform .7s cubic-bezier(.2,.7,.2,1)}
+  .reveal.in{opacity:1;transform:none}
+  @media (prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none;transition:none}}
+  @media (max-width:560px){ .row{flex-direction:column} .glyph{top:-1.6rem} }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="mast">
+    <div class="glyph" aria-hidden="true">g</div>
+    <p class="kicker">Swadesh working notes <span class="dot">·</span> architecture</p>
+    <h1>Conditional <em>vocalic</em> decoder</h1>
+    <p class="standfirst">A two-way factor model: learn a representation of each language and each concept, then decode the phonetic form — a sequence of articulatory feature bundles — conditioned on both.</p>
+    <p class="eqn">form ≈ <b>g</b>( z<sub>language</sub> , c<sub>concept</sub> ) &nbsp;·&nbsp; relatedness = ‖ z<sub>language</sub> − z'<sub>language</sub> ‖</p>
+  </header>
+
+  <section class="stats reveal">
+    <div class="stat tot"><div class="v">678,726</div><div class="k">parameters (~0.68 M)</div></div>
+    <div class="stat"><div class="v">1,186</div><div class="k">languages</div></div>
+    <div class="stat"><div class="v">289</div><div class="k">concepts</div></div>
+    <div class="stat"><div class="v">9</div><div class="k">feature fields</div></div>
+    <div class="stat"><div class="v">286,883</div><div class="k">training forms</div></div>
+  </section>
+
+  <h2 class="reveal"><span class="num">The graph</span>Forward pass</h2>
+  <p class="sub reveal">B = batch · T = segments per form (≤ 32, plus BOS/EOS). Param counts at full-corpus vocab sizes.</p>
+  <div class="legend reveal">
+    <span><span style="color:var(--teal)">▍</span> embedding</span>
+    <span><span style="color:var(--gold)">▍</span> linear</span>
+    <span><span style="color:var(--oxblood)">▍</span> recurrent</span>
+    <span><span style="color:var(--ink-faint)">▍</span> tensor / op</span>
+  </div>
+
+  <div class="flow">
+
+    <!-- inputs -->
+    <div class="row reveal">
+      <div class="blk io"><div class="meta"><div class="name">input</div><div class="desc">language id</div><div class="dim">(B,)  int</div></div></div>
+      <div class="blk io"><div class="meta"><div class="name">input</div><div class="desc">concept id</div><div class="dim">(B,)  int</div></div></div>
+    </div>
+    <div class="wire reveal"><span class="ar">↓</span></div>
+
+    <!-- embeddings -->
+    <div class="row reveal">
+      <div class="blk emb"><div class="meta"><div class="name">nn.Embedding · lang</div><div class="desc">Language embedding</div><div class="dim">1186 × 64 → z_lang (B,64)</div></div><div class="pc">75,904</div></div>
+      <div class="blk emb"><div class="meta"><div class="name">nn.Embedding · concept</div><div class="desc">Concept embedding</div><div class="dim">289 × 64 → z_conc (B,64)</div></div><div class="pc">18,496</div></div>
+    </div>
+    <div class="wire reveal"><span class="ar">↓</span><span class="lbl">z_lang, z_concept</span></div>
+    <div class="merge reveal">⊕ concat → cond (B, 128)</div>
+    <div class="note-side reveal">cond is used twice: it <b>initializes</b> the LSTM state <i>and</i> is <b>concatenated to every step</b>.</div>
+    <div class="wire reveal"><span class="ar">↓</span></div>
+
+    <!-- init state from cond -->
+    <div class="row reveal">
+      <div class="blk lin"><div class="meta"><div class="name">nn.Linear · h0</div><div class="desc">init hidden ← cond</div><div class="dim">128 → 256 → (1,B,256)</div></div><div class="pc">33,024</div></div>
+      <div class="blk lin"><div class="meta"><div class="name">nn.Linear · c0</div><div class="desc">init cell ← cond</div><div class="dim">128 → 256 → (1,B,256)</div></div><div class="pc">33,024</div></div>
+    </div>
+
+    <div class="note-side reveal" style="margin-top:1.1rem;border-top:1px dashed var(--rule);padding-top:.9rem">— decoder input path (teacher forcing) —</div>
+
+    <!-- segment input embedding -->
+    <div class="blk io reveal"><div class="meta"><div class="name">input · prev segment</div><div class="desc">9 field ids per step &nbsp;·&nbsp; [BOS] + segments</div><div class="dim">(B, T, 9)  int</div></div></div>
+    <div class="wire reveal"><span class="ar">↓</span></div>
+    <div class="blk emb reveal"><div class="meta"><div class="name">9 × nn.Embedding → Σ</div><div class="desc">Field embeddings, summed</div><div class="dim">Σ |field| (=70) × 96 → seg (B,T,96)</div></div><div class="pc">6,720</div></div>
+    <div class="wire reveal"><span class="ar">↓</span></div>
+    <div class="merge reveal">⊕ concat cond → LSTM input (B, T, 224)</div>
+    <div class="wire reveal"><span class="ar">↓</span></div>
+
+    <!-- LSTM -->
+    <div class="blk lstm reveal"><div class="meta"><div class="name">nn.LSTM · 1 layer · batch_first</div><div class="desc">Conditional recurrent decoder</div><div class="dim">input 224 → hidden 256 &nbsp;·&nbsp; init (h0,c0) &nbsp;→ (B,T,256)</div></div><div class="pc">493,568</div></div>
+    <div class="wire reveal"><span class="ar">↓</span><span class="lbl">(B,T,256)</span></div>
+    <div class="blk io reveal"><div class="meta"><div class="name">nn.Dropout</div><div class="desc">p = 0.1</div><div class="dim">(B, T, 256)</div></div></div>
+    <div class="wire reveal"><span class="ar">↓</span></div>
+
+    <!-- heads -->
+    <div class="blk head reveal"><div class="meta"><div class="name">9 × nn.Linear · field heads</div><div class="desc">Per-field softmax — the vocal features</div><div class="dim">256 → |field| &nbsp;·&nbsp; logits {(B,T,|field|)}</div></div><div class="pc">17,990</div></div>
+    <div class="wire reveal"><span class="ar">↓</span></div>
+    <div class="merge reveal" style="border-color:var(--rule);color:var(--ink-soft);background:rgba(33,28,21,.04)">Σ field cross-entropy · masked to non-pad → loss</div>
+
+  </div>
+
+  <h2 class="reveal"><span class="num">Where the weights are</span>Parameter budget</h2>
+  <p class="sub reveal">The recurrence is ~¾ of the model; the rest is embeddings + the conditioning projections.</p>
+  <div class="bar reveal">
+    <span style="width:72.72%;background:var(--oxblood)">LSTM 72.7%</span>
+    <span style="width:11.18%;background:var(--teal)">lang</span>
+    <span style="width:4.87%;background:var(--gold)"></span>
+    <span style="width:4.87%;background:#caa24a"></span>
+    <span style="width:2.73%;background:var(--teal-2)"></span>
+    <span style="width:2.65%;background:#3f8f88"></span>
+    <span style="width:0.99%;background:var(--ink-faint)"></span>
+  </div>
+  <div class="blegend reveal">
+    <span><span class="sw" style="background:var(--oxblood)"></span><b>LSTM</b> 493,568 <span class="pct">72.7%</span></span>
+    <span><span class="sw" style="background:var(--teal)"></span><b>lang_emb</b> 75,904 <span class="pct">11.2%</span></span>
+    <span><span class="sw" style="background:var(--gold)"></span><b>h0</b> 33,024 <span class="pct">4.9%</span></span>
+    <span><span class="sw" style="background:#caa24a"></span><b>c0</b> 33,024 <span class="pct">4.9%</span></span>
+    <span><span class="sw" style="background:var(--teal-2)"></span><b>concept_emb</b> 18,496 <span class="pct">2.7%</span></span>
+    <span><span class="sw" style="background:#3f8f88"></span><b>heads</b> 17,990 <span class="pct">2.7%</span></span>
+    <span><span class="sw" style="background:var(--ink-faint)"></span><b>in_emb</b> 6,720 <span class="pct">1.0%</span></span>
+  </div>
+
+  <h2 class="reveal"><span class="num">Per field</span>The 9 vocal-feature heads</h2>
+  <p class="sub reveal">Each segment is a bundle of these categorical fields; one embedding (input) and one softmax head (output) per field.</p>
+  <table class="reveal">
+    <caption>field · vocab · input-embedding params · head params</caption>
+    <thead><tr><th>field</th><th class="n">vocab</th><th class="n">in_emb (×96)</th><th class="n">head (256→·)</th></tr></thead>
+    <tbody>
+      <tr><td>kind</td><td class="n">7</td><td class="n">672</td><td class="n">1,799</td></tr>
+      <tr><td>manner</td><td class="n">15</td><td class="n">1,440</td><td class="n">3,855</td></tr>
+      <tr><td>place</td><td class="n">17</td><td class="n">1,632</td><td class="n">4,369</td></tr>
+      <tr><td>voice</td><td class="n">4</td><td class="n">384</td><td class="n">1,028</td></tr>
+      <tr><td>height</td><td class="n">9</td><td class="n">864</td><td class="n">2,313</td></tr>
+      <tr><td>backness</td><td class="n">5</td><td class="n">480</td><td class="n">1,285</td></tr>
+      <tr><td>rounding</td><td class="n">4</td><td class="n">384</td><td class="n">1,028</td></tr>
+      <tr><td>length</td><td class="n">5</td><td class="n">480</td><td class="n">1,285</td></tr>
+      <tr><td>nasal</td><td class="n">4</td><td class="n">384</td><td class="n">1,028</td></tr>
+    </tbody>
+    <tfoot><tr><td>9 fields</td><td class="n">70</td><td class="n">6,720</td><td class="n">17,990</td></tr></tfoot>
+  </table>
+
+  <h2 class="reveal"><span class="num">Settings</span>Hyperparameters</h2>
+  <div class="hp reveal">
+    <div class="cell"><div class="k">d_lang</div><div class="v">64</div></div>
+    <div class="cell"><div class="k">d_concept</div><div class="v">64</div></div>
+    <div class="cell"><div class="k">d_cond</div><div class="v">128</div></div>
+    <div class="cell"><div class="k">d_in (segment)</div><div class="v">96</div></div>
+    <div class="cell"><div class="k">LSTM input</div><div class="v">224</div></div>
+    <div class="cell"><div class="k">hidden</div><div class="v">256</div></div>
+    <div class="cell"><div class="k">layers</div><div class="v">1</div></div>
+    <div class="cell"><div class="k">dropout</div><div class="v">0.1</div></div>
+    <div class="cell"><div class="k">optimizer</div><div class="v">Adam</div></div>
+    <div class="cell"><div class="k">lr</div><div class="v">2e-3</div></div>
+    <div class="cell"><div class="k">max_len</div><div class="v">32</div></div>
+    <div class="cell"><div class="k">loss</div><div class="v">Σ CE</div></div>
+  </div>
+
+  <footer>
+    <span><b>Model</b> model/decoder.py · ConditionalVocalicDecoder</span>
+    <span><b>Filed</b> swadesh / notes / model-architecture</span>
+  </footer>
+
+</div>
+<script>
+  const io=new IntersectionObserver((es)=>{for(const e of es){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}}},{rootMargin:'0px 0px -6% 0px',threshold:.06});
+  document.querySelectorAll('.reveal').forEach((el,i)=>{el.style.transitionDelay=Math.min(i%5,4)*40+'ms';io.observe(el);});
+</script>
+</body>
+</html>
