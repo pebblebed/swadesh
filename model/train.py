@@ -19,10 +19,22 @@ if ROOT not in sys.path:
     sys.path.insert(0, ROOT)
 
 import pytorch_lightning as pl  # noqa: E402
+import torch  # noqa: E402
 
 from model.data import synthetic_records  # noqa: E402
 from model.datamodule import SwadeshDataModule  # noqa: E402
 from model.decoder import ConditionalVocalicDecoder  # noqa: E402
+
+# use Ada/Ampere tensor cores for fp32 matmuls when on GPU
+torch.set_float32_matmul_precision("high")
+
+
+def _accelerator_banner():
+    if torch.cuda.is_available():
+        print(f"accelerator: CUDA - {torch.cuda.get_device_name(0)} "
+              f"(sm_{''.join(map(str, torch.cuda.get_device_capability(0)))})")
+    else:
+        print("accelerator: CPU (no CUDA device found)")
 
 
 def build_argparser():
@@ -37,22 +49,25 @@ def build_argparser():
     p.add_argument("--layers", type=int, default=1)
     p.add_argument("--lr", type=float, default=2e-3)
     p.add_argument("--val-frac", type=float, default=0.05)
+    p.add_argument("--accelerator", default="auto",
+                   help="PTL accelerator: auto|gpu|cpu (default auto -> GPU if present)")
     return p
 
 
 def main(argv=None):
     args = build_argparser().parse_args(argv)
+    _accelerator_banner()
 
     if args.smoke:
         dm = SwadeshDataModule(records=synthetic_records(300, n_lang=12, n_concept=20),
                                batch_size=32, val_frac=0.1)
-        trainer = pl.Trainer(fast_dev_run=True, accelerator="cpu", logger=False,
+        trainer = pl.Trainer(fast_dev_run=True, accelerator=args.accelerator, logger=False,
                              enable_checkpointing=False, enable_model_summary=False)
     else:
         dm = SwadeshDataModule(batch_size=args.batch_size, limit=args.limit,
                                val_frac=args.val_frac)
-        trainer = pl.Trainer(max_epochs=args.max_epochs, accelerator="auto",
-                             logger=False, enable_checkpointing=False,
+        trainer = pl.Trainer(max_epochs=args.max_epochs, accelerator=args.accelerator,
+                             devices="auto", logger=False, enable_checkpointing=False,
                              log_every_n_steps=25)
 
     dm.setup()
@@ -63,6 +78,7 @@ def main(argv=None):
         d_lang=args.d_lang, d_concept=args.d_concept, hidden=args.hidden,
         layers=args.layers, lr=args.lr)
     trainer.fit(model, dm)
+    print(f"trained on device: {trainer.strategy.root_device}")
 
     z = model.language_embeddings()
     print(f"done. z_language matrix: {tuple(z.shape)}  (relatedness = distances here)")

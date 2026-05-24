@@ -25,12 +25,21 @@ feature tensor is the target; ASJP would be a coarse backbone, not the bottlenec
 
 ## Run (uv-managed env)
 ```bash
-uv sync                                            # create .venv, install torch + lightning
+uv sync                                            # create .venv, install torch (CUDA) + lightning
 uv run python model/data.py                        # torch-free data self-test
+uv run python -m model.eval --selftest             # probe math self-test
 uv run python -m model.train --smoke               # full pipeline on synthetic data (fast_dev_run)
 uv run python -m model.train --limit 8000 --max-epochs 3   # quick real-data run
 uv run python -m model.train                       # full corpus
+uv run python -m model.eval --epochs 4             # train + relatedness probe (Spearman z vs ASJP-LDN)
 ```
+
+**GPU.** torch is pinned to the CUDA `cu128` build (`pyproject.toml` `[tool.uv]` index;
+the local RTX driver/CUDA 13.1 runs the 12.8 runtime). Training uses Lightning's
+`accelerator="auto"`, so an NVIDIA GPU is used automatically — startup prints
+`accelerator: CUDA - <device>` and Lightning logs `GPU available: True ... used: True`.
+Force CPU with `--accelerator cpu`. On a fresh/CPU-only box, `uv sync` still installs the
+`cu128` wheel; it falls back to CPU at runtime if no GPU is present.
 
 Source = `data/normalized/ipa.jsonl` (regenerate with `python scripts/to_ipa.py`);
 segments via `scripts/ipa_features.segments`. Skeleton status — wired + loss-decreasing;

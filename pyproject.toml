@@ -13,3 +13,15 @@ dependencies = [
 # lockfile but does not build/install the project itself.
 [tool.uv]
 package = false
+
+# Use the CUDA build of PyTorch so the local NVIDIA GPU is used. The 13.1 driver is
+# forward-compatible with the cu128 (CUDA 12.8) runtime; cp313 Windows wheels exist
+# for torch 2.11.x on this index. `explicit` keeps the index torch-only; everything
+# else still resolves from PyPI.
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu128" }

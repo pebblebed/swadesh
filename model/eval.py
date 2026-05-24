@@ -205,6 +205,7 @@ def main(argv=None):
     p.add_argument("--epochs", type=int, default=3)
     p.add_argument("--top-k", type=int, default=150)
     p.add_argument("--min-shared", type=int, default=20)
+    p.add_argument("--accelerator", default="auto", help="PTL accelerator: auto|gpu|cpu")
     args = p.parse_args(argv)
 
     if _selftest():
@@ -213,18 +214,24 @@ def main(argv=None):
         return 0
 
     import pytorch_lightning as pl
+    import torch
     from model.datamodule import SwadeshDataModule
     from model.decoder import ConditionalVocalicDecoder
 
+    torch.set_float32_matmul_precision("high")
+    print("accelerator: " + (f"CUDA - {torch.cuda.get_device_name(0)}"
+                             if torch.cuda.is_available() else "CPU"))
     dm = SwadeshDataModule(limit=args.limit, batch_size=128)
     dm.setup()
     print(f"train {len(dm.train_enc)} / val {len(dm.val_enc)} cells; "
           f"{dm.n_lang} languages, {dm.n_concept} concepts")
     model = ConditionalVocalicDecoder(field_sizes=dm.field_sizes, n_lang=dm.n_lang,
                                       n_concept=dm.n_concept)
-    pl.Trainer(max_epochs=args.epochs, accelerator="auto", logger=False,
-               enable_checkpointing=False, enable_model_summary=False,
-               enable_progress_bar=False).fit(model, dm)
+    tr = pl.Trainer(max_epochs=args.epochs, accelerator=args.accelerator, devices="auto",
+                    logger=False, enable_checkpointing=False, enable_model_summary=False,
+                    enable_progress_bar=False)
+    tr.fit(model, dm)
+    print(f"trained on device: {tr.strategy.root_device}")
     z = model.language_embeddings().numpy()
     relatedness_report(z, dm.lang_vocab, top_k=args.top_k, min_shared=args.min_shared)
     return 0
