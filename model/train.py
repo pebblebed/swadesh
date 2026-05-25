@@ -164,6 +164,7 @@ def main(argv=None):
             post["relatedness_n_lang"] = float(rep["n_lang"])
             if rep["same_code_total"]:
                 post["relatedness_same_code_acc"] = rep["same_code_hits"] / rep["same_code_total"]
+            print(f"relatedness_rho: {post['relatedness_rho']:.4f}")
         # external relatedness vs Glottolog families -- diagnostic harvested at convergence
         # (reported/logged, NOT the selection target; we still select on val_loss)
         if os.path.exists(GLOTTOLOG):
@@ -172,6 +173,9 @@ def main(argv=None):
                 post["family_nn_purity"] = fam["nn_purity"]
                 post["family_5nn_purity"] = fam["knn_purity"]
                 post["family_auc"] = fam["auc"]
+                print(f"family_nn_purity: {fam['nn_purity']:.4f}  "
+                      f"family_5nn_purity: {fam['knn_purity']:.4f}  "
+                      f"family_auc: {fam['auc']:.4f}")
     if not args.smoke and len(dm.test_ds) > 0:
         res = trainer.test(model, dm, verbose=True)
         if res and "test_loss" in res[0]:

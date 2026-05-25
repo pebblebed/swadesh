@@ -25,3 +25,7 @@ lightning_logs/
 
 # external reference data (downloaded, regenerable)
 data/external/
+
+# sweep run logs (bulky; curated results live in notes/sweep_log.md)
+notes/round8/
+notes/family_eval_full.log

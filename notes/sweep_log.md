@@ -149,3 +149,21 @@ underfits (101 cells, no tone field). Greedy decode of the heavily-regularized w
 a bland averager -> use temperature sampling / lower dropout for livelier generation.
 NEXT (open): IPA-ify the deferred national orthographies (spa/por/eng/...) + add a tone
 field to evaluate Mandarin properly; coherence constraint on the per-field heads.
+
+## Round 8 — restart on the EXPANDED inventory (running)
+Coverage grew a lot since rounds 1–7 (+Romance, +Mayan, +Latin-2 Turkic/Albanian/Polish/
+Hungarian/Basque/Haitian, +Indic Kannada/Hindi, +English via CMUdict — ~292.9k records,
+many more languages). val_loss is **not comparable** to the old sweep (different data);
+re-anchor and re-test the levers most likely to shift with more data: capacity (h512
+*overshot* on the small data — may win now), conditioning-embedding size (more languages
+=> the science lever for relatedness), and lighter reg (more data may need less). Common:
+adamw, cosine + warmup 0.05, peak lr 5e-3 (science-balanced), max_epochs 80, patience 12,
+batch 512, 1-layer LSTM. Select on val with rho + family-purity guardrail (the science
+metric is now a convergence readout — see eval.family_report).
+
+| run | key args (vs base) | best_val | test | rho | fam 1-NN | fam AUC |
+|-----|--------------------|---------:|-----:|----:|---------:|--------:|
+| r8-base | h384, drop0.45, emb0.2, wd0.1, d_lc 64 (refresh) | – | – | – | – | – |
+| r8-cap512 | hidden 512, dropout 0.4, emb 0.15, wd 0.05 | – | – | – | – | – |
+| r8-bigemb | d_lang/d_concept 96 | – | – | – | – | – |
+| r8-lightreg | dropout 0.35, emb 0.15, wd 0.05 | – | – | – | – | – |
