@@ -20,6 +20,7 @@ Reported:
 from __future__ import annotations
 
 import argparse
+import collections
 import json
 import os
 import sys
@@ -35,8 +36,77 @@ for _stream in (sys.stdout, sys.stderr):           # utf-8 -> safe non-ASCII / e
     except Exception:
         pass
 ASJP_JSONL = os.path.join(ROOT, "data", "normalized", "asjp.jsonl")
+GLOTTOLOG = os.path.join(ROOT, "data", "external", "glottolog_languages.csv")
 
 POLYNESIAN = ["rap", "tah", "smo", "ton", "haw", "mri", "mao", "fij", "mri"]
+
+
+# --- external relatedness gold: Glottolog families ----------------------------
+
+def load_glottolog_families(path=GLOTTOLOG):
+    """ISO 639-3 -> (family_id, family_name). Isolates become their own family."""
+    import csv
+    iso2fam, name = {}, {}
+    for r in csv.DictReader(open(path, encoding="utf-8")):
+        name[r["ID"]] = r["Name"]
+    for r in csv.DictReader(open(path, encoding="utf-8")):
+        iso = r.get("ISO639P3code")
+        if not iso:
+            continue
+        fam = r.get("Family_ID") or (f"iso_{iso}" if r.get("Is_Isolate") == "true" else "")
+        if fam:
+            iso2fam[iso] = (fam, name.get(fam, fam))
+    return iso2fam
+
+
+def family_report(z, lang_vocab, iso2fam=None, verbose=True):
+    """Does z_language put same-family languages closer than cross-family ones?
+    External eval: Glottolog family labels the model never saw. Reports nearest-
+    neighbour family purity (1-NN, 5-NN), the same-vs-cross AUC, and a chance
+    baseline, restricted to languages whose family has >=2 members in our set."""
+    import numpy as np
+    if iso2fam is None:
+        iso2fam = load_glottolog_families()
+    rows, fams = [], []
+    for ident, idx in lang_vocab.items():
+        f = iso2fam.get(_code(ident))
+        if f:
+            rows.append(idx)
+            fams.append(f[0])
+    fams = np.array(fams)
+    cnt = collections.Counter(fams.tolist())
+    keep = np.array([cnt[f] >= 2 for f in fams])
+    Z, fam = z[np.array(rows)][keep], fams[keep]
+    M = len(Z)
+    if M < 10:
+        print(f"family eval: too few covered languages ({M})")
+        return {"n_lang": M}
+    g = (Z * Z).sum(1)
+    d = np.sqrt(np.clip(g[:, None] + g[None, :] - 2 * Z @ Z.T, 0, None))
+    np.fill_diagonal(d, np.inf)
+    nn = d.argmin(1)
+    nn_pur = float(np.mean(fam[nn] == fam))
+    order = np.argsort(d, axis=1)[:, :5]
+    knn_pur = float(np.mean([(fam[order[i]] == fam[i]).mean() for i in range(M)]))
+    aucs = []
+    for i in range(M):
+        same = fam == fam[i]
+        same[i] = False
+        sd, cd = d[i, same], d[i, ~same & (np.arange(M) != i)]
+        if len(sd) and len(cd):
+            cd.sort()
+            gt = len(cd) - np.searchsorted(cd, sd, side="right")     # #cross farther than each same
+            aucs.append((gt / len(cd)).mean())
+    auc = float(np.mean(aucs))
+    base = float(np.mean([(cnt[f] - 1) / (M - 1) for f in fam]))
+    if verbose:
+        print("\n=== external relatedness: z_language vs Glottolog family ===")
+        print(f"languages: {M} (in {len(set(fam.tolist()))} families, >=2 each)")
+        print(f"1-NN family purity: {nn_pur:.3f}   (chance {base:.3f})")
+        print(f"5-NN family purity: {knn_pur:.3f}")
+        print(f"same<cross AUC    : {auc:.3f}   (0.5 = no signal, 1.0 = perfect)")
+    return {"n_lang": M, "nn_purity": nn_pur, "knn_purity": knn_pur,
+            "auc": auc, "chance": base}
 
 
 # --- string distance ----------------------------------------------------------
@@ -207,11 +277,17 @@ def main(argv=None):
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--selftest", action="store_true", help="run math self-test and exit")
     p.add_argument("--limit", type=int, default=None, help="cap #records for the quick train")
-    p.add_argument("--epochs", type=int, default=3)
+    p.add_argument("--epochs", type=int, default=60)
     p.add_argument("--top-k", type=int, default=150)
     p.add_argument("--min-shared", type=int, default=20)
     p.add_argument("--accelerator", default="auto", help="PTL accelerator: auto|gpu|cpu")
     p.add_argument("--no-cache", action="store_true", help="bypass the encoded-tensor cache")
+    # recipe (default = science-balanced from the beam search: best rho regime)
+    p.add_argument("--hidden", type=int, default=384)
+    p.add_argument("--dropout", type=float, default=0.45)
+    p.add_argument("--emb-dropout", type=float, default=0.2)
+    p.add_argument("--weight-decay", type=float, default=0.1)
+    p.add_argument("--lr", type=float, default=5e-3)
     args = p.parse_args(argv)
 
     if _selftest():
@@ -227,12 +303,15 @@ def main(argv=None):
     torch.set_float32_matmul_precision("high")
     print("accelerator: " + (f"CUDA - {torch.cuda.get_device_name(0)}"
                              if torch.cuda.is_available() else "CPU"))
-    dm = SwadeshDataModule(limit=args.limit, batch_size=128, use_cache=not args.no_cache)
+    dm = SwadeshDataModule(limit=args.limit, batch_size=512, use_cache=not args.no_cache)
     dm.setup()
     print(f"data [{dm.source}]: train {len(dm.train_ds)} / val {len(dm.val_ds)} cells; "
           f"{dm.n_lang} languages, {dm.n_concept} concepts")
-    model = ConditionalVocalicDecoder(field_sizes=dm.field_sizes, n_lang=dm.n_lang,
-                                      n_concept=dm.n_concept)
+    model = ConditionalVocalicDecoder(
+        field_sizes=dm.field_sizes, n_lang=dm.n_lang, n_concept=dm.n_concept,
+        hidden=args.hidden, dropout=args.dropout, emb_dropout=args.emb_dropout,
+        optimizer="adamw", weight_decay=args.weight_decay, lr_schedule="cosine",
+        warmup_frac=0.05, lr=args.lr)
     tr = pl.Trainer(max_epochs=args.epochs, accelerator=args.accelerator, devices="auto",
                     logger=False, enable_checkpointing=False, enable_model_summary=False,
                     enable_progress_bar=False)
@@ -240,6 +319,11 @@ def main(argv=None):
     print(f"trained on device: {tr.strategy.root_device}")
     z = model.language_embeddings().numpy()
     relatedness_report(z, dm.lang_vocab, top_k=args.top_k, min_shared=args.min_shared)
+    if os.path.exists(GLOTTOLOG):
+        family_report(z, dm.lang_vocab)
+    else:
+        print(f"\n(no {GLOTTOLOG}; download glottolog-cldf languages.csv there for the "
+              f"family eval)")
     return 0
 
 
