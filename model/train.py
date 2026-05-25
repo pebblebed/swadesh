@@ -18,6 +18,15 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if ROOT not in sys.path:
     sys.path.insert(0, ROOT)
 
+# Force UTF-8 stdout/stderr: MLflow prints a "🏃 View run ..." line on finalize,
+# which crashes on a Windows cp1252 console/redirect (UnicodeEncodeError) and would
+# otherwise abort the run before test/probe/best-val metrics are recorded.
+for _stream in (sys.stdout, sys.stderr):
+    try:
+        _stream.reconfigure(encoding="utf-8", errors="replace")
+    except Exception:
+        pass
+
 import pytorch_lightning as pl  # noqa: E402
 import torch  # noqa: E402
 from pytorch_lightning.callbacks import EarlyStopping  # noqa: E402
@@ -37,6 +46,21 @@ def _accelerator_banner():
               f"(sm_{''.join(map(str, torch.cuda.get_device_capability(0)))})")
     else:
         print("accelerator: CPU (no CUDA device found)")
+
+
+def _log_posthoc(logger, metrics):
+    """Attach metrics computed AFTER fit (best_val_loss, test_loss, relatedness_*).
+    PTL finalizes the MLflow run at fit/test teardown and the house server drops
+    writes to a finished run, so reactivate the run via the client, log, re-finish."""
+    client, rid = logger.experiment, logger.run_id
+    try:
+        client.update_run(rid, status="RUNNING")
+        for k, v in metrics.items():
+            client.log_metric(rid, k, float(v))
+        client.update_run(rid, status="FINISHED")
+        print("logged post-hoc:", {k: round(v, 4) for k, v in metrics.items()})
+    except Exception as e:                                  # don't lose a finished run
+        print(f"post-hoc metric logging failed: {e}")
 
 
 def build_argparser():
@@ -123,27 +147,26 @@ def main(argv=None):
         emb_dropout=args.emb_dropout, label_smoothing=args.label_smoothing)
     trainer.fit(model, dm)
     print(f"trained on device: {trainer.strategy.root_device}")
-    # best validation loss (the beam-search selection metric)
-    if not args.smoke and callbacks:
-        best = callbacks[0].best_score
-        if best is not None and logger is not None:
-            logger.log_metrics({"best_val_loss": float(best)})
-        print(f"best_val_loss: {float(best) if best is not None else float('nan'):.4f}")
 
-    # quantitative eval: relatedness probe -> log Spearman rho (before test/finalize)
+    # collect metrics computed after fit, then log them in one robust client call
+    post = {}
+    if not args.smoke and callbacks and callbacks[0].best_score is not None:
+        post["best_val_loss"] = float(callbacks[0].best_score)
+        print(f"best_val_loss: {post['best_val_loss']:.4f}")
     if not args.smoke and not args.no_probe:
         from model.eval import relatedness_report
         rep = relatedness_report(model.language_embeddings().numpy(), dm.lang_vocab)
-        if logger is not None and rep.get("n_pairs"):
-            sc = rep["same_code_hits"] / rep["same_code_total"] if rep["same_code_total"] else 0.0
-            logger.log_metrics({"relatedness_rho": rep["rho"],
-                                "relatedness_n_lang": rep["n_lang"],
-                                "relatedness_n_pairs": rep["n_pairs"],
-                                "relatedness_same_code_acc": sc})
-
-    # test loss
+        if rep.get("n_pairs"):
+            post["relatedness_rho"] = float(rep["rho"])
+            post["relatedness_n_lang"] = float(rep["n_lang"])
+            if rep["same_code_total"]:
+                post["relatedness_same_code_acc"] = rep["same_code_hits"] / rep["same_code_total"]
     if not args.smoke and len(dm.test_ds) > 0:
-        trainer.test(model, dm, verbose=True)
+        res = trainer.test(model, dm, verbose=True)
+        if res and "test_loss" in res[0]:
+            post["test_loss"] = float(res[0]["test_loss"])
+    if logger is not None and post:
+        _log_posthoc(logger, post)
 
     z = model.language_embeddings()
     print(f"done. z_language matrix: {tuple(z.shape)}  (relatedness = distances here)")

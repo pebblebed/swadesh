@@ -29,6 +29,11 @@ import numpy as np
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if ROOT not in sys.path:
     sys.path.insert(0, ROOT)
+for _stream in (sys.stdout, sys.stderr):           # utf-8 -> safe non-ASCII / emoji prints
+    try:
+        _stream.reconfigure(encoding="utf-8", errors="replace")
+    except Exception:
+        pass
 ASJP_JSONL = os.path.join(ROOT, "data", "normalized", "asjp.jsonl")
 
 POLYNESIAN = ["rap", "tah", "smo", "ton", "haw", "mri", "mao", "fij", "mri"]
