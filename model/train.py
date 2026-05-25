@@ -48,6 +48,8 @@ def build_argparser():
     p.add_argument("--d-concept", type=int, default=64)
     p.add_argument("--hidden", type=int, default=256)
     p.add_argument("--layers", type=int, default=1)
+    p.add_argument("--dropout", type=float, default=0.1,
+                   help="dropout on input/output activations (regularization)")
     p.add_argument("--lr", type=float, default=2e-3)
     p.add_argument("--val-frac", type=float, default=0.05)
     p.add_argument("--accelerator", default="auto",
@@ -100,7 +102,7 @@ def main(argv=None):
     model = ConditionalVocalicDecoder(
         field_sizes=dm.field_sizes, n_lang=dm.n_lang, n_concept=dm.n_concept,
         d_lang=args.d_lang, d_concept=args.d_concept, hidden=args.hidden,
-        layers=args.layers, lr=args.lr)
+        layers=args.layers, dropout=args.dropout, lr=args.lr)
     trainer.fit(model, dm)
     print(f"trained on device: {trainer.strategy.root_device}")
 
