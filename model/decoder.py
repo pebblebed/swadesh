@@ -27,7 +27,7 @@ class ConditionalVocalicDecoder(pl.LightningModule):
     def __init__(self, field_sizes, n_lang, n_concept, d_lang=64, d_concept=64,
                  d_in=96, hidden=256, layers=1, dropout=0.1, lr=2e-3,
                  optimizer="adam", weight_decay=0.0, lr_schedule="none",
-                 warmup_frac=0.0, emb_dropout=0.0, label_smoothing=0.0):
+                 warmup_frac=0.0, emb_dropout=0.0, label_smoothing=0.0, decoder="lstm"):
         super().__init__()
         self.save_hyperparameters()
         self.fields = list(FIELDS)
@@ -40,11 +40,13 @@ class ConditionalVocalicDecoder(pl.LightningModule):
         self.in_emb = nn.ModuleDict({
             f: nn.Embedding(field_sizes[f], d_in, padding_idx=PAD_IDX) for f in self.fields})
 
-        # cond -> initial (h0, c0); cond is also concatenated to each step's input
+        # cond -> initial recurrent state; cond is also concatenated to each step's input
         self.h0 = nn.Linear(d_cond, hidden * layers)
-        self.c0 = nn.Linear(d_cond, hidden * layers)
-        self.lstm = nn.LSTM(d_in + d_cond, hidden, num_layers=layers, batch_first=True,
-                            dropout=dropout if layers > 1 else 0.0)
+        rnn_cls = nn.GRU if decoder == "gru" else nn.LSTM
+        self.rnn = rnn_cls(d_in + d_cond, hidden, num_layers=layers, batch_first=True,
+                           dropout=dropout if layers > 1 else 0.0)
+        if decoder != "gru":                         # LSTM also needs an initial cell state
+            self.c0 = nn.Linear(d_cond, hidden * layers)
 
         # one classifier head per field (the multi-head 'vocal feature' target)
         self.heads = nn.ModuleDict({f: nn.Linear(hidden, field_sizes[f]) for f in self.fields})
@@ -63,8 +65,11 @@ class ConditionalVocalicDecoder(pl.LightningModule):
 
         layers, hidden = self.hparams.layers, self.hparams.hidden
         h0 = self.h0(cond).view(B, layers, hidden).transpose(0, 1).contiguous()
-        c0 = self.c0(cond).view(B, layers, hidden).transpose(0, 1).contiguous()
-        out, _ = self.lstm(x, (h0, c0))                              # (B, T, hidden)
+        if self.hparams.decoder == "gru":
+            out, _ = self.rnn(x, h0)                                 # (B, T, hidden)
+        else:
+            c0 = self.c0(cond).view(B, layers, hidden).transpose(0, 1).contiguous()
+            out, _ = self.rnn(x, (h0, c0))
         out = self.drop(out)
         return {f: self.heads[f](out) for f in self.fields}         # field -> (B, T, V_f)
 

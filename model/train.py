@@ -73,6 +73,7 @@ def build_argparser():
     p.add_argument("--d-concept", type=int, default=64)
     p.add_argument("--hidden", type=int, default=256)
     p.add_argument("--layers", type=int, default=1)
+    p.add_argument("--decoder", default="lstm", choices=["lstm", "gru"])
     p.add_argument("--dropout", type=float, default=0.1,
                    help="dropout on input/output activations (regularization)")
     p.add_argument("--emb-dropout", type=float, default=0.0, help="dropout on z_lang/z_concept")
@@ -144,7 +145,8 @@ def main(argv=None):
         layers=args.layers, dropout=args.dropout, lr=args.lr,
         optimizer=args.optimizer, weight_decay=args.weight_decay,
         lr_schedule=args.lr_schedule, warmup_frac=args.warmup_frac,
-        emb_dropout=args.emb_dropout, label_smoothing=args.label_smoothing)
+        emb_dropout=args.emb_dropout, label_smoothing=args.label_smoothing,
+        decoder=args.decoder)
     trainer.fit(model, dm)
     print(f"trained on device: {trainer.strategy.root_device}")
 
