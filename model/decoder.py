@@ -25,7 +25,9 @@ PAD_IDX = 0   # PAD reserved at index 0 in every field vocab (see model.data)
 
 class ConditionalVocalicDecoder(pl.LightningModule):
     def __init__(self, field_sizes, n_lang, n_concept, d_lang=64, d_concept=64,
-                 d_in=96, hidden=256, layers=1, dropout=0.1, lr=2e-3):
+                 d_in=96, hidden=256, layers=1, dropout=0.1, lr=2e-3,
+                 optimizer="adam", weight_decay=0.0, lr_schedule="none",
+                 warmup_frac=0.0, emb_dropout=0.0, label_smoothing=0.0):
         super().__init__()
         self.save_hyperparameters()
         self.fields = list(FIELDS)
@@ -47,9 +49,11 @@ class ConditionalVocalicDecoder(pl.LightningModule):
         # one classifier head per field (the multi-head 'vocal feature' target)
         self.heads = nn.ModuleDict({f: nn.Linear(hidden, field_sizes[f]) for f in self.fields})
         self.drop = nn.Dropout(dropout)
+        self.emb_drop = nn.Dropout(emb_dropout)     # dropout on z_lang / z_concept
 
     def cond(self, lang_idx, concept_idx):
-        return torch.cat([self.lang_emb(lang_idx), self.concept_emb(concept_idx)], dim=-1)
+        return torch.cat([self.emb_drop(self.lang_emb(lang_idx)),
+                          self.emb_drop(self.concept_emb(concept_idx))], dim=-1)
 
     def forward(self, lang_idx, concept_idx, in_fields):
         B, T = in_fields[self.fields[0]].shape
@@ -69,10 +73,13 @@ class ConditionalVocalicDecoder(pl.LightningModule):
         m = batch["mask"].float()
         n = m.sum().clamp(min=1.0)
         total = 0.0
+        # label smoothing on TRAIN only -> val/test stay clean CE, so val_loss is
+        # comparable across configs (the beam-search selection metric).
+        ls = self.hparams.label_smoothing if stage == "train" else 0.0
         for f in self.fields:
             lg, tg = logits[f], batch["tgt"][f]
             ce = F.cross_entropy(lg.reshape(-1, lg.size(-1)), tg.reshape(-1),
-                                 reduction="none").view_as(m)
+                                 reduction="none", label_smoothing=ls).view_as(m)
             total = total + (ce * m).sum() / n
         # train logs a live per-step curve + a per-epoch mean (-> train_loss_step /
         # train_loss_epoch); val/test log a clean per-epoch val_loss / test_loss.
@@ -90,7 +97,23 @@ class ConditionalVocalicDecoder(pl.LightningModule):
         return self._step(batch, "test")
 
     def configure_optimizers(self):
-        return torch.optim.Adam(self.parameters(), lr=self.hparams.lr)
+        hp = self.hparams
+        opt_cls = torch.optim.AdamW if hp.optimizer == "adamw" else torch.optim.Adam
+        opt = opt_cls(self.parameters(), lr=hp.lr, weight_decay=hp.weight_decay)
+        if hp.lr_schedule != "cosine":
+            return opt
+        import math
+        total = int(self.trainer.estimated_stepping_batches)
+        warmup = int(total * hp.warmup_frac)
+
+        def lr_lambda(step):
+            if step < warmup:
+                return (step + 1) / max(1, warmup)
+            prog = (step - warmup) / max(1, total - warmup)
+            return 0.5 * (1.0 + math.cos(math.pi * min(1.0, prog)))
+
+        sched = torch.optim.lr_scheduler.LambdaLR(opt, lr_lambda)
+        return {"optimizer": opt, "lr_scheduler": {"scheduler": sched, "interval": "step"}}
 
     @torch.no_grad()
     def language_embeddings(self):

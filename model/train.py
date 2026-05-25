@@ -20,6 +20,7 @@ if ROOT not in sys.path:
 
 import pytorch_lightning as pl  # noqa: E402
 import torch  # noqa: E402
+from pytorch_lightning.callbacks import EarlyStopping  # noqa: E402
 
 from model import tracking  # noqa: E402
 from model.data import synthetic_records  # noqa: E402
@@ -50,7 +51,16 @@ def build_argparser():
     p.add_argument("--layers", type=int, default=1)
     p.add_argument("--dropout", type=float, default=0.1,
                    help="dropout on input/output activations (regularization)")
+    p.add_argument("--emb-dropout", type=float, default=0.0, help="dropout on z_lang/z_concept")
+    p.add_argument("--label-smoothing", type=float, default=0.0)
     p.add_argument("--lr", type=float, default=2e-3)
+    p.add_argument("--optimizer", default="adam", choices=["adam", "adamw"])
+    p.add_argument("--weight-decay", type=float, default=0.0)
+    p.add_argument("--lr-schedule", default="none", choices=["none", "cosine"])
+    p.add_argument("--warmup-frac", type=float, default=0.0)
+    p.add_argument("--patience", type=int, default=0,
+                   help="EarlyStopping patience on val_loss (0 = off)")
+    p.add_argument("--round", default=None, help="MLflow tag to group a beam-search round")
     p.add_argument("--val-frac", type=float, default=0.05)
     p.add_argument("--accelerator", default="auto",
                    help="PTL accelerator: auto|gpu|cpu (default auto -> GPU if present)")
@@ -82,12 +92,17 @@ def main(argv=None):
                                use_cache=not args.no_cache)
         logger = tracking.make_mlflow_logger(
             stage="train", uri=args.mlflow_uri, experiment=args.experiment,
-            run_name=args.run_name, enabled=not args.no_mlflow)
+            run_name=args.run_name, enabled=not args.no_mlflow,
+            tags={"round": str(args.round)} if args.round else None)
         if logger is not None:
             print(f"mlflow: logging to {tracking.resolve_uri(args.mlflow_uri)} "
                   f"(experiment '{args.experiment}')")
+        callbacks = []
+        if args.patience > 0:
+            callbacks.append(EarlyStopping(monitor="val_loss", mode="min",
+                                           patience=args.patience))
         trainer = pl.Trainer(max_epochs=args.max_epochs, accelerator=args.accelerator,
-                             devices="auto", logger=logger or False,
+                             devices="auto", logger=logger or False, callbacks=callbacks,
                              enable_checkpointing=False, log_every_n_steps=25)
 
     dm.setup()
@@ -102,9 +117,18 @@ def main(argv=None):
     model = ConditionalVocalicDecoder(
         field_sizes=dm.field_sizes, n_lang=dm.n_lang, n_concept=dm.n_concept,
         d_lang=args.d_lang, d_concept=args.d_concept, hidden=args.hidden,
-        layers=args.layers, dropout=args.dropout, lr=args.lr)
+        layers=args.layers, dropout=args.dropout, lr=args.lr,
+        optimizer=args.optimizer, weight_decay=args.weight_decay,
+        lr_schedule=args.lr_schedule, warmup_frac=args.warmup_frac,
+        emb_dropout=args.emb_dropout, label_smoothing=args.label_smoothing)
     trainer.fit(model, dm)
     print(f"trained on device: {trainer.strategy.root_device}")
+    # best validation loss (the beam-search selection metric)
+    if not args.smoke and callbacks:
+        best = callbacks[0].best_score
+        if best is not None and logger is not None:
+            logger.log_metrics({"best_val_loss": float(best)})
+        print(f"best_val_loss: {float(best) if best is not None else float('nan'):.4f}")
 
     # quantitative eval: relatedness probe -> log Spearman rho (before test/finalize)
     if not args.smoke and not args.no_probe:
