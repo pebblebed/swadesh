@@ -72,9 +72,23 @@ reported exit 127 but the run completed fine — spurious wrapper code, data is 
 Base = r3-bigreg-wd (h384, dropout 0.4, emb 0.15, adamw, wd 0.05). Probe LR/schedule
 + reg strength. All: round 4, max_epochs 80, patience 10, batch 512, hidden 384.
 
-| run | hypothesis | delta from base |
-|-----|-----------|------------------|
-| r4-cosine | cosine LR + warmup, peak lr 3e-3 | + lr_schedule cosine, warmup 0.05, lr 3e-3 |
-| r4-lr1e3 | lower, steadier LR | lr 1e-3 |
-| r4-wd0.1 | stronger L2 | weight_decay 0.1 |
-| r4-reg+ | push dropout/emb | dropout 0.45, emb_dropout 0.2 |
+| run | key args (vs base) | best_val | test | rho |
+|-----|--------------------|---------:|-----:|----:|
+| **r4-cosine** | cosine, warmup 0.05, lr 3e-3 | **5.585** | 5.671 | +0.378 |
+| r4-wd0.1 | weight_decay 0.1 | 5.593 | 5.650 | +0.376 |
+| r4-reg+ | dropout 0.45, emb 0.2 | 5.593 | 5.652 | +0.370 |
+| r4-lr1e3 | lr 1e-3 | 5.755 | 5.815 | +0.282 |
+
+5.648 -> 5.585 (Δ 0.063 — cosine LR is the unlock). Stronger wd and more dropout also
+help (~5.593); lower LR hurts. Not plateaued; combine cosine + stronger reg next.
+
+## Round 5 — cosine + stronger reg + LR probe (running)
+Base = r4-cosine (h384, dropout 0.4, emb 0.15, adamw, wd 0.05, cosine, warmup 0.05,
+lr 3e-3). All: round 5, max_epochs 80, patience 12, batch 512.
+
+| run | key args (vs base) |
+|-----|--------------------|
+| r5-cos-wd0.1 | weight_decay 0.1 |
+| r5-cos-reg+ | dropout 0.45, emb 0.2 |
+| r5-cos-lr5e3 | lr 5e-3 (higher peak) |
+| r5-cos-both | weight_decay 0.1 + dropout 0.45 + emb 0.2 |
