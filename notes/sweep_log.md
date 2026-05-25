@@ -86,9 +86,22 @@ help (~5.593); lower LR hurts. Not plateaued; combine cosine + stronger reg next
 Base = r4-cosine (h384, dropout 0.4, emb 0.15, adamw, wd 0.05, cosine, warmup 0.05,
 lr 3e-3). All: round 5, max_epochs 80, patience 12, batch 512.
 
-| run | key args (vs base) |
-|-----|--------------------|
-| r5-cos-wd0.1 | weight_decay 0.1 |
-| r5-cos-reg+ | dropout 0.45, emb 0.2 |
-| r5-cos-lr5e3 | lr 5e-3 (higher peak) |
-| r5-cos-both | weight_decay 0.1 + dropout 0.45 + emb 0.2 |
+| run | key args (vs base) | best_val | test | rho |
+|-----|--------------------|---------:|-----:|----:|
+| **r5-cos-both** | wd 0.1 + dropout 0.45 + emb 0.2 | **5.509** | 5.543 | +0.369 |
+| r5-cos-lr5e3 | lr 5e-3 | 5.520 | 5.599 | +0.412 |
+| r5-cos-wd0.1 | weight_decay 0.1 | 5.529 | 5.603 | +0.405 |
+| r5-cos-reg+ | dropout 0.45, emb 0.2 | 5.543 | 5.642 | +0.376 |
+
+5.585 -> 5.509 (Δ 0.076). Stacking all reg + cosine wins; higher LR helps (rho +0.41);
+test tracks val (no selection-overfit); rho rising. Still climbing -> push reg + LR.
+
+## Round 6 — push reg strength + LR + anneal (running)
+Base = r5-cos-both (h384, cosine, warmup 0.05, adamw). All: round 6, patience 12, batch 512.
+
+| run | key args | max_ep |
+|-----|----------|-------:|
+| r6-both-lr5e3 | wd 0.1, drop 0.45, emb 0.2, lr 5e-3 | 80 |
+| r6-reg++ | wd 0.15, drop 0.5, emb 0.25, lr 3e-3 | 80 |
+| r6-lr7e3 | wd 0.1, drop 0.45, emb 0.2, lr 7e-3 | 80 |
+| r6-fast-anneal | wd 0.1, drop 0.45, emb 0.2, lr 4e-3 | 40 (faster cosine) |
