@@ -187,7 +187,31 @@ The science product is `z_language`, so give it more dimensions than the concept
 
 | run | key args (vs base) | best_val | test | rho | fam 1-NN | fam 5-NN | fam AUC |
 |-----|--------------------|---------:|-----:|----:|---------:|---------:|--------:|
-| r9-dlang128 | d_lang 128, d_concept 64 | – | – | – | – | – | – |
-| r9-dlang96 | d_lang 96, d_concept 64 | – | – | – | – | – | – |
-| r9-bigemb128 | d_lang 128, d_concept 128 | – | – | – | – | – | – |
-| r9-lr7e3 | lr 7e-3 (val+family now correlate) | – | – | – | – | – | – |
+| r9-dlang128 | d_lang 128, d_concept 64 | 5.410 | 5.578 | 0.332 | 0.775 | 0.624 | 0.816 |
+| r9-dlang96 | d_lang 96, d_concept 64 | **5.404** | 5.526 | 0.338 | 0.773 | 0.619 | 0.821 |
+| r9-bigemb128 | d_lang 128, d_concept 128 | 5.424 | 5.560 | 0.363 | 0.770 | **0.625** | 0.817 |
+| r9-lr7e3 | lr 7e-3 | 5.406 | 5.543 | 0.326 | 0.770 | 0.618 | **0.825** |
+
+(vs r8-base: val 5.415, test 5.519, fam 1-NN **0.790**, 5-NN 0.616, AUC 0.823.)
+
+**Findings.** The asymmetric-embedding hypothesis FAILED: favoring d_lang did not improve
+relatedness — every config slightly *lowered* family 1-NN (0.770–0.775 vs base 0.790) while
+nudging val only ~0.01 (noise). r8-base still wins family 1-NN + test. Bigger embeddings buy
+a hair of 5-NN at the cost of 1-NN (a wash); lr7e-3 ties on AUC but not 1-NN.
+
+## CONCLUSION — expanded inventory (Rounds 8–9, PLATEAU)
+The 7-round recipe TRANSFERS to the ~30-languages-larger corpus, and two more rounds of
+data-motivated probes (capacity, reg strength, conditioning-embedding size & asymmetry, LR)
+fail to beat it. **The family metric is saturated**: across every reasonable config, 1-NN
+purity sits at 0.77–0.79 and same<cross AUC at 0.81–0.825 (chance 0.060). The relatedness
+geometry is therefore **data-driven and robust** — set by the phonetic patterns in the
+corpus, not by hyperparameter tuning; the architecture only needs to be "reasonable."
+Corollary: the ASJP-LDN `rho` proxy is unreliable (anti-correlated with the Glottolog family
+metric across the sweep) — select on family purity/AUC.
+
+FINAL RECIPE (= r8-base, best family 1-NN 0.790 + AUC 0.823 + test 5.519): 1-layer LSTM,
+hidden 384, d_lang = d_concept = 64, dropout 0.45, emb_dropout 0.2, AdamW weight_decay 0.1,
+cosine LR + warmup 0.05, peak lr 5e-3, batch 512, early stop on val (patience 12, ~e47).
+This is also the science-balanced pick — on the expanded data the val-optimal and
+relatedness-optimal configs converged. Further gains need new STRUCTURE, not tuning: a tone
+field (Mandarin), ASJP 7k×40 augmentation, or a per-field coherence constraint.
