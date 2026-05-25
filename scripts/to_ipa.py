@@ -41,7 +41,8 @@ import csv
 import json
 import os
 
-import cyrillic_g2p  # sibling modules in scripts/ (on sys.path when run as a script)
+import brahmic_g2p  # sibling modules in scripts/ (on sys.path when run as a script)
+import cyrillic_g2p
 import latin_g2p
 import light_ipa
 import mayan_g2p
@@ -97,7 +98,8 @@ NATIONAL = {"als", "arg", "cat", "dan", "deu", "epo", "eus", "fao", "fin", "fra"
 MAYAN = {"acr", "caa", "cac", "cak", "jac", "kek", "mam", "poc", "quc"}
 #   ROMANCE / LATIN_G2P -- per-language G2P, routed before the deferral.
 ROMANCE = {"spa", "ita", "por", "fra", "ron", "cat", "glg", "arg"}
-LATIN_G2P = {"epo", "fin", "deu"}
+LATIN_G2P = {"epo", "fin", "deu", "tur", "gag", "krc", "als", "pol", "hun", "eus", "hat"}
+INDIC = {"kan", "hin"}   # romanized Indic -> brahmic_g2p (kan ISO-15919 high, hin loose low)
 
 
 def is_cyrillic(t):
@@ -312,6 +314,10 @@ def main():
                 ipa, conf = latin_g2p.to_ipa(t, r["lang_code"])     # epo/fin high, deu med
                 method = "latin_g2p"
                 latin_review.append((ident, r["lang_code"], r["gloss"], t, ipa, ""))
+            elif system in ("latin_diacritic", "plain_ascii") and r["lang_code"] in INDIC:
+                ipa, conf = brahmic_g2p.to_ipa(t, r["lang_code"])   # kan high, hin low
+                method = "brahmic_g2p"
+                latin_review.append((ident, r["lang_code"], r["gloss"], t, ipa, ""))
             elif system in ("latin_diacritic", "plain_ascii") and r["lang_code"] in MAYAN:
                 ipa, conf = mayan_g2p.to_ipa(t)
                 method = "mayan_g2p"
@@ -414,7 +420,7 @@ def main():
     for m, n in methods.most_common():
         print(f"  {m:<18}{n:>7}")
     print(f"\nIPA populated now : "
-          f"{conv + methods['light_ipa'] + methods['practical'] + methods['romance_g2p'] + methods['latin_g2p'] + methods['mayan_g2p']} records "
+          f"{conv + methods['light_ipa'] + methods['practical'] + methods['romance_g2p'] + methods['latin_g2p'] + methods['mayan_g2p'] + methods['brahmic_g2p']} records "
           f"({methods['americanist']} Americanist + {methods['slavic_g2p']} Slavic, Tier 1; "
           f"{methods['greek_g2p']} Greek + {methods['kana_g2p']} Kana + "
           f"{methods['cyrillic_g2p']} Cyrillic + {methods['romanization']} romanization + "

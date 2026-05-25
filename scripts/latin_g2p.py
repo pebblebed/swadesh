@@ -49,8 +49,71 @@ def _de_word(w):
     return s
 
 
-_LANG = {"epo": _eo_word, "fin": _fi_word, "deu": _de_word}
-_CONF = {"epo": "high", "fin": "high", "deu": "medium"}
+# --------- Turkic (Turkish / Gagauz / Balkar) -- shared broad rules ----------
+def _tr_word(w):
+    s = w.replace("ç", "ʧ").replace("ş", "ʃ").replace("c", "ʤ")
+    s = s.replace("ğ", "ː").replace("j", "ʒ").replace("y", "j").replace("ñ", "ŋ")
+    s = s.replace("ı", "ɯ").replace("ö", "ø").replace("ü", "y")   # AFTER y->j (ü = vowel /y/)
+    return s.replace("g", "ɡ")
+
+
+# ------------------------------- Albanian ---------------------------------
+def _sq_word(w):
+    s = w
+    s = (s.replace("dh", "ð").replace("th", "θ").replace("sh", "ʃ").replace("zh", "ʒ")
+         .replace("xh", "ʤ").replace("gj", "ɟ").replace("nj", "ɲ").replace("rr", "r")
+         .replace("ll", "ɫ"))
+    s = s.replace("ç", "ʧ").replace("c", "ʦ").replace("x", "ʣ").replace("q", "c")
+    return s.replace("ë", "ə").replace("g", "ɡ")
+
+
+# -------------------------------- Polish ----------------------------------
+def _pl_word(w):
+    s = w.replace("dż", "ʤ").replace("dź", "ʤ").replace("dz", "ʣ")
+    s = s.replace("cz", "ʧ").replace("sz", "ʃ").replace("rz", "ʒ").replace("ch", "x")
+    s = s.replace("ż", "ʒ").replace("ź", "ʒ").replace("ś", "ʃ").replace("ć", "ʧ")
+    s = s.replace("w", "v").replace("ł", "w")             # w->v BEFORE ł->w
+    s = s.replace("c", "ʦ").replace("ń", "ɲ").replace("h", "x")
+    s = s.replace("ą", "ɔ").replace("ę", "ɛ").replace("ó", "u").replace("y", "ɨ")
+    return s.replace("g", "ɡ")
+
+
+# ------------------------------- Hungarian --------------------------------
+def _hu_word(w):
+    s = w.replace("dzs", "ʤ").replace("dz", "ʣ")
+    s = s.replace("sz", "S").replace("zs", "ʒ").replace("cs", "ʧ")
+    s = s.replace("gy", "ɟ").replace("ny", "ɲ").replace("ty", "C").replace("ly", "j")
+    s = s.replace("c", "ʦ").replace("C", "c")            # orthographic c->ʦ; ty placeholder->c
+    s = s.replace("s", "ʃ").replace("S", "s")            # remaining s->ʃ; sz placeholder->s
+    s = s.replace("a", "ɒ").replace("e", "ɛ").replace("ö", "ø").replace("ü", "y")
+    s = (s.replace("á", "aː").replace("é", "eː").replace("í", "iː").replace("ó", "oː")
+         .replace("ő", "øː").replace("ú", "uː").replace("ű", "yː"))
+    s = s.replace("g", "ɡ")
+    return re.sub(r"([bdfɡhklmnprtvz])\1", r"\1ː", s)     # gemination
+
+
+# -------------------------------- Basque ----------------------------------
+def _eu_word(w):
+    s = w.replace("tx", "ʧ").replace("tz", "ʦ").replace("ts", "ʦ")
+    s = s.replace("tt", "c").replace("dd", "ɟ")
+    s = s.replace("x", "ʃ").replace("ñ", "ɲ").replace("ll", "ʎ")
+    return s.replace("z", "s").replace("h", "").replace("g", "ɡ")
+
+
+# ------------------------------- Haitian ----------------------------------
+def _ht_word(w):
+    s = w.replace("ou", "u").replace("an", "ã").replace("on", "ɔ̃").replace("en", "ẽ")
+    s = s.replace("ch", "ʃ").replace("j", "ʒ").replace("y", "j")
+    s = s.replace("ê", "ɛ").replace("è", "ɛ").replace("ò", "ɔ").replace("é", "e")
+    return s.replace("r", "ɣ").replace("g", "ɡ")
+
+
+_LANG = {"epo": _eo_word, "fin": _fi_word, "deu": _de_word,
+         "tur": _tr_word, "gag": _tr_word, "krc": _tr_word, "als": _sq_word,
+         "pol": _pl_word, "hun": _hu_word, "eus": _eu_word, "hat": _ht_word}
+_CONF = {"epo": "high", "fin": "high", "deu": "medium", "tur": "high", "gag": "high",
+         "krc": "medium", "als": "high", "pol": "medium", "hun": "medium",
+         "eus": "high", "hat": "medium"}
 
 
 def to_ipa(text, lang):
@@ -58,8 +121,9 @@ def to_ipa(text, lang):
     text = unicodedata.normalize("NFC", text).strip().lower()
     text = re.sub(r"\([^)]*\)", " ", text)
     out = []
+    keep = lambda c: c.isalpha() or c in " '"           # keep all Unicode letters
     for alt in _SEP.split(text):
-        alt = re.sub(r"[^a-zà-ÿĉĝĥĵŝŭ' ]", " ", alt).strip()
+        alt = "".join(c if keep(c) else " " for c in alt).strip()
         ipa = " ".join(fn(x) for x in alt.split() if x)
         if ipa and ipa not in out:
             out.append(ipa)
@@ -73,6 +137,17 @@ _TESTS = {
             ("yö", "yø"), ("käsi", "kæsi")],
     "deu": [("hund", "hund"), ("wasser", "vaser"), ("zunge", "ʦuŋe"),
             ("auge", "auɡe"), ("ich", "iç"), ("feuer", "fɔyer"), ("schön", "ʃøn")],
+    "tur": [("göz", "ɡøz"), ("diş", "diʃ"), ("büyük", "byjyk"), ("gece", "ɡeʤe"),
+            ("yıldız", "jɯldɯz")],
+    "als": [("gjuhë", "ɟuhə"), ("dhëmb", "ðəmb"), ("qen", "cen"), ("yll", "yɫ"),
+            ("zjarr", "zjar")],
+    "pol": [("woda", "voda"), ("język", "jɛzɨk"), ("ząb", "zɔb"), ("duży", "duʒɨ"),
+            ("słońce", "swoɲʦe"), ("czas", "ʧas")],
+    "hun": [("víz", "viːz"), ("tűz", "tyːz"), ("nyelv", "ɲɛlv"), ("szem", "sɛm"),
+            ("kettő", "kɛtːøː"), ("nagy", "nɒɟ"), ("csillag", "ʧilːɒɡ")],
+    "eus": [("txakur", "ʧakur"), ("hortz", "orʦ"), ("izar", "isar"), ("haundi", "aundi"),
+            ("eguzki", "eɡuski")],
+    "hat": [("dlo", "dlo"), ("solêy", "solɛj"), ("je", "ʒe"), ("dife", "dife")],
 }
 
 
