@@ -3,10 +3,12 @@ method	n_records
 native_ipa	145937
 light_ipa	93297
 practical	42874
-deferred_latin	6300
+deferred_latin	3724
 americanist	2936
-romance_g2p	1093
+romance_g2p	1781
+mayan_g2p	1225
 deferred_native	827
+latin_g2p	663
 cyrillic_g2p	627
 slavic_g2p	361
 romanization	309
@@ -23,14 +25,17 @@ cmn	high	101
 cyrillic_g2p	high	627
 greek_g2p	high	207
 kana_g2p	high	78
+latin_g2p	high	421
+latin_g2p	medium	242
 light_ipa	low	2336
 light_ipa	medium	90961
+mayan_g2p	medium	1225
 native_ipa	high	145937
 practical	low	1602
 practical	medium	41272
-romance_g2p	high	541
+romance_g2p	high	647
 romance_g2p	low	247
-romance_g2p	medium	305
+romance_g2p	medium	887
 romanization	high	308
 romanization	medium	1
 slavic_g2p	high	361

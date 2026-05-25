@@ -21,11 +21,13 @@ FRONT = "eiéèêiíì"                          # front vowels that soften c/g
 
 
 def _alts(text):
-    """Split a raw cell into alternants (synonyms) and strip parentheticals/junk."""
+    """Split a raw cell into alternants (synonyms) and strip parentheticals/junk.
+    Keep ALL Unicode letters (Romanian ă/ș/ț, Catalan ·, etc. are above U+00FF)."""
     text = unicodedata.normalize("NFC", text).strip().lower()
     text = re.sub(r"\([^)]*\)", " ", text)                 # drop (m.)/(v.) notes
     parts = re.split(r"[,;/]", text)
-    return [re.sub(r"[^a-zà-ÿ' ]", " ", p).strip() for p in parts]
+    keep = lambda c: c.isalpha() or c in " '·"
+    return ["".join(c if keep(c) else " " for c in p).strip() for p in parts]
 
 
 # ------------------------------- Spanish ----------------------------------
@@ -120,6 +122,50 @@ def _fr_word(w):
     return _strip_acc(s)
 
 
+def _trill_taps(s):
+    s = re.sub(r"^r", "ʀ", s).replace("rr", "ʀ")
+    return s.replace("r", "ɾ").replace("ʀ", "r")
+
+
+# ------------------------------- Romanian ---------------------------------
+def _ro_word(w):
+    s = w
+    s = re.sub(r"ch([ei])", r"k\1", s).replace("ch", "k")
+    s = re.sub(r"gh([ei])", r"ɡ\1", s).replace("gh", "ɡ")
+    s = re.sub(r"c([ei])", r"ʧ\1", s).replace("c", "k")
+    s = re.sub(r"g([ei])", r"ʤ\1", s).replace("g", "ɡ")
+    s = s.replace("ș", "ʃ").replace("ş", "ʃ").replace("ț", "ʦ").replace("ţ", "ʦ")
+    s = s.replace("j", "ʒ").replace("x", "ks").replace("qu", "kv").replace("q", "k")
+    s = s.replace("ă", "ə").replace("â", "ɨ").replace("î", "ɨ")
+    return _strip_acc(s)                                   # h is pronounced; keep
+
+
+# ------------------------------- Catalan ----------------------------------
+def _ca_word(w):
+    s = w.replace("l·l", "lː").replace("l.l", "lː")
+    s = s.replace("tx", "ʧ").replace("ix", "ʃ").replace("ll", "ʎ").replace("ny", "ɲ")
+    s = re.sub(r"tg|tj", "ʤ", s)
+    s = re.sub(r"c([eiéè])", r"s\1", s).replace("ç", "s").replace("ch", "k").replace("c", "k")
+    s = re.sub(r"gu([eiéè])", r"ɡ\1", s)
+    s = re.sub(r"g([eiéè])", r"ʒ\1", s).replace("g", "ɡ").replace("j", "ʒ")
+    s = s.replace("qu", "k").replace("q", "k").replace("x", "ʃ")
+    s = re.sub(r"([aeiou])s([aeiou])", r"\1z\2", s).replace("ss", "s")
+    s = _trill_taps(s.replace("v", "b").replace("h", ""))
+    return _strip_acc(s)
+
+
+# ------------------------------- Galician ---------------------------------
+def _gl_word(w):
+    s = w.replace("ch", "ʧ").replace("ll", "ʎ").replace("nh", "ŋ").replace("ñ", "ɲ")
+    s = s.replace("x", "ʃ")
+    s = re.sub(r"qu([ei])", r"k\1", s).replace("qu", "kw").replace("q", "k")
+    s = re.sub(r"gu([ei])", r"ɡ\1", s)
+    s = re.sub(r"g([ei])", r"x\1", s).replace("g", "ɡ").replace("j", "ʃ")
+    s = re.sub(r"c([ei])", r"θ\1", s).replace("z", "θ").replace("c", "k")
+    s = _trill_taps(s.replace("v", "b").replace("h", ""))
+    return _strip_acc(s)
+
+
 _ACC = {"á": "a", "é": "e", "í": "i", "ó": "o", "ú": "u", "à": "a", "è": "e",
         "ì": "i", "ò": "o", "ù": "u", "â": "a", "ê": "e", "î": "i", "ô": "o",
         "û": "u", "ä": "a", "ë": "e", "ï": "i", "ö": "o", "ü": "u", " â": "a"}
@@ -129,7 +175,8 @@ def _strip_acc(s):
     return "".join(_ACC.get(c, c) for c in s)
 
 
-_LANG = {"spa": _es_word, "ita": _it_word, "por": _pt_word, "fra": _fr_word}
+_LANG = {"spa": _es_word, "ita": _it_word, "por": _pt_word, "fra": _fr_word,
+         "ron": _ro_word, "cat": _ca_word, "glg": _gl_word, "arg": _es_word}
 
 
 def to_ipa(text, lang):
@@ -143,7 +190,8 @@ def to_ipa(text, lang):
         ipa = " ".join(fn(w) for w in alt.split() if w)
         if ipa and ipa not in out:
             out.append(ipa)
-    conf = {"spa": "high", "ita": "high", "por": "medium", "fra": "low"}[lang]
+    conf = {"spa": "high", "ita": "high", "por": "medium", "fra": "low",
+            "ron": "medium", "cat": "medium", "glg": "medium", "arg": "high"}[lang]
     return ", ".join(out), conf
 
 
@@ -159,6 +207,9 @@ _TESTS = {
             ("gente", "ʒẽte"), ("cinco", "sĩko"), ("rato", "ʁato")],
     "fra": [("chien", "ʃjɛ̃"), ("feu", "fø"), ("grand", "ɡʁɑ̃"),
             ("rouge", "ʁuʒ"), ("eau", "o")],
+    "ron": [("cinci", "ʧinʧi"), ("ochi", "oki"), ("ușă", "uʃə"), ("câine", "kɨine")],
+    "cat": [("llengua", "ʎenɡua"), ("nyora", "ɲoɾa"), ("cel", "sel"), ("gent", "ʒent")],
+    "glg": [("chave", "ʧabe"), ("xente", "ʃente"), ("noite", "noite"), ("cinco", "θinko")],
 }
 
 

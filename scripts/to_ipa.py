@@ -42,7 +42,9 @@ import json
 import os
 
 import cyrillic_g2p  # sibling modules in scripts/ (on sys.path when run as a script)
+import latin_g2p
 import light_ipa
+import mayan_g2p
 import native_g2p
 import pinyin_g2p
 import practical_g2p
@@ -67,6 +69,8 @@ CMN_REVIEW = os.path.join(ND, "ipa_cmn_review.tsv")
 YDD_REVIEW = os.path.join(ND, "ipa_yiddish_review.tsv")
 PRACTICAL_REVIEW = os.path.join(ND, "ipa_practical_review.tsv")
 ROMANCE_REVIEW = os.path.join(ND, "ipa_romance_review.tsv")
+MAYAN_REVIEW = os.path.join(ND, "ipa_mayan_review.tsv")
+LATIN_REVIEW = os.path.join(ND, "ipa_latin_review.tsv")
 SUMMARY = os.path.join(ROOT, "metadata", "ipa_conversion_summary.tsv")
 LIGHT_AMBIG = os.path.join(ROOT, "metadata", "light_ipa_ambiguity.tsv")
 PRACTICAL_REPORT = os.path.join(ROOT, "metadata", "practical_ortho_report.tsv")
@@ -89,10 +93,11 @@ ROMANIZE = {"tha": romanize.thai_to_ipa, "arb": romanize.arabic_to_ipa}
 NATIONAL = {"als", "arg", "cat", "dan", "deu", "epo", "eus", "fao", "fin", "fra",
             "gag", "gla", "gle", "glg", "hat", "hin", "hun", "hye", "isl", "ita",
             "kan", "krc", "nld", "pol", "por", "ron", "spa", "swe", "tur", "vie"}
-#   MAYAN -- distinct convention (x=ʃ, j=x, tz=t͡s, '=ejective, ·=length); future G2P.
+#   MAYAN -- the Mayan family, now converted by scripts/mayan_g2p.py.
 MAYAN = {"acr", "caa", "cac", "cak", "jac", "kek", "mam", "poc", "quc"}
-#   ROMANCE -- per-language G2P (scripts/romance_g2p.py); routed before the deferral.
-ROMANCE = {"spa", "ita", "por", "fra"}
+#   ROMANCE / LATIN_G2P -- per-language G2P, routed before the deferral.
+ROMANCE = {"spa", "ita", "por", "fra", "ron", "cat", "glg", "arg"}
+LATIN_G2P = {"epo", "fin", "deu"}
 
 
 def is_cyrillic(t):
@@ -194,6 +199,8 @@ def main():
     cmn_review = []
     yiddish_review = []
     romance_review = []
+    mayan_review = []
+    latin_review = []
     light_ambig = collections.defaultdict(collections.Counter)   # ident -> {ambig char: n}
     # ident -> [n_records, n_low (c/x/q/vowel-y), n_y_glide_fixed, n_j_passed]
     light_stats = collections.defaultdict(lambda: [0, 0, 0, 0])
@@ -301,6 +308,14 @@ def main():
                 ipa, conf = romance_g2p.to_ipa(t, r["lang_code"])   # spa/ita high, por med, fra low
                 method = "romance_g2p"
                 romance_review.append((ident, r["lang_code"], r["gloss"], t, ipa, ""))
+            elif system in ("latin_diacritic", "plain_ascii") and r["lang_code"] in LATIN_G2P:
+                ipa, conf = latin_g2p.to_ipa(t, r["lang_code"])     # epo/fin high, deu med
+                method = "latin_g2p"
+                latin_review.append((ident, r["lang_code"], r["gloss"], t, ipa, ""))
+            elif system in ("latin_diacritic", "plain_ascii") and r["lang_code"] in MAYAN:
+                ipa, conf = mayan_g2p.to_ipa(t)
+                method = "mayan_g2p"
+                mayan_review.append((ident, r["lang_code"], r["gloss"], t, ipa, ""))
             elif system in ("latin_diacritic", "plain_ascii") \
                     and r["lang_code"] not in NATIONAL and r["lang_code"] not in MAYAN:
                 resolve_y = ident not in y_vowel_lists
@@ -334,7 +349,8 @@ def main():
                        (NATIVE_REVIEW, native_review), (CYR_REVIEW, cyrillic_review),
                        (ROM_REVIEW, romanization_review), (CMN_REVIEW, cmn_review),
                        (YDD_REVIEW, yiddish_review), (PRACTICAL_REVIEW, practical_review),
-                       (ROMANCE_REVIEW, romance_review)):
+                       (ROMANCE_REVIEW, romance_review), (MAYAN_REVIEW, mayan_review),
+                       (LATIN_REVIEW, latin_review)):
         with open(path, "w", encoding="utf-8", newline="\n") as f:
             f.write("identifier\tlang_code\tgloss\ttranscription_norm\tipa\tresidual\n")
             for row in sorted(rows):
@@ -398,7 +414,7 @@ def main():
     for m, n in methods.most_common():
         print(f"  {m:<18}{n:>7}")
     print(f"\nIPA populated now : "
-          f"{conv + methods['light_ipa'] + methods['practical'] + methods['romance_g2p']} records "
+          f"{conv + methods['light_ipa'] + methods['practical'] + methods['romance_g2p'] + methods['latin_g2p'] + methods['mayan_g2p']} records "
           f"({methods['americanist']} Americanist + {methods['slavic_g2p']} Slavic, Tier 1; "
           f"{methods['greek_g2p']} Greek + {methods['kana_g2p']} Kana + "
           f"{methods['cyrillic_g2p']} Cyrillic + {methods['romanization']} romanization + "

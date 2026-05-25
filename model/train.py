@@ -156,13 +156,22 @@ def main(argv=None):
         post["best_val_loss"] = float(callbacks[0].best_score)
         print(f"best_val_loss: {post['best_val_loss']:.4f}")
     if not args.smoke and not args.no_probe:
-        from model.eval import relatedness_report
-        rep = relatedness_report(model.language_embeddings().numpy(), dm.lang_vocab)
+        from model.eval import GLOTTOLOG, family_report, relatedness_report
+        z_np = model.language_embeddings().numpy()
+        rep = relatedness_report(z_np, dm.lang_vocab)
         if rep.get("n_pairs"):
             post["relatedness_rho"] = float(rep["rho"])
             post["relatedness_n_lang"] = float(rep["n_lang"])
             if rep["same_code_total"]:
                 post["relatedness_same_code_acc"] = rep["same_code_hits"] / rep["same_code_total"]
+        # external relatedness vs Glottolog families -- diagnostic harvested at convergence
+        # (reported/logged, NOT the selection target; we still select on val_loss)
+        if os.path.exists(GLOTTOLOG):
+            fam = family_report(z_np, dm.lang_vocab)
+            if fam.get("nn_purity") is not None:
+                post["family_nn_purity"] = fam["nn_purity"]
+                post["family_5nn_purity"] = fam["knn_purity"]
+                post["family_auc"] = fam["auc"]
     if not args.smoke and len(dm.test_ds) > 0:
         res = trainer.test(model, dm, verbose=True)
         if res and "test_loss" in res[0]:
