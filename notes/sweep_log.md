@@ -161,9 +161,33 @@ adamw, cosine + warmup 0.05, peak lr 5e-3 (science-balanced), max_epochs 80, pat
 batch 512, 1-layer LSTM. Select on val with rho + family-purity guardrail (the science
 metric is now a convergence readout — see eval.family_report).
 
-| run | key args (vs base) | best_val | test | rho | fam 1-NN | fam AUC |
-|-----|--------------------|---------:|-----:|----:|---------:|--------:|
-| r8-base | h384, drop0.45, emb0.2, wd0.1, d_lc 64 (refresh) | – | – | – | – | – |
-| r8-cap512 | hidden 512, dropout 0.4, emb 0.15, wd 0.05 | – | – | – | – | – |
-| r8-bigemb | d_lang/d_concept 96 | – | – | – | – | – |
-| r8-lightreg | dropout 0.35, emb 0.15, wd 0.05 | – | – | – | – | – |
+| run | key args (vs base) | best_val | test | rho | fam 1-NN | fam 5-NN | fam AUC |
+|-----|--------------------|---------:|-----:|----:|---------:|---------:|--------:|
+| **r8-base** | h384, drop0.45, emb0.2, wd0.1, d_lc 64 (refresh) | **5.415** | 5.519 | 0.321 | **0.790** | 0.616 | **0.823** |
+| r8-cap512 | hidden 512, dropout 0.4, emb 0.15, wd 0.05 | 5.465 | 5.672 | **0.390** | 0.746 | 0.600 | 0.812 |
+| r8-bigemb | d_lang/d_concept 96 | 5.436 | 5.521 | 0.345 | 0.782 | **0.623** | 0.819 |
+| r8-lightreg | dropout 0.35, emb 0.15, wd 0.05 | 5.480 | 5.627 | 0.366 | 0.753 | 0.596 | 0.812 |
+
+Baseline (model.eval, science recipe, pre-sweep anchor): rho +0.369, 1-NN 0.773, AUC 0.827.
+All runs early-stopped e37–e47 (patience 12) — training length isn't the limit.
+
+**Findings.** The recipe TRANSFERS to the expanded inventory: r8-base wins val + family
+1-NN (0.790) + family AUC (0.823). All three data-motivated bets lose to it — capacity 512
+*still* overshoots (worst val+test even with more data → h384 settled, robustly); lighter reg
+hurts (corpus still wants heavy reg); symmetric d96 embeddings ~neutral (best 5-NN, else tied).
+KEY: **rho disagrees with the family metric** — r8-cap512 has the best rho (0.390) but the
+worst family purity (0.746). The ASJP-LDN rho proxy is misleading; SELECT ON the externally-
+validated Glottolog family metric (the science readout), with val as a training-health check.
+
+## Round 9 — isolate the on-theme lever: asymmetric embeddings favoring z_language (running)
+The science product is `z_language`, so give it more dimensions than the concept embedding
+(r8-bigemb bumped BOTH symmetrically and got best 5-NN; isolate d_lang). Anchor = r8-base
+(reused, not rerun). Common as Round 8 (h384, drop0.45, emb0.2, adamw wd0.1, cosine warmup
+0.05, lr5e-3 unless noted). Select on family 1-NN/AUC; val = health.
+
+| run | key args (vs base) | best_val | test | rho | fam 1-NN | fam 5-NN | fam AUC |
+|-----|--------------------|---------:|-----:|----:|---------:|---------:|--------:|
+| r9-dlang128 | d_lang 128, d_concept 64 | – | – | – | – | – | – |
+| r9-dlang96 | d_lang 96, d_concept 64 | – | – | – | – | – | – |
+| r9-bigemb128 | d_lang 128, d_concept 128 | – | – | – | – | – | – |
+| r9-lr7e3 | lr 7e-3 (val+family now correlate) | – | – | – | – | – | – |
