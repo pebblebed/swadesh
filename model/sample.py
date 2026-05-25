@@ -105,7 +105,13 @@ def load_ground_truth():
 def main(argv=None):
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--codes", default=",".join(DEFAULT_CODES), help="ISO codes (comma-sep)")
-    p.add_argument("--epochs", type=int, default=50)
+    p.add_argument("--epochs", type=int, default=80)
+    # for SAMPLING we want reproduction, not the val-optimal averager -> light reg by default
+    p.add_argument("--dropout", type=float, default=0.1)
+    p.add_argument("--emb-dropout", type=float, default=0.0)
+    p.add_argument("--weight-decay", type=float, default=0.0)
+    p.add_argument("--lr", type=float, default=3e-3)
+    p.add_argument("--temperature", type=float, default=0.0, help=">0 to sample instead of greedy")
     args = p.parse_args(argv)
     codes = args.codes.split(",")
 
@@ -116,10 +122,11 @@ def main(argv=None):
     # best recipe found by the beam search (r6/r7 regime)
     model = ConditionalVocalicDecoder(
         field_sizes=dm.field_sizes, n_lang=dm.n_lang, n_concept=dm.n_concept,
-        d_lang=64, d_concept=64, hidden=384, dropout=0.45, emb_dropout=0.2,
-        optimizer="adamw", weight_decay=0.1, lr_schedule="cosine", warmup_frac=0.05,
-        lr=7e-3)
-    print(f"training best-recipe model for {args.epochs} epochs ...")
+        d_lang=64, d_concept=64, hidden=384, dropout=args.dropout,
+        emb_dropout=args.emb_dropout, optimizer="adamw", weight_decay=args.weight_decay,
+        lr_schedule="cosine", warmup_frac=0.05, lr=args.lr)
+    print(f"training (dropout={args.dropout}, wd={args.weight_decay}) "
+          f"for {args.epochs} epochs ...")
     pl.Trainer(max_epochs=args.epochs, accelerator="auto", devices="auto", logger=False,
                enable_checkpointing=False, enable_model_summary=False,
                enable_progress_bar=False).fit(model, dm)
@@ -144,7 +151,9 @@ def main(argv=None):
                 continue
             li = torch.tensor([dm.lang_vocab[ident]])
             ci = torch.tensor([dm.concept_vocab[concept]])
-            segs = model.generate(li, ci, dm.bos, eos_kind, kind_pos=kind_pos)[0]
+            segs = model.generate(li, ci, dm.bos, eos_kind, kind_pos=kind_pos,
+                                   sample=args.temperature > 0,
+                                   temperature=max(args.temperature, 1e-6))[0]
             print(f"  {concept:8} {gt[ident][concept]:>16}  |  {render_word(segs, dm.fvocab)}")
     return 0
 
