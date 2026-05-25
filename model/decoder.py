@@ -121,6 +121,52 @@ class ConditionalVocalicDecoder(pl.LightningModule):
         return {"optimizer": opt, "lr_scheduler": {"scheduler": sched, "interval": "step"}}
 
     @torch.no_grad()
+    def generate(self, lang_idx, concept_idx, bos_row, eos_kind, kind_pos=0,
+                 max_len=24, sample=False, temperature=1.0):
+        """Autoregressive decode conditioned on (language, concept). bos_row = the
+        BOS segment's field-index tuple; eos_kind = the EOS index in the `kind`
+        field (decoding stops when a segment's kind == eos_kind). Returns, per batch
+        item, a list of decoded segments (each a tuple of field indices)."""
+        was_training = self.training
+        self.eval()
+        dev = self.lang_emb.weight.device
+        lang_idx, concept_idx = lang_idx.to(dev), concept_idx.to(dev)
+        B = lang_idx.shape[0]
+        cond = torch.cat([self.lang_emb(lang_idx), self.concept_emb(concept_idx)], dim=-1)
+        layers, hidden = self.hparams.layers, self.hparams.hidden
+        h = self.h0(cond).view(B, layers, hidden).transpose(0, 1).contiguous()
+        c = None if self.hparams.decoder == "gru" else \
+            self.c0(cond).view(B, layers, hidden).transpose(0, 1).contiguous()
+        cur = torch.tensor([list(bos_row)] * B, dtype=torch.long, device=dev)   # (B, n_field)
+        outs, done = [[] for _ in range(B)], [False] * B
+        for _ in range(max_len):
+            x = sum(self.in_emb[f](cur[:, j]) for j, f in enumerate(self.fields))
+            x = torch.cat([x, cond], dim=-1).unsqueeze(1)                       # (B, 1, *)
+            if self.hparams.decoder == "gru":
+                o, h = self.rnn(x, h)
+            else:
+                o, (h, c) = self.rnn(x, (h, c))
+            o = o[:, 0]
+            nxt = torch.empty(B, len(self.fields), dtype=torch.long, device=dev)
+            for j, f in enumerate(self.fields):
+                logit = self.heads[f](o)
+                nxt[:, j] = (torch.multinomial(torch.softmax(logit / temperature, -1), 1)[:, 0]
+                             if sample else logit.argmax(-1))
+            for b in range(B):
+                if done[b]:
+                    continue
+                if int(nxt[b, kind_pos]) == eos_kind:
+                    done[b] = True
+                else:
+                    outs[b].append(tuple(nxt[b].tolist()))
+            cur = nxt
+            if all(done):
+                break
+        if was_training:
+            self.train()
+        return outs
+
+    @torch.no_grad()
     def language_embeddings(self):
         """The learned z_language matrix (n_lang, d_lang); relatedness = its distances."""
         return self.lang_emb.weight.detach().cpu()
