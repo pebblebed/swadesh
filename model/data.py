@@ -133,36 +133,42 @@ def dedup_cells(examples):
     return out
 
 
-def split_examples(examples, val_frac=0.05, seed=0):
-    """Guarded, language-stratified train/val split of (language, concept) cells.
+def split_examples(examples, val_frac=0.05, test_frac=0.0, seed=0):
+    """Guarded, language-stratified train/val/test split of (language, concept) cells.
 
     The model is pure embedding lookups, so it has NO inductive path to an unseen
     language or concept (their embeddings would stay at random init). Hence the
-    only well-posed holdout is CELL completion: hold out ~val_frac of each
-    language's cells, but never the last cell of a language and never the last
-    train instance of a concept -- so every held cell's language AND concept
-    remain observed in train. Assumes deduped examples. Returns (train, val)."""
+    only well-posed holdout is CELL completion: hold out ~val_frac (+ ~test_frac)
+    of each language's cells, but never the last cell of a language and never the
+    last train instance of a concept -- so every held cell's language AND concept
+    remain observed in train. Assumes deduped examples. Returns (train, val, test)
+    (test is empty when test_frac == 0)."""
     by_lang = collections.defaultdict(list)
     for ex in examples:
         by_lang[ex[0]].append(ex)
     concept_train = collections.Counter(ex[1] for ex in examples)   # decremented as we hold out
     rng = random.Random(seed)
-    train, val = [], []
+    train, val, test = [], [], []
     for lang in sorted(by_lang):
         cells = by_lang[lang][:]
         rng.shuffle(cells)
-        n_hold = int(len(cells) * val_frac)                          # < len(cells) -> keeps >=1 in train
-        held = 0
+        n = len(cells)
+        n_val = int(n * val_frac)
+        n_test = int(n * test_frac)
+        if n_val + n_test > n - 1:                  # always keep >=1 cell in train
+            n_test = max(0, n - 1 - n_val)
+        hv = ht = 0
         for ex in cells:
-            if held < n_hold and concept_train[ex[1]] > 1:
-                val.append(ex)
-                held += 1
-                concept_train[ex[1]] -= 1
+            c = ex[1]
+            if hv < n_val and concept_train[c] > 1:
+                val.append(ex); hv += 1; concept_train[c] -= 1
+            elif ht < n_test and concept_train[c] > 1:
+                test.append(ex); ht += 1; concept_train[c] -= 1
             else:
                 train.append(ex)
     if not val and len(train) > 1:          # degenerate tiny input: force a non-empty val
         val.append(train.pop())
-    return train, val
+    return train, val, test
 
 
 def load_examples(path=DEFAULT_IPA, segments_fn=None, limit=None, max_len=32):
@@ -367,24 +373,25 @@ def _selftest():
         fails += 1
         print("FAIL seg_to_fields applicability")
 
-    # guarded split: no cold-start, no cell in both sides, deduped
+    # guarded 3-way split: no cold-start, partitions disjoint, deduped
     deduped = dedup_cells(synthetic_records(600, n_lang=15, n_concept=25, seed=2))
-    train, val = split_examples(deduped, val_frac=0.1, seed=2)
+    train, val, test = split_examples(deduped, val_frac=0.1, test_frac=0.1, seed=2)
     train_cells = {(e[0], e[1]) for e in train}
     val_cells = {(e[0], e[1]) for e in val}
+    test_cells = {(e[0], e[1]) for e in test}
     train_langs = {e[0] for e in train}
     train_concepts = {e[1] for e in train}
-    if train_cells & val_cells:
+    if train_cells & val_cells or train_cells & test_cells or val_cells & test_cells:
         fails += 1
-        print("FAIL split: a cell is in both train and val")
-    if not val:
+        print("FAIL split: partitions overlap")
+    if not val or not test:
         fails += 1
-        print("FAIL split: empty val")
-    cold = [(e[0], e[1]) for e in val
+        print("FAIL split: empty val/test")
+    cold = [(e[0], e[1]) for e in (val + test)
             if e[0] not in train_langs or e[1] not in train_concepts]
     if cold:
         fails += 1
-        print(f"FAIL split: {len(cold)} cold-start val cells (lang/concept not in train)")
+        print(f"FAIL split: {len(cold)} cold-start held cells (lang/concept not in train)")
     if len(dedup_cells(deduped)) != len(deduped):
         fails += 1
         print("FAIL dedup not idempotent")
@@ -403,10 +410,9 @@ def _selftest():
     if recon != enc:
         fails += 1
         print("FAIL encoded<->arrays round-trip")
-    vf = len(val) / (len(train) + len(val))
     print(f"data self-test: {'OK' if not fails else str(fails) + ' FAILED'} "
           f"({len(lang)} langs, {len(concept)} concepts, kind-vocab={len(fvocab['kind'])}; "
-          f"split {len(train)} train / {len(val)} val = {vf:.0%}, no cold-start)")
+          f"split {len(train)}/{len(val)}/{len(test)} train/val/test, no cold-start)")
     return fails
 
 

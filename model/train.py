@@ -21,6 +21,7 @@ if ROOT not in sys.path:
 import pytorch_lightning as pl  # noqa: E402
 import torch  # noqa: E402
 
+from model import tracking  # noqa: E402
 from model.data import synthetic_records  # noqa: E402
 from model.datamodule import SwadeshDataModule  # noqa: E402
 from model.decoder import ConditionalVocalicDecoder  # noqa: E402
@@ -52,6 +53,14 @@ def build_argparser():
     p.add_argument("--accelerator", default="auto",
                    help="PTL accelerator: auto|gpu|cpu (default auto -> GPU if present)")
     p.add_argument("--no-cache", action="store_true", help="bypass the encoded-tensor cache")
+    p.add_argument("--test-frac", type=float, default=0.05, help="held-out test fraction")
+    # MLflow tracking (mlflow.pbd.vc by default; smoke runs are never logged)
+    p.add_argument("--no-mlflow", action="store_true", help="disable MLflow logging")
+    p.add_argument("--mlflow-uri", default=None, help="tracking URI (default: house server)")
+    p.add_argument("--experiment", default=tracking.DEFAULT_EXPERIMENT)
+    p.add_argument("--run-name", default=None)
+    p.add_argument("--no-probe", action="store_true",
+                   help="skip the relatedness probe after training")
     return p
 
 
@@ -61,25 +70,54 @@ def main(argv=None):
 
     if args.smoke:
         dm = SwadeshDataModule(records=synthetic_records(300, n_lang=12, n_concept=20),
-                               batch_size=32, val_frac=0.1)
+                               batch_size=32, val_frac=0.1, test_frac=0.1)
+        logger = None                                    # smoke runs are never logged
         trainer = pl.Trainer(fast_dev_run=True, accelerator=args.accelerator, logger=False,
                              enable_checkpointing=False, enable_model_summary=False)
     else:
         dm = SwadeshDataModule(batch_size=args.batch_size, limit=args.limit,
-                               val_frac=args.val_frac, use_cache=not args.no_cache)
+                               val_frac=args.val_frac, test_frac=args.test_frac,
+                               use_cache=not args.no_cache)
+        logger = tracking.make_mlflow_logger(
+            stage="train", uri=args.mlflow_uri, experiment=args.experiment,
+            run_name=args.run_name, enabled=not args.no_mlflow)
+        if logger is not None:
+            print(f"mlflow: logging to {tracking.resolve_uri(args.mlflow_uri)} "
+                  f"(experiment '{args.experiment}')")
         trainer = pl.Trainer(max_epochs=args.max_epochs, accelerator=args.accelerator,
-                             devices="auto", logger=False, enable_checkpointing=False,
-                             log_every_n_steps=25)
+                             devices="auto", logger=logger or False,
+                             enable_checkpointing=False, log_every_n_steps=25)
 
     dm.setup()
     print(f"data [{dm.source}]: {dm.n_lang} languages, {dm.n_concept} concepts, "
           f"field sizes {dm.field_sizes}")
+    if logger is not None:
+        logger.log_hyperparams({
+            "n_lang": dm.n_lang, "n_concept": dm.n_concept, "batch_size": args.batch_size,
+            "val_frac": args.val_frac, "test_frac": args.test_frac, "max_len": dm.max_len,
+            "max_epochs": args.max_epochs, "data_source": dm.source,
+            "accelerator": str(trainer.strategy.root_device)})
     model = ConditionalVocalicDecoder(
         field_sizes=dm.field_sizes, n_lang=dm.n_lang, n_concept=dm.n_concept,
         d_lang=args.d_lang, d_concept=args.d_concept, hidden=args.hidden,
         layers=args.layers, lr=args.lr)
     trainer.fit(model, dm)
     print(f"trained on device: {trainer.strategy.root_device}")
+
+    # quantitative eval: relatedness probe -> log Spearman rho (before test/finalize)
+    if not args.smoke and not args.no_probe:
+        from model.eval import relatedness_report
+        rep = relatedness_report(model.language_embeddings().numpy(), dm.lang_vocab)
+        if logger is not None and rep.get("n_pairs"):
+            sc = rep["same_code_hits"] / rep["same_code_total"] if rep["same_code_total"] else 0.0
+            logger.log_metrics({"relatedness_rho": rep["rho"],
+                                "relatedness_n_lang": rep["n_lang"],
+                                "relatedness_n_pairs": rep["n_pairs"],
+                                "relatedness_same_code_acc": sc})
+
+    # test loss
+    if not args.smoke and len(dm.test_ds) > 0:
+        trainer.test(model, dm, verbose=True)
 
     z = model.language_embeddings()
     print(f"done. z_language matrix: {tuple(z.shape)}  (relatedness = distances here)")

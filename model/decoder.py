@@ -74,7 +74,10 @@ class ConditionalVocalicDecoder(pl.LightningModule):
             ce = F.cross_entropy(lg.reshape(-1, lg.size(-1)), tg.reshape(-1),
                                  reduction="none").view_as(m)
             total = total + (ce * m).sum() / n
-        self.log(f"{stage}_loss", total, prog_bar=True, batch_size=int(m.size(0)))
+        # train logs a live per-step curve + a per-epoch mean (-> train_loss_step /
+        # train_loss_epoch); val/test log a clean per-epoch val_loss / test_loss.
+        self.log(f"{stage}_loss", total, prog_bar=True, batch_size=int(m.size(0)),
+                 on_step=(stage == "train"), on_epoch=True)
         return total
 
     def training_step(self, batch, _):
@@ -82,6 +85,9 @@ class ConditionalVocalicDecoder(pl.LightningModule):
 
     def validation_step(self, batch, _):
         return self._step(batch, "val")
+
+    def test_step(self, batch, _):
+        return self._step(batch, "test")
 
     def configure_optimizers(self):
         return torch.optim.Adam(self.parameters(), lr=self.hparams.lr)

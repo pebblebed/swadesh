@@ -65,13 +65,14 @@ class SwadeshDataModule(pl.LightningDataModule):
     which ``field_sizes`` / ``n_lang`` / ``n_concept`` size the model."""
 
     def __init__(self, path=data.DEFAULT_IPA, records=None, batch_size=128,
-                 val_frac=0.05, limit=None, max_len=32, seed=0, num_workers=0,
-                 use_cache=True):
+                 val_frac=0.05, test_frac=0.05, limit=None, max_len=32, seed=0,
+                 num_workers=0, use_cache=True):
         super().__init__()
         self.path = path
         self.records = records
         self.batch_size = batch_size
         self.val_frac = val_frac
+        self.test_frac = test_frac
         self.limit = limit
         self.max_len = max_len
         self.seed = seed
@@ -95,9 +96,11 @@ class SwadeshDataModule(pl.LightningDataModule):
         arrays = (lang, concept, offsets, lengths, rows)
         # guarded split at runtime over example indices (cells already deduped)
         proxies = [(int(lang[k]), int(concept[k]), k) for k in range(len(lang))]
-        train_p, val_p = data.split_examples(proxies, self.val_frac, self.seed)
+        train_p, val_p, test_p = data.split_examples(
+            proxies, self.val_frac, self.test_frac, self.seed)
         self.train_ds = _ArrayDataset(arrays, [p[2] for p in train_p])
         self.val_ds = _ArrayDataset(arrays, [p[2] for p in val_p])
+        self.test_ds = _ArrayDataset(arrays, [p[2] for p in test_p])
         self.bos, self.eos, self.pad = data.special_tuples(self.fvocab)
         self.collate = make_collate(self.bos, self.eos, self.pad)
         self._ready = True
@@ -125,3 +128,6 @@ class SwadeshDataModule(pl.LightningDataModule):
 
     def val_dataloader(self):
         return self._loader(self.val_ds, False)
+
+    def test_dataloader(self):
+        return self._loader(self.test_ds, False)

@@ -73,6 +73,17 @@ layer, and keep outputs model-ready (clean aligned matrix; per-language inventor
   epoch full on GPU at 0.59 it/s): the per-batch collate fills field tensors element-by-element in
   python with num_workers=0 -> vectorize collate (build per-field tensors with torch ops / from the CSR
   arrays directly) and/or make collate a top-level picklable callable so num_workers>0 works on Windows.
+- [x] MLflow tracking to the house server. `model/tracking.py` make_mlflow_logger -> Lightning
+  MLFlowLogger; default tracking URI https://mlflow.pbd.vc (reachable, HTTP 200), experiment
+  swadesh-vocalic-decoder; dep mlflow-skinny. `model.train` (non-smoke) logs train_loss_step/_epoch,
+  val_loss, test_loss (NEW 3-way guarded split: split_examples now returns train/val/test, default
+  test_frac 0.05; decoder.test_step + trainer.test), the relatedness probe's relatedness_rho (+ n_lang/
+  n_pairs/same_code_acc), and hyperparams. Flags: --mlflow-uri/$MLFLOW_TRACKING_URI (local path/file:
+  URI for offline), --experiment, --run-name, --no-mlflow, --no-probe, --test-frac. Auth via standard
+  $MLFLOW_TRACKING_* env (never hardcoded). Smoke runs are never logged; model.eval stays a standalone
+  probe. VALIDATED against a local file store: run FINISHED with train_loss_epoch/val_loss/test_loss +
+  relatedness_rho + params all logged; data/eval/smoke self-tests green. NOTE the file backend is
+  deprecated (Feb 2026) but the house server uses a DB backend, so that warning is local-test only.
 
 ## In progress / done
 - [x] **Download the Swadesh lists** from the Rosetta collection on the Internet Archive.

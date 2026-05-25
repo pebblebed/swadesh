@@ -41,6 +41,17 @@ the local RTX driver/CUDA 13.1 runs the 12.8 runtime). Training uses Lightning's
 Force CPU with `--accelerator cpu`. On a fresh/CPU-only box, `uv sync` still installs the
 `cu128` wheel; it falls back to CPU at runtime if no GPU is present.
 
+**Tracking (MLflow).** `model.train` (non-smoke) logs to the house server
+`https://mlflow.pbd.vc` via Lightning's `MLFlowLogger` (experiment
+`swadesh-vocalic-decoder`): `train_loss_step/_epoch`, `val_loss`, `test_loss`, the
+relatedness probe's `relatedness_rho` (+ `n_lang`/`n_pairs`/`same_code_acc`), and the
+hyperparameters. Override with `--mlflow-uri` / `$MLFLOW_TRACKING_URI` (a local path or
+`file:` URI works for offline runs), `--experiment`, `--run-name`; disable with
+`--no-mlflow`; skip the probe with `--no-probe`. If the server needs auth, set the
+standard `$MLFLOW_TRACKING_USERNAME`/`$MLFLOW_TRACKING_PASSWORD` or
+`$MLFLOW_TRACKING_TOKEN` (never hardcoded). `model.eval` stays a standalone probe (no
+logging); `model.train` is the canonical logged pipeline (fit -> probe -> test).
+
 Source = `data/normalized/ipa.jsonl` (regenerate with `python scripts/to_ipa.py`);
 segments via `scripts/ipa_features.segments`. Skeleton status — wired + loss-decreasing;
 not yet tuned. Next: alignment/eval, the ASJP backbone head, and `z_language` readout.
