@@ -54,13 +54,27 @@ cosine slightly worse on val but **highest rho** (+0.391) — the guardrail is h
 (regularization improved relatedness too, rho ~0.35-0.39). Returns on pure
 regularization are shrinking; next, push capacity+reg together and probe architecture.
 
-## Round 3 — capacity + architecture (PENDING; launch after restart)
-Leaders are big-reg & drop-wd. Combine them, scale capacity, try a 2-layer LSTM and
-a GRU decoder (needs a `--decoder` knob, to add). Provisional:
+## Round 3 — capacity + architecture (DONE)
+Added a `--decoder lstm|gru` knob (commit d2b3c80). All: max_epochs 60, patience 8.
 
-| run | hypothesis | key args |
-|-----|-----------|----------|
-| r3-bigreg-wd | combine the two leaders | hidden 384, dropout 0.4, emb 0.15, adamw, wd 0.05 |
-| r3-xl | scale capacity + reg | hidden 512, dropout 0.4, emb 0.15, adamw, wd 0.03 |
-| r3-2layer | depth + inter-layer dropout | layers 2, hidden 256, dropout 0.3, emb 0.1, adamw, wd 0.02 |
-| r3-gru | GRU vs LSTM decoder | --decoder gru, hidden 256, dropout 0.3, emb 0.1, adamw, wd 0.02 |
+| run | key args | best_val | test | rho |
+|-----|----------|---------:|-----:|----:|
+| **r3-bigreg-wd** | hidden 384, dropout 0.4, emb 0.15, adamw, wd 0.05 | **5.648** | 5.709 | +0.359 |
+| r3-xl | hidden 512, dropout 0.4, emb 0.15, adamw, wd 0.03 | 5.684 | 5.730 | +0.286 |
+| r3-2layer | layers 2, hidden 256, dropout 0.3, emb 0.1, adamw, wd 0.02 | 5.705 | 5.801 | +0.306 |
+| r3-gru | --decoder gru, hidden 256, dropout 0.3, emb 0.1, adamw, wd 0.02 | 5.769 | 5.810 | +0.392 |
+
+Trajectory 5.743 -> 5.672 -> 5.648 (Δ shrinking). ARCHITECTURE SETTLED: 1-layer LSTM,
+hidden 384. h512 overshoots; depth (2-layer) hurts; GRU < LSTM. (r3-2layer's shell
+reported exit 127 but the run completed fine — spurious wrapper code, data is logged.)
+
+## Round 4 — fine-tune optimization + reg around the winner (running)
+Base = r3-bigreg-wd (h384, dropout 0.4, emb 0.15, adamw, wd 0.05). Probe LR/schedule
++ reg strength. All: round 4, max_epochs 80, patience 10, batch 512, hidden 384.
+
+| run | hypothesis | delta from base |
+|-----|-----------|------------------|
+| r4-cosine | cosine LR + warmup, peak lr 3e-3 | + lr_schedule cosine, warmup 0.05, lr 3e-3 |
+| r4-lr1e3 | lower, steadier LR | lr 1e-3 |
+| r4-wd0.1 | stronger L2 | weight_decay 0.1 |
+| r4-reg+ | push dropout/emb | dropout 0.45, emb_dropout 0.2 |
