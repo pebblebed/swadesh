@@ -38,13 +38,29 @@ via the MLflow client with run reactivation (PTL finalizes the run at fit-end an
 server drops late writes). Round 1 still rankable from the complete val_loss history;
 rho guardrail resumes round 2. (ad-hoc query scripts: prefix `PYTHONUTF8=1`.)
 
-## Round 2 — exploit the winner + optimization (running)
-Mutate r1-drop, combine with what else helped, probe strength/schedule/capacity.
-All: round 2, max_epochs 60, patience 8, batch 512.
+## Round 2 — exploit the winner + optimization (DONE)
+All: max_epochs 60, patience 8, batch 512. (test_loss + rho now logged after the fix.)
+
+| run | key args | best_val | test | rho |
+|-----|----------|---------:|-----:|----:|
+| **r2-big-reg** | hidden 384, dropout 0.4, emb 0.15, adamw, wd 0.02 | **5.672** | 5.716 | +0.348 |
+| r2-drop-wd | dropout 0.3, emb 0.1, adamw, wd 0.05 | 5.674 | 5.743 | +0.370 |
+| r2-drop-strong | dropout 0.5, emb 0.2 | 5.683 | – | +– |
+| r2-cosine | dropout 0.3, emb 0.1, adamw, cosine, warmup 0.05, lr 3e-3 | 5.709 | 5.756 | +0.391 |
+
+Takeaways: all 4 beat round 1 (5.743 -> ~5.67). Big-reg (more capacity + heavy
+dropout) ties drop+wd as the leaders; pushing dropout to 0.5 doesn't help past 0.3;
+cosine slightly worse on val but **highest rho** (+0.391) — the guardrail is healthy
+(regularization improved relatedness too, rho ~0.35-0.39). Returns on pure
+regularization are shrinking; next, push capacity+reg together and probe architecture.
+
+## Round 3 — capacity + architecture (PENDING; launch after restart)
+Leaders are big-reg & drop-wd. Combine them, scale capacity, try a 2-layer LSTM and
+a GRU decoder (needs a `--decoder` knob, to add). Provisional:
 
 | run | hypothesis | key args |
 |-----|-----------|----------|
-| r2-drop-wd | stack the two winners | dropout 0.3, emb 0.1, adamw, wd 0.05 |
-| r2-drop-strong | push regularization | dropout 0.5, emb 0.2 |
-| r2-cosine | better optimization trajectory | dropout 0.3, emb 0.1, adamw, cosine, warmup 0.05, lr 3e-3 |
-| r2-big-reg | more capacity + heavy reg | hidden 384, dropout 0.4, emb 0.15, adamw, wd 0.02 |
+| r3-bigreg-wd | combine the two leaders | hidden 384, dropout 0.4, emb 0.15, adamw, wd 0.05 |
+| r3-xl | scale capacity + reg | hidden 512, dropout 0.4, emb 0.15, adamw, wd 0.03 |
+| r3-2layer | depth + inter-layer dropout | layers 2, hidden 256, dropout 0.3, emb 0.1, adamw, wd 0.02 |
+| r3-gru | GRU vs LSTM decoder | --decoder gru, hidden 256, dropout 0.3, emb 0.1, adamw, wd 0.02 |
