@@ -99,9 +99,23 @@ test tracks val (no selection-overfit); rho rising. Still climbing -> push reg +
 ## Round 6 — push reg strength + LR + anneal (running)
 Base = r5-cos-both (h384, cosine, warmup 0.05, adamw). All: round 6, patience 12, batch 512.
 
-| run | key args | max_ep |
-|-----|----------|-------:|
-| r6-both-lr5e3 | wd 0.1, drop 0.45, emb 0.2, lr 5e-3 | 80 |
-| r6-reg++ | wd 0.15, drop 0.5, emb 0.25, lr 3e-3 | 80 |
-| r6-lr7e3 | wd 0.1, drop 0.45, emb 0.2, lr 7e-3 | 80 |
-| r6-fast-anneal | wd 0.1, drop 0.45, emb 0.2, lr 4e-3 | 40 (faster cosine) |
+| run | key args | best_val | test | rho |
+|-----|----------|---------:|-----:|----:|
+| **r6-lr7e3** | wd 0.1, drop 0.45, emb 0.2, lr 7e-3 | **5.452** | 5.527 | +0.338 |
+| r6-both-lr5e3 | wd 0.1, drop 0.45, emb 0.2, lr 5e-3 | 5.454 | 5.505 | +0.351 |
+| r6-fast-anneal | wd 0.1, drop 0.45, emb 0.2, lr 4e-3, 40ep | 5.464 | 5.578 | +0.355 |
+| r6-reg++ | wd 0.15, drop 0.5, emb 0.25, lr 3e-3 | 5.475 | 5.506 | +0.307 |
+
+5.509 -> 5.452 (Δ 0.057). LR still the live lever (7e-3 best). REG CEILING reached:
+reg++ worst + lowest rho -> sweet spot is dropout 0.45 / emb 0.2 / wd 0.1. WATCH: rho
+slowly declining (0.37 -> 0.34) as val drops -> val and the science metric diverging.
+
+## Round 7 — LR ceiling + batch scaling (running)
+Hold reg at sweet spot (drop 0.45, emb 0.2, wd 0.1), cosine. Push LR / batch. round 7.
+
+| run | key args |
+|-----|----------|
+| r7-lr1e2 | lr 1e-2 |
+| r7-lr1e2-warm | lr 1e-2, warmup 0.1, max_epochs 100 |
+| r7-bs1024 | batch 1024, lr 1e-2 |
+| r7-bs256 | batch 256, lr 4e-3 (smaller batch / more steps) |
