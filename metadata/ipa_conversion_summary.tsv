@@ -3,8 +3,9 @@ method	n_records
 native_ipa	145937
 light_ipa	93297
 practical	42874
-deferred_latin	7393
+deferred_latin	6300
 americanist	2936
+romance_g2p	1093
 deferred_native	827
 cyrillic_g2p	627
 slavic_g2p	361
@@ -27,6 +28,9 @@ light_ipa	medium	90961
 native_ipa	high	145937
 practical	low	1602
 practical	medium	41272
+romance_g2p	high	541
+romance_g2p	low	247
+romance_g2p	medium	305
 romanization	high	308
 romanization	medium	1
 slavic_g2p	high	361

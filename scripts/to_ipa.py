@@ -46,6 +46,7 @@ import light_ipa
 import native_g2p
 import pinyin_g2p
 import practical_g2p
+import romance_g2p
 import romanize
 import slavic_g2p
 import yiddish_g2p
@@ -65,6 +66,7 @@ ROM_REVIEW = os.path.join(ND, "ipa_romanization_review.tsv")
 CMN_REVIEW = os.path.join(ND, "ipa_cmn_review.tsv")
 YDD_REVIEW = os.path.join(ND, "ipa_yiddish_review.tsv")
 PRACTICAL_REVIEW = os.path.join(ND, "ipa_practical_review.tsv")
+ROMANCE_REVIEW = os.path.join(ND, "ipa_romance_review.tsv")
 SUMMARY = os.path.join(ROOT, "metadata", "ipa_conversion_summary.tsv")
 LIGHT_AMBIG = os.path.join(ROOT, "metadata", "light_ipa_ambiguity.tsv")
 PRACTICAL_REPORT = os.path.join(ROOT, "metadata", "practical_ortho_report.tsv")
@@ -89,6 +91,8 @@ NATIONAL = {"als", "arg", "cat", "dan", "deu", "epo", "eus", "fao", "fin", "fra"
             "kan", "krc", "nld", "pol", "por", "ron", "spa", "swe", "tur", "vie"}
 #   MAYAN -- distinct convention (x=ʃ, j=x, tz=t͡s, '=ejective, ·=length); future G2P.
 MAYAN = {"acr", "caa", "cac", "cak", "jac", "kek", "mam", "poc", "quc"}
+#   ROMANCE -- per-language G2P (scripts/romance_g2p.py); routed before the deferral.
+ROMANCE = {"spa", "ita", "por", "fra"}
 
 
 def is_cyrillic(t):
@@ -189,6 +193,7 @@ def main():
     romanization_review = []
     cmn_review = []
     yiddish_review = []
+    romance_review = []
     light_ambig = collections.defaultdict(collections.Counter)   # ident -> {ambig char: n}
     # ident -> [n_records, n_low (c/x/q/vowel-y), n_y_glide_fixed, n_j_passed]
     light_stats = collections.defaultdict(lambda: [0, 0, 0, 0])
@@ -292,6 +297,10 @@ def main():
                 st[3] += n_j
                 for c in ambiguous:
                     light_ambig[ident][c] += 1
+            elif system in ("latin_diacritic", "plain_ascii") and r["lang_code"] in ROMANCE:
+                ipa, conf = romance_g2p.to_ipa(t, r["lang_code"])   # spa/ita high, por med, fra low
+                method = "romance_g2p"
+                romance_review.append((ident, r["lang_code"], r["gloss"], t, ipa, ""))
             elif system in ("latin_diacritic", "plain_ascii") \
                     and r["lang_code"] not in NATIONAL and r["lang_code"] not in MAYAN:
                 resolve_y = ident not in y_vowel_lists
@@ -324,7 +333,8 @@ def main():
     for path, rows in ((REVIEW, review), (SLAVIC_REVIEW, slavic_review),
                        (NATIVE_REVIEW, native_review), (CYR_REVIEW, cyrillic_review),
                        (ROM_REVIEW, romanization_review), (CMN_REVIEW, cmn_review),
-                       (YDD_REVIEW, yiddish_review), (PRACTICAL_REVIEW, practical_review)):
+                       (YDD_REVIEW, yiddish_review), (PRACTICAL_REVIEW, practical_review),
+                       (ROMANCE_REVIEW, romance_review)):
         with open(path, "w", encoding="utf-8", newline="\n") as f:
             f.write("identifier\tlang_code\tgloss\ttranscription_norm\tipa\tresidual\n")
             for row in sorted(rows):
@@ -387,11 +397,13 @@ def main():
     print("methods:")
     for m, n in methods.most_common():
         print(f"  {m:<18}{n:>7}")
-    print(f"\nIPA populated now : {conv + methods['light_ipa'] + methods['practical']} records "
+    print(f"\nIPA populated now : "
+          f"{conv + methods['light_ipa'] + methods['practical'] + methods['romance_g2p']} records "
           f"({methods['americanist']} Americanist + {methods['slavic_g2p']} Slavic, Tier 1; "
           f"{methods['greek_g2p']} Greek + {methods['kana_g2p']} Kana + "
           f"{methods['cyrillic_g2p']} Cyrillic + {methods['romanization']} romanization + "
-          f"{methods['cmn']} Mandarin + {methods['yiddish_g2p']} Yiddish, Tier 2; "
+          f"{methods['cmn']} Mandarin + {methods['yiddish_g2p']} Yiddish + "
+          f"{methods['romance_g2p']} Romance, Tier 2; "
           f"{methods['light_ipa']} light_ipa + {methods['practical']} practical, Tier 3)")
     print(f"still deferred    : {methods['deferred_latin']} latin (national+Mayan) + "
           f"{methods['deferred_native']} native + {methods['empty']} empty")
