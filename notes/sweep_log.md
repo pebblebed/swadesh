@@ -113,9 +113,39 @@ slowly declining (0.37 -> 0.34) as val drops -> val and the science metric diver
 ## Round 7 — LR ceiling + batch scaling (running)
 Hold reg at sweet spot (drop 0.45, emb 0.2, wd 0.1), cosine. Push LR / batch. round 7.
 
-| run | key args |
-|-----|----------|
-| r7-lr1e2 | lr 1e-2 |
-| r7-lr1e2-warm | lr 1e-2, warmup 0.1, max_epochs 100 |
-| r7-bs1024 | batch 1024, lr 1e-2 |
-| r7-bs256 | batch 256, lr 4e-3 (smaller batch / more steps) |
+| run | key args | best_val | test | rho |
+|-----|----------|---------:|-----:|----:|
+| r7-lr1e2-warm | lr 1e-2, warmup 0.1, 100ep | 5.434 | 5.491 | +0.318 |
+| r7-bs256 | batch 256, lr 4e-3 | 5.436 | 5.499 | +0.345 |
+| r7-lr1e2 | lr 1e-2 | 5.441 | 5.523 | +0.322 |
+| r7-bs1024 | batch 1024, lr 1e-2 | 5.465 | 5.576 | +0.332 |
+
+5.452 -> 5.434 (Δ 0.018, shrinking) AND rho degrading (0.34 -> 0.32). PLATEAU: pushing
+val now trades off the relatedness metric. Stop.
+
+## CONCLUSION
+Trajectory (best val per round): 5.743 -> 5.672 -> 5.648 -> 5.585 -> 5.509 -> 5.452 ->
+5.434. Total Δ 0.309 (~5.4% relative) over 7 rounds / 28 configs; test tracks val
+throughout (no selection-overfit).
+
+What moved the needle, in order: (1) **regularization** — the overfit wanted heavy
+dropout 0.45 + emb_dropout 0.2 + weight_decay 0.1 (more than that underfits + hurts rho);
+(2) **cosine LR + warmup with a high peak (7e-3..1e-2)** — the single biggest jump
+(r3->r4, Δ0.063); (3) **capacity** sweet spot hidden 384 (128 underfits, 512 overshoots).
+Architecture settled: 1-layer LSTM (depth hurts, GRU < LSTM). Batch 256-512 ~ equal.
+
+RECOMMENDED RECIPE (val-optimal): 1-layer LSTM, hidden 384, d_lang=d_concept=64,
+dropout 0.45, emb_dropout 0.2, AdamW weight_decay 0.1, cosine LR + warmup, peak lr 1e-2,
+batch 512, ~50-70 epochs, early stop on val. -> best_val ~5.43, test ~5.49.
+
+SCIENCE-BALANCED PICK (val vs rho tradeoff): r5-cos-both / r6-both-lr5e3 (val 5.45-5.51,
+**rho 0.35-0.37** vs the val-winner's 0.32). Since the project goal is relatedness, prefer
+this regime: peak lr 5e-3 (not 1e-2), same reg, h384. Pushing LR past ~7e-3 buys tiny val
+at a real rho cost.
+
+Subjective eval (model/sample.py): the model learns each language's PHONOTACTICS
+(Tahitian comes out Tahitian-shaped; eye=mata exact) but not arbitrary lexemes; Mandarin
+underfits (101 cells, no tone field). Greedy decode of the heavily-regularized winner is
+a bland averager -> use temperature sampling / lower dropout for livelier generation.
+NEXT (open): IPA-ify the deferred national orthographies (spa/por/eng/...) + add a tone
+field to evaluate Mandarin properly; coherence constraint on the per-field heads.
