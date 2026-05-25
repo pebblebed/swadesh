@@ -42,6 +42,7 @@ import json
 import os
 
 import brahmic_g2p  # sibling modules in scripts/ (on sys.path when run as a script)
+import cmudict_eng
 import cyrillic_g2p
 import latin_g2p
 import light_ipa
@@ -221,7 +222,12 @@ def main():
             t = r["transcription_norm"]
             ipa, method, conf = "", "unconverted", ""
 
-            if not t:
+            if r["lang_code"] == "eng" and not t:        # gloss-only English -> CMUdict lookup
+                ipa, conf = cmudict_eng.to_ipa(r["gloss"])
+                method = "cmudict_eng" if ipa else "empty"
+                if ipa:
+                    latin_review.append((ident, "eng", r["gloss"], r["gloss"], ipa, ""))
+            elif not t:
                 method = "empty"
             elif system == "ipa_dense":
                 ipa, method, conf = t, "native_ipa", "high"
@@ -420,7 +426,7 @@ def main():
     for m, n in methods.most_common():
         print(f"  {m:<18}{n:>7}")
     print(f"\nIPA populated now : "
-          f"{conv + methods['light_ipa'] + methods['practical'] + methods['romance_g2p'] + methods['latin_g2p'] + methods['mayan_g2p'] + methods['brahmic_g2p']} records "
+          f"{conv + methods['light_ipa'] + methods['practical'] + methods['romance_g2p'] + methods['latin_g2p'] + methods['mayan_g2p'] + methods['brahmic_g2p'] + methods['cmudict_eng']} records "
           f"({methods['americanist']} Americanist + {methods['slavic_g2p']} Slavic, Tier 1; "
           f"{methods['greek_g2p']} Greek + {methods['kana_g2p']} Kana + "
           f"{methods['cyrillic_g2p']} Cyrillic + {methods['romanization']} romanization + "

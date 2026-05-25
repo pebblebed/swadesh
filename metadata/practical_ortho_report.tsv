@@ -66,7 +66,7 @@ rosettaproject_gvf_swadesh-1	gvf	39	0	0	0	0
 rosettaproject_gvr_swadesh-1	gvr	113	49	13	0	0	q:45 y:9
 rosettaproject_hil_swadesh-1	hil	210	0	17	0	0	
 rosettaproject_hmt_swadesh-1	hmt	120	32	26	1	33	q:30 y:1 c:1
-rosettaproject_iar_swadesh-1	iar	483	1	0	0	43	x:1 c:1
+rosettaproject_iar_swadesh-1	iar	483	1	0	0	43	c:1 x:1
 rosettaproject_ibu_swadesh-1	ibu	25	0	0	1	0	
 rosettaproject_idi_swadesh-1	idi	80	0	14	0	0	
 rosettaproject_jaq_swadesh-1	jaq	335	52	16	0	0	q:43 x:9

@@ -13,11 +13,12 @@ cyrillic_g2p	627
 slavic_g2p	361
 romanization	309
 brahmic_g2p	228
-empty	213
 yiddish_g2p	209
 greek_g2p	207
+cmudict_eng	207
 cmn	101
 kana_g2p	78
+empty	6
 
 method	confidence	n_records
 americanist	high	2600
@@ -25,6 +26,7 @@ americanist	medium	336
 brahmic_g2p	high	103
 brahmic_g2p	low	125
 cmn	high	101
+cmudict_eng	high	207
 cyrillic_g2p	high	627
 greek_g2p	high	207
 kana_g2p	high	78
