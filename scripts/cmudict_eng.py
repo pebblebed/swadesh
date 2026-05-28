@@ -64,7 +64,8 @@ _TESTS = [("dog", "dɔɡ"), ("water", "wɔtɝ"), ("two", "tu"), ("tooth", "tuθ"
 
 def selftest():
     if not available():
-        print("cmudict_eng self-test: SKIP (no data/external/cmudict.dict)")
+        print("cmudict_eng self-test: SKIP (no data/external/cmudict.dict; "
+              "run `python scripts/fetch_external.py`)")
         return 0
     fails = 0
     for src, want in _TESTS:

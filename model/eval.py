@@ -322,7 +322,7 @@ def main(argv=None):
     if os.path.exists(GLOTTOLOG):
         family_report(z, dm.lang_vocab)
     else:
-        print(f"\n(no {GLOTTOLOG}; download glottolog-cldf languages.csv there for the "
+        print(f"\n(no {GLOTTOLOG}; run `python scripts/fetch_external.py` for the "
               f"family eval)")
     return 0
 
